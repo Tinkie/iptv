@@ -13,8 +13,12 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68998?checkedby:iptvcat.com
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/249069?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV +",Sport TV +
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69000
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 1",Eleven Sports 1
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 1",Eleven Sports 1 FHD
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69004
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 1",Eleven Sports 1 HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69003
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 1",Eleven Sports 1
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69002
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 2",Eleven Sports 2
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69007
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 3",Eleven Sports 3
