@@ -55,26 +55,26 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48854
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48659
 #EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-name="Betis TV",Betis TV
 http://topstb.com:8000/50656250782258/27115840859269/236670?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/A6jB3Q7.png" group-title="Sport" tvg-name="Movistar Deportes",M+ Deportes 1
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/A6jB3Q7.png" group-title="Sport" tvg-id="movistardeportes1.es" tvg-name="Movistar Deportes",M+ Deportes 1
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48795
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/A6jB3Q7.png" group-title="Sport" tvg-name="Movistar Deportes",M+ Deportes 1 (Alt Source)
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/A6jB3Q7.png" group-title="Sport" tvg-id="movistardeportes1.es" tvg-name="Movistar Deportes",M+ Deportes 1 (Alt Source)
 http://red.ipfox.org:8080/osama2022/osama2023/47327?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/GsHKpfr.png" group-title="Sport" tvg-name="Movistar Deportes 1",M+ Deportes 2
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/GsHKpfr.png" group-title="Sport" tvg-id="movistardeportes2.es" tvg-name="Movistar Deportes 1",M+ Deportes 2
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48796
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/GsHKpfr.png" group-title="Sport" tvg-name="Movistar Deportes 1",M+ Deportes 2 (Alt Source)
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/GsHKpfr.png" group-title="Sport" tvg-id="movistardeportes2.es" tvg-name="Movistar Deportes 1",M+ Deportes 2 (Alt Source)
 http://red.ipfox.org:8080/osama2022/osama2023/47323?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/rg7lHMF.png" group-title="Sport" tvg-name="Movistar Deportes 2",M+ Deportes 3
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/rg7lHMF.png" group-title="Sport" tvg-id="movistardeportes3.es" tvg-name="Movistar Deportes 2",M+ Deportes 3
 http://red.ipfox.org:8080/osama2022/osama2023/47321?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/dAexwR0.png" group-title="Sport" tvg-name="Movistar Deportes 3",M+ Deportes 4
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/dAexwR0.png" group-title="Sport" tvg-id="movistardeportes4.es" tvg-name="Movistar Deportes 3",M+ Deportes 4
 http://red.ipfox.org:8080/osama2022/osama2023/47319?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/YgxYpU2.png" group-title="Sport" tvg-name="Movistar Deportes 4",M+ Deportes 5
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/YgxYpU2.png" group-title="Sport" tvg-id="movistardeportes5.es" tvg-name="Movistar Deportes 4",M+ Deportes 5
 http://red.ipfox.org:8080/osama2022/osama2023/47317?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="IT" tvg-logo="http://worldiptv.xyz/chlogos/Supertennis.png" group-title="Sport" tvg-name="Super Tennis",Super Tennis
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159574?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="IT" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Sport" tvg-name="Tennis Channel",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="US" tvg-id="tennischannel.us" tvg-name="Tennis Channel US" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzODk5MTkxMjg4OTE0/tennis-channel-logo-400x300jpg.jpg" group-title="Sport",Tennis Channel US
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8244
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Sport" tvg-name="Tennis Channel",Tennis Channel UK
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="TH" tvg-id="" tvg-name="True Tennis" tvg-logo="" group-title="Sport",True Tennis
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115805
 #EXTINF:-1 tvg-country="DE" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis" tvg-logo="" group-title="Sport",Sky Sport Tennis
