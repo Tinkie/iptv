@@ -43,8 +43,14 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69015
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68985
 #EXTINF:-1 tvg-id="abolatv.pt" tvg-logo="" group-title="Sport" tvg-name="A Bola TV",A Bola TV
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69019
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="PFC",PFC
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-name="PFC",Sportv
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69020
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-name="Sportv Premiere",Sportv 2
+http://top.streancdn.fun:80/0987654321/1234567890/2163190
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-name="Sportv Premiere",Sportv 2
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-name="Sportv Premiere",Sportv Premiere
+http://top.streancdn.fun:80/0987654321/1234567890/2163129
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-country="ES" tvg-logo="" group-title="Sport" tvg-name="Teledeporte",Teledeporte
 http://red.ipfox.org:8080/osama2022/osama2023/47372?checkedby:iptvcat.comv
 #EXTINF:-1 tvg-id="Gol.es" tvg-country="ES" tvg-logo="" group-title="Sport" tvg-name="Gol",Gol
@@ -71,6 +77,26 @@ http://red.ipfox.org:8080/osama2022/osama2023/47321?checkedby:iptvcat.com
 http://red.ipfox.org:8080/osama2022/osama2023/47319?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/YgxYpU2.png" group-title="Sport" tvg-id="movistardeportes5.es" tvg-name="Movistar Deportes 4",M+ Deportes 5
 http://red.ipfox.org:8080/osama2022/osama2023/47317?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://ia800808.us.archive.org/17/items/SkySPORT -AVDsPremierLeague_201708/sky%20SPORT -AVDs%20premier%20league.png" group-title="Sport" tvg-name="Sky Sport Premier League",Sky Sport Premier League
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161665
+#EXTINF:-1 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_SPORT -AVD_-_Logo_2017.svg/1280px-Rai_SPORT -AVD_-_Logo_2017.svg.png" group-title="Sport" tvg-name="RAI Sport +",RAI Sport +
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159562
+#EXTINF:-1 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_SPORT -AVD_-_Logo_2017.svg/1280px-Rai_SPORT -AVD_-_Logo_2017.svg.png" group-title="Sport" tvg-name="RAI Sport +",RAI Sport +
+http://cineapp.org:8000/Fernando/Fernando/1276
+#EXTINF:-1 tvg-country="IT" tvg-logo="https://image.emojisky.com/668/12236668-middle.png" group-title="Sport" tvg-name="RTV Sport",RTV Sport
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159564
+#EXTINF:-1 tvg-country="FR" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport.fr.png" group-title="Sport" tvg-name="Canal+ Sport",Canal+ Sport
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/55430
+#EXTINF:-1 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport.pl.png" group-title="Sport" tvg-name="Canal+ Sport 1",Canal+ Sport 1
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73662
+#EXTINF:-1 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport2.ke.png" group-title="Sport" tvg-name="Canal+ Sport 2",Canal+ Sport 2
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73664
+#EXTINF:-1 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport3.ke.png" group-title="Sport" tvg-name="Canal+ Sport 3",Canal+ Sport 3
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73765
+#EXTINF:-1 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport4.ke.png" group-title="Sport" tvg-name="Canal+ Sport 4",Canal+ Sport 4 
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73766
+#EXTINF:-1 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport4.ke.png" group-title="Sport" tvg-name="Canal+ Sport 5",Canal+ Sport 5
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73708
 #EXTINF:-1 tvg-country="IT" tvg-logo="http://worldiptv.xyz/chlogos/Supertennis.png" group-title="Sport" tvg-name="Super Tennis",Super Tennis
 http://cineapp.org:8000/Fernando/Fernando/5058?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="IT" tvg-logo="http://worldiptv.xyz/chlogos/Supertennis.png" group-title="Sport" tvg-name="Super Tennis",Super Tennis
@@ -87,6 +113,9 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8?checkedby:iptv
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="TH" tvg-id="" tvg-name="True Tennis" tvg-logo="" group-title="Sport",True Tennis
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115805
-#EXTINF:-1 tvg-country="DE" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis" tvg-logo="" group-title="Sport",Sky Sport Tennis
+#EXTINF:-1 tvg-country="DE" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" group-title="Sport",Sky Sport Tennis
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/347475
-
+#EXTINF:-1 tvg-country="DE" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" group-title="Sport",Sky Sport Tennis
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161774
+#EXTINF:-1 tvg-country="HU" tvg-logo="" group-title="SPORT HU",SPORT HU
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73633
