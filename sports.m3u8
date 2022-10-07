@@ -73,14 +73,16 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/47399
 http://red.ipfox.org:8080/Karam2022/Karam2023/47398
 #EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="Gol.es" tvg-name="Gol",Gol
 http://red.ipfox.org:8080/osama2022/osama2023/47399?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",Real Madrid TV
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48854
+#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Sport" tvg-name="Esport 3",Esport 3
+https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Sport" tvg-name="Esport 3",Esport 3
+https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
 http://93.152.174.144:4000/play/barcatv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48659
-#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-name="Betis TV",Betis TV
-http://topstb.com:8000/50656250782258/27115840859269/236670?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",Real Madrid TV
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48854
 #EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/A6jB3Q7.png" group-title="Sport" tvg-id="movistardeportes1.es" tvg-name="Movistar Deportes",M+ Deportes 1
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48795
 #EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/A6jB3Q7.png" group-title="Sport" tvg-id="movistardeportes1.es" tvg-name="Movistar Deportes",M+ Deportes 1
@@ -141,6 +143,10 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115805
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/347475
 #EXTINF:-1 tvg-country="DE" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" group-title="Sport" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis",Sky Sport Tennis
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161774
+#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/DwBdh1o.png" group-title="Sport" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71382
+#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/DwBdh1o.png" group-title="Sport" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71381
 #EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/DwBdh1o.png" group-title="Sport" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
 http://red.ipfox.org:8080/Karam2022/Karam2023/49180
 #EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/DwBdh1o.png" group-title="Sport" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
