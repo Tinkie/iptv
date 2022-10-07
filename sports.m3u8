@@ -43,18 +43,34 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69015
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68985
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="abolatv.pt" tvg-name="A Bola TV",A Bola TV
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69019
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
-http://top.streancdn.fun:80/0987654321/1234567890/2163195
 #EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-name="PFC",PFC
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69020
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
+http://top.streancdn.fun:80/0987654321/1234567890/2163129
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
+http://top.streancdn.fun:80/0987654321/1234567890/2163195
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
+http://top.ppvstream.fun:80/0987654321/1234567890/2163196
 #EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
 http://top.streancdn.fun:80/0987654321/1234567890/2163190
 #EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",SporTV Premiere
-http://top.streancdn.fun:80/0987654321/1234567890/2163129
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
+http://top.ppvstream.fun:80/0987654321/1234567890/2163190
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes
+http://top.ppvstream.fun:80/0987654321/1234567890/2163154
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes
+http://top.ppvstream.fun:80/0987654321/1234567890/2163155
+#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte
+http://red.ipfox.org:8080/Karam2022/Karam2023/47372
+#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte
+http://red.ipfox.org:8080/Karam2022/Karam2023/47371
 #EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte
 http://red.ipfox.org:8080/osama2022/osama2023/47372?checkedby:iptvcat.comv
+#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="Gol.es" tvg-name="Gol",Gol
+http://red.ipfox.org:8080/Karam2022/Karam2023/47399
+#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="Gol.es" tvg-name="Gol",Gol
+http://red.ipfox.org:8080/Karam2022/Karam2023/47398
 #EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="Gol.es" tvg-name="Gol",Gol
 http://red.ipfox.org:8080/osama2022/osama2023/47399?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",Real Madrid TV
@@ -119,10 +135,6 @@ http://vipiptv101.com:80/gencosman/020919.cvf/122390
 http://vipiptv101.com:80/gencosman/020919.cvf/129349
 #EXTINF:-1 tvg-country="UK" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Sport" tvg-name="Tennis Channel",Tennis Channel UK
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="ZA" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Tennis_4-3_xlrg.png" group-title="Sport" tvg-id="SuperSportTennis.za" tvg-name="SS Tennis Nigeria",Supersport Tennis
-http://vipiptv101.com:80/gencosman/020919.cvf/130668
-#EXTINF:-1 tvg-country="ZA" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Tennis_4-3_xlrg.png" group-title="Sport" tvg-id="SuperSportTennis.za" tvg-name="SS Tennis Nigeria",Supersport Tennis
-http://vipiptv101.com:80/gencosman/020919.cvf/130720
 #EXTINF:-1 tvg-country="TH" tvg-name="True Tennis" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.webp" group-title="Sport",True Tennis
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115805
 #EXTINF:-1 tvg-country="DE" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" group-title="Sport" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis",Sky Sport Tennis
@@ -130,5 +142,11 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/347475
 #EXTINF:-1 tvg-country="DE" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" group-title="Sport" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis",Sky Sport Tennis
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161774
 #EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/DwBdh1o.png" group-title="Sport" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
+http://red.ipfox.org:8080/Karam2022/Karam2023/49180
+#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/DwBdh1o.png" group-title="Sport" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
 http://vipiptv101.com:80/gencosman/020919.cvf/130430
+#EXTINF:-1 tvg-country="ZA" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Tennis_4-3_xlrg.png" group-title="Sport" tvg-id="SuperSportTennis.za" tvg-name="SS Tennis Nigeria",Supersport Tennis
+http://vipiptv101.com:80/gencosman/020919.cvf/130668
+#EXTINF:-1 tvg-country="ZA" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Tennis_4-3_xlrg.png" group-title="Sport" tvg-id="SuperSportTennis.za" tvg-name="SS Tennis Nigeria",Supersport Tennis
+http://vipiptv101.com:80/gencosman/020919.cvf/130720
 
