@@ -73,10 +73,6 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/47399
 http://red.ipfox.org:8080/Karam2022/Karam2023/47398
 #EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="Gol.es" tvg-name="Gol",Gol
 http://red.ipfox.org:8080/osama2022/osama2023/47399?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Sport" tvg-name="Esport 3",Esport 3
-https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
-#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Sport" tvg-name="Esport 3",Esport 3
-https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
 http://93.152.174.144:4000/play/barcatv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
