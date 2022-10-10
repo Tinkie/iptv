@@ -1,208 +1,208 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/raiplay.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz"
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV 1",Sport TV 1
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 1",Sport TV 1
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/170957
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV 1",Sport TV 1
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 1",Sport TV 1
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68988?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV 2",Sport TV 2
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 2",Sport TV 2
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/206
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV 2",Sport TV 2
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 2",Sport TV 2
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68991?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV 3",Sport TV 3
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 3",Sport TV 3
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/7688
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV 3",Sport TV 3
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 3",Sport TV 3
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68994?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV 4",Sport TV 4
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 4",Sport TV 4
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11073
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV 4",Sport TV 4
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 4",Sport TV 4
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68996?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV 5",Sport TV 5
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 5",Sport TV 5
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11074
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV 5",Sport TV 5
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 5",Sport TV 5
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68998?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV 6",Sport TV 6
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 6",Sport TV 6
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/249069?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sport TV +",Sport TV +
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV +",Sport TV +
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69000
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237022
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69004
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69003
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69002
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 2",Eleven Sports 2
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Eleven Sports 2",Eleven Sports 2
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237023
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 2",Eleven Sports 2
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Eleven Sports 2",Eleven Sports 2
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69007
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 3",Eleven Sports 3
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Eleven Sports 3",Eleven Sports 3
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237024
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 3",Eleven Sports 3
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Eleven Sports 3",Eleven Sports 3
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69010
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 4",Eleven Sports 4
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Eleven Sports 4",Eleven Sports 4
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237025
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 4",Eleven Sports 4
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Eleven Sports 4",Eleven Sports 4
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69011
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 5",Eleven Sports 5
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Eleven Sports 5",Eleven Sports 5
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237026
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 5",Eleven Sports 5
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Eleven Sports 5",Eleven Sports 5
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69012
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 6",Eleven Sports 6
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Eleven Sports 6",Eleven Sports 6
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/143
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Eleven Sports 6",Eleven Sports 6
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Eleven Sports 6",Eleven Sports 6
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69013
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="Eurosport1.fr" tvg-name="Eurosport 1",Eurosport 1
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="Eurosport1.fr" tvg-name="Eurosport 1",Eurosport 1
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159591?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="Eurosport1.fr" tvg-name="Eurosport 1",Eurosport 1
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="Eurosport1.fr" tvg-name="Eurosport 1",Eurosport 1
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69017
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="Eurosport2.fr" tvg-name="Eurosport 2",Eurosport 2
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="Eurosport2.fr" tvg-name="Eurosport 2",Eurosport 2
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159590?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="Eurosport2.fr" tvg-name="Eurosport 2",Eurosport 2
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="Eurosport2.fr" tvg-name="Eurosport 2",Eurosport 2
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69018
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="canal11.pt" tvg-name="Canal 11",Canal 11
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="canal11.pt" tvg-name="Canal 11",Canal 11
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/120
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="canal11.pt" tvg-name="Canal 11",Canal 11
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="canal11.pt" tvg-name="Canal 11",Canal 11
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="canal11.pt" tvg-name="Canal 11",Canal 11
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="canal11.pt" tvg-name="Canal 11",Canal 11
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69014
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="PortoCanal.pt" tvg-name="Porto Canal",Porto Canal
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="PortoCanal.pt" tvg-name="Porto Canal",Porto Canal
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/184
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="PortoCanal.pt" tvg-name="Porto Canal",Porto Canal
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="PortoCanal.pt" tvg-name="Porto Canal",Porto Canal
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69016
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-name="Sporting TV",Sporting TV
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sporting TV",Sporting TV
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69015
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="BenficaTV.pt" tvg-name="Benfica TV",Benfica TV
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="BenficaTV.pt" tvg-name="Benfica TV",Benfica TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11067
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="BenficaTV.pt" tvg-name="Benfica TV",Benfica TV
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="BenficaTV.pt" tvg-name="Benfica TV",Benfica TV
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68985
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="abolatv.pt" tvg-name="A Bola TV",A Bola TV
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="abolatv.pt" tvg-name="A Bola TV",A Bola TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11047
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Sport" tvg-id="abolatv.pt" tvg-name="A Bola TV",A Bola TV
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="abolatv.pt" tvg-name="A Bola TV",A Bola TV
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69019
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-name="PFC",PFC
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-name="PFC",PFC
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/182
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-name="PFC",PFC
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-name="PFC",PFC
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69020
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8016
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
 http://top.streancdn.fun:80/0987654321/1234567890/2163129
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
 http://top.streancdn.fun:80/0987654321/1234567890/2163195
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
 http://top.ppvstream.fun:80/0987654321/1234567890/2163196
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11819
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
 http://top.streancdn.fun:80/0987654321/1234567890/2163190
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
 http://top.ppvstream.fun:80/0987654321/1234567890/2163190
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="SporTV3.br" tvg-name="SporTV 3",SporTV 3
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-id="SporTV3.br" tvg-name="SporTV 3",SporTV 3
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11820
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes
 http://top.ppvstream.fun:80/0987654321/1234567890/2163154
-#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes
 http://top.ppvstream.fun:80/0987654321/1234567890/2163155
-#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte
+#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Deportivos" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte
 http://red.ipfox.org:8080/Karam2022/Karam2023/47372
-#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte
+#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Deportivos" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte
 http://red.ipfox.org:8080/Karam2022/Karam2023/47371
-#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte
+#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Deportivos" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte
 http://red.ipfox.org:8080/osama2022/osama2023/47372?checkedby:iptvcat.comv
-#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="Gol.es" tvg-name="Gol",Gol
+#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Deportivos" tvg-id="Gol.es" tvg-name="Gol",Gol
 http://red.ipfox.org:8080/Karam2022/Karam2023/47399
-#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="Gol.es" tvg-name="Gol",Gol
+#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Deportivos" tvg-id="Gol.es" tvg-name="Gol",Gol
 http://red.ipfox.org:8080/Karam2022/Karam2023/47398
-#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="Gol.es" tvg-name="Gol",Gol
+#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Deportivos" tvg-id="Gol.es" tvg-name="Gol",Gol
 http://red.ipfox.org:8080/osama2022/osama2023/47399?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
+#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Deportivos" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
 http://93.152.174.144:4000/play/barcatv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
+#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Deportivos" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48659
-#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Sport" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",Real Madrid TV
+#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Deportivos" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",Real Madrid TV
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48854
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/A6jB3Q7.png" group-title="Sport" tvg-id="movistardeportes1.es" tvg-name="Movistar Deportes",M+ Deportes 1
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/A6jB3Q7.png" group-title="Deportivos" tvg-id="movistardeportes1.es" tvg-name="Movistar Deportes",M+ Deportes 1
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48795
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/A6jB3Q7.png" group-title="Sport" tvg-id="movistardeportes1.es" tvg-name="Movistar Deportes",M+ Deportes 1
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/A6jB3Q7.png" group-title="Deportivos" tvg-id="movistardeportes1.es" tvg-name="Movistar Deportes",M+ Deportes 1
 http://red.ipfox.org:8080/osama2022/osama2023/47327?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/GsHKpfr.png" group-title="Sport" tvg-id="movistardeportes2.es" tvg-name="Movistar Deportes 1",M+ Deportes 2
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/GsHKpfr.png" group-title="Deportivos" tvg-id="movistardeportes2.es" tvg-name="Movistar Deportes 1",M+ Deportes 2
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48796
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/GsHKpfr.png" group-title="Sport" tvg-id="movistardeportes2.es" tvg-name="Movistar Deportes 1",M+ Deportes 2
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/GsHKpfr.png" group-title="Deportivos" tvg-id="movistardeportes2.es" tvg-name="Movistar Deportes 1",M+ Deportes 2
 http://red.ipfox.org:8080/osama2022/osama2023/47323?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/rg7lHMF.png" group-title="Sport" tvg-id="movistardeportes3.es" tvg-name="Movistar Deportes 2",M+ Deportes 3
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/rg7lHMF.png" group-title="Deportivos" tvg-id="movistardeportes3.es" tvg-name="Movistar Deportes 2",M+ Deportes 3
 http://red.ipfox.org:8080/osama2022/osama2023/47321?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/dAexwR0.png" group-title="Sport" tvg-id="movistardeportes4.es" tvg-name="Movistar Deportes 3",M+ Deportes 4
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/dAexwR0.png" group-title="Deportivos" tvg-id="movistardeportes4.es" tvg-name="Movistar Deportes 3",M+ Deportes 4
 http://red.ipfox.org:8080/osama2022/osama2023/47319?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/YgxYpU2.png" group-title="Sport" tvg-id="movistardeportes5.es" tvg-name="Movistar Deportes 4",M+ Deportes 5
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.imgur.com/YgxYpU2.png" group-title="Deportivos" tvg-id="movistardeportes5.es" tvg-name="Movistar Deportes 4",M+ Deportes 5
 http://red.ipfox.org:8080/osama2022/osama2023/47317?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/512px-Rai_Sport_-_Logo_2017.svg.png" group-title="Sport" tvg-id="RaiSport.it" tvg-name="Rai Sport",RAI Sport
+#EXTINF:-1 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/512px-Rai_Sport_-_Logo_2017.svg.png" group-title="Deportivos" tvg-id="RaiSport.it" tvg-name="Rai Sport",RAI Sport
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/309567
-#EXTINF:-1 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rai_Sport_%2B_HD_-_Logo_2017.svg/512px-Rai_Sport_%2B_HD_-_Logo_2017.svg.png" group-title="Sport" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport +
+#EXTINF:-1 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rai_Sport_%2B_HD_-_Logo_2017.svg/512px-Rai_Sport_%2B_HD_-_Logo_2017.svg.png" group-title="Deportivos" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport +
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/6550
-#EXTINF:-1 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rai_Sport_%2B_HD_-_Logo_2017.svg/512px-Rai_Sport_%2B_HD_-_Logo_2017.svg.png" group-title="Sport" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport +
+#EXTINF:-1 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rai_Sport_%2B_HD_-_Logo_2017.svg/512px-Rai_Sport_%2B_HD_-_Logo_2017.svg.png" group-title="Deportivos" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport +
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159562
-#EXTINF:-1 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rai_Sport_%2B_HD_-_Logo_2017.svg/512px-Rai_Sport_%2B_HD_-_Logo_2017.svg.png" group-title="Sport" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport +
+#EXTINF:-1 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rai_Sport_%2B_HD_-_Logo_2017.svg/512px-Rai_Sport_%2B_HD_-_Logo_2017.svg.png" group-title="Deportivos" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport +
 http://cineapp.org:8000/Fernando/Fernando/1276
-#EXTINF:-1 tvg-country="IT" tvg-logo="https://image.emojisky.com/668/12236668-middle.png" group-title="Sport" tvg-name="RTV Sport",RTV Sport
+#EXTINF:-1 tvg-country="IT" tvg-logo="https://image.emojisky.com/668/12236668-middle.png" group-title="Deportivos" tvg-name="RTV Sport",RTV Sport
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159564
-#EXTINF:-1 tvg-country="DE" tvg-logo="https://ia800808.us.archive.org/17/items/SkySPORT -AVDsPremierLeague_201708/sky%20SPORT -AVDs%20premier%20league.png" group-title="Sport" tvg-name="Sky Sport Premier League",Sky Sport Premier League
+#EXTINF:-1 tvg-country="DE" tvg-logo="https://ia800808.us.archive.org/17/items/SkySPORT -AVDsPremierLeague_201708/sky%20SPORT -AVDs%20premier%20league.png" group-title="Deportivos" tvg-name="Sky Sport Premier League",Sky Sport Premier League
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161665
-#EXTINF:-1 tvg-country="FR" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport.fr.png" group-title="Sport" tvg-name="Canal+ Sport",Canal+ Sport
+#EXTINF:-1 tvg-country="FR" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport.fr.png" group-title="Deportivos" tvg-name="Canal+ Sport",Canal+ Sport
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/55430
-#EXTINF:-1 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport.pl.png" group-title="Sport" tvg-name="Canal+ Sport 1",Canal+ Sport 1
+#EXTINF:-1 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport.pl.png" group-title="Deportivos" tvg-name="Canal+ Sport 1",Canal+ Sport 1
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73662
-#EXTINF:-1 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport2.ke.png" group-title="Sport" tvg-name="Canal+ Sport 2",Canal+ Sport 2
+#EXTINF:-1 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport2.ke.png" group-title="Deportivos" tvg-name="Canal+ Sport 2",Canal+ Sport 2
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73664
-#EXTINF:-1 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport3.ke.png" group-title="Sport" tvg-name="Canal+ Sport 3",Canal+ Sport 3
+#EXTINF:-1 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport3.ke.png" group-title="Deportivos" tvg-name="Canal+ Sport 3",Canal+ Sport 3
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73765
-#EXTINF:-1 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport4.ke.png" group-title="Sport" tvg-name="Canal+ Sport 4",Canal+ Sport 4 
+#EXTINF:-1 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport4.ke.png" group-title="Deportivos" tvg-name="Canal+ Sport 4",Canal+ Sport 4 
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73766
-#EXTINF:-1 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport4.ke.png" group-title="Sport" tvg-name="Canal+ Sport 5",Canal+ Sport 5
+#EXTINF:-1 tvg-country="PL" tvg-logo="http://worldiptv.xyz/chlogos/CanalPlusSport4.ke.png" group-title="Deportivos" tvg-name="Canal+ Sport 5",Canal+ Sport 5
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73708
-#EXTINF:-1 tvg-country="IT" tvg-logo="http://worldiptv.xyz/chlogos/Supertennis.png" group-title="Sport" tvg-name="Super Tennis",Super Tennis
+#EXTINF:-1 tvg-country="IT" tvg-logo="http://worldiptv.xyz/chlogos/Supertennis.png" group-title="Deportivos" tvg-name="Super Tennis",Super Tennis
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/6568
-#EXTINF:-1 tvg-country="IT" tvg-logo="http://worldiptv.xyz/chlogos/Supertennis.png" group-title="Sport" tvg-name="Super Tennis",Super Tennis
+#EXTINF:-1 tvg-country="IT" tvg-logo="http://worldiptv.xyz/chlogos/Supertennis.png" group-title="Deportivos" tvg-name="Super Tennis",Super Tennis
 http://vipiptv101.com:80/gencosman/020919.cvf/122353
-#EXTINF:-1 tvg-country="IT" tvg-logo="http://worldiptv.xyz/chlogos/Supertennis.png" group-title="Sport" tvg-name="Super Tennis",Super Tennis
+#EXTINF:-1 tvg-country="IT" tvg-logo="http://worldiptv.xyz/chlogos/Supertennis.png" group-title="Deportivos" tvg-name="Super Tennis",Super Tennis
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159574?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="IT" tvg-logo="http://worldiptv.xyz/chlogos/Supertennis.png" group-title="Sport" tvg-name="Super Tennis",Super Tennis
+#EXTINF:-1 tvg-country="IT" tvg-logo="http://worldiptv.xyz/chlogos/Supertennis.png" group-title="Deportivos" tvg-name="Super Tennis",Super Tennis
 http://cineapp.org:8000/Fernando/Fernando/5058?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="US" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Sport" tvg-id="tennischannel.us" tvg-name="Tennis Channel",Tennis Channel US
+#EXTINF:-1 tvg-country="US" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Deportivos" tvg-id="tennischannel.us" tvg-name="Tennis Channel",Tennis Channel US
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8244
-#EXTINF:-1 tvg-country="UK" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Sport" tvg-name="Tennis Channel INT",Tennis Channel INT
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Deportivos" tvg-name="Tennis Channel INT",Tennis Channel INT
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159575?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="UK" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Sport" tvg-name="Tennis Channel INT",Tennis Channel INT
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Deportivos" tvg-name="Tennis Channel INT",Tennis Channel INT
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="UK" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Sport" tvg-name="Tennis Channel INT",Tennis Channel INT
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Deportivos" tvg-name="Tennis Channel INT",Tennis Channel INT
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="UK" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Sport" tvg-name="Tennis Channel INT",Tennis Channel INT
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Deportivos" tvg-name="Tennis Channel INT",Tennis Channel INT
 http://vipiptv101.com:80/gencosman/020919.cvf/122390
-#EXTINF:-1 tvg-country="UK" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Sport" tvg-name="Tennis Channel INT",Tennis Channel INT
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Deportivos" tvg-name="Tennis Channel INT",Tennis Channel INT
 http://vipiptv101.com:80/gencosman/020919.cvf/129349
-#EXTINF:-1 tvg-country="DE" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Sport" tvg-name="Tennis Channel DE",Tennis Channel DE
+#EXTINF:-1 tvg-country="DE" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Deportivos" tvg-name="Tennis Channel DE",Tennis Channel DE
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TH" tvg-name="True Tennis" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.webp" group-title="Sport",True Tennis
+#EXTINF:-1 tvg-country="TH" tvg-name="True Tennis" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.webp" group-title="Deportivos",True Tennis
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115805
-#EXTINF:-1 tvg-country="DE" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" group-title="Sport" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis",Sky Sport Tennis
+#EXTINF:-1 tvg-country="DE" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" group-title="Deportivos" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis",Sky Sport Tennis
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/395395
-#EXTINF:-1 tvg-country="DE" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" group-title="Sport" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis",Sky Sport Tennis
+#EXTINF:-1 tvg-country="DE" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" group-title="Deportivos" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis",Sky Sport Tennis
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/347475
-#EXTINF:-1 tvg-country="DE" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" group-title="Sport" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis",Sky Sport Tennis
+#EXTINF:-1 tvg-country="DE" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" group-title="Deportivos" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis",Sky Sport Tennis
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161774
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/DwBdh1o.png" group-title="Sport" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
+#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/DwBdh1o.png" group-title="Deportivos" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
 http://red.ipfox.org:8080/Karam2022/Karam2023/49180
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/DwBdh1o.png" group-title="Sport" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
+#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/DwBdh1o.png" group-title="Deportivos" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71382
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/DwBdh1o.png" group-title="Sport" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
+#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/DwBdh1o.png" group-title="Deportivos" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71381
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/DwBdh1o.png" group-title="Sport" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
+#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/DwBdh1o.png" group-title="Deportivos" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
 http://vipiptv101.com:80/gencosman/020919.cvf/130430
-#EXTINF:-1 tvg-country="ZA" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Tennis_4-3_xlrg.png" group-title="Sport" tvg-id="SuperSportTennis.za" tvg-name="SS Tennis Nigeria",Supersport Tennis
+#EXTINF:-1 tvg-country="ZA" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Tennis_4-3_xlrg.png" group-title="Deportivos" tvg-id="SuperSportTennis.za" tvg-name="SS Tennis Nigeria",Supersport Tennis
 http://vipiptv101.com:80/gencosman/020919.cvf/130668
-#EXTINF:-1 tvg-country="ZA" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Tennis_4-3_xlrg.png" group-title="Sport" tvg-id="SuperSportTennis.za" tvg-name="SS Tennis Nigeria",Supersport Tennis
+#EXTINF:-1 tvg-country="ZA" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Tennis_4-3_xlrg.png" group-title="Deportivos" tvg-id="SuperSportTennis.za" tvg-name="SS Tennis Nigeria",Supersport Tennis
 http://vipiptv101.com:80/gencosman/020919.cvf/130720
-#EXTINF:-1 tvg-country="FR" tvg-logo="" group-title="Sport" tvg-id="" tvg-name="ATP Tennis",ATP Tennis
+#EXTINF:-1 tvg-country="FR" tvg-logo="" group-title="Deportivos" tvg-id="" tvg-name="ATP Tennis",ATP Tennis
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/311067
 
