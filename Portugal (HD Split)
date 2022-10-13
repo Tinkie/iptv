@@ -1,0 +1,289 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/raiplay.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="RTP 1" tvg-logo="https://4.bp.blogspot.com/-gX-Krhe_vAU/WB3MK3D8H7I/AAAAAAAAFRo/ETXZYgFgn0oMP09hPyGX2UtZMTuQ5-0yACLcB/s1600/RTP%2B1%2BHD.png" group-title="Portugal",RTP 1 ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87285.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 1" tvg-logo="https://4.bp.blogspot.com/-gX-Krhe_vAU/WB3MK3D8H7I/AAAAAAAAFRo/ETXZYgFgn0oMP09hPyGX2UtZMTuQ5-0yACLcB/s1600/RTP%2B1%2BHD.png" group-title="Portugal",RTP 1
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87304.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2" tvg-logo="https://i.imgur.com/2EZ0n9k.png" group-title="Portugal",RTP 2 ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87286.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2" tvg-logo="https://i.imgur.com/2EZ0n9k.png" group-title="Portugal",RTP 2
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87305.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 3" tvg-logo="https://i.imgur.com/C8Ea8Qo.png" group-title="Portugal",RTP 3 ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87441.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 3" tvg-logo="https://i.imgur.com/C8Ea8Qo.png" group-title="Portugal",RTP 3
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87456.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP Açores" tvg-logo="https://i.imgur.com/b1WlSga.png" group-title="Portugal",RTP Açores
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87460.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP Madeira" tvg-logo="https://i.imgur.com/biftZkE.png" group-title="Portugal",RTP Madeira
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87459.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP Memória" tvg-logo="https://i.imgur.com/g8QD0Wi.png" group-title="Portugal",RTP Memória
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87322.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP Internacional" tvg-logo="http://noz.ddns.net/picons/rtpinternacional.png" group-title="Portugal",RTP Internacional ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87301.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP África" tvg-logo="https://i.imgur.com/mqvZizB.png" group-title="Portugal",RTP África
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87310.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP Arena" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2019/04/rtpArena_vertical_positivo.png" group-title="Portugal",RTP Arena
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87433.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC" tvg-logo="https://i.imgur.com/EMDC3ua.png" group-title="Portugal",SIC ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87287.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC" tvg-logo="https://i.imgur.com/EMDC3ua.png" group-title="Portugal",SIC
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87306.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Notícias" tvg-logo="https://i.imgur.com/xmMGkDV.png" group-title="Portugal",SIC Notícias ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87440.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Notícias" tvg-logo="https://i.imgur.com/xmMGkDV.png" group-title="Portugal",SIC Notícias
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87455.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Radical" tvg-logo="https://i.imgur.com/fMmkd18.png" group-title="Portugal",SIC Radical ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87295.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Radical" tvg-logo="https://i.imgur.com/fMmkd18.png" group-title="Portugal",SIC Radical
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87324.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Mulher" tvg-logo="https://i.imgur.com/w6iS3zj.png" group-title="Portugal",SIC Mulher ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87290.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Mulher" tvg-logo="https://i.imgur.com/w6iS3zj.png" group-title="Portugal",SIC Mulher
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87312.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Caras" tvg-logo="https://i.imgur.com/GuA8Lor.png" group-title="Portugal",SIC Caras ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87297.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Caras" tvg-logo="https://i.imgur.com/GuA8Lor.png" group-title="Portugal",SIC Caras
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87329.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC OPTO" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/10/logo-opto-com-base-roxa-1.png" group-title="Portugal",SIC OPTO
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87311.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Internacional" tvg-logo="http://noz.ddns.net/picons/sicinternacional.png" group-title="Portugal",SIC Internacional ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87302.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI" tvg-logo="https://i.imgur.com/DpFBdcI.png" group-title="Portugal",TVI ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87288.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI" tvg-logo="https://i.imgur.com/DpFBdcI.png" group-title="Portugal",TVI
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87307.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI 24" tvg-logo="https://i.imgur.com/9Y20srP.png" group-title="Portugal",TVI 24 ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87442.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI 24" tvg-logo="https://i.imgur.com/9Y20srP.png" group-title="Portugal",TVI 24
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87457.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Ficção" tvg-logo="https://i.imgur.com/zLiczMu.png" group-title="Portugal",TVI Ficção ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87293.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Ficção" tvg-logo="https://i.imgur.com/zLiczMu.png" group-title="Portugal",TVI Ficção
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87315.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/99/TVI_Internacional_logo_2017.png" group-title="Portugal",TVI Internacional
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87334.ts
+#EXTINF:-1 tvg-id="" tvg-name="CM TV" tvg-logo="https://i.imgur.com/AayB20F.png" group-title="Portugal",CM TV ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87443.ts
+#EXTINF:-1 tvg-id="" tvg-name="CM TV" tvg-logo="https://i.imgur.com/AayB20F.png" group-title="Portugal",CM TV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87458.ts
+#EXTINF:-1 tvg-id="" tvg-name="EuroNews" tvg-logo="" group-title="Portugal",EuroNews
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87434.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Q" tvg-logo="https://i.imgur.com/eJDiUmW.png" group-title="Portugal",Canal Q
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87323.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa e Cozinha" tvg-logo="https://imgur.com/tOdrDOX.png" group-title="Portugal",Casa e Cozinha ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87439.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Kitchen" tvg-logo="https://i.imgur.com/pHeN8Sp.png" group-title="Portugal",24 Kitchen ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87437.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://i.imgur.com/hNK3AMk.png" group-title="Portugal",TLC
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87450.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR TV Canal Parlamento" tvg-logo="https://i.imgur.com/7sndc9t.png" group-title="Portugal",ARTV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87461.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TCV" tvg-logo="https://iconape.com/wp-content/png_logo_vector/tcv-logo.png" group-title="Portugal",TCV Internacional
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87335.ts
+#EXTINF:-1 tvg-id="" tvg-name="TPA" tvg-logo="https://cunhadigital.com//Picons/TPA_Internacional.png" group-title="Portugal",TPA Internacional
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87340.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZAP Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" group-title="Portugal",ZAP Viva ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87303.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Rede_Globo_2014.png/170px-Rede_Globo_2014.png" group-title="Portugal",Globo ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87291.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Rede_Globo_2014.png/170px-Rede_Globo_2014.png" group-title="Portugal",Globo
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87313.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo News" tvg-logo="https://globointernacional.globo.com/PublishingImages/Logos/Globo-PTP-HD-Valendo.png" group-title="Portugal",Globo News ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87292.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/150px-Globo_logo_and_wordmark.svg.png" group-title="Portugal",Globo News
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87314.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="Portugal",Record TV ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87298.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="Portugal",Record TV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87331.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="https://www.simnoticias.com.br/wp-content/uploads/2021/05/RECORD-NEWS.png" group-title="Portugal",Record News
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87462.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kuriakos TV" tvg-logo="https://i.imgur.com/2u9E8Zj.png" group-title="Portugal",Kuriakos TV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87451.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NOS Studios" tvg-logo="https://cunhadigital.com/Picons/NOS_Studios_nos.png" group-title="Portugal",NOS Studios ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87345.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOS Studios" tvg-logo="https://cunhadigital.com/Picons/NOS_Studios_nos.png" group-title="Portugal",NOS Studios
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87362.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Hollywood" tvg-logo="https://i.imgur.com/1C9XGK2.png" group-title="Portugal",Hollywood ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87346.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Hollywood" tvg-logo="https://i.imgur.com/1C9XGK2.png" group-title="Portugal",Hollywood
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87363.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Top" tvg-logo="https://imgur.com/UaB2bWc.png" group-title="Portugal",TVCine Top ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87347.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Top" tvg-logo="https://imgur.com/UaB2bWc.png" group-title="Portugal",TVCine Top
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87364.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Action" tvg-logo="https://imgur.com/wA9hHzy.png" group-title="Portugal",TVCine Action ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87350.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Action" tvg-logo="https://imgur.com/wA9hHzy.png" group-title="Portugal",TVCine Action
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87367.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Edition" tvg-logo="https://imgur.com/Te93RQl.png" group-title="Portugal",TVCine Edition ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87348.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Edition" tvg-logo="https://imgur.com/Te93RQl.png" group-title="Portugal",TVCine Edition
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87365.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Emotion" tvg-logo="https://imgur.com/SZJ2GW7.png" group-title="Portugal",TVCine Emotion ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87349.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Emotion" tvg-logo="https://imgur.com/SZJ2GW7.png" group-title="Portugal",TVCine Emotion
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87366.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Movies" tvg-logo="https://i.imgur.com/xVGDkgJ.png" group-title="Portugal",FOX Movies ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87351.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Movies" tvg-logo="https://i.imgur.com/xVGDkgJ.png" group-title="Portugal",FOX Movies
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87368.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Mundo" tvg-logo="https://i.imgur.com/aGQHGex.png" group-title="Portugal",Cine Mundo ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87352.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Mundo" tvg-logo="https://i.imgur.com/aGQHGex.png" group-title="Portugal",Cine Mundo
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87369.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://i.imgur.com/nmacEAl.png" group-title="Portugal",AMC ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87353.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://i.imgur.com/nmacEAl.png" group-title="Portugal",AMC
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87370.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN Movies" tvg-logo="https://i.imgur.com/TbjlC8I.png" group-title="Portugal",AXN Movies ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87354.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN Movies" tvg-logo="https://i.imgur.com/TbjlC8I.png" group-title="Portugal",AXN Movies
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87371.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://i.imgur.com/4PZLf1f.png" group-title="Portugal",AXN ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87359.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://i.imgur.com/4PZLf1f.png" group-title="Portugal",AXN
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87376.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN White" tvg-logo="https://i.imgur.com/jSRJQsS.png" group-title="Portugal",AXN White ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87360.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN White" tvg-logo="https://i.imgur.com/jSRJQsS.png" group-title="Portugal",AXN White
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87377.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://i.imgur.com/vidpBU7.png" group-title="Portugal",FOX ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87355.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://i.imgur.com/vidpBU7.png" group-title="Portugal",FOX
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87372.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Life" tvg-logo="https://i.imgur.com/apSexu7.png" group-title="Portugal",FOX Life ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87356.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Life" tvg-logo="https://i.imgur.com/apSexu7.png" group-title="Portugal",FOX Life
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87373.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Crime" tvg-logo="https://i.imgur.com/DE2kooo.png" group-title="Portugal",FOX Crime ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87357.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Crime" tvg-logo="https://i.imgur.com/DE2kooo.png" group-title="Portugal",FOX Crime
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87374.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy" tvg-logo="https://i.imgur.com/DE2kooo.png" group-title="Portugal",FOX Comedy ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87358.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy" tvg-logo="https://i.imgur.com/DE2kooo.png" group-title="Portugal",FOX Comedy
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87375.ts
+#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://i.imgur.com/LFJUAvx.png" group-title="Portugal",Syfy ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87361.ts
+#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://i.imgur.com/LFJUAvx.png" group-title="Portugal",Syfy
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87378.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-logo="https://i.imgur.com/mzXOExN.png" group-title="Portugal",Travel Channel ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87300.ts
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-logo="https://i.imgur.com/mzXOExN.png" group-title="Portugal",Travel Channel
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87332.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://i.imgur.com/hUN2dIl.png" group-title="Portugal",Food Network ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87299.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/8WeSixG.png" group-title="Portugal",National Geographic ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87435.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/8WeSixG.png" group-title="Portugal",National Geographic
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87448.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild" tvg-logo="https://i.imgur.com/wOKc3lV.png" group-title="Portugal",National Geographic Wild
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87449.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel [Backups]" tvg-logo="https://i.imgur.com/3gFEscm.png" group-title="Portugal",Discovery Channel
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87444.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/3gFEscm.png" group-title="Portugal",Discovery Channel
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87445.ts
+#EXTINF:-1 tvg-id="" tvg-name="Odisseia" tvg-logo="https://i.imgur.com/OpThuq9.png" group-title="Portugal",Odisseia
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87447.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal História" tvg-logo="https://i.imgur.com/nIjvL8O.png" group-title="Portugal",Canal História
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87446.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional" tvg-logo="https://cunhadigital.com//Picons/TVE_24h.png" group-title="Portugal",TVE Internacional
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87466.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional" tvg-logo="https://cunhadigital.com//Picons/TVE_24h.png" group-title="Portugal",TVE Internacional
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87341.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cubavisión Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CUBAVISION_2017.png" group-title="Portugal",Cubavisión Internacional
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87336.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC Entertainment" tvg-logo="https://i.pinimg.com/originals/46/08/ec/4608ec8613bc216f5ccc608ca7c7a0d5.png" group-title="Portugal",BBC Entertainment
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87337.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Europe" tvg-logo="https://cunhadigital.com/Picons/CNBC_meo.png" group-title="Portugal",CNBC Europe
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87338.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://cunhadigital.com/Picons/CNN_meo.png" group-title="Portugal",CNN
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87464.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://cunhadigital.com/Picons/Bloomberg_nos.png" group-title="Portugal",Bloomberg
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87465.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DW Deutsch" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png" group-title="Portugal",Deutsche Welle
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87339.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CBS REALITY" tvg-logo="https://i.imgur.com/7x5HJhi.png" group-title="Portugal",CBS REALITY
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87328.ts
+#EXTINF:-1 tvg-id="" tvg-name="Crime + Investigation" tvg-logo="https://i.imgur.com/GVLONP8.png" group-title="Portugal",Crime + Investigation
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87327.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Investigation Discovery" tvg-logo="https://cunhadigital.com/Picons/Investdisc.png" group-title="Portugal",ID Investigation Discovery ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87436.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC Crime" tvg-logo="" group-title="Portugal",AMC Crime
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87343.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC Break" tvg-logo="" group-title="Portugal",AMC Break
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87296.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC Break" tvg-logo="" group-title="Portugal",AMC Break
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87344.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://pbs.twimg.com/profile_images/583178126953295872/_8HE4i8E_400x400.png" group-title="Portugal",Fashion TV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87333.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 180" tvg-logo="https://assets.bondlayer.com/nhjtx0kggg/_assets/nwxbgehephns507vsruet.png" group-title="Portugal",Canal 180
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87309.ts
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://cunhadigital.com/Picons_FR/eentertainment.png" group-title="Portugal",E!
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87330.ts
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://cunhadigital.com/Picons_FR/eentertainment.png" group-title="Portugal",E!
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87463.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/y9A92KA.png" group-title="Portugal",Cartoon Network
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87388.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC K" tvg-logo="https://i.imgur.com/sGSW5Kk.png" group-title="Portugal",SIC K ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87380.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC K" tvg-logo="https://i.imgur.com/sGSW5Kk.png" group-title="Portugal",SIC K
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87391.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Panda" tvg-logo="https://i.imgur.com/Vo0YV4q.png" group-title="Portugal",Canal Panda ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87379.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Panda" tvg-logo="https://i.imgur.com/Vo0YV4q.png" group-title="Portugal",Canal Panda
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87384.ts
+#EXTINF:-1 tvg-id="" tvg-name="Biggs" tvg-logo="https://i.imgur.com/gJvMWlq.png" group-title="Portugal",Biggs
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87385.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lolly Kids" tvg-logo="" group-title="Portugal",Lolly Kids ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87381.ts
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel" tvg-logo="http://cunhadigital.com/Picons_FR/disneychannel.png" group-title="Portugal",Disney Channel
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87382.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://cunhadigital.com/Picons/DISNEY_JUNIOR_nos.png" group-title="Portugal",Disney Junior
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87386.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney +" tvg-logo="https://logodownload.org/wp-content/uploads/2020/11/disney-plus-logo.png" group-title="Portugal",Disney +
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87387.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/h00VW6U.png" group-title="Portugal",Nickelodeon
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87383.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick JR" tvg-logo="https://i.imgur.com/999XYdR.png" group-title="Portugal",Nick JR
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87389.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://i.imgur.com/un2mdKB.png" group-title="Portugal",Baby TV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87390.ts
+#EXTINF:-1 tvg-id="" tvg-name="JimJam" tvg-logo="https://i.imgur.com/fR70njY.png" group-title="Portugal",Jim Jam
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87392.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Stingray IConcerts" tvg-logo="" group-title="Portugal",Stingray IConcerts
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87342.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Portugal" tvg-logo="https://cunhadigital.com/Picons/MTV_PORTUGAL_meo.png" group-title="Portugal",MTV Portugal
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87325.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00s" tvg-logo="https://i.imgur.com/N1IlQcE.png" group-title="Portugal",MTV 00s
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87476.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCM Pop" tvg-logo="https://i.imgur.com/X9pjOqJ.png" group-title="Portugal",MCM Pop
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87472.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCM Top" tvg-logo="https://i.imgur.com/92c0LdK.png" group-title="Portugal",MCM Top
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87473.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alma Lusa" tvg-logo="" group-title="Portugal",Alma Lusa ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87468.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Brazuca" tvg-logo="" group-title="Portugal",Trace Brazuca ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87469.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="https://cdn.woopic.com/v1/AUTH_9ffb653181284b0abe5e45d7014095b2/boutique-tv/tracetv_1440@1x_5f687ac4f29d114de993c913.png" group-title="Portugal",Trace Urban
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87470.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Toca" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/2016/11/logo_toca2.png" group-title="Portugal",Trace Toca
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87471.ts
+#EXTINF:-1 tvg-id="" tvg-name="Afro Music Channel" tvg-logo="https://i.imgur.com/fct04s5.png" group-title="Portugal",Afro Music Channel
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87474.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/1280px-Mezzo_Logo.svg.png" group-title="Portugal",Mezzo Live ᴴᴰ
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87467.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/1280px-Mezzo_Logo.svg.png" group-title="Portugal",Mezzo Live
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87475.ts
