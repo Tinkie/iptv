@@ -1,6 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/raiplay.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz"
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Portugal" tvg-name="Sport TV 1",Sport TV 1
-
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml"
 #EXTINF:-1 tvg-id="" ,tvg-name="La 1 HD" tvg-logo="http://www.tbs-tv.com:25461/images/SrAPLoHCerUOh6IDdirn3LfM1wYI8Tce.png" group-title="Spain",La 1 HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10245.ts
 #EXTINF:-1 tvg-id="" ,tvg-name="La 2 HD" tvg-logo="http://kebap.party:2086/images/4446934e4300ea59bfb160078cd59f6d.png" group-title="Spain",La 2 HD
