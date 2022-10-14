@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/raiplay.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz"
 #EXTINF:-1 group-title="Portugal",24 KITCHEN
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/100
 #EXTINF:-1 group-title="Portugal",A BOLA TV
@@ -211,12 +211,8 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/238
 #EXTINF:-1 group-title="Portugal",TVI
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11026
-#EXTINF:-1 group-title="Portugal",TVI 24
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11027
 #EXTINF:-1 group-title="Portugal",TVI FICCAO
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11029
-#EXTINF:-1 group-title="Portugal",TVI REALITY
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11028
 #EXTINF:-1 group-title="Portugal",VH1
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/239
 #EXTINF:-1 group-title="Portugal",ZAP VIVA
