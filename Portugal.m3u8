@@ -57,12 +57,10 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87293.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87315.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVI Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/99/TVI_Internacional_logo_2017.png" group-title="Portugal",TVI Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87334.ts
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="https://i.imgur.com/9Y20srP.png" group-title="Portugal",CNN Portugal
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="" group-title="Portugal",CNN Portugal
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87442.ts
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="https://i.imgur.com/9Y20srP.png" group-title="Portugal",CNN Portugal
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="" group-title="Portugal",CNN Portugal
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87457.ts
-#EXTINF:-1 tvg-id="" tvg-name="EuroNews" tvg-logo="" group-title="Portugal",EuroNews
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87434.ts
 #EXTINF:-1 tvg-id="" tvg-name="CM TV" tvg-logo="https://i.imgur.com/AayB20F.png" group-title="Portugal",CM TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87443.ts
 #EXTINF:-1 tvg-id="" tvg-name="CM TV" tvg-logo="https://i.imgur.com/AayB20F.png" group-title="Portugal",CM TV
@@ -131,9 +129,9 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87351.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX Movies" tvg-logo="https://i.imgur.com/xVGDkgJ.png" group-title="Portugal",FOX Movies
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87368.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cine Mundo" tvg-logo="https://i.imgur.com/aGQHGex.png" group-title="Portugal",Cine Mundo
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87352.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine Mundo" tvg-logo="https://i.imgur.com/aGQHGex.png" group-title="Portugal",Cine Mundo
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87369.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Mundo" tvg-logo="https://i.imgur.com/aGQHGex.png" group-title="Portugal",Cine Mundo
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87352.ts
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://i.imgur.com/nmacEAl.png" group-title="Portugal",AMC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87353.ts
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://i.imgur.com/nmacEAl.png" group-title="Portugal",AMC
@@ -208,6 +206,8 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87338.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87464.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://cunhadigital.com/Picons/Bloomberg_nos.png" group-title="Portugal",Bloomberg
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87465.ts
+#EXTINF:-1 tvg-id="" tvg-name="EuroNews EN" tvg-logo="" group-title="Portugal",EuroNews EN
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87434.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="DW Deutsch" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png" group-title="Portugal",Deutsche Welle
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87339.ts
