@@ -92,6 +92,10 @@ http://cineapp.org:8000/Fernando/Fernando/1276
 #EXTINF:-1 tvg-country="IT" tvg-logo="https://image.emojisky.com/668/12236668-middle.png" group-title="Deportivos" tvg-name="RTV Sport",RTV Sport
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159564
 
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ZIGGO SPORT EXTRA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/3299
+
+
 #EXTINF:-1 tvg-country="DE" tvg-logo="https://ia800808.us.archive.org/17/items/SkySPORT -AVDsPremierLeague_201708/sky%20SPORT -AVDs%20premier%20league.png" group-title="Deportivos" tvg-name="Sky Sport Premier League",Sky Sport Premier League
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161665
 #EXTINF:-1 tvg-country="FR" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" group-title="Deportivos" tvg-id="" tvg-name="Canal+ Sport FR",Canal+ Sport
