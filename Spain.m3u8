@@ -210,17 +210,19 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10313.ts
 #EXTINF:-1 tvg-id="MTVSpain.es" tvg-name="MTV España" tvg-logo="" group-title="Musicales",MTV España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10324.ts
 
-#EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-name="Movistar LaLiga" tvg-logo="" group-title="Deportivos",Movistar LaLiga TV
+#EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-name="M+ LaLiga" tvg-logo="" group-title="Deportivos",M+ LaLiga TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10286.ts
-#EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-name="Movistar LaLiga" tvg-logo="" group-title="Deportivos",Movistar LaLiga TV
+#EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-name="M+ LaLiga" tvg-logo="" group-title="Deportivos",M+ LaLiga TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10280.ts
-#EXTINF:-1 tvg-id="MovistarLaLiga1.es" tvg-name="Movistar LaLiga 1" tvg-logo="" group-title="Deportivos",Movistar LaLiga
+#EXTINF:-1 tvg-id="MovistarLaLiga1.es" tvg-name="M+ LaLiga 1" tvg-logo="" group-title="Deportivos",M+ LaLiga
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10345.ts
-#EXTINF:-1 tvg-id="MovistarLaLiga1.es" tvg-name="Movistar LaLiga 1" tvg-logo="" group-title="Deportivos",Movistar LaLiga
+#EXTINF:-1 tvg-id="MovistarLaLiga1.es" tvg-name="M+ LaLiga 1" tvg-logo="" group-title="Deportivos",M+ LaLiga
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10281.ts
-#EXTINF:-1 tvg-id="MovistarLaLiga2.es" tvg-name="Movistar LaLiga 2" tvg-logo="" group-title="Deportivos",Movistar LaLiga SmartBank
+#EXTINF:-1 tvg-id="MovistarLaLiga2.es" tvg-country="ES" tvg-logo="" group-title="Deportivos" tvg-name="M+ LaLiga 2",M+ LaLiga 2
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10327.ts
+#EXTINF:-1 tvg-id="MovistarLaLiga2.es" tvg-name="M+ LaLiga 2" tvg-logo="" group-title="Deportivos",M+ LaLiga SmartBank
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10346.ts
-#EXTINF:-1 tvg-id="MovistarLaLiga2.es" tvg-name="Movistar LaLiga 2" tvg-logo="" group-title="Deportivos",Movistar LaLiga SmartBank
+#EXTINF:-1 tvg-id="MovistarLaLiga2.es" tvg-name="M+ LaLiga 2" tvg-logo="" group-title="Deportivos",M+ LaLiga SmartBank
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10347.ts
 
 #EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-name="Movistar EPG Test" tvg-logo="" group-title="Deportivos",Movistar EPG Test
