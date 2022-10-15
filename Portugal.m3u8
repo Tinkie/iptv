@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/raiplay.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/raiplay.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1" tvg-logo="https://4.bp.blogspot.com/-gX-Krhe_vAU/WB3MK3D8H7I/AAAAAAAAFRo/ETXZYgFgn0oMP09hPyGX2UtZMTuQ5-0yACLcB/s1600/RTP%2B1%2BHD.png" group-title="Portugal",RTP 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87285.ts
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1" tvg-logo="https://4.bp.blogspot.com/-gX-Krhe_vAU/WB3MK3D8H7I/AAAAAAAAFRo/ETXZYgFgn0oMP09hPyGX2UtZMTuQ5-0yACLcB/s1600/RTP%2B1%2BHD.png" group-title="Portugal",RTP 1
@@ -113,17 +113,25 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87346.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canal Hollywood" tvg-logo="https://i.imgur.com/1C9XGK2.png" group-title="Portugal",Hollywood
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87363.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVCine Top" tvg-logo="https://imgur.com/UaB2bWc.png" group-title="Portugal",TVCine Top
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96955
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Top" tvg-logo="https://imgur.com/UaB2bWc.png" group-title="Portugal",TVCine Top
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87347.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVCine Top" tvg-logo="https://imgur.com/UaB2bWc.png" group-title="Portugal",TVCine Top
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87364.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Action" tvg-logo="https://imgur.com/wA9hHzy.png" group-title="Portugal",TVCine Action
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96958
 #EXTINF:-1 tvg-id="" tvg-name="TVCine Action" tvg-logo="https://imgur.com/wA9hHzy.png" group-title="Portugal",TVCine Action
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87350.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVCine Action" tvg-logo="https://imgur.com/wA9hHzy.png" group-title="Portugal",TVCine Action
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87367.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVCine Edition" tvg-logo="https://imgur.com/Te93RQl.png" group-title="Portugal",TVCine Edition
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96957
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Edition" tvg-logo="https://imgur.com/Te93RQl.png" group-title="Portugal",TVCine Edition
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87348.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVCine Edition" tvg-logo="https://imgur.com/Te93RQl.png" group-title="Portugal",TVCine Edition
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87365.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Emotion" tvg-logo="https://imgur.com/SZJ2GW7.png" group-title="Portugal",TVCine Emotion
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96956
 #EXTINF:-1 tvg-id="" tvg-name="TVCine Emotion" tvg-logo="https://imgur.com/SZJ2GW7.png" group-title="Portugal",TVCine Emotion
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87349.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVCine Emotion" tvg-logo="https://imgur.com/SZJ2GW7.png" group-title="Portugal",TVCine Emotion
@@ -210,6 +218,8 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87464.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87465.ts
 #EXTINF:-1 tvg-id="" tvg-name="EuroNews EN" tvg-logo="" group-title="Portugal",EuroNews EN
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87434.ts
+#EXTINF:-1 group-title="Portugal" tvg-id="RTNews.ru" tvg-name="RT News" tvg-logo="",RT News
+http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/38864
 
 #EXTINF:-1 tvg-id="" tvg-name="DW Deutsch" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png" group-title="Portugal",Deutsche Welle
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87339.ts

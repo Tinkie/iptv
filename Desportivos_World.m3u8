@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/raiplay.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz"
 #EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-name="PFC",PFC
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96940
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-name="PFC",PFC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87431.ts
 #EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-name="PFC",PFC
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/182
@@ -20,6 +22,8 @@ http://top.streancdn.fun:80/0987654321/1234567890/2163212
 #EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
 http://top.ppvstream.fun:80/0987654321/1234567890/2163196
 #EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/99322
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
 http://vipiptv101.com:80/gencosman/020919.cvf/121163
 #EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11819
@@ -37,6 +41,10 @@ http://vipiptv101.com:80/gencosman/020919.cvf/121164
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11820
 #EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-id="SporTV3.br" tvg-name="SporTV 3",SporTV 3
 http://top.streancdn.fun:80/0987654321/1234567890/2163211
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/99324
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/99325
 #EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes
 http://top.ppvstream.fun:80/0987654321/1234567890/2163154
 #EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Deportivos" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes
@@ -67,9 +75,29 @@ http://93.152.174.144:4000/play/barcatv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Deportivos" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48659
 #EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Deportivos" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96932
+#EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Deportivos" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10244.ts
 #EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Deportivos" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48854
+
+#EXTINF:-1 tvg-country="IT" tvg-logo="https://styles.redditmedia.com/t5_2t9a7/styles/communityIcon_i0d3pom28av61.jpg" group-title="Deportivos" tvg-id="JuventusTV.it" tvg-name="Juventus TV",Juventus TV
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/165381
+#EXTINF:-1 tvg-country="IT" tvg-logo="" group-title="Deportivos" tvg-id="MilanTV.it" tvg-name="Milan TV",Milan TV
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/6660
+#EXTINF:-1 tvg-country="IT" tvg-logo="" group-title="Deportivos" tvg-id="InterTV.it" tvg-name="Inter TV",Inter TV
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/4180
+#EXTINF:-1 tvg-country="IT" tvg-logo="" group-title="Deportivos" tvg-id="LazioStyleTV.it" tvg-name="Lazio Style TV",Lazio Style TV
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/8420
+#EXTINF:-1 tvg-country="IT" tvg-logo="https://cdn.teleon.tv/logo/udinese-tv-it.png" group-title="Deportivos" tvg-id="UdineseTV.it" tvg-name="Udinese TV",Udinese TV
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/151440
+
+#EXTINF:-1 tvg-country="UK" tvg-logo="" group-title="Deportivos" tvg-id="" tvg-name="Liverpool FC TV",Liverpool FC TV
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/97193
+#EXTINF:-1 tvg-country="UK" tvg-logo="" group-title="Deportivos" tvg-id="" tvg-name="Liverpool FC TV",Liverpool FC TV
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/149244
+#EXTINF:-1 tvg-country="UK" tvg-logo="" group-title="Deportivos" tvg-id="" tvg-name="Liverpool FC TV",Liverpool FC TV
+http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/38742
 
 #EXTINF:-1 tvg-id="DAZN3Spain.uk" tvg-name="DAZN LaLiga" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1-color.png" group-title="Deportivos",DAZN LaLiga
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10345.ts
@@ -188,17 +216,6 @@ http://cineapp.org:8000/Fernando/Fernando/1276
 #EXTINF:-1 tvg-country="IT" tvg-logo="https://image.emojisky.com/668/12236668-middle.png" group-title="Deportivos" tvg-name="RTV Sport",RTV Sport
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159564
 
-#EXTINF:-1 tvg-country="IT" tvg-logo="" group-title="Deportivos" tvg-id="MilanTV.it" tvg-name="Milan TV",Milan TV
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/6660
-#EXTINF:-1 tvg-country="IT" tvg-logo="" group-title="Deportivos" tvg-id="InterTV.it" tvg-name="Inter TV",Inter TV
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/4180
-#EXTINF:-1 tvg-country="IT" tvg-logo="https://styles.redditmedia.com/t5_2t9a7/styles/communityIcon_i0d3pom28av61.jpg" group-title="Deportivos" tvg-id="JuventusTV.it" tvg-name="Juventus TV",Juventus TV
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/165381
-#EXTINF:-1 tvg-country="IT" tvg-logo="" group-title="Deportivos" tvg-id="LazioStyleTV.it" tvg-name="Lazio Style TV",Lazio Style TV
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/8420
-#EXTINF:-1 tvg-country="IT" tvg-logo="https://cdn.teleon.tv/logo/udinese-tv-it.png" group-title="Deportivos" tvg-id="UdineseTV.it" tvg-name="Udinese TV",Udinese TV
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/151440
-
 #EXTINF:-1 tvg-country="NL" tvg-logo="" group-title="Deportivos" tvg-id="ZiggoSportVoetbal.nl" tvg-name="Ziggo Sport Voetbal",Ziggo Sport Voetbal
 http://red.ipfox.org:8080/osama2022/osama2023/49184
 #EXTINF:-1 tvg-country="NL" tvg-logo="" group-title="Deportivos" tvg-id="ZiggoSportDocu.nl" tvg-name="Ziggo Sport Docu",Ziggo Sport Docu
@@ -210,8 +227,8 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/3921
 #EXTINF:-1 tvg-country="NL" tvg-logo="" group-title="Deportivos" tvg-id="ZiggoSportSelect.nl" tvg-name="Ziggo Sport Select",Ziggo Sport Select
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/3296
 
-#EXTINF:-1 tvg-country="DE" tvg-logo="https://ia800808.us.archive.org/17/items/SkySPORT -AVDsPremierLeague_201708/sky%20SPORT -AVDs%20premier%20league.png" group-title="Deportivos" tvg-name="Sky Sport Premier League",Sky Sport Premier League
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161665
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://ia800808.us.archive.org/17/items/SkySPORT -AVDsPremierLeague_201708/sky%20SPORT -AVDs%20premier%20league.png" group-title="Deportivos" tvg-name="Sky Sport Premier League",Sky Sport Premier League
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/97132
 
 #EXTINF:-1 tvg-country="FR" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" group-title="Deportivos" tvg-id="" tvg-name="Canal+ Sport FR",Canal+ Sport
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126814
