@@ -71,16 +71,11 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10244.ts
 #EXTINF:-1 tvg-country="ES" tvg-logo="" group-title="Deportivos" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48854
 
-#EXTINF:-1 tvg-country="ES" tvg-id="Eurosport1.fr" tvg-name="Eurosport 1 España" tvg-logo="" group-title="Deportivos",Eurosport 1 España
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10289.ts
-#EXTINF:-1 tvg-country="ES" tvg-id="Eurosport2.fr" tvg-name="Eurosport 2 España" tvg-logo="" group-title="Deportivos",Eurosport 2 España
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10290.ts
-
-#EXTINF:-1 tvg-id="DAZN3Spain.uk" tvg-name="DAZN LaLiga" tvg-logo="" group-title="Deportivos",DAZN LaLiga
+#EXTINF:-1 tvg-id="DAZN3Spain.uk" tvg-name="DAZN LaLiga" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1-color.png" group-title="Deportivos",DAZN LaLiga
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10345.ts
-#EXTINF:-1 tvg-id="DAZN3Spain.uk" tvg-name="DAZN LaLiga" tvg-logo="" group-title="Deportivos",DAZN LaLiga
+#EXTINF:-1 tvg-id="DAZN3Spain.uk" tvg-name="DAZN LaLiga" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1-color.png" group-title="Deportivos",DAZN LaLiga
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10281.ts
-#EXTINF:-1 tvg-id="DAZN4Spain.uk" tvg-name="DAZN LaLiga 2" tvg-logo="" group-title="Deportivos",DAZN LaLiga 2
+#EXTINF:-1 tvg-id="DAZN4Spain.uk" tvg-name="DAZN LaLiga 2" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png" group-title="Deportivos",DAZN LaLiga 2
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10327.ts
 
 #EXTINF:-1 tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1" tvg-logo="" group-title="Deportivos",DAZN 1
@@ -145,11 +140,6 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10341.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10342.ts
 #EXTINF:-1 tvg-id="MovistarLigadeCampeones8.es" tvg-name="Movistar Liga de Campeones 8" tvg-logo="https://i.imgur.com/ZeUxE4o.png" group-title="Deportivos",M+ Liga de Campeones 8
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10343.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports LaLiga" tvg-logo="" group-title="Deportivos",beIN Sports LaLiga
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10241.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports LaLiga" tvg-logo="" group-title="Deportivos",beIN Sports LaLiga
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10242.ts
 
 #EXTINF:-1 tvg-country="IT" tvg-logo="" group-title="Deportivos" tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno",Sky Sport Uno
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/48312
