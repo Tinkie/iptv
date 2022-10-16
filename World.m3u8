@@ -26,7 +26,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10293.ts
 #EXTINF:-1 tvg-id="7RM.TV" tvg-name="7 R. de Murcia" tvg-logo="" group-title="R. de Murcia",7 R. de Murcia
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10368.ts
 
-#EXTINF:-1 tvg-id="TV3.TV" tvg-name="TV3 CAT" tvg-logo="" group-title="Cataluña",TV3 CAT
+#EXTINF:-1 tvg-id="" tvg-name="TV3CAT" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="Int. Europa",TV3CAT
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="BoingSpain.it" tvg-name="Boing España" tvg-logo="" group-title="Infantiles",Boing España
