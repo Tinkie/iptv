@@ -67,7 +67,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87443.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87458.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canal Q" tvg-logo="https://i.imgur.com/eJDiUmW.png" group-title="Portugal",Canal Q
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87323.ts
-#EXTINF:-1 tvg-id="" tvg-name="Casa e Cozinha" tvg-logo="https://imgur.com/tOdrDOX.png" group-title="Portugal",Casa e Cozinha
+#EXTINF:-1 tvg-id="casaecoz.tv.vodafone.pt" tvg-name="Casa e Cozinha" tvg-logo="https://imgur.com/tOdrDOX.png" group-title="Portugal",Casa e Cozinha
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87439.ts
 #EXTINF:-1 tvg-id="" tvg-name="24 Kitchen" tvg-logo="https://i.imgur.com/pHeN8Sp.png" group-title="Portugal",24 Kitchen
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87437.ts
@@ -218,7 +218,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87464.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87465.ts
 #EXTINF:-1 tvg-id="" tvg-name="EuroNews EN" tvg-logo="" group-title="Portugal",EuroNews EN
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87434.ts
-#EXTINF:-1 group-title="Portugal" tvg-id="RTNews.ru" tvg-name="RT News" tvg-logo="",RT News
+#EXTINF:-1 group-title="Portugal" tvg-id="RTNews.ru" tvg-name="RT News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-News.png",RT News
 http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/38864
 
 #EXTINF:-1 tvg-id="" tvg-name="DW Deutsch" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png" group-title="Portugal",Deutsche Welle
@@ -237,7 +237,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87296.ts
 #EXTINF:-1 tvg-id="" tvg-name="AMC Break" tvg-logo="" group-title="Portugal",AMC Break
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87344.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 180" tvg-logo="https://assets.bondlayer.com/nhjtx0kggg/_assets/nwxbgehephns507vsruet.png" group-title="Portugal",Canal 180
+#EXTINF:-1 tvg-id="180hd.tv.vodafone.pt" tvg-name="Canal 180" tvg-logo="https://assets.bondlayer.com/nhjtx0kggg/_assets/nwxbgehephns507vsruet.png" group-title="Portugal",Canal 180
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87309.ts
 #EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://cunhadigital.com/Picons_FR/eentertainment.png" group-title="Portugal",E!
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87330.ts
