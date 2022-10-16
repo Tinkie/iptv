@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml"
-#EXTINF:-1 tvg-id="La1.TV" tvg-name="La 1" tvg-logo="http://www.tbs-tv.com:25461/images/SrAPLoHCerUOh6IDdirn3LfM1wYI8Tce.png" group-title="Generalistas",La 1
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="La 1" tvg-logo="" group-title="Generalistas",La 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10245.ts
 #EXTINF:-1 tvg-id="La2.TV" tvg-name="La 2" tvg-logo="" group-title="Generalistas",La 2
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10246.ts
@@ -11,7 +11,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10200.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10247.ts
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="" group-title="Generalistas",Antena 3
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10204.ts
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="http://www.tbs-tv.com:25461/images/YICmVJncTcXL4AEXkMidALOvXIiww8pl.png" group-title="Generalistas",Cuatro
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="" group-title="Generalistas",Cuatro
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10248.ts
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="" group-title="Generalistas",Cuatro
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10211.ts
@@ -91,7 +91,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10256.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10233.ts
 #EXTINF:-1 tvg-id="Calle13.es" tvg-name="Calle 13" tvg-logo="" group-title="Cine y Series",Calle 13
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10257.ts
-#EXTINF:-1 tvg-id="TCMSpain.es" tvg-name="TCM España" tvg-logo="http://www.tbs-tv.com:25461/images/eQr1XBM5jev3T7p4puuA5HTt4s0PKHBn.png" group-title="Cine y Series",TCM España
+#EXTINF:-1 tvg-id="TCMSpain.es" tvg-name="TCM España" tvg-logo="" group-title="Cine y Series",TCM España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10258.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cosmo" tvg-logo="" group-title="Cine y Series",Cosmo
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10259.ts
@@ -138,10 +138,10 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10275.ts
 #EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="Movistar Drama" tvg-logo="" group-title="Cine y Series",Movistar Drama
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10226.ts
 #EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="Movistar Series" tvg-logo="" group-title="Cine y Series",Movistar Series
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10230.ts
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="Movistar Series" tvg-logo="" group-title="Cine y Series",Movistar Series
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10272.ts
 #EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="Movistar Series" tvg-logo="" group-title="Cine y Series",Movistar Series
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10230.ts
-#EXTINF:-1 tvg-id="MovistarSeries2.es" tvg-name="Movistar Series Mania" tvg-logo="http://www.tbs-tv.com:25461/images/fXIWJET0Xj6KNbNtj9UF8PRsoZPEWmxI.png" group-title="Cine y Series",Movistar Series Mania
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10273.ts
 
 #EXTINF:-1 tvg-id="NationalGeographicSpain.es" tvg-name="National Geographic" tvg-logo="" group-title="Documentales",National Geographic
@@ -152,7 +152,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10231.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10298.ts
 #EXTINF:-1 tvg-id="NationalGeographicWildSpain.es" tvg-name="National Geographic Wild" tvg-logo="" group-title="Documentales",National Geographic Wild
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10232.ts
-#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="Caza y Pesca" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Caza-y-Pesca-Logotipo-2016.png/revision/latest/scale-to-width-down/220?cb=20161008171111" group-title="Documentales",Caza y Pesca
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="Caza y Pesca" tvg-logo="" group-title="Documentales",Caza y Pesca
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10299.ts
 #EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="Caza y Pesca" tvg-logo="" group-title="Documentales",Caza y Pesca
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10208.ts
@@ -162,7 +162,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10300.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10236.ts
 #EXTINF:-1 tvg-id="CrimenPlusInvestigacion.es" tvg-name="Crimen + Investigación" tvg-logo="" group-title="Documentales",Crimen + Investigación
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10301.ts
-#EXTINF:-1 tvg-id="HistoriaSpain.es" tvg-name="Historia España" tvg-logo="http://www.tbs-tv.com:25461/images/XdAD3VTioWsto5jXxLuOu5Gf3ss4Zasy.png" group-title="Documentales",Historia España
+#EXTINF:-1 tvg-id="HistoriaSpain.es" tvg-name="Historia España" tvg-logo="" group-title="Documentales",Historia España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10302.ts
 #EXTINF:-1 tvg-id="HistoriaSpain.es" tvg-name="Historia España" tvg-logo="" group-title="Documentales",Historia España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10219.ts
@@ -198,7 +198,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10310.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10213.ts
 #EXTINF:-1 tvg-id="CanalPandaSpain.pt" tvg-name="Canal Panda España" tvg-logo="" group-title="Infantiles",Canal Panda España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10314.ts
-#EXTINF:-1 tvg-id="NickelodeonSpain.es" tvg-name="Nickelodeon España" tvg-logo="http://www.tbs-tv.com:25461/images/8GvufXyYYmSUQPL8OMC5nFpvfSc4CP1E.png" group-title="Infantiles",Nickelodeon España
+#EXTINF:-1 tvg-id="NickelodeonSpain.es" tvg-name="Nickelodeon España" tvg-logo="" group-title="Infantiles",Nickelodeon España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10308.ts
 #EXTINF:-1 tvg-id="NickJrSpain.es" tvg-name="Nick Jr España" tvg-logo="" group-title="Infantiles",Nick Jr España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10307.ts
