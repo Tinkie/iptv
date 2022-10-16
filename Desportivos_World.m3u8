@@ -92,11 +92,11 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/8420
 #EXTINF:-1 tvg-country="IT" tvg-logo="https://cdn.teleon.tv/logo/udinese-tv-it.png" group-title="Deportivos" tvg-id="UdineseTV.it" tvg-name="Udinese TV",Udinese TV
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/151440
 
-#EXTINF:-1 tvg-country="UK" tvg-logo="" group-title="Deportivos" tvg-id="" tvg-name="Liverpool FC TV" tvg-url="https://epg.pm/api/epg.xml?channel_id=3668",Liverpool FC TV
+#EXTINF:-1 tvg-country="UK" tvg-logo="" group-title="Deportivos" tvg-id="" tvg-name="LFCTV HD" tvg-url="https://epg.pm/api/epg.xml?channel_id=3668",Liverpool FC TV
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/97193
-#EXTINF:-1 tvg-country="UK" tvg-logo="" group-title="Deportivos" tvg-id="" tvg-name="Liverpool FC TV" tvg-url="https://epg.pm/api/epg.xml?channel_id=3668",Liverpool FC TV
+#EXTINF:-1 tvg-country="UK" tvg-logo="" group-title="Deportivos" tvg-id="" tvg-name="LFCTV HD" tvg-url="https://epg.pm/api/epg.xml?channel_id=3668",Liverpool FC TV
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/149244
-#EXTINF:-1 tvg-country="UK" tvg-logo="" group-title="Deportivos" tvg-id="" tvg-name="Liverpool FC TV" tvg-url="https://epg.pm/api/epg.xml?channel_id=3668",Liverpool FC TV
+#EXTINF:-1 tvg-country="UK" tvg-logo="" group-title="Deportivos" tvg-id="" tvg-name="LFCTV HD" tvg-url="https://epg.pm/api/epg.xml?channel_id=3668",Liverpool FC TV
 http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/38742
 
 #EXTINF:-1 tvg-id="DAZN3Spain.uk" tvg-name="DAZN LaLiga" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1-color.png" group-title="Deportivos",DAZN LaLiga
