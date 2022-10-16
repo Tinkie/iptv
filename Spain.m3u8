@@ -49,10 +49,10 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10315.ts
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestream.akamaized.net/segments/24h/24h_main.m3u8
 
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-name="24 Horas" tvg-logo="" group-title="Informativos",24h
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-name="24 Horas" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png" group-title="Informativos",24h
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10296.ts
 
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-name="24 Horas" tvg-logo="" group-title="Informativos",24h
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-name="24 Horas" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png" group-title="Informativos",24h
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10202.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TVE Internacional" tvg-logo="" group-title="Informativos",TVE Internacional
