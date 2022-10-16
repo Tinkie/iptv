@@ -189,10 +189,10 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87361.ts
 #EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="" group-title="Portugal",Syfy
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87378.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-logo="" group-title="Portugal",Travel Channel
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87300.ts
-#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-logo="" group-title="Portugal",Travel Channel
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87332.ts
+#EXTINF:-1 group-title="Portugal" tvg-id="MyTime Movie Network" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png",MyTime Movie Network (BR)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="Portugal",National Geographic
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87435.ts
@@ -209,47 +209,50 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87447.ts
 #EXTINF:-1 tvg-id="HistoriaPortugal.pt" tvg-name="Canal História" tvg-logo="" group-title="Portugal",Canal História
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87446.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional" tvg-logo="" group-title="Portugal",TVE Internacional
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-logo="" group-title="Portugal",Travel Channel
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87300.ts
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-logo="" group-title="Portugal",Travel Channel
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87332.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional" tvg-logo="" group-title="Informativos",TVE Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87466.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional" tvg-logo="" group-title="Portugal",TVE Internacional
+#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional" tvg-logo="" group-title="Informativos",TVE Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87341.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cubavisión Internacional" tvg-logo="" group-title="Portugal",Cubavisión Internacional
+#EXTINF:-1 group-title="Int. América" tvg-id="cubavi.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cubavisión-Internacional.png" tvg-name="Cubavisión TV",Cubavisión TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87336.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC Entertainment" tvg-logo="" group-title="Portugal",BBC Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="BBC Entertainment" tvg-logo="" group-title="International News",BBC Entertainment
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87337.ts
-#EXTINF:-1 tvg-id="" tvg-name="CNBC Europe" tvg-logo="" group-title="Portugal",CNBC Europe
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Europe" tvg-logo="" group-title="International News",CNBC Europe
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87338.ts
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="Portugal",CNN
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="International News",CNN
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87464.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="Portugal",Bloomberg
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="International News",Bloomberg
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87465.ts
-#EXTINF:-1 tvg-id="" tvg-name="EuroNews EN" tvg-logo="" group-title="Portugal",EuroNews EN
+#EXTINF:-1 tvg-id="" tvg-name="EuroNews EN" tvg-logo="" group-title="International News",EuroNews EN
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87434.ts
-#EXTINF:-1 group-title="Portugal" tvg-id="RTNews.ru" tvg-name="RT News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-News.png",RT News
+#EXTINF:-1 group-title="International News" tvg-id="RTNews.ru" tvg-name="RT News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-News.png",RT News
 http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/38864
 
-#EXTINF:-1 tvg-id="" tvg-name="DW Deutsch" tvg-logo="" group-title="Portugal",Deutsche Welle
+#EXTINF:-1 tvg-id="" tvg-name="DW Deutsch" tvg-logo="" group-title="International News",Deutsche Welle
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87339.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CBS REALITY" tvg-logo="" group-title="Portugal",CBS REALITY
+#EXTINF:-1 tvg-id="" tvg-name="CBS REALITY" tvg-logo="" group-title="Int. Otros",CBS REALITY
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87328.ts
-#EXTINF:-1 tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation" tvg-logo="" group-title="Portugal",Crime + Investigation
+#EXTINF:-1 tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation" tvg-logo="" group-title="Int. Otros",Crime + Investigation
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87327.ts
-#EXTINF:-1 tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation" tvg-logo="" group-title="Portugal",Crime + Investigation
+#EXTINF:-1 tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation" tvg-logo="" group-title="Int. Otros",Crime + Investigation
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87343.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID Investigation Discovery" tvg-logo="https://cunhadigital.com/Picons/Investdisc.png" group-title="Portugal",ID Investigation Discovery
+#EXTINF:-1 tvg-id="" tvg-name="ID Investigation Discovery" tvg-logo="https://cunhadigital.com/Picons/Investdisc.png" group-title="Int. Otros",ID Investigation Discovery
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87436.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC Break" tvg-logo="" group-title="Portugal",AMC Break
+#EXTINF:-1 tvg-id="" tvg-name="AMC Break" tvg-logo="" group-title="Int. Otros",AMC Break
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87296.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC Break" tvg-logo="" group-title="Portugal",AMC Break
+#EXTINF:-1 tvg-id="" tvg-name="AMC Break" tvg-logo="" group-title="Int. Otros",AMC Break
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87344.ts
 
-#EXTINF:-1 tvg-id="180hd.tv.vodafone.pt" tvg-name="Canal 180" tvg-logo="" group-title="Portugal",Canal 180
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87309.ts
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://cunhadigital.com/Picons_FR/eentertainment.png" group-title="Portugal",E!
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://cunhadigital.com/Picons_FR/eentertainment.png" group-title="Int. Otros",E!
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87330.ts
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://cunhadigital.com/Picons_FR/eentertainment.png" group-title="Portugal",E!
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://cunhadigital.com/Picons_FR/eentertainment.png" group-title="Int. Otros",E!
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87463.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Portugal",Cartoon Network
@@ -277,29 +280,31 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87390.ts
 #EXTINF:-1 tvg-id="" tvg-name="JimJam" tvg-logo="" group-title="Portugal",Jim Jam
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87392.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Stingray IConcerts" tvg-logo="" group-title="Portugal",Stingray IConcerts
+#EXTINF:-1 tvg-id="" tvg-name="Stingray IConcerts" tvg-logo="" group-title="Musicales",Stingray IConcerts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87342.ts
-#EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-name="MTV Portugal" tvg-logo="" group-title="Portugal",MTV Portugal
+#EXTINF:-1 tvg-id="180hd.tv.vodafone.pt" tvg-name="Canal 180" tvg-logo="" group-title="Musicales",Canal 180
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87309.ts
+#EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-name="MTV Portugal" tvg-logo="" group-title="Musicales",MTV Portugal
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87325.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV 00s" tvg-logo="" group-title="Portugal",MTV 00s
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00s" tvg-logo="" group-title="Musicales",MTV 00s
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87476.ts
-#EXTINF:-1 tvg-id="" tvg-name="MCM Pop" tvg-logo="" group-title="Portugal",MCM Pop
+#EXTINF:-1 tvg-id="" tvg-name="MCM Pop" tvg-logo="" group-title="Musicales",MCM Pop
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87472.ts
-#EXTINF:-1 tvg-id="" tvg-name="MCM Pop" tvg-logo="" group-title="Portugal",MCM Pop
+#EXTINF:-1 tvg-id="" tvg-name="MCM Pop" tvg-logo="" group-title="Musicales",MCM Pop
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87473.ts
-#EXTINF:-1 tvg-id="" tvg-name="MCM Top" tvg-logo="" group-title="Portugal",MCM Top
+#EXTINF:-1 tvg-id="" tvg-name="MCM Top" tvg-logo="" group-title="Musicales",MCM Top
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/169
-#EXTINF:-1 tvg-id="AlmaLusa.pt" tvg-name="Alma Lusa" tvg-logo="" group-title="Portugal",Alma Lusa
+#EXTINF:-1 tvg-id="AlmaLusa.pt" tvg-name="Alma Lusa" tvg-logo="" group-title="Musicales",Alma Lusa
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87468.ts
-#EXTINF:-1 tvg-id="" tvg-name="Trace Brazuca" tvg-logo="" group-title="Portugal",Trace Brazuca
+#EXTINF:-1 tvg-id="" tvg-name="Trace Brazuca" tvg-logo="" group-title="Musicales",Trace Brazuca
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87469.ts
-#EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="" group-title="Portugal",Trace Urban
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="" group-title="Musicales",Trace Urban
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87470.ts
-#EXTINF:-1 tvg-id="" tvg-name="Trace Toca" tvg-logo="" group-title="Portugal",Trace Toca
+#EXTINF:-1 tvg-id="" tvg-name="Trace Toca" tvg-logo="" group-title="Musicales",Trace Toca
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87471.ts
-#EXTINF:-1 tvg-id="" tvg-name="Afro Music Channel" tvg-logo="" group-title="Portugal",Afro Music Channel
+#EXTINF:-1 tvg-id="" tvg-name="Afro Music Channel" tvg-logo="" group-title="Musicales",Afro Music Channel
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87474.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live HD" tvg-logo="" group-title="Portugal",Mezzo Live
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live HD" tvg-logo="" group-title="Musicales",Mezzo Live
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87467.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live" tvg-logo="" group-title="Portugal",Mezzo Live
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live" tvg-logo="" group-title="Musicales",Mezzo Live
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87475.ts
