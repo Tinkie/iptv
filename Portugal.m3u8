@@ -57,10 +57,18 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87293.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87315.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVI Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/99/TVI_Internacional_logo_2017.png" group-title="Portugal",TVI Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87334.ts
+#EXTINF:-1 group-title="Portugal" tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="" group-title="Portugal",CNN Portugal
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87442.ts
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="" group-title="Portugal",CNN Portugal
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87457.ts
+#EXTINF:-1 group-title="Portugal" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png",CNN Brasil
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://187.13.81.148:8000/play/a09b
 #EXTINF:-1 tvg-id="" tvg-name="CM TV" tvg-logo="" group-title="Portugal",CM TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87443.ts
 #EXTINF:-1 tvg-id="" tvg-name="CM TV" tvg-logo="" group-title="Portugal",CM TV
