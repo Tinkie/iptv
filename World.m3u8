@@ -1,115 +1,138 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/raiplay.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz"
 
-#EXTINF:-1 group-title="Int. News" tvg-id="euronewsen.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews EN
+#EXTINF:-1 group-title="Generalistas" tvg-id="La1.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La1.png" tvg-name="La 1",La 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+https://rtvelivestream.akamaized.net/segments/la1/la1_main.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EuroNews EN" tvg-logo="" group-title="Int. News",EuroNews EN
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87434.ts
-
-#EXTINF:-1 group-title="Int. News" tvg-id="RTNews.ru" tvg-name="RT News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-News.png",RT News
-http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/38864
-
-#EXTINF:-1 group-title="Int. News" tvg-id="russia.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-News.png",RT News
+#EXTINF:-1 group-title="Generalistas" tvg-id="La2.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La2.png" tvg-name="La 2",La 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8?
+https://rtvelivestream.akamaized.net/segments/la2/la2_main.m3u8
 
-#EXTINF:-1 group-title="Int. News" tvg-id="RUSSTHD.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-America.png",RT America
+#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional" tvg-logo="" group-title="Informativos",TVE Internacional
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87466.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional" tvg-logo="" group-title="Informativos",TVE Internacional
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87341.ts
+
+#EXTINF:-1 group-title="Informativos" tvg-id="euronewsen.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#https://rt-usa.rttv.com/live/rtusa/playlist.m3u8
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="Int. News" tvg-id="RT HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-UK.png",RT UK
+#EXTINF:-1 group-title="Informativos" tvg-id="HispanTV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HispanTV.png",HispanTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
+https://live1.presstv.ir/live/hispan.m3u8
 
-#EXTINF:-1 group-title="Int. News" tvg-id="RT Español" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-Español.png",RT Español
+#EXTINF:-1 group-title="Informativos" tvg-id="DW Español" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",Deutsche Welle Español
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 group-title="Int. News" tvg-id="RT Francia HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-France.png",RT France
+#EXTINF:-1 group-title="Informativos" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/7NN-Noticias.png",7NN Noticias
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Int. News" tvg-id="rtdoc.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-Documentary.png",RT Documentary
+#EXTINF:-1 group-title="Informativos" tvg-id="tve24.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",24h
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+https://rtvelivestream.akamaized.net/segments/24h/24h_main.m3u8
 
-#EXTINF:-1 group-title="Int. News" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png",Press TV
+#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía" tvg-logo="" group-title="Andalucía",Canal Sur Andalucía
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10323.ts
+#EXTINF:-1 tvg-id="CanalMalaga.TV" tvg-name="Canal Málaga" tvg-logo="" group-title="Andalucía",Canal Málaga
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10364.ts
+
+#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-name="Telemadrid" tvg-logo="" group-title="C. de Madrid",Telemadrid
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10293.ts
+
+#EXTINF:-1 tvg-id="7RM.TV" tvg-name="7 R. de Murcia" tvg-logo="" group-title="R. de Murcia",7 R. de Murcia
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10368.ts
+
+#EXTINF:-1 tvg-id="TV3.TV" tvg-name="TV3 CAT" tvg-logo="" group-title="Cataluña",TV3 CAT
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="BoingSpain.it" tvg-name="Boing España" tvg-logo="" group-title="Infantiles",Boing Boing España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10306.ts
+#EXTINF:-1 tvg-id="BoingSpain.it" tvg-name="Boing España" tvg-logo="" group-title="Infantiles",Boing España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10206.ts
+#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="Clan TVE" tvg-logo="" group-title="Infantiles",Clan
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10312.ts
+#EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-name="Disney Channel España" tvg-logo="" group-title="Infantiles",Disney Channel España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10311.ts
+#EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-name="Disney Channel España" tvg-logo="" group-title="Infantiles",Disney Channel España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10212.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney + España" tvg-logo="" group-title="Infantiles",Disney + España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10309.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney + España" tvg-logo="" group-title="Infantiles",Disney + España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10214.ts
+#EXTINF:-1 tvg-id="DisneyJuniorSpain.es" tvg-name="Disney Junior España" tvg-logo="" group-title="Infantiles",Disney Junior España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10310.ts
+#EXTINF:-1 tvg-id="DisneyJuniorSpain.es" tvg-name="Disney Junior España" tvg-logo="" group-title="Infantiles",Disney Junior España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10213.ts
+#EXTINF:-1 tvg-id="CanalPandaSpain.pt" tvg-name="Canal Panda España" tvg-logo="" group-title="Infantiles",Canal Panda España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10314.ts
+#EXTINF:-1 tvg-id="NickelodeonSpain.es" tvg-name="Nickelodeon España" tvg-logo="" group-title="Infantiles",Nickelodeon España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10308.ts
+#EXTINF:-1 tvg-id="NickJrSpain.es" tvg-name="Nick Jr España" tvg-logo="" group-title="Infantiles",Nick Jr España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10307.ts
+#EXTINF:-1 tvg-id="NickJrSpain.es" tvg-name="Nick Jr España" tvg-logo="" group-title="Infantiles",Nick Jr España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10238.ts
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV Latin America" tvg-logo="" group-title="Infantiles",Baby TV Latin America
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10313.ts
+
+#EXTINF:-1 group-title="Galicia" tvg-id="tvgalicia.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVG.png" tvg-name="TVG",TVG
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://live1.presstv.ir/live/presstv.m3u8
+https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
 
-#EXTINF:-1 group-title="Int. News" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Free-Speech-TV.webp",Free Speech TV
-https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/04.m3u8
-
-#EXTINF:-1 group-title="Int. News" tvg-id="ABC News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ABC-News.png",ABC News
+#EXTINF:-1 group-title="Galicia" tvg-id="" tvg-logo="" tvg-name="TVG Cultura",TVG Cultura
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+https://cultural-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="Int. News",Bloomberg TV
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87465.ts
-
-#EXTINF:-1 group-title="Int. News" tvg-id="BLOOM.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV
+#EXTINF:-1 group-title="Galicia" tvg-id="" tvg-logo="" tvg-name="TVG Xabarin",TVG Xabarin
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+https://infantil-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Int. News" tvg-id="BLOOM.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Europe
+#EXTINF:-1 group-title="Galicia" tvg-id="" tvg-logo="" tvg-name="TVG Musigal",TVG Musigal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+https://musigal-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Int. News" tvg-id="CBSN" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CBSN.png",CBS News
+#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="Int. News",CNN
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87464.ts
-
-#EXTINF:-1 group-title="Int. News" tvg-id="cnn.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png",CNN
+#EXTINF:-1 tvg-id="CanalMalaga.TV" tvg-logo="https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Málaga",Canal Málaga
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Int. News" tvg-id="NBC News Now" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NBC-News-Now.png",NBC News Now
+#EXTINF:-1 group-title="Aragón" tvg-id="AragonTV.TV" tvg-logo="" tvg-name="Aragón TV",Aragón TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 group-title="Int. News" tvg-id="TELESUR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png",teleSUR English
+#EXTINF:-1 group-title="Extremadura" tvg-id="Extremadura.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Extremadura.png" tvg-name="Canal Extremadura",Canal Extremadura
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Int. News" tvg-id="BFM.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BFM-TV.png",BFM TV
+#EXTINF:-1 group-title="País Vasco" tvg-id="ETB1.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-1.png" tvg-name="ETB 1",ETB 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://bfmtvalive1-a.akamaihd.net/316e573c8855429887f65feb189fb5a7/eu-central-1/876450610001/playlist.m3u8
+https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
 
-#EXTINF:-1 group-title="Int. News" tvg-id="BFMB.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BFM-Business.png",BFM Business
+#EXTINF:-1 group-title="País Vasco" tvg-id="ETB2.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-2.png" tvg-name="ETB 2",ETB 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 group-title="Int. News" tvg-id="Grand Lille TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Grand-Lille-TV.png",Grand Lille TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://str81.creacast.com/grandlilletv/high/playlist.m3u8
-
-#EXTINF:-1 group-title="Int. News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Grand-Littoral-TV.png",Grand Littoral TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
+https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
 
 #EXTINF:-1 group-title="Int. Europa" tvg-id="TVGA.TV" tvg-logo="" tvg-name="TVG América",TVG América
 #KODIPROP:inputstream=inputstream.adaptive
@@ -128,6 +151,15 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TCV" tvg-logo="" group-title="Portugal",TCV Internacional
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87335.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TPA" tvg-logo="" group-title="Portugal",TPA Internacional
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87340.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ZAP Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" group-title="Portugal",ZAP Viva
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87303.ts
 
 #EXTINF:-1 group-title="Int. África" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVM.png",TVM
 #KODIPROP:inputstream=inputstream.adaptive
@@ -222,3 +254,101 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87436.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87296.ts
 #EXTINF:-1 tvg-id="" tvg-name="AMC Break" tvg-logo="" group-title="Int. Otros",AMC Break
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87344.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Stingray IConcerts" tvg-logo="" group-title="Musicales",Stingray IConcerts
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87342.ts
+#EXTINF:-1 tvg-id="180hd.tv.vodafone.pt" tvg-name="Canal 180" tvg-logo="" group-title="Musicales",Canal 180
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87309.ts
+#EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-name="MTV Portugal" tvg-logo="" group-title="Musicales",MTV Portugal
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87325.ts
+#EXTINF:-1 tvg-id="MTVSpain.es" tvg-name="MTV España" tvg-logo="" group-title="Musicales",MTV España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10324.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00s" tvg-logo="" group-title="Musicales",MTV 00s
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87476.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCM Pop" tvg-logo="" group-title="Musicales",MCM Pop
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87472.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCM Pop" tvg-logo="" group-title="Musicales",MCM Pop
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87473.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCM Top" tvg-logo="" group-title="Musicales",MCM Top
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/169
+#EXTINF:-1 tvg-id="AlmaLusa.pt" tvg-name="Alma Lusa" tvg-logo="" group-title="Musicales",Alma Lusa
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87468.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Brazuca" tvg-logo="" group-title="Musicales",Trace Brazuca
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87469.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="" group-title="Musicales",Trace Urban
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87470.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Toca" tvg-logo="" group-title="Musicales",Trace Toca
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87471.ts
+#EXTINF:-1 tvg-id="" tvg-name="Afro Music Channel" tvg-logo="" group-title="Musicales",Afro Music Channel
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87474.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live HD" tvg-logo="" group-title="Musicales",Mezzo Live
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87467.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live" tvg-logo="" group-title="Musicales",Mezzo Live
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87475.ts
+
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/On-FM.png",On FM Portugal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Musicales" tvg-id="tracehd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png",Trace Urban
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Musicales" tvg-id="CLUBHD.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png",Clubbing TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Musicales" tvg-id="1HD Music" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/1HD.png",1HD Music
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://live-3.otcnet.ru/onehdmulti/index.m3u8
+
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NRG-91-TV.png",NRG 91 TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Musicales" tvg-id="Deejay TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DeeJay-TV.png",DeeJay TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
+
+#EXTINF:-1 group-title="Musicales" tvg-id="4FUN.TV" tvg-id="4fun.pl" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/4Fun-TV.png",4Fun.TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#EXTINF:-1 group-title="Musicales" tvg-id="" tvg-id="Sexy KPOP TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sexy-KPOP-TV.png",Sexy KPOP TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/FM-Italia-TV.png",FM Italia TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream1.xdevel.com/video0s975817-1182/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Colosal-TV.png",Colosal TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png",California Music Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
+
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png",Country Music Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="Canal Cocina" tvg-logo="" group-title="Otros",Canal Cocina
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10304.ts
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="Canal Cocina" tvg-logo="" group-title="Otros",Canal Cocina
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10207.ts
+#EXTINF:-1 tvg-id="Decasa.es" tvg-name="Decasa" tvg-logo="" group-title="Otros",DeCasa
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10305.ts
