@@ -10,36 +10,10 @@ https://rtvelivestream.akamaized.net/segments/la1/la1_main.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestream.akamaized.net/segments/la2/la2_main.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional" tvg-logo="" group-title="Informativos",TVE Internacional
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87466.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional" tvg-logo="" group-title="Informativos",TVE Internacional
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87341.ts
-
-#EXTINF:-1 group-title="Informativos" tvg-id="euronewsen.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="Informativos" tvg-id="HispanTV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HispanTV.png",HispanTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://live1.presstv.ir/live/hispan.m3u8
-
-#EXTINF:-1 group-title="Informativos" tvg-id="DW Español" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",Deutsche Welle Español
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
 #EXTINF:-1 group-title="Informativos" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/7NN-Noticias.png",7NN Noticias
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Informativos" tvg-id="tve24.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",24h
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rtvelivestream.akamaized.net/segments/24h/24h_main.m3u8
 
 #EXTINF:-1 tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía" tvg-logo="" group-title="Andalucía",Canal Sur Andalucía
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10323.ts
