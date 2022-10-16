@@ -274,7 +274,7 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/24151
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/2109
 #EXTINF:-1 tvg-country="IT" tvg-logo="" group-title="Deportivos" tvg-id="SkySportF1.it" tvg-name="Sky Sport F1",Sky Sport F1
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/5583
-#EXTINF:-1 tvg-country="IT" tvg-logo="" group-title="Deportivos" tvg-id="SkySportF1OnBoard.it" tvg-name="Sky Sport F1 On Board",Sky Sport F1 On Board
+#EXTINF:-1 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/512px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Deportivos" tvg-id="SkySportF1OnBoard.it" tvg-name="Sky Sport F1 On Board",Sky Sport F1 On Board
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/153228
 #EXTINF:-1 tvg-country="IT" tvg-logo="" group-title="Deportivos" tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport Moto GP",Sky Sport Moto GP
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/24150
@@ -322,21 +322,21 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2700.ts
 http://vipiptv101.com:80/gencosman/020919.cvf/130668
 #EXTINF:-1 tvg-country="ZA" tvg-logo="" group-title="Deportivos" tvg-id="SuperSportTennis.za" tvg-shift="1" tvg-name="SS Tennis Nigeria",SuperSport Tennis
 http://vipiptv101.com:80/gencosman/020919.cvf/130720
-#EXTINF:-1 tvg-country="US" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Deportivos" tvg-id="tennischannel.us" tvg-name="Tennis Channel",Tennis Channel US
+#EXTINF:-1 tvg-country="US" tvg-logo="https://cdn.mos.cms.futurecdn.net/qYKkGSiQwZXe5UZkvPuAFQ-320-80.jpg" group-title="Deportivos" tvg-id="tennischannel.us" tvg-name="Tennis Channel",Tennis Channel US
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2806.ts
-#EXTINF:-1 tvg-country="US" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Deportivos" tvg-id="tennischannel.us" tvg-name="Tennis Channel",Tennis Channel US
+#EXTINF:-1 tvg-country="US" tvg-logo="https://cdn.mos.cms.futurecdn.net/qYKkGSiQwZXe5UZkvPuAFQ-320-80.jpg" group-title="Deportivos" tvg-id="tennischannel.us" tvg-name="Tennis Channel",Tennis Channel US
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8244
-#EXTINF:-1 tvg-country="UK" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Deportivos" tvg-name="Tennis Channel INT",Tennis Channel INT
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQGjvnBSYRriIw/company-logo_200_200/0/1646327585123?e=2147483647&v=beta&t=GelKB0_PQ-HChC4XztbmTOQnN39ZExsRfaUoUI42190" group-title="Deportivos" tvg-name="Tennis Channel INT",Tennis Channel INT
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159575?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="UK" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Deportivos" tvg-name="Tennis Channel INT",Tennis Channel INT
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQGjvnBSYRriIw/company-logo_200_200/0/1646327585123?e=2147483647&v=beta&t=GelKB0_PQ-HChC4XztbmTOQnN39ZExsRfaUoUI42190" group-title="Deportivos" tvg-name="Tennis Channel INT",Tennis Channel INT
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="UK" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Deportivos" tvg-name="Tennis Channel INT",Tennis Channel INT
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQGjvnBSYRriIw/company-logo_200_200/0/1646327585123?e=2147483647&v=beta&t=GelKB0_PQ-HChC4XztbmTOQnN39ZExsRfaUoUI42190" group-title="Deportivos" tvg-name="Tennis Channel INT",Tennis Channel INT
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="UK" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Deportivos" tvg-name="Tennis Channel INT",Tennis Channel INT
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQGjvnBSYRriIw/company-logo_200_200/0/1646327585123?e=2147483647&v=beta&t=GelKB0_PQ-HChC4XztbmTOQnN39ZExsRfaUoUI42190" group-title="Deportivos" tvg-name="Tennis Channel INT",Tennis Channel INT
 http://vipiptv101.com:80/gencosman/020919.cvf/122390
-#EXTINF:-1 tvg-country="UK" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Deportivos" tvg-name="Tennis Channel INT",Tennis Channel INT
+#EXTINF:-1 tvg-country="UK" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQGjvnBSYRriIw/company-logo_200_200/0/1646327585123?e=2147483647&v=beta&t=GelKB0_PQ-HChC4XztbmTOQnN39ZExsRfaUoUI42190" group-title="Deportivos" tvg-name="Tennis Channel INT",Tennis Channel INT
 http://vipiptv101.com:80/gencosman/020919.cvf/129349
-#EXTINF:-1 tvg-country="DE" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Deportivos" tvg-name="Tennis Channel DE",Tennis Channel DE
+#EXTINF:-1 tvg-country="DE" tvg-logo="https://www.logolynx.com/images/logolynx/s_7e/7e36e802707b65c2fc16030a923928e5.jpeg" group-title="Deportivos" tvg-name="Tennis Channel DE",Tennis Channel DE
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="IT" tvg-logo="" group-title="Deportivos" tvg-id="SuperTennis.it" tvg-name="Super Tennis",Super Tennis
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/2110
@@ -364,7 +364,7 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/395395
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/347475
 #EXTINF:-1 tvg-country="DE" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" group-title="Deportivos" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis",Sky Sport Tennis DE
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161774
-#EXTINF:-1 tvg-country="FR" tvg-logo="" group-title="Deportivos" tvg-id="" tvg-name="Tennis TV",Tennis TV
+#EXTINF:-1 tvg-country="FR" tvg-logo="https://www.barcelonaopenbancsabadell.com/wp-content/uploads/2021/04/atp-logo.png" group-title="Deportivos" tvg-id="" tvg-name="Tennis TV",Tennis TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/311067
 #EXTINF:-1 tvg-country="NL" tvg-logo="" group-title="Deportivos" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
 http://red.ipfox.org:8080/osama2022/osama2023/49180
