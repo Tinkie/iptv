@@ -126,10 +126,10 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TCV" tvg-logo="" group-title="Int. África",TCV Internacional
+#EXTINF:-1 tvg-id="TCVInternacional.cv" tvg-name="TCV" tvg-logo="" group-title="Int. África",TCV Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87335.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TPA" tvg-logo="" group-title="Int. África",TPA Internacional
+#EXTINF:-1 tvg-id="TPAInternacional.ao" tvg-name="TPA" tvg-logo="" group-title="Int. África",TPA Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87340.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ZAP Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" group-title="Int. África",ZAP Viva
