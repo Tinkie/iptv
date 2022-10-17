@@ -205,10 +205,15 @@ http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
+#EXTINF:-1 group-title="Portugal",My Cuisine
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/173
+
 #EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://cunhadigital.com/Picons_FR/eentertainment.png" group-title="Int. Otros",E!
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87330.ts
 #EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://cunhadigital.com/Picons_FR/eentertainment.png" group-title="Int. Otros",E!
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87463.ts
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://cunhadigital.com/Picons_FR/eentertainment.png" group-title="Int. Otros",E!
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/17040
 
 #EXTINF:-1 tvg-id="" tvg-name="BBC Entertainment" tvg-logo="" group-title="Int. Otros",BBC Entertainment
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87337.ts
@@ -216,18 +221,28 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87337.ts
 #EXTINF:-1 tvg-id="" tvg-name="CNBC Europe" tvg-logo="" group-title="Int. Otros",CNBC Europe
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87338.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CBS REALITY" tvg-logo="" group-title="Int. Otros",CBS REALITY
+#EXTINF:-1 tvg-id="" tvg-name="CBS REALITY" tvg-logo="" group-title="Int. Otros",CBS Reality
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87328.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS REALITY" tvg-logo="" group-title="Int. Otros",CBS Reality
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/116
 #EXTINF:-1 tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation" tvg-logo="" group-title="Int. Otros",Crime + Investigation
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87327.ts
 #EXTINF:-1 tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation" tvg-logo="" group-title="Int. Otros",Crime + Investigation
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87343.ts
+#EXTINF:-1 tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation" tvg-logo="" group-title="Int. Otros",Crime + Investigation
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/130
 #EXTINF:-1 tvg-id="" tvg-name="ID Investigation Discovery" tvg-logo="https://cunhadigital.com/Picons/Investdisc.png" group-title="Int. Otros",ID Investigation Discovery
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87436.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Investigation Discovery" tvg-logo="https://cunhadigital.com/Picons/Investdisc.png" group-title="Int. Otros",ID Investigation Discovery
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/132
+#EXTINF:-1 tvg-id="" tvg-name="ID Investigation Discovery" tvg-logo="https://cunhadigital.com/Picons/Investdisc.png" group-title="Int. Otros",ID Investigation Discovery
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/170371
 #EXTINF:-1 tvg-id="" tvg-name="AMC Break" tvg-logo="" group-title="Int. Otros",AMC Break
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87296.ts
 #EXTINF:-1 tvg-id="" tvg-name="AMC Break" tvg-logo="" group-title="Int. Otros",AMC Break
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87344.ts
+#EXTINF:-1 group-title="Portugal",Blaze
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/114
 
 #EXTINF:-1 tvg-id="" tvg-name="Stingray IConcerts" tvg-logo="" group-title="Musicales",Stingray IConcerts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87342.ts
