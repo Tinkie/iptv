@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv source-info-url="https://web.ott-red.vodafone.pt/ott3_webapp/guia-tv" source-info-name="EPG Service for Vodafone" generator-info-name="XMLTV/0" generator-info-url="http://www.xmltv.org/">
+  <channel id="dischd.tv.vodafone.pt">
+    <display-name lang="pt">Discovery HD</display-name>
+    <display-name lang="pt">Disc HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/387/" />
+  </channel>
+  <channel id="abolatvhd.tv.vodafone.pt">
+    <display-name lang="pt">A Bola TV HD</display-name>
+    <display-name lang="pt">ABOLA TV HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/536/" />
+  </channel>
+  <channel id="globonowhd.tv.vodafone.pt">
+    <display-name lang="pt">Globo Now HD</display-name>
+    <display-name lang="pt">GLOBO NOW HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/417/" />
+  </channel>
+  <channel id="ehd.tv.vodafone.pt">
+    <display-name lang="pt">E! HD</display-name>
+    <display-name lang="pt">E! HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/188/" />
+  </channel>
+  <channel id="afrom.tv.vodafone.pt">
+    <display-name lang="pt">AfroMusic Portugal</display-name>
+    <display-name lang="pt">AFRO M</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/345/" />
+  </channel>
+  <channel id="syfyhd.tv.vodafone.pt">
+    <display-name lang="pt">SyFy HD</display-name>
+    <display-name lang="pt">SyFy HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/228/" />
+  </channel>
+  <channel id="seta.tv.vodafone.pt">
+    <display-name lang="pt">SET Ásia</display-name>
+    <display-name lang="pt">SET A</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/129/" />
+  </channel>
+  <channel id="starp.tv.vodafone.pt">
+    <display-name lang="pt">Star Plus</display-name>
+    <display-name lang="pt">STAR P</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/145/" />
+  </channel>
+  <channel id="russia.tv.vodafone.pt">
+    <display-name lang="pt">RT</display-name>
+    <display-name lang="pt">RUSSIA</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/91/" />
+  </channel>
+  <channel id="vox.tv.vodafone.pt">
+    <display-name lang="pt">VOX</display-name>
+    <display-name lang="pt">VOX</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/245/" />
+  </channel>
+  <channel id="sicrhd.tv.vodafone.pt">
+    <display-name lang="pt">SIC Radical HD</display-name>
+    <display-name lang="pt">SIC R HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/392/" />
+  </channel>
+  <channel id="nautical.tv.vodafone.pt">
+    <display-name lang="pt">Nautical Channel</display-name>
+    <display-name lang="pt">NAUTICAL</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/73/" />
+  </channel>
+  <channel id="cnn.tv.vodafone.pt">
+    <display-name lang="pt">CNN</display-name>
+    <display-name lang="pt">CNN</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/95/" />
+  </channel>
+  <channel id="tfnhd.tv.vodafone.pt">
+    <display-name lang="pt">Food Network HD</display-name>
+    <display-name lang="pt">TFN HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/476/" />
+  </channel>
+  <channel id="ngwhd.tv.vodafone.pt">
+    <display-name lang="pt">Nat Geo Wild HD</display-name>
+    <display-name lang="pt">NGW HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/198/" />
+  </channel>
+  <channel id="sichd.tv.vodafone.pt">
+    <display-name lang="pt">SIC HD</display-name>
+    <display-name lang="pt">SIC HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/390/" />
+  </channel>
+  <channel id="tpa.tv.vodafone.pt">
+    <display-name lang="pt">TPA Internacional</display-name>
+    <display-name lang="pt">TPA</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/43/" />
+  </channel>
+  <channel id="pfc.tv.vodafone.pt">
+    <display-name lang="pt">PFC</display-name>
+    <display-name lang="pt">PFC</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/66/" />
+  </channel>
+  <channel id="axnhd.tv.vodafone.pt">
+    <display-name lang="pt">AXN HD</display-name>
+    <display-name lang="pt">AXN HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/108/" />
+  </channel>
+  <channel id="eleven1.tv.vodafone.pt">
+    <display-name lang="pt">Eleven 1</display-name>
+    <display-name lang="pt">Eleven 1</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/521/" />
+  </channel>
+  <channel id="rainews.tv.vodafone.pt">
+    <display-name lang="pt">RAI News</display-name>
+    <display-name lang="pt">RAINEWS</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/85/" />
+  </channel>
+  <channel id="cnhd.tv.vodafone.pt">
+    <display-name lang="pt">Cartoon Network HD</display-name>
+    <display-name lang="pt">CN HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/570/" />
+  </channel>
+  <channel id="cinemundohd.tv.vodafone.pt">
+    <display-name lang="pt">Cinemundo</display-name>
+    <display-name lang="pt">CINEMUNDO HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/352/" />
+  </channel>
+  <channel id="setm.tv.vodafone.pt">
+    <display-name lang="pt">SET Max</display-name>
+    <display-name lang="pt">SET M</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/130/" />
+  </channel>
+  <channel id="eleven5.tv.vodafone.pt">
+    <display-name lang="pt">Eleven 5</display-name>
+    <display-name lang="pt">Eleven 5</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/525/" />
+  </channel>
+  <channel id="djazz.tv.vodafone.pt">
+    <display-name lang="pt">DJAZZ</display-name>
+    <display-name lang="pt">DJAZZ</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/344/" />
+  </channel>
+  <channel id="sptv4hd.tv.vodafone.pt">
+    <display-name lang="pt">Sport TV 4 HD</display-name>
+    <display-name lang="pt">SPTV4 HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/10/" />
+  </channel>
+  <channel id="foxlhd.tv.vodafone.pt">
+    <display-name lang="pt">Fox Life HD</display-name>
+    <display-name lang="pt">FOXLHD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/104/" />
+  </channel>
+  <channel id="tvcnews.tv.vodafone.pt">
+    <display-name lang="pt">TVC NEWS</display-name>
+    <display-name lang="pt">TVC NEWS</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/349/" />
+  </channel>
+  <channel id="pandakids.tv.vodafone.pt">
+    <display-name lang="pt">Panda Kids</display-name>
+    <display-name lang="pt">PANDA KIDS</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/564/" />
+  </channel>
+  <channel id="dogtv.tv.vodafone.pt">
+    <display-name lang="pt">DOGTV</display-name>
+    <display-name lang="pt">DOGTV</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/348/" />
+  </channel>
+  <channel id="btv1hd.tv.vodafone.pt">
+    <display-name lang="pt">Benfica TV HD</display-name>
+    <display-name lang="pt">BTV1 HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/231/" />
+  </channel>
+  <channel id="rai1.tv.vodafone.pt">
+    <display-name lang="pt">RAI 1</display-name>
+    <display-name lang="pt">RAI 1</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/84/" />
+  </channel>
+  <channel id="sptv6hd.tv.vodafone.pt">
+    <display-name lang="pt">Sport TV 6 HD</display-name>
+    <display-name lang="pt">SPTV6 HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/566/" />
+  </channel>
+  <channel id="bbcentert.tv.vodafone.pt">
+    <display-name lang="pt">BBC Entertainment</display-name>
+    <display-name lang="pt">BBC ENTERT</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/341/" />
+  </channel>
+  <channel id="fra24e.tv.vodafone.pt">
+    <display-name lang="pt">France 24 Eng</display-name>
+    <display-name lang="pt">FRA24E</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/81/" />
+  </channel>
+  <channel id="kbsworld.tv.vodafone.pt">
+    <display-name lang="pt">KBS</display-name>
+    <display-name lang="pt">KBS WORLD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/368/" />
+  </channel>
+  <channel id="180hd.tv.vodafone.pt">
+    <display-name lang="pt">Canal 180 HD</display-name>
+    <display-name lang="pt">180 HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/161/" />
+  </channel>
+  <channel id="globohd.tv.vodafone.pt">
+    <display-name lang="pt">TV Globo Básico HD</display-name>
+    <display-name lang="pt">GLOBO HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/501/" />
+  </channel>
+  <channel id="mzenhd.tv.vodafone.pt">
+    <display-name lang="pt">Melody Zen. TV</display-name>
+    <display-name lang="pt">MZENHD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/69/" />
+  </channel>
+  <channel id="rtpaf.tv.vodafone.pt">
+    <display-name lang="pt">RTP Africa</display-name>
+    <display-name lang="pt">RTP AF</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/5/" />
+  </channel>
+  <channel id="fightnetworkhd.tv.vodafone.pt">
+    <display-name lang="pt">Fight Network HD</display-name>
+    <display-name lang="pt">FIGHT NETWORK HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/374/" />
+  </channel>
+  <channel id="tracehd.tv.vodafone.pt">
+    <display-name lang="pt">Trace TV HD</display-name>
+    <display-name lang="pt">TRACE HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/495/" />
+  </channel>
+  <channel id="casaecoz.tv.vodafone.pt">
+    <display-name lang="pt">Casa e Cozinha HD</display-name>
+    <display-name lang="pt">CASAECOZ</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/561/" />
+  </channel>
+  <channel id="sptv-plushd.tv.vodafone.pt">
+    <display-name lang="pt">Sport TV + HD</display-name>
+    <display-name lang="pt">SPTV+ HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/408/" />
+  </channel>
+  <channel id="tracetoca.tv.vodafone.pt">
+    <display-name lang="pt">Trace Toca</display-name>
+    <display-name lang="pt">TRACE TOCA</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/471/" />
+  </channel>
+  <channel id="nick.tv.vodafone.pt">
+    <display-name lang="pt">Nickelodeon</display-name>
+    <display-name lang="pt">NICK</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/553/" />
+  </channel>
+  <channel id="foxhd.tv.vodafone.pt">
+    <display-name lang="pt">Fox HD</display-name>
+    <display-name lang="pt">FOXHD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/107/" />
+  </channel>
+  <channel id="phoeni.tv.vodafone.pt">
+    <display-name lang="pt">Phoenix InfoNews</display-name>
+    <display-name lang="pt">PHOENI</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/76/" />
+  </channel>
+  <channel id="rtl.tv.vodafone.pt">
+    <display-name lang="pt">RTL</display-name>
+    <display-name lang="pt">RTL</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/243/" />
+  </channel>
+  <channel id="tv5mon.tv.vodafone.pt">
+    <display-name lang="pt">TV5 Monde</display-name>
+    <display-name lang="pt">TV5MON</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/33/" />
+  </channel>
+  <channel id="artv.tv.vodafone.pt">
+    <display-name lang="pt">Canal Parlamento</display-name>
+    <display-name lang="pt">AR TV</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/16/" />
+  </channel>
+  <channel id="mezzolivehd.tv.vodafone.pt">
+    <display-name lang="pt">MEZZO Live HD</display-name>
+    <display-name lang="pt">MEZZO LIVE HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/409/" />
+  </channel>
+  <channel id="aljaze.tv.vodafone.pt">
+    <display-name lang="pt">Al Jazeera English</display-name>
+    <display-name lang="pt">ALJAZE</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/100/" />
+  </channel>
+  <channel id="skynews.tv.vodafone.pt">
+    <display-name lang="pt">Sky News</display-name>
+    <display-name lang="pt">Sky News</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/206/" />
+  </channel>
+  <channel id="cubavi.tv.vodafone.pt">
+    <display-name lang="pt">Cubavision</display-name>
+    <display-name lang="pt">CUBAVI</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/101/" />
+  </channel>
+  <channel id="bbcwd.tv.vodafone.pt">
+    <display-name lang="pt">BBC World News</display-name>
+    <display-name lang="pt">BBC WD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/37/" />
+  </channel>
+  <channel id="m6.tv.vodafone.pt">
+    <display-name lang="pt">M6</display-name>
+    <display-name lang="pt">M6</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/240/" />
+  </channel>
+  <channel id="fueltvhd.tv.vodafone.pt">
+    <display-name lang="pt">Fuel TV HD</display-name>
+    <display-name lang="pt">FuelTVHD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/177/" />
+  </channel>
+  <channel id="starg.tv.vodafone.pt">
+    <display-name lang="pt">Star Gold</display-name>
+    <display-name lang="pt">STAR G</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/144/" />
+  </channel>
+  <channel id="fra24f.tv.vodafone.pt">
+    <display-name lang="pt">France 24 FR</display-name>
+    <display-name lang="pt">FRA24F</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/82/" />
+  </channel>
+  <channel id="tlc.tv.vodafone.pt">
+    <display-name lang="pt">TLC</display-name>
+    <display-name lang="pt">TLC</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/385/" />
+  </channel>
+  <channel id="rtdoc.tv.vodafone.pt">
+    <display-name lang="pt">RT Doc</display-name>
+    <display-name lang="pt">RT DOC</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/489/" />
+  </channel>
+  <channel id="pandahd.tv.vodafone.pt">
+    <display-name lang="pt">Panda HD</display-name>
+    <display-name lang="pt">PANDA HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/562/" />
+  </channel>
+  <channel id="ginx.tv.vodafone.pt">
+    <display-name lang="pt">GINX</display-name>
+    <display-name lang="pt">GINX</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/125/" />
+  </channel>
+  <channel id="bloomb.tv.vodafone.pt">
+    <display-name lang="pt">Bloomberg</display-name>
+    <display-name lang="pt">BLOOMB</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/59/" />
+  </channel>
+  <channel id="canalqhd.tv.vodafone.pt">
+    <display-name lang="pt">Canal Q HD</display-name>
+    <display-name lang="pt">Canal Q HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/373/" />
+  </channel>
+  <channel id="disneyjrhd.tv.vodafone.pt">
+    <display-name lang="pt">Disney Junior HD</display-name>
+    <display-name lang="pt">DISNEY JR HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/568/" />
+  </channel>
+  <channel id="ngchd.tv.vodafone.pt">
+    <display-name lang="pt">Nat Geo HD</display-name>
+    <display-name lang="pt">NGC HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/31/" />
+  </channel>
+  <channel id="boomhd.tv.vodafone.pt">
+    <display-name lang="pt">Boomerang HD</display-name>
+    <display-name lang="pt">BOOM HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/569/" />
+  </channel>
+  <channel id="classica.tv.vodafone.pt">
+    <display-name lang="pt">Stingray Classica HD</display-name>
+    <display-name lang="pt">CLASSICA</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/128/" />
+  </channel>
+  <channel id="sickhd.tv.vodafone.pt">
+    <display-name lang="pt">SIC K HD</display-name>
+    <display-name lang="pt">SIC K HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/416/" />
+  </channel>
+  <channel id="tvcemotionhd.tv.vodafone.pt">
+    <display-name lang="pt">TVCine Emotion HD</display-name>
+    <display-name lang="pt">TVC Emotion HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/181/" />
+  </channel>
+  <channel id="euronewsen.tv.vodafone.pt">
+    <display-name lang="pt">Euronews EN</display-name>
+    <display-name lang="pt">EURONEWS EN</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/481/" />
+  </channel>
+  <channel id="portochd.tv.vodafone.pt">
+    <display-name lang="pt">PORTOC HD</display-name>
+    <display-name lang="pt">PORTOC HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/375/" />
+  </channel>
+  <channel id="mcmpop.tv.vodafone.pt">
+    <display-name lang="pt">MCM POP</display-name>
+    <display-name lang="pt">MCM POP</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/93/" />
+  </channel>
+  <channel id="sptvnba.tv.vodafone.pt">
+    <display-name lang="pt">SPTV NBA</display-name>
+    <display-name lang="pt">SPTV NBA</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/519/" />
+  </channel>
+  <channel id="sptv1hd.tv.vodafone.pt">
+    <display-name lang="pt">Sport TV 1 HD</display-name>
+    <display-name lang="pt">SPTV1 HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/151/" />
+  </channel>
+  <channel id="tvgalicia.tv.vodafone.pt">
+    <display-name lang="pt">TV Galicia</display-name>
+    <display-name lang="pt">TVGalicia</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/200/" />
+  </channel>
+  <channel id="cnnpthd.tv.vodafone.pt">
+    <display-name lang="pt">CNN Portugal HD</display-name>
+    <display-name lang="pt">CNN PT HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/542/" />
+  </channel>
+  <channel id="mtv00s.tv.vodafone.pt">
+    <display-name lang="pt">MTV 00s</display-name>
+    <display-name lang="pt">MTV00s</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/50/" />
+  </channel>
+  <channel id="protv.tv.vodafone.pt">
+    <display-name lang="pt">PRO TV International</display-name>
+    <display-name lang="pt">PROTV</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/55/" />
+  </channel>
+  <channel id="luxehd.tv.vodafone.pt">
+    <display-name lang="pt">Luxe TV HD</display-name>
+    <display-name lang="pt">LUXEHD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/62/" />
+  </channel>
+  <channel id="tcvint.tv.vodafone.pt">
+    <display-name lang="pt">TCVi</display-name>
+    <display-name lang="pt">TCV INT</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/485/" />
+  </channel>
+  <channel id="superrtl.tv.vodafone.pt">
+    <display-name lang="pt">Super RTL</display-name>
+    <display-name lang="pt">SUPER RTL</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/244/" />
+  </channel>
+  <channel id="tvcactionhd.tv.vodafone.pt">
+    <display-name lang="pt">TVCine Action HD</display-name>
+    <display-name lang="pt">TVC Action HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/182/" />
+  </channel>
+  <channel id="travelhd.tv.vodafone.pt">
+    <display-name lang="pt">Travel HD</display-name>
+    <display-name lang="pt">TRAVEL HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/475/" />
+  </channel>
+  <channel id="sptv2hd.tv.vodafone.pt">
+    <display-name lang="pt">Sport TV 2 HD</display-name>
+    <display-name lang="pt">SPTV2 HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/152/" />
+  </channel>
+  <channel id="hollywhd.tv.vodafone.pt">
+    <display-name lang="pt">Hollywood HD</display-name>
+    <display-name lang="pt">HOLLYW HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/478/" />
+  </channel>
+  <channel id="fightbox.tv.vodafone.pt">
+    <display-name lang="pt">Fightbox HD</display-name>
+    <display-name lang="pt">FightBox</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/350/" />
+  </channel>
+  <channel id="amchd.tv.vodafone.pt">
+    <display-name lang="pt">AMC HD</display-name>
+    <display-name lang="pt">AMC HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/479/" />
+  </channel>
+  <channel id="arirangtv.tv.vodafone.pt">
+    <display-name lang="pt">Arirang TV</display-name>
+    <display-name lang="pt">ARIRANG TV</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/499/" />
+  </channel>
+  <channel id="pandab.tv.vodafone.pt">
+    <display-name lang="pt">Panda Biggs</display-name>
+    <display-name lang="pt">PANDA B</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/146/" />
+  </channel>
+  <channel id="s-plus.tv.vodafone.pt">
+    <display-name lang="pt">S+</display-name>
+    <display-name lang="pt">S+</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/533/" />
+  </channel>
+  <channel id="axnmhd.tv.vodafone.pt">
+    <display-name lang="pt">AXN Movies HD</display-name>
+    <display-name lang="pt">AXN M HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/183/" />
+  </channel>
+  <channel id="eleven4.tv.vodafone.pt">
+    <display-name lang="pt">Eleven 4</display-name>
+    <display-name lang="pt">Eleven 4</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/524/" />
+  </channel>
+  <channel id="tvctophd.tv.vodafone.pt">
+    <display-name lang="pt">TVCine Top HD</display-name>
+    <display-name lang="pt">TVC Top HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/149/" />
+  </channel>
+  <channel id="odisseiahd.tv.vodafone.pt">
+    <display-name lang="pt">Odisseia HD</display-name>
+    <display-name lang="pt">ODISSEIA HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/490/" />
+  </channel>
+  <channel id="sicmhd.tv.vodafone.pt">
+    <display-name lang="pt">SIC Mulher HD</display-name>
+    <display-name lang="pt">SIC M HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/414/" />
+  </channel>
+  <channel id="ghd.tv.vodafone.pt">
+    <display-name lang="pt">Gametoon</display-name>
+    <display-name lang="pt">GHD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/557/" />
+  </channel>
+  <channel id="tvei.tv.vodafone.pt">
+    <display-name lang="pt">TVE Internacional</display-name>
+    <display-name lang="pt">TVEi</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/40/" />
+  </channel>
+  <channel id="euronw.tv.vodafone.pt">
+    <display-name lang="pt">Euronews</display-name>
+    <display-name lang="pt">EURONW</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/39/" />
+  </channel>
+  <channel id="recnews.tv.vodafone.pt">
+    <display-name lang="pt">Record News</display-name>
+    <display-name lang="pt">REC NEWS</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/155/" />
+  </channel>
+  <channel id="foxchd.tv.vodafone.pt">
+    <display-name lang="pt">Fox Crime HD</display-name>
+    <display-name lang="pt">Fox C HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/199/" />
+  </channel>
+  <channel id="rtpmad.tv.vodafone.pt">
+    <display-name lang="pt">RTP Madeira</display-name>
+    <display-name lang="pt">RTPMAD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/342/" />
+  </channel>
+  <channel id="eursp2hd.tv.vodafone.pt">
+    <display-name lang="pt">Eurosport 2 HD</display-name>
+    <display-name lang="pt">EURSP2 HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/527/" />
+  </channel>
+  <channel id="cmtvhd.tv.vodafone.pt">
+    <display-name lang="pt">CMTV HD</display-name>
+    <display-name lang="pt">CMTV HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/498/" />
+  </channel>
+  <channel id="tvrechd.tv.vodafone.pt">
+    <display-name lang="pt">TV Record HD</display-name>
+    <display-name lang="pt">TV REC HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/238/" />
+  </channel>
+  <channel id="sicnhd.tv.vodafone.pt">
+    <display-name lang="pt">SIC Notícias HD</display-name>
+    <display-name lang="pt">SIC N HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/413/" />
+  </channel>
+  <channel id="qyouhd.tv.vodafone.pt">
+    <display-name lang="pt">QYOU HD</display-name>
+    <display-name lang="pt">QYOU HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/382/" />
+  </channel>
+  <channel id="tvcshd.tv.vodafone.pt">
+    <display-name lang="pt">TV Series HD</display-name>
+    <display-name lang="pt">TVC S HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/159/" />
+  </channel>
+  <channel id="cmusic.tv.vodafone.pt">
+    <display-name lang="pt">C Music TV</display-name>
+    <display-name lang="pt">CMUSIC</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/34/" />
+  </channel>
+  <channel id="docuboxhd.tv.vodafone.pt">
+    <display-name lang="pt">Docubox HD</display-name>
+    <display-name lang="pt">DOCUBOX HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/412/" />
+  </channel>
+  <channel id="rtp1hd.tv.vodafone.pt">
+    <display-name lang="pt">RTPHD</display-name>
+    <display-name lang="pt">RTP 1 HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/110/" />
+  </channel>
+  <channel id="eleven2.tv.vodafone.pt">
+    <display-name lang="pt">Eleven 2</display-name>
+    <display-name lang="pt">Eleven 2</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/522/" />
+  </channel>
+  <channel id="eurochannelpt.tv.vodafone.pt">
+    <display-name lang="pt">Eurochannel PT</display-name>
+    <display-name lang="pt">EUROCHANNEL PT</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/510/" />
+  </channel>
+  <channel id="cnbce.tv.vodafone.pt">
+    <display-name lang="pt">CNBC</display-name>
+    <display-name lang="pt">CNBC E</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/42/" />
+  </channel>
+  <channel id="sicchd.tv.vodafone.pt">
+    <display-name lang="pt">SIC Caras HD</display-name>
+    <display-name lang="pt">SIC C HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/415/" />
+  </channel>
+  <channel id="rtpmem.tv.vodafone.pt">
+    <display-name lang="pt">RTP Memoria</display-name>
+    <display-name lang="pt">RTPMEM</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/4/" />
+  </channel>
+  <channel id="rtp3hd.tv.vodafone.pt">
+    <display-name lang="pt">RTP 3 HD</display-name>
+    <display-name lang="pt">RTP 3 HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/563/" />
+  </channel>
+  <channel id="mezzo.tv.vodafone.pt">
+    <display-name lang="pt">MEZZO</display-name>
+    <display-name lang="pt">MEZZO</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/61/" />
+  </channel>
+  <channel id="mtvphd.tv.vodafone.pt">
+    <display-name lang="pt">MTV Portugal HD</display-name>
+    <display-name lang="pt">MTV P HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/403/" />
+  </channel>
+  <channel id="foxmhd.tv.vodafone.pt">
+    <display-name lang="pt">Fox Movies HD</display-name>
+    <display-name lang="pt">Fox M HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/197/" />
+  </channel>
+  <channel id="eleven3.tv.vodafone.pt">
+    <display-name lang="pt">Eleven 3</display-name>
+    <display-name lang="pt">Eleven 3</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/523/" />
+  </channel>
+  <channel id="eursphd.tv.vodafone.pt">
+    <display-name lang="pt">Eurosport HD</display-name>
+    <display-name lang="pt">EURSPHD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/54/" />
+  </channel>
+  <channel id="disney.tv.vodafone.pt">
+    <display-name lang="pt">Disney Channel</display-name>
+    <display-name lang="pt">DISNEY</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/48/" />
+  </channel>
+  <channel id="foxcomedyhd.tv.vodafone.pt">
+    <display-name lang="pt">FOX Comedy HD</display-name>
+    <display-name lang="pt">FOX Comedy HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/363/" />
+  </channel>
+  <channel id="fastnfunbox.tv.vodafone.pt">
+    <display-name lang="pt">FastnFunbox HD</display-name>
+    <display-name lang="pt">FastnFunBox</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/351/" />
+  </channel>
+  <channel id="sptv3hd.tv.vodafone.pt">
+    <display-name lang="pt">Sport TV 3 HD</display-name>
+    <display-name lang="pt">SPTV3 HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/153/" />
+  </channel>
+  <channel id="localhd.tv.vodafone.pt">
+    <display-name lang="pt">Localvisão HD</display-name>
+    <display-name lang="pt">Local HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/195/" />
+  </channel>
+  <channel id="eleven6.tv.vodafone.pt">
+    <display-name lang="pt">Eleven 6</display-name>
+    <display-name lang="pt">Eleven 6</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/526/" />
+  </channel>
+  <channel id="tvceditionhd.tv.vodafone.pt">
+    <display-name lang="pt">TVCine Edition HD</display-name>
+    <display-name lang="pt">TVC Edition HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/150/" />
+  </channel>
+  <channel id="sptv4k.tv.vodafone.pt">
+    <display-name lang="pt">SPTV 4K</display-name>
+    <display-name lang="pt">SPTV 4K</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/396/" />
+  </channel>
+  <channel id="canal11hd.tv.vodafone.pt">
+    <display-name lang="pt">Canal 11 HD</display-name>
+    <display-name lang="pt">CANAL 11 HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/538/" />
+  </channel>
+  <channel id="nhkworld.tv.vodafone.pt">
+    <display-name lang="pt">NHK WORLD TV</display-name>
+    <display-name lang="pt">NHK WORLD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/360/" />
+  </channel>
+  <channel id="24khd.tv.vodafone.pt">
+    <display-name lang="pt">24Kitchen HD</display-name>
+    <display-name lang="pt">24K HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/196/" />
+  </channel>
+  <channel id="mcmtop.tv.vodafone.pt">
+    <display-name lang="pt">MCM TOP</display-name>
+    <display-name lang="pt">MCMTOP</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/92/" />
+  </channel>
+  <channel id="sptv5hd.tv.vodafone.pt">
+    <display-name lang="pt">Sport TV 5 HD</display-name>
+    <display-name lang="pt">SPTV5 HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/112/" />
+  </channel>
+  <channel id="scptvhd.tv.vodafone.pt">
+    <display-name lang="pt">Sporting TV HD</display-name>
+    <display-name lang="pt">SCP TV HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/487/" />
+  </channel>
+  <channel id="fashiontvhd.tv.vodafone.pt">
+    <display-name lang="pt">Fashion TV HD</display-name>
+    <display-name lang="pt">FASHION TV HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/391/" />
+  </channel>
+  <channel id="axnwhd.tv.vodafone.pt">
+    <display-name lang="pt">AXN White HD</display-name>
+    <display-name lang="pt">AXN W HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/184/" />
+  </channel>
+  <channel id="tve24.tv.vodafone.pt">
+    <display-name lang="pt">TVE 24h</display-name>
+    <display-name lang="pt">TVE 24</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/41/" />
+  </channel>
+  <channel id="rtpacorhd.tv.vodafone.pt">
+    <display-name lang="pt">RTP Açores HD</display-name>
+    <display-name lang="pt">RTPACOR HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/558/" />
+  </channel>
+  <channel id="dw.tv.vodafone.pt">
+    <display-name lang="pt">Deutche Welle</display-name>
+    <display-name lang="pt">DW</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/94/" />
+  </channel>
+  <channel id="histor.tv.vodafone.pt">
+    <display-name lang="pt">História</display-name>
+    <display-name lang="pt">HISTOR</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/20/" />
+  </channel>
+  <channel id="tvihd.tv.vodafone.pt">
+    <display-name lang="pt">TVI HD</display-name>
+    <display-name lang="pt">TVI HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/174/" />
+  </channel>
+  <channel id="babytv.tv.vodafone.pt">
+    <display-name lang="pt">Baby TV</display-name>
+    <display-name lang="pt">BABYTV</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/35/" />
+  </channel>
+  <channel id="rtp2hd.tv.vodafone.pt">
+    <display-name lang="pt">RTP 2 HD</display-name>
+    <display-name lang="pt">RTP 2 HD</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/172/" />
+  </channel>
+</tv>
