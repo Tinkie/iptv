@@ -231,44 +231,70 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87344.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Stingray IConcerts" tvg-logo="" group-title="Musicales",Stingray IConcerts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87342.ts
-#EXTINF:-1 tvg-id="180hd.tv.vodafone.pt" tvg-name="Canal 180" tvg-logo="" group-title="Musicales",Canal 180
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87309.ts
+
+#EXTINF:-1 group-title="Musicales",VH1
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/239
+
 #EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-name="MTV Portugal" tvg-logo="" group-title="Musicales",MTV Portugal
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87325.ts
+#EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-name="MTV Portugal" tvg-logo="" group-title="Musicales",MTV Portugal
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/170
 #EXTINF:-1 tvg-id="MTVSpain.es" tvg-name="MTV España" tvg-logo="" group-title="Musicales",MTV España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10324.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV 00s" tvg-logo="" group-title="Musicales",MTV 00s
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87476.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="MCM Pop" tvg-logo="" group-title="Musicales",MCM Pop
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87472.ts
 #EXTINF:-1 tvg-id="" tvg-name="MCM Pop" tvg-logo="" group-title="Musicales",MCM Pop
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87473.ts
 #EXTINF:-1 tvg-id="" tvg-name="MCM Top" tvg-logo="" group-title="Musicales",MCM Top
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/169
-#EXTINF:-1 tvg-id="AlmaLusa.pt" tvg-name="Alma Lusa" tvg-logo="" group-title="Musicales",Alma Lusa
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87468.ts
-#EXTINF:-1 tvg-id="" tvg-name="Trace Brazuca" tvg-logo="" group-title="Musicales",Trace Brazuca
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87469.ts
-#EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="" group-title="Musicales",Trace Urban
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87470.ts
-#EXTINF:-1 tvg-id="" tvg-name="Trace Toca" tvg-logo="" group-title="Musicales",Trace Toca
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87471.ts
-#EXTINF:-1 tvg-id="" tvg-name="Afro Music Channel" tvg-logo="" group-title="Musicales",Afro Music Channel
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87474.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live HD" tvg-logo="" group-title="Musicales",Mezzo Live
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87467.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live" tvg-logo="" group-title="Musicales",Mezzo Live
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87475.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCM Top" tvg-logo="" group-title="Musicales",MCM Top
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/21525
+
+#EXTINF:-1 tvg-id="180hd.tv.vodafone.pt" tvg-name="Canal 180" tvg-logo="" group-title="Musicales",Canal 180
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87309.ts
 
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/On-FM.png",On FM Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AlmaLusa.pt" tvg-name="Alma Lusa" tvg-logo="" group-title="Musicales",Alma Lusa
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87468.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Afro Music Channel" tvg-logo="" group-title="Musicales",Afro Music Channel
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87474.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Trace Brazuca" tvg-logo="" group-title="Musicales",Trace Brazuca
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87469.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="" group-title="Musicales",Trace Urban
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87470.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="" group-title="Musicales",Trace Urban
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237
 #EXTINF:-1 group-title="Musicales" tvg-id="tracehd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png",Trace Urban
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trace Toca" tvg-logo="" group-title="Musicales",Trace Toca
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87471.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live HD" tvg-logo="" group-title="Musicales",Mezzo Live
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87467.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live" tvg-logo="" group-title="Musicales",Mezzo Live
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87475.ts
+
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png",California Music Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
+
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png",Country Music Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
 #EXTINF:-1 group-title="Musicales" tvg-id="CLUBHD.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png",Clubbing TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -309,16 +335,6 @@ https://stream1.xdevel.com/video0s975817-1182/stream/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png",California Music Channel
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
-
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png",Country Music Channel
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="Canal Cocina" tvg-logo="" group-title="Otros",Canal Cocina
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10304.ts
