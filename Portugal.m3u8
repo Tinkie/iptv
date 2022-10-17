@@ -73,6 +73,7 @@ http://187.13.81.148:8000/play/a09b
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87443.ts
 #EXTINF:-1 tvg-id="" tvg-name="CM TV" tvg-logo="" group-title="Portugal",CM TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87458.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Canal Q" tvg-logo="" group-title="Portugal",Canal Q
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87323.ts
 #EXTINF:-1 tvg-id="casaecoz.tv.vodafone.pt" tvg-name="Casa e Cozinha" tvg-logo="https://imgur.com/tOdrDOX.png" group-title="Portugal",Casa e Cozinha
@@ -81,8 +82,12 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87439.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87437.ts
 #EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="" group-title="Portugal",Food Network
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87299.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="Portugal",A&E
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11060
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Portugal",TLC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87450.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="AR TV Canal Parlamento" tvg-logo="" group-title="Portugal",ARTV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87461.ts
 
