@@ -1,10 +1,8 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml"
-#EXTINF:-1 group-title="Portugal",24 KITCHEN
+#EXTINF:-1 group-title="Portugal",24 Kitchen
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/100
-#EXTINF:-1 group-title="Portugal",A BOLA TV
+#EXTINF:-1 group-title="Portugal",A Bola TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11047
-#EXTINF:-1 group-title="Portugal",A&E
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11060
 #EXTINF:-1 group-title="Portugal",AMC
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11041
 #EXTINF:-1 group-title="Portugal",ARTV
