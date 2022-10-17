@@ -357,3 +357,16 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10304.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10207.ts
 #EXTINF:-1 tvg-id="Decasa.es" tvg-name="Decasa" tvg-logo="" group-title="Otros",DeCasa
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10305.ts
+
+#EXTINF:-1 tvg-id="CazayPesca.es" group-title="Otros",Caça e Pesca
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/126
+
+#EXTINF:-1 tvg-id="Cacavision.es" group-title="Otros",Caça Vision
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/21546
+
+#EXTINF:-1 group-title="Otros",CALVISION
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/127
+
+#EXTINF:-1 tvg-id="TVCancaoNovaPortugal.pt" tvg-name="Canção Nova" tvg-logo="" group-title="Religiosos",Canção Nova
+#EXTINF:-1 group-title="Portugal",
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/21523
