@@ -1,171 +1,372 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz"
 #EXTINF:-1 group-title="Portugal",24 Kitchen
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/100
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96888
 #EXTINF:-1 group-title="Deportivos",A Bola TV
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11047
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96889
 #EXTINF:-1 group-title="Movies and Series",AMC
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11041
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96890
 #EXTINF:-1 group-title="Portugal",ARTV
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/104
+#http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416449
 #EXTINF:-1 group-title="Movies and Series",AXN
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11030
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96891
 #EXTINF:-1 group-title="Movies and Series",AXN Movies
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11032
-#EXTINF:-1 group-title="Movies and Series",AXN Movies
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/169855
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96892
 #EXTINF:-1 group-title="Movies and Series",AXN WHITE
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11031
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96893
 #EXTINF:-1 group-title="Portugal",BABY TV
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/112
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96894
 #EXTINF:-1 group-title="Deportivos",Benfica TV
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11067
-#EXTINF:-1 group-title="Deportivos",Benfica TV
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/111
-#EXTINF:-1 group-title="Portugal",BIGGS
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/113
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96884
+#EXTINF:-1 tvg-id="" tvg-name="Biggs" tvg-logo="" group-title="Portugal",Biggs
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96938
 #EXTINF:-1 group-title="Deportivos",CANAL 11
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/120
-#EXTINF:-1 group-title="Portugal",CANAL PANDA
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11055
-#EXTINF:-1 group-title="Portugal",CANAL Q
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/123
-#EXTINF:-1 group-title="Portugal",CARTOON NETWORK
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11059
-#EXTINF:-1 tvg-id="" tvg-name="TVCine Action" tvg-logo="" group-title="Movies and Series",TVCine Action
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/218
-#EXTINF:-1 tvg-id="" tvg-name="TVCine Edition" tvg-logo="" group-title="Movies and Series",TVCine Edition
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45368
-#EXTINF:-1 tvg-id="" tvg-name="TVCine Emotion" tvg-logo="" group-title="Movies and Series",TVCine Emotion
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/170370
-#EXTINF:-1 tvg-id="" tvg-name="TVCine Top" tvg-logo="" group-title="Movies and Series",TVCine Top
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45367
-#EXTINF:-1 tvg-id="" tvg-name="Cine Mundo" tvg-logo="" group-title="Movies and Series",Cine Mundo
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11043
-#EXTINF:-1 group-title="Portugal Notícias",CM TV
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/117
-#EXTINF:-1 group-title="Portugal",DISNEY CHANNEL
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/134
-#EXTINF:-1 group-title="Portugal",DISNEY JUNIOR
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11057
-#EXTINF:-1 group-title="Deportivos",ELEVEN SPORT 1
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237022
-#EXTINF:-1 group-title="Deportivos",ELEVEN SPORT 2
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237023
-#EXTINF:-1 group-title="Deportivos",ELEVEN SPORT 3
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237024
-#EXTINF:-1 group-title="Deportivos",ELEVEN SPORT 4
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237025
-#EXTINF:-1 group-title="Deportivos",ELEVEN SPORT 5
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237026
-#EXTINF:-1 group-title="Deportivos",ELEVEN SPORT 6
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/143
-#EXTINF:-1 group-title="Portugal Notícias",Euronews PT
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/145
-#EXTINF:-1 group-title="Movies and Series",FOX
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/152
-#EXTINF:-1 group-title="Movies and Series",FOX COMEDY
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11037
-#EXTINF:-1 group-title="Movies and Series",FOX CRIME
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/151
-#EXTINF:-1 group-title="Movies and Series",FOX LIFE
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/153
-#EXTINF:-1 group-title="Movies and Series",FOX MOVIES
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11036
-#EXTINF:-1 group-title="Deportivos Int.",FUEL TV
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11046
-#EXTINF:-1 group-title="Brazil",GLOBO
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/21524
-#EXTINF:-1 group-title="Brazil Notícias",GLOBO NEWS
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/160
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96967
 #EXTINF:-1 tvg-id="HistoriaPortugal.pt" tvg-name="Canal História" tvg-logo="" group-title="Documentaries",Canal História
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/162
-#EXTINF:-1 group-title="Movies and Series",HOLLYWOOD
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11038
-#EXTINF:-1 group-title="Portugal",JIM JAM
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/166
-#EXTINF:-1 group-title="Deportivos Int.",Kombat Sport
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/167
-#EXTINF:-1 group-title="Brazil",KURIAKOS TV
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/168
-#EXTINF:-1 group-title="Deportivos Int.",MOTORVISION
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/172
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96900
+#EXTINF:-1 group-title="Portugal",CANAL PANDA
+#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11055
+#EXTINF:-1 group-title="Portugal",CANAL Q
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96897
+#EXTINF:-1 group-title="Portugal",CARTOON NETWORK
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96899
 #EXTINF:-1 tvg-id="casaecoz.tv.vodafone.pt" tvg-name="Casa e Cozinha" tvg-logo="https://imgur.com/tOdrDOX.png" group-title="Portugal",Casa e Cozinha
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/173
+#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/173
+#EXTINF:-1 tvg-id="" tvg-name="Cine Mundo" tvg-logo="" group-title="Movies and Series",Cine Mundo
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96901
+#EXTINF:-1 group-title="Portugal Notícias",CM TV
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96895
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="" group-title="Portugal Notícias",CNN Portugal
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96960
+#EXTINF:-1, group-title="Portugal",Discovery Channel
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96904
+#EXTINF:-1, group-title="Portugal",Discovery Science
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96905
+#EXTINF:-1 group-title="Portugal",DISNEY CHANNEL
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96903
+#EXTINF:-1 group-title="Portugal",DISNEY JUNIOR
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96906
+#EXTINF:-1 group-title="Deportivos",Eleven Sports 1
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96873
+#EXTINF:-1 group-title="Deportivos",Eleven Sports 2
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96874
+#EXTINF:-1 group-title="Deportivos",Eleven Sports 3
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96875
+#EXTINF:-1 group-title="Deportivos",Eleven Sports 4
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96876
+#EXTINF:-1 group-title="Deportivos",Eleven Sports 5
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96877
+#EXTINF:-1 group-title="Deportivos",Eleven Sports 6
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96878
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 PT",Eurosport 1
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96907
+#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 PT",Eurosport 2
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96908
+#EXTINF:-1 group-title="Portugal Notícias" tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96941
+#EXTINF:-1 tvg-id="tfnhd.tv.vodafone.pt" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" group-title="Portugal",Food Network
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96917
+#EXTINF:-1 group-title="Movies and Series",FOX
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96910
+#EXTINF:-1 group-title="Movies and Series",Fox Comedy
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96914
+#EXTINF:-1 group-title="Movies and Series",FOX CRIME
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96912
+#EXTINF:-1 group-title="Movies and Series",FOX LIFE
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96913
+#EXTINF:-1 group-title="Movies and Series",FOX MOVIES
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96911
+#EXTINF:-1 group-title="Deportivos Int.",FUEL TV
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96918
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo" tvg-logo="" group-title="Brazil",Globo
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96953
+#EXTINF:-1 group-title="Brazil Notícias" tvg-id="" tvg-name="Globo News" tvg-logo="",Globo News
+#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/160
+#EXTINF:-1 group-title="Movies and Series",HOLLYWOOD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96965
+#EXTINF:-1 group-title="Portugal",JIM JAM
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96921
+#EXTINF:-1 group-title="Deportivos Int.",Kombat Sport
+#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/167
+#EXTINF:-1 group-title="Brazil",KURIAKOS TV
+#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/168
+#EXTINF:-1 group-title="Deportivos Int.",MOTORVISION
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96925
 #EXTINF:-1 group-title="Documentaries",National Geographic
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/177
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96926
 #EXTINF:-1 group-title="Documentaries",National Geographic Wild
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11062
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96924
 #EXTINF:-1 group-title="Deportivos Int.",NBA TV
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174
+#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174
 #EXTINF:-1 group-title="Portugal",NICK JR
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45414
+#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45414
 #EXTINF:-1 group-title="Portugal",NICKELODEON
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11056
-#EXTINF:-1 group-title="Movies and Series",NOS Studios
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/176
-#EXTINF:-1 group-title="Documentaries",ODISSEIA
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11044
-#EXTINF:-1 tvg-id="" tvg-name="Biggs" tvg-logo="" group-title="Portugal",Biggs
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/142717
-#EXTINF:-1 tvg-id="" tvg-name="Biggs" tvg-logo="" group-title="Portugal",Biggs
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11049
-#EXTINF:-1 group-title="Deportivos",PFC
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/182
-#EXTINF:-1 group-title="Deportivos",PORTO CANAL
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/184
-#EXTINF:-1 group-title="Brazil",RECORD TV
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/216
-#EXTINF:-1 group-title="Portugal",RTP 1
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/186
-#EXTINF:-1 group-title="Portugal",RTP 2
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11015
-#EXTINF:-1 group-title="Portugal",RTP 3
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11016
-#EXTINF:-1 group-title="Portugal",RTP Açores
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26385
-#EXTINF:-1 group-title="Portugal",RTP África
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/185
-#EXTINF:-1 group-title="Portugal",RTP Madeira
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11020
-#EXTINF:-1 group-title="Portugal",RTP Memória
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11019
-#EXTINF:-1 group-title="Portugal",RTP Memória
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/171060
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96928
 #EXTINF:-1 tvg-id="" tvg-name="NOS Studios" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03-720x389.jpg" group-title="Movies and Series",NOS Studios
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11042
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96964
+#EXTINF:-1 group-title="Documentaries",ODISSEIA
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96919
+#EXTINF:-1 group-title="Deportivos",PFC
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96940
+#EXTINF:-1 group-title="Deportivos",PORTO CANAL
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96937
+#EXTINF:-1 tvg-id="" tvg-name="Record TV" tvg-logo="" group-title="Brazil",Record TV
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96954
+#EXTINF:-1 group-title="Portugal",RTP 1
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96929
+#EXTINF:-1 group-title="Portugal",RTP 2
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96930
+#EXTINF:-1 group-title="Portugal",RTP 3
+#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11016
+#EXTINF:-1 group-title="Portugal",RTP Açores
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96933
+#EXTINF:-1 group-title="Portugal",RTP África
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96935
+#EXTINF:-1 group-title="Portugal",RTP Madeira
+#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11020
+#EXTINF:-1 group-title="Portugal",RTP Memória
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96934
 #EXTINF:-1 group-title="Portugal",SIC
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/196
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96946
 #EXTINF:-1 group-title="Portugal",SIC CARAS
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11025
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96947
 #EXTINF:-1 group-title="Portugal",SIC K
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/197
-#EXTINF:-1 group-title="Portugal",SIC K
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11022
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96948
 #EXTINF:-1 group-title="Portugal",SIC MULHER
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/198
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96944
 #EXTINF:-1 group-title="Portugal Notícias",SIC Notícias
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/199
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96945
 #EXTINF:-1 group-title="Portugal",SIC RADICAL
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/200
-#EXTINF:-1 group-title="Deportivos",SPORT TV 1
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/170957
-#EXTINF:-1 group-title="Deportivos",SPORT TV 2
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/206
-#EXTINF:-1 group-title="Deportivos",SPORT TV 3
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/7688
-#EXTINF:-1 group-title="Deportivos",SPORT TV 4
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11073
-#EXTINF:-1 group-title="Deportivos",SPORT TV 5
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11074
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96943
+#EXTINF:-1 group-title="Deportivos",Sport TV 1
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96879
+#EXTINF:-1 group-title="Deportivos",Sport TV 2
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96880
+#EXTINF:-1 group-title="Deportivos",Sport TV 3
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96881
+#EXTINF:-1 group-title="Deportivos",Sport TV 4
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96882
+#EXTINF:-1 group-title="Deportivos",Sport TV 5
+hhttp://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96883
+#EXTINF:-1 group-title="Deportivos",Sport TV 5
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96922
 #EXTINF:-1 group-title="Deportivos Int.",SPORT TV NBA
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/211
+#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/211
+#EXTINF:-1 group-title="Deportivos",Sporting TV
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96885
 #EXTINF:-1 group-title="Movies and Series",SYFY
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11039
+#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11039
 #EXTINF:-1 group-title="Portugal",TLC
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96949
 #EXTINF:-1 group-title="Documentaries",Travel Channel
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/238
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96962
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Action" tvg-logo="" group-title="Movies and Series",TVCine Action
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96958
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Edition" tvg-logo="" group-title="Movies and Series",TVCine Edition
+#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45368
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Emotion" tvg-logo="" group-title="Movies and Series",TVCine Emotion
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96956
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Top" tvg-logo="" group-title="Movies and Series",TVCine Top
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96955
 #EXTINF:-1 group-title="Portugal",TVI
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11026
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96959
 #EXTINF:-1 group-title="Portugal",TVI Ficção
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11029
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96966
+
+#EXTINF:-1,PT: Automotor Sport Channel
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416448
+#EXTINF:-1,PT: AXN
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416447
+#EXTINF:-1,PT: AXN Black
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416446
+#EXTINF:-1,PT: AXN Movies
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416445
+#EXTINF:-1,PT: AXN White
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416444
+#EXTINF:-1,PT: Baby TV
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416443
+#EXTINF:-1,PT: Benfica TV
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416442
+#EXTINF:-1,PT: Biggs
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416441
+#EXTINF:-1,PT: Blaze
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416440
+#EXTINF:-1,PT: Bloomberg
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416439
+#EXTINF:-1,PT: Boomerang
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416438
+#EXTINF:-1,PT: Canal 11
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416437
+#EXTINF:-1,PT: CANAL 180
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416436
+#EXTINF:-1,PT: Canal Hollywood
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416435
+#EXTINF:-1,PT: Canal Macau
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416434
+#EXTINF:-1,PT: Canal Nos
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416433
+#EXTINF:-1,PT: Canal Panda
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416432
+#EXTINF:-1,PT: Canal Q
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416431
+#EXTINF:-1,PT: Canção Nova
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416430
+#EXTINF:-1,PT: Cartoon Network
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416429
+#EXTINF:-1,PT: Casa e Cozinha
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416428
+#EXTINF:-1,PT: Caçavision
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416427
+#EXTINF:-1,PT: CBS Reality
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416426
+#EXTINF:-1,PT: Cine Mundo
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416425
+#EXTINF:-1,PT: CM TV
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416424
+#EXTINF:-1,PT: CNN Portugal
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416423
+#EXTINF:-1,PT: Crime+ Investigation
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416422
+#EXTINF:-1,PT: Discovery World
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416421
+#EXTINF:-1,PT: Disney Channel
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416420
+#EXTINF:-1,PT: Disney Junior
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416419
+#EXTINF:-1,PT: Disney+
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416418
+#EXTINF:-1,PT: E!
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416417
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416416
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416415
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416414
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416413
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416412
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416411
+#EXTINF:-1,PT: euronews
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416410
+#EXTINF:-1,PT: EUROSPORT 1
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416409
+#EXTINF:-1,PT: EUROSPORT 2
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416408
+#EXTINF:-1,PT: Food Network
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416407
+#EXTINF:-1,PT: FOX
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416406
+#EXTINF:-1,PT: Fox Comedy
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416405
+#EXTINF:-1,PT: Fox Crime
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416404
+#EXTINF:-1,PT: Fox Life
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416403
+#EXTINF:-1,PT: FOX Movies
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416402
+#EXTINF:-1,PT: Fuel TV
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416401
+#EXTINF:-1,PT: HBO Portugal
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416400
+#EXTINF:-1,PT: History
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416399
+#EXTINF:-1,PT: Investigation Discovery
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416398
+#EXTINF:-1,PT: JimJam
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416397
+#EXTINF:-1,PT: Kuriakos Kids
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416396
+#EXTINF:-1,PT: Kuriakos TV
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416395
+#EXTINF:-1,PT: MEO Videoclube
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416394
+#EXTINF:-1,PT: Motorvision TV
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416393
+#EXTINF:-1,PT: MTV Portugal
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416392
+#EXTINF:-1,PT: NAT GEO
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416391
+#EXTINF:-1,PT: NAT GEO Wild
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416390
+#EXTINF:-1,PT: NBA TV
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416389
+#EXTINF:-1,PT: Nick Junior
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416388
+#EXTINF:-1,PT: nickelodeon
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416387
+#EXTINF:-1,PT: Nos Studios
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416386
+#EXTINF:-1,PT: Odisseia
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416385
+#EXTINF:-1,PT: PANDA Kids
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416384
+#EXTINF:-1,PT: Porto Canal
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416383
+#EXTINF:-1,PT: RTP 1
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416382
+#EXTINF:-1,PT: RTP 2
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416381
+#EXTINF:-1,PT: RTP 3
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416380
+#EXTINF:-1,PT: RTP Açores
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416379
+#EXTINF:-1,PT: RTP Madeira
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416378
+#EXTINF:-1,PT: RTP Memória
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416377
+#EXTINF:-1,PT: RTP África
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416376
+#EXTINF:-1,PT: SAUDE+
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416375
+#EXTINF:-1,PT: SIC
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416374
+#EXTINF:-1,PT: SIC Caras
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416373
+#EXTINF:-1,PT: SIC K
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416372
+#EXTINF:-1,PT: SIC Mulher
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416371
+#EXTINF:-1,PT: SIC Noticias
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416370
+#EXTINF:-1,PT: SIC Radical
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416369
+#EXTINF:-1,PT: SPORT TV +
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416368
+#EXTINF:-1,PT: SPORT TV 1
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416367
+#EXTINF:-1,PT: SPORT TV 2
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416366
+#EXTINF:-1,PT: SPORT TV 3
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416365
+#EXTINF:-1,PT: SPORT TV 4
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416364
+#EXTINF:-1,PT: SPORT TV 5
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416363
+#EXTINF:-1,PT: SPORT TV 6
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416362
+#EXTINF:-1,PT: SPORT TV NBA
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416361
+#EXTINF:-1,PT: Sporting TV
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416360
+#EXTINF:-1,PT: SYFY Portugal
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416359
+#EXTINF:-1,PT: TLC
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416358
+#EXTINF:-1,PT: Travel Channel
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416357
+#EXTINF:-1,PT: TVCine Action
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416356
+#EXTINF:-1,PT: TVCine Edition
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416355
+#EXTINF:-1,PT: TVCine Emotion
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416354
+#EXTINF:-1,PT: TVCine Top
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416353
+#EXTINF:-1,PT: TVI
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416352
+#EXTINF:-1,PT: TVI Ficção
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416351
+#EXTINF:-1,PT: TVI Reality
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416350

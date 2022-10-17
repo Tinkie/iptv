@@ -184,17 +184,31 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87435.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87448.ts
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild" tvg-logo="" group-title="Documentaries",National Geographic Wild
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87449.ts
+#EXTINF:-1 group-title="Documentaries" tvg-id="LoveNature.ca" tvg-logo="",Love Nature TV
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/98211
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel [Backups]" tvg-logo="" group-title="Documentaries",Discovery Channel
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87444.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="Documentaries",Discovery Channel
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87445.ts
 #EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" tvg-logo="" group-title="Documentaries",Discovery Science
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/97079
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" tvg-logo="" group-title="Documentaries",Discovery Science
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/97173
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" tvg-logo="" group-title="Documentaries",Discovery Science
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/138897
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" tvg-logo="" group-title="Documentaries",Discovery Science
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11064
+#EXTINF:-1 tvg-id="DiscoveryFamilyAfrica.us" tvg-name="Discovery Family" tvg-logo="" group-title="Documentaries",Discovery Family
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96307
+#EXTINF:-1 tvg-id="DiscoveryFamilyAfrica.us" tvg-name="Discovery Family" tvg-logo="" group-title="Documentaries",Discovery Family
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/138895
 #EXTINF:-1 tvg-id="" tvg-name="Odisseia" tvg-logo="" group-title="Documentaries",Odisseia
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87447.ts
 #EXTINF:-1 tvg-id="HistoriaPortugal.pt" tvg-name="Canal História" tvg-logo="" group-title="Documentaries",Canal História
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87446.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-logo="" group-title="Documentaries",Travel Channel
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96962
 #EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-logo="" group-title="Documentaries",Travel Channel
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87300.ts
 #EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-logo="" group-title="Documentaries",Travel Channel
