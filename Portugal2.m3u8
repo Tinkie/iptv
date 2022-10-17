@@ -1,39 +1,39 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml"
 #EXTINF:-1 group-title="Portugal",24 Kitchen
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/100
-#EXTINF:-1 group-title="Portugal",A Bola TV
+#EXTINF:-1 group-title="Deportivos",A Bola TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11047
-#EXTINF:-1 group-title="Portugal",AMC
+#EXTINF:-1 group-title="Movies and Series",AMC
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11041
 #EXTINF:-1 group-title="Portugal",ARTV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/104
-#EXTINF:-1 group-title="Portugal",AXN
+#EXTINF:-1 group-title="Movies and Series",AXN
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11030
-#EXTINF:-1 group-title="Portugal",AXN BLACK
+#EXTINF:-1 group-title="Movies and Series",AXN BLACK
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11032
-#EXTINF:-1 group-title="Portugal",AXN MOVIES
+#EXTINF:-1 group-title="Movies and Series",AXN MOVIES
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/169855
-#EXTINF:-1 group-title="Portugal",AXN WHITE
+#EXTINF:-1 group-title="Movies and Series",AXN WHITE
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11031
 #EXTINF:-1 group-title="Portugal",BABY TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/112
 #EXTINF:-1 group-title="Portugal",BBC WORLD NEWS
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/138300
-#EXTINF:-1 group-title="Portugal",BENFICA TV
+#EXTINF:-1 group-title="Deportivos",Benfica TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11067
 #EXTINF:-1 group-title="Portugal",BIGGS
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/113
 #EXTINF:-1 group-title="Portugal",BLAZE
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/114
-#EXTINF:-1 group-title="Portugal",BTV
+#EXTINF:-1 group-title="Deportivos",Benfica TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/111
-#EXTINF:-1 group-title="Portugal",CACA E PESCA
+#EXTINF:-1 group-title="Documentaries",Caça e Pesca
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/126
 #EXTINF:-1 group-title="Portugal",CACA VISION
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/21546
 #EXTINF:-1 group-title="Portugal",CALVISION
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/127
-#EXTINF:-1 group-title="Portugal",CANAL 11
+#EXTINF:-1 group-title="Deportivos",CANAL 11
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/120
 #EXTINF:-1 group-title="Portugal",CANAL PANDA
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11055
@@ -45,23 +45,23 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/21523
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11059
 #EXTINF:-1 group-title="Portugal",CBS REALITY
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/116
-#EXTINF:-1 group-title="Portugal",CINE ACTION TV
+#EXTINF:-1 group-title="Movies and Series",CINE ACTION TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/218
-#EXTINF:-1 group-title="Portugal",CINE EDITION TV
+#EXTINF:-1 group-title="Movies and Series",CINE EDITION TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45368
-#EXTINF:-1 group-title="Portugal",CINE EMOTION TV
+#EXTINF:-1 group-title="Movies and Series",CINE EMOTION TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/170370
-#EXTINF:-1 group-title="Portugal",CINE TOP TV
+#EXTINF:-1 group-title="Movies and Series",CINE TOP TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45367
-#EXTINF:-1 group-title="Portugal",CINE TV 2
+#EXTINF:-1 group-title="Movies and Series",CINE TV 2
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11052
-#EXTINF:-1 group-title="Portugal",CINE TV 3
+#EXTINF:-1 group-title="Movies and Series",CINE TV 3
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11053
-#EXTINF:-1 group-title="Portugal",CINE TV 4
+#EXTINF:-1 group-title="Movies and Series",CINE TV 4
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11054
-#EXTINF:-1 group-title="Portugal",CINEMUNDO
+#EXTINF:-1 group-title="Movies and Series",CINEMUNDO
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11043
-#EXTINF:-1 group-title="Portugal",CMTV
+#EXTINF:-1 group-title="Portugal Notícias",CMTV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/117
 #EXTINF:-1 group-title="Portugal",CRIME & INVESTIGATION
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/130
@@ -77,17 +77,17 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/134
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11057
 #EXTINF:-1 group-title="Portugal",E!
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/17040
-#EXTINF:-1 group-title="Portugal",ELEVEN SPORT 1
+#EXTINF:-1 group-title="Deportivos",ELEVEN SPORT 1
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237022
-#EXTINF:-1 group-title="Portugal",ELEVEN SPORT 2
+#EXTINF:-1 group-title="Deportivos",ELEVEN SPORT 2
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237023
-#EXTINF:-1 group-title="Portugal",ELEVEN SPORT 3
+#EXTINF:-1 group-title="Deportivos",ELEVEN SPORT 3
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237024
-#EXTINF:-1 group-title="Portugal",ELEVEN SPORT 4
+#EXTINF:-1 group-title="Deportivos",ELEVEN SPORT 4
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237025
-#EXTINF:-1 group-title="Portugal",ELEVEN SPORT 5
+#EXTINF:-1 group-title="Deportivos",ELEVEN SPORT 5
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237026
-#EXTINF:-1 group-title="Portugal",ELEVEN SPORT 6
+#EXTINF:-1 group-title="Deportivos",ELEVEN SPORT 6
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/143
 #EXTINF:-1 group-title="Portugal",EURO CHANNEL
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/144
@@ -103,13 +103,13 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/151
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/153
 #EXTINF:-1 group-title="Portugal",FOX MOVIES
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11036
-#EXTINF:-1 group-title="Portugal",FUEL TV
+#EXTINF:-1 group-title="Deportivos Int.",FUEL TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11046
-#EXTINF:-1 group-title="Portugal",GLOBO
+#EXTINF:-1 group-title="Brazil",GLOBO
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/21524
-#EXTINF:-1 group-title="Portugal",GLOBO NEWS
+#EXTINF:-1 group-title="Brazil Notícias",GLOBO NEWS
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/160
-#EXTINF:-1 group-title="Portugal",HISTORIA
+#EXTINF:-1 group-title="Documentaries",HISTORIA
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/162
 #EXTINF:-1 group-title="Portugal",HOLLYWOOD
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11038
@@ -117,11 +117,11 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11038
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/166
 #EXTINF:-1 group-title="Portugal",KOMBAT SPORT
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/167
-#EXTINF:-1 group-title="Portugal",KURIAKOS TV
+#EXTINF:-1 group-title="Brazil",KURIAKOS TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/168
-#EXTINF:-1 group-title="Portugal",MCM TOP
+#EXTINF:-1 group-title="Musicales",MCM TOP
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/21525
-#EXTINF:-1 group-title="Portugal",MOTORVISION
+#EXTINF:-1 group-title="Deportivos Int.",MOTORVISION
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/172
 #EXTINF:-1 group-title="Portugal",MTV PORTUGAL
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/170
@@ -131,7 +131,7 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/173
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/177
 #EXTINF:-1 group-title="Portugal",NAT GEO WILD
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11062
-#EXTINF:-1 group-title="Portugal",NBA TV
+#EXTINF:-1 group-title="Deportivos Int.",NBA TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174
 #EXTINF:-1 group-title="Portugal",NICK JR
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45414
@@ -145,11 +145,11 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11044
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/142717
 #EXTINF:-1 group-title="Portugal",PANDA PIGGS
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11049
-#EXTINF:-1 group-title="Portugal",PFC
+#EXTINF:-1 group-title="Deportivos",PFC
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/182
-#EXTINF:-1 group-title="Portugal",PORTO CANAL
+#EXTINF:-1 group-title="Deportivos",PORTO CANAL
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/184
-#EXTINF:-1 group-title="Portugal",RECORD TV
+#EXTINF:-1 group-title="Brazil",RECORD TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/216
 #EXTINF:-1 group-title="Portugal",RTP 1
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/186
@@ -157,15 +157,15 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/186
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11015
 #EXTINF:-1 group-title="Portugal",RTP 3
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11016
-#EXTINF:-1 group-title="Portugal",RTP ACORESS
+#EXTINF:-1 group-title="Portugal",RTP Açores
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26385
-#EXTINF:-1 group-title="Portugal",RTP AFRICA
+#EXTINF:-1 group-title="Portugal",RTP África
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/185
-#EXTINF:-1 group-title="Portugal",RTP MADEIRA
+#EXTINF:-1 group-title="Portugal",RTP Madeira
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11020
-#EXTINF:-1 group-title="Portugal",RTP MEMORIA
+#EXTINF:-1 group-title="Portugal",RTP Memória
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11019
-#EXTINF:-1 group-title="Portugal",RTP RTP MEMORIA
+#EXTINF:-1 group-title="Portugal",RTP Memória
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/171060
 #EXTINF:-1 group-title="Portugal",SERIES TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11042
@@ -179,36 +179,34 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/197
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11022
 #EXTINF:-1 group-title="Portugal",SIC MULHER
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/198
-#EXTINF:-1 group-title="Portugal",SIC NOTICIAS
+#EXTINF:-1 group-title="Portugal",SIC Notícias
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/199
 #EXTINF:-1 group-title="Portugal",SIC RADICAL
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/200
-#EXTINF:-1 group-title="Portugal",SPORT TV 1
+#EXTINF:-1 group-title="Deportivos",SPORT TV 1
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/170957
-#EXTINF:-1 group-title="Portugal",SPORT TV 2
+#EXTINF:-1 group-title="Deportivos",SPORT TV 2
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/206
-#EXTINF:-1 group-title="Portugal",SPORT TV 3
+#EXTINF:-1 group-title="Deportivos",SPORT TV 3
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/7688
-#EXTINF:-1 group-title="Portugal",SPORT TV 4
+#EXTINF:-1 group-title="Deportivos",SPORT TV 4
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11073
-#EXTINF:-1 group-title="Portugal",SPORT TV 5
+#EXTINF:-1 group-title="Deportivos",SPORT TV 5
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11074
-#EXTINF:-1 group-title="Portugal",SPORT TV NBA
+#EXTINF:-1 group-title="Deportivos Int.",SPORT TV NBA
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/211
-#EXTINF:-1 group-title="Portugal",SYFY
+#EXTINF:-1 group-title="Movies and Series",SYFY
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11039
 #EXTINF:-1 group-title="Portugal",TLC
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/214
-#EXTINF:-1 group-title="Portugal",TOROS TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235
-#EXTINF:-1 group-title="Portugal",TRACE URBAN
+#EXTINF:-1 group-title="Musicales",TRACE URBAN
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237
-#EXTINF:-1 group-title="Portugal",TRAVEL CHANNEL
+#EXTINF:-1 group-title="Documentaries",TRAVEL CHANNEL
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/238
 #EXTINF:-1 group-title="Portugal",TVI
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11026
 #EXTINF:-1 group-title="Portugal",TVI FICCAO
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11029
-#EXTINF:-1 group-title="Portugal",VH1
+#EXTINF:-1 group-title="Musicales",VH1
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/239
-#EXTINF:-1 group-title="Portugal",ZAP VIVA
+#EXTINF:-1 group-title="Int. África",ZAP VIVA
