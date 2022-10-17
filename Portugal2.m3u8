@@ -35,16 +35,10 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11059
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/218
 #EXTINF:-1 tvg-id="" tvg-name="TVCine Edition" tvg-logo="" group-title="Movies and Series",TVCine Edition
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45368
-#EXTINF:-1 group-title="Movies and Series",CINE EMOTION TV
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Emotion" tvg-logo="" group-title="Movies and Series",TVCine Emotion
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/170370
-#EXTINF:-1 group-title="Movies and Series",CINE TOP TV
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Top" tvg-logo="" group-title="Movies and Series",TVCine Top
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45367
-#EXTINF:-1 group-title="Movies and Series",CINE TV 2
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11052
-#EXTINF:-1 group-title="Movies and Series",CINE TV 3
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11053
-#EXTINF:-1 group-title="Movies and Series",CINE TV 4
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11054
 #EXTINF:-1 tvg-id="" tvg-name="Cine Mundo" tvg-logo="" group-title="Movies and Series",Cine Mundo
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11043
 #EXTINF:-1 group-title="Portugal Notícias",CM TV
