@@ -65,10 +65,6 @@ https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87442.ts
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="" group-title="Portugal",CNN Portugal
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87457.ts
-#EXTINF:-1 group-title="Portugal" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png",CNN Brasil
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://187.13.81.148:8000/play/a09b
 #EXTINF:-1 tvg-id="" tvg-name="CM TV" tvg-logo="" group-title="Portugal",CM TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87443.ts
 #EXTINF:-1 tvg-id="" tvg-name="CM TV" tvg-logo="" group-title="Portugal",CM TV
@@ -95,24 +91,30 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87461.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87291.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rede Globo" tvg-logo="" group-title="Brazil",Globo
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87313.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo News" tvg-logo="" group-title="Brazil",Globo News
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87292.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo News" tvg-logo="" group-title="Brazil",Globo News
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87314.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Record TV" tvg-logo="" group-title="Brazil",Record TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87298.ts
 #EXTINF:-1 tvg-id="" tvg-name="Record TV" tvg-logo="" group-title="Brazil",Record TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87331.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="" group-title="Brazil",Record News
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87462.ts
-#EXTINF:-1 group-title="Brazil" tvg-id="BLOOM.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Brasil
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kuriakos TV" tvg-logo="" group-title="Brazil",Kuriakos TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87451.ts
 #EXTINF:-1 tvg-id="" tvg-name="Kuriakos TV" tvg-logo="" group-title="Brazil",Kuriakos TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87381.ts
+
+#EXTINF:-1 group-title="Brazil" tvg-id="BLOOM.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Brasil
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png",CNN Brasil
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://187.13.81.148:8000/play/a09b
+#EXTINF:-1 tvg-id="" tvg-name="Globo News" tvg-logo="" group-title="Brazil",Globo News
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87292.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo News" tvg-logo="" group-title="Brazil",Globo News
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87314.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="" group-title="Brazil",Record News
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87462.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="NOS Studios" tvg-logo="https://cunhadigital.com/Picons/NOS_Studios_nos.png" group-title="Movies and Series",NOS Studios
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87345.ts
