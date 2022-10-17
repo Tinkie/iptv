@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1" tvg-logo="" group-title="Portugal",RTP 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87285.ts
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1" tvg-logo="" group-title="Portugal",RTP 1

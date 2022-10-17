@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz"
 #EXTINF:-1 group-title="Portugal",24 Kitchen
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/100
 #EXTINF:-1 group-title="Deportivos",A Bola TV
@@ -165,7 +165,7 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/211
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11039
 #EXTINF:-1 group-title="Portugal",TLC
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235
-#EXTINF:-1 group-title="Documentaries",TRAVEL CHANNEL
+#EXTINF:-1 group-title="Documentaries",Travel Channel
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/238
 #EXTINF:-1 group-title="Portugal",TVI
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11026
