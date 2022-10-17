@@ -27,9 +27,9 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87433.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87287.ts
 #EXTINF:-1 tvg-id="" tvg-name="SIC" tvg-logo="" group-title="Portugal",SIC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87306.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC Notícias" tvg-logo="" group-title="Portugal",SIC Notícias
+#EXTINF:-1 tvg-id="" tvg-name="SIC Notícias" tvg-logo="" group-title="Portugal Notícias",SIC Notícias
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87440.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC Notícias" tvg-logo="" group-title="Portugal",SIC Notícias
+#EXTINF:-1 tvg-id="" tvg-name="SIC Notícias" tvg-logo="" group-title="Portugal Notícias",SIC Notícias
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87455.ts
 #EXTINF:-1 tvg-id="" tvg-name="SIC Radical" tvg-logo="" group-title="Portugal",SIC Radical
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87295.ts
@@ -57,17 +57,18 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87293.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87315.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVI Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/99/TVI_Internacional_logo_2017.png" group-title="Portugal",TVI Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87334.ts
-#EXTINF:-1 group-title="Portugal" tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
+
+#EXTINF:-1 group-title="Portugal Notícias" tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="" group-title="Portugal",CNN Portugal
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="" group-title="Portugal Notícias",CNN Portugal
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87442.ts
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="" group-title="Portugal",CNN Portugal
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="" group-title="Portugal Notícias",CNN Portugal
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87457.ts
-#EXTINF:-1 tvg-id="" tvg-name="CM TV" tvg-logo="" group-title="Portugal",CM TV
+#EXTINF:-1 tvg-id="" tvg-name="CM TV" tvg-logo="" group-title="Portugal Notícias",CM TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87443.ts
-#EXTINF:-1 tvg-id="" tvg-name="CM TV" tvg-logo="" group-title="Portugal",CM TV
+#EXTINF:-1 tvg-id="" tvg-name="CM TV" tvg-logo="" group-title="Portugal Notícias",CM TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87458.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal Q" tvg-logo="" group-title="Portugal",Canal Q
@@ -196,14 +197,8 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87332.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Portugal",Cartoon Network
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87388.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC K" tvg-logo="" group-title="Portugal",SIC K
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87380.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC K" tvg-logo="" group-title="Portugal",SIC K
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87391.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canal Panda" tvg-logo="" group-title="Portugal",Canal Panda
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87384.ts
-#EXTINF:-1 tvg-id="" tvg-name="Biggs" tvg-logo="" group-title="Portugal",Biggs
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87385.ts
 #EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel" tvg-logo="" group-title="Portugal",Disney Channel
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87382.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="" group-title="Portugal",Disney Junior
@@ -214,16 +209,21 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87387.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87383.ts
 #EXTINF:-1 tvg-id="" tvg-name="Nick JR" tvg-logo="" group-title="Portugal",Nick JR
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87389.ts
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="Portugal",Baby TV
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87390.ts
 #EXTINF:-1 tvg-id="" tvg-name="JimJam" tvg-logo="" group-title="Portugal",Jim Jam
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87392.ts
+#EXTINF:-1 tvg-id="" tvg-name="Biggs" tvg-logo="" group-title="Portugal",Biggs
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87385.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC K" tvg-logo="" group-title="Portugal",SIC K
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87380.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC K" tvg-logo="" group-title="Portugal",SIC K
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87391.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="Portugal",Baby TV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87390.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Rede Globo" tvg-logo="" group-title="Brazil",Globo
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87291.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rede Globo" tvg-logo="" group-title="Brazil",Globo
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87313.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="Record TV" tvg-logo="" group-title="Brazil",Record TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87298.ts
 #EXTINF:-1 tvg-id="" tvg-name="Record TV" tvg-logo="" group-title="Brazil",Record TV
@@ -233,17 +233,17 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87451.ts
 #EXTINF:-1 tvg-id="" tvg-name="Kuriakos TV" tvg-logo="" group-title="Brazil",Kuriakos TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87381.ts
 
-#EXTINF:-1 group-title="Brazil News" tvg-id="BLOOM.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Brasil
+#EXTINF:-1 group-title="Brazil Notícias" tvg-id="BLOOM.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Brasil
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Brazil News" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png",CNN Brasil
+#EXTINF:-1 group-title="Brazil Notícias" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png",CNN Brasil
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://187.13.81.148:8000/play/a09b
-#EXTINF:-1 group-title="Brazil News" tvg-id="" tvg-name="Globo News" tvg-logo="",Globo News
+#EXTINF:-1 group-title="Brazil Notícias" tvg-id="" tvg-name="Globo News" tvg-logo="",Globo News
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87292.ts
-#EXTINF:-1 group-title="Brazil News" tvg-id="" tvg-name="Globo News" tvg-logo="",Globo News
+#EXTINF:-1 group-title="Brazil Notícias" tvg-id="" tvg-name="Globo News" tvg-logo="",Globo News
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87314.ts
-#EXTINF:-1 group-title="Brazil News" tvg-id="" tvg-name="Record News" tvg-logo="",Record News
+#EXTINF:-1 group-title="Brazil Notícias" tvg-id="" tvg-name="Record News" tvg-logo="",Record News
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87462.ts
