@@ -9,9 +9,9 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11041
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/104
 #EXTINF:-1 group-title="Movies and Series",AXN
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11030
-#EXTINF:-1 group-title="Movies and Series",AXN BLACK
+#EXTINF:-1 group-title="Movies and Series",AXN Movies
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11032
-#EXTINF:-1 group-title="Movies and Series",AXN MOVIES
+#EXTINF:-1 group-title="Movies and Series",AXN Movies
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/169855
 #EXTINF:-1 group-title="Movies and Series",AXN WHITE
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11031
@@ -31,9 +31,9 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11055
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/123
 #EXTINF:-1 group-title="Portugal",CARTOON NETWORK
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11059
-#EXTINF:-1 group-title="Movies and Series",CINE ACTION TV
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Action" tvg-logo="" group-title="Movies and Series",TVCine Action
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/218
-#EXTINF:-1 group-title="Movies and Series",CINE EDITION TV
+#EXTINF:-1 tvg-id="" tvg-name="TVCine Edition" tvg-logo="" group-title="Movies and Series",TVCine Edition
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45368
 #EXTINF:-1 group-title="Movies and Series",CINE EMOTION TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/170370
@@ -45,7 +45,7 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11052
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11053
 #EXTINF:-1 group-title="Movies and Series",CINE TV 4
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11054
-#EXTINF:-1 group-title="Movies and Series",CINEMUNDO
+#EXTINF:-1 tvg-id="" tvg-name="Cine Mundo" tvg-logo="" group-title="Movies and Series",Cine Mundo
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11043
 #EXTINF:-1 group-title="Portugal Notícias",CMTV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/117
