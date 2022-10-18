@@ -1,142 +1,143 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/raiplay.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz"
+# World.m3u8
 
-#EXTINF:-1 group-title="Generalistas" tvg-id="La1.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La1.png" tvg-name="La 1",La 1
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La1.png" tvg-id="La1.TV" tvg-name="La 1",La 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestream.akamaized.net/segments/la1/la1_main.m3u8
 
-#EXTINF:-1 group-title="Generalistas" tvg-id="La2.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La2.png" tvg-name="La 2",La 2
+#EXTINF:-1 group-title="Generalistas" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La2.png" tvg-id="La2.TV" tvg-name="La 2",La 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestream.akamaized.net/segments/la2/la2_main.m3u8
 
-#EXTINF:-1 group-title="Informativos" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/7NN-Noticias.png",7NN Noticias
+#EXTINF:-1 group-title="Informativos" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/7NN-Noticias.png" tvg-id="",7NN Noticias
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía" tvg-logo="" group-title="Andalucía",Canal Sur Andalucía
+#EXTINF:-1 group-title="Andalucía" tvg-logo="" tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10323.ts
-#EXTINF:-1 tvg-id="CanalMalaga.TV" tvg-name="Canal Málaga" tvg-logo="" group-title="Andalucía",Canal Málaga
+#EXTINF:-1 group-title="Andalucía" tvg-logo="" tvg-id="CanalMalaga.TV" tvg-name="Canal Málaga",Canal Málaga
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10364.ts
 
-#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-name="Telemadrid" tvg-logo="" group-title="C. de Madrid",Telemadrid
+#EXTINF:-1 group-title="C. de Madrid" tvg-logo="" tvg-id="Telemadrid.TV" tvg-name="Telemadrid",Telemadrid
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10293.ts
 
-#EXTINF:-1 tvg-id="7RM.TV" tvg-name="7 R. de Murcia" tvg-logo="" group-title="R. de Murcia",7 R. de Murcia
+#EXTINF:-1 group-title="R. de Murcia" tvg-logo="" tvg-id="7RM.TV" tvg-name="7 R. de Murcia",7 R. de Murcia
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96870
-#EXTINF:-1 tvg-id="7RM.TV" tvg-name="7 R. de Murcia" tvg-logo="" group-title="R. de Murcia",7 R. de Murcia
+#EXTINF:-1 group-title="R. de Murcia" tvg-logo="" tvg-id="7RM.TV" tvg-name="7 R. de Murcia",7 R. de Murcia
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10368.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TV3CAT" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="Int. Europa",TV3CAT
+#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" tvg-id="" tvg-name="TV3CAT",TV3CAT
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="BoingSpain.it" tvg-name="Boing España" tvg-logo="" group-title="Infantiles",Boing España
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="BoingSpain.it" tvg-name="Boing España",Boing España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10306.ts
-#EXTINF:-1 tvg-id="BoingSpain.it" tvg-name="Boing España" tvg-logo="" group-title="Infantiles",Boing España
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="BoingSpain.it" tvg-name="Boing España",Boing España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10206.ts
-#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="Clan TVE" tvg-logo="" group-title="Infantiles",Clan
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="ClanTVE.es" tvg-name="Clan TVE",Clan
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10312.ts
-#EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-name="Disney Channel España" tvg-logo="" group-title="Infantiles",Disney Channel España
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="DisneyChannelSpain.es" tvg-name="Disney Channel España",Disney Channel España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10311.ts
-#EXTINF:-1 tvg-id="DisneyChannelSpain.es" tvg-name="Disney Channel España" tvg-logo="" group-title="Infantiles",Disney Channel España
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="DisneyChannelSpain.es" tvg-name="Disney Channel España",Disney Channel España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10212.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney + España" tvg-logo="" group-title="Infantiles",Disney + España
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="" tvg-name="Disney + España",Disney + España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10309.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney + España" tvg-logo="" group-title="Infantiles",Disney + España
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="" tvg-name="Disney + España",Disney + España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10214.ts
-#EXTINF:-1 tvg-id="DisneyJuniorSpain.es" tvg-name="Disney Junior España" tvg-logo="" group-title="Infantiles",Disney Junior España
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="DisneyJuniorSpain.es" tvg-name="Disney Junior España",Disney Junior España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10310.ts
-#EXTINF:-1 tvg-id="DisneyJuniorSpain.es" tvg-name="Disney Junior España" tvg-logo="" group-title="Infantiles",Disney Junior España
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="DisneyJuniorSpain.es" tvg-name="Disney Junior España",Disney Junior España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10213.ts
-#EXTINF:-1 tvg-id="CanalPandaSpain.pt" tvg-name="Canal Panda España" tvg-logo="" group-title="Infantiles",Canal Panda España
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="CanalPandaSpain.pt" tvg-name="Canal Panda España",Canal Panda España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10314.ts
-#EXTINF:-1 tvg-id="NickelodeonSpain.es" tvg-name="Nickelodeon España" tvg-logo="" group-title="Infantiles",Nickelodeon España
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="NickelodeonSpain.es" tvg-name="Nickelodeon España",Nickelodeon España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10308.ts
-#EXTINF:-1 tvg-id="NickJrSpain.es" tvg-name="Nick Jr España" tvg-logo="" group-title="Infantiles",Nick Jr España
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="NickJrSpain.es" tvg-name="Nick Jr España",Nick Jr España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10307.ts
-#EXTINF:-1 tvg-id="NickJrSpain.es" tvg-name="Nick Jr España" tvg-logo="" group-title="Infantiles",Nick Jr España
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="NickJrSpain.es" tvg-name="Nick Jr España",Nick Jr España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10238.ts
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV Latin America" tvg-logo="" group-title="Infantiles",Baby TV Latin America
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="BabyTV.uk" tvg-name="Baby TV Latin America",Baby TV Latin America
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10313.ts
 
-#EXTINF:-1 group-title="Galicia" tvg-id="tvgalicia.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVG.png" tvg-name="TVG",TVG
+#EXTINF:-1 group-title="Galicia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVG.png" tvg-id="tvgalicia.tv.vodafone.pt" tvg-name="TVG",TVG
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
 
-#EXTINF:-1 group-title="Galicia" tvg-id="" tvg-logo="" tvg-name="TVG Cultura",TVG Cultura
+#EXTINF:-1 group-title="Galicia" tvg-logo="" tvg-id="" tvg-name="TVG Cultura",TVG Cultura
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cultural-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Galicia" tvg-id="" tvg-logo="" tvg-name="TVG Xabarin",TVG Xabarin
+#EXTINF:-1 group-title="Galicia" tvg-logo="" tvg-id="" tvg-name="TVG Xabarin",TVG Xabarin
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Galicia" tvg-id="" tvg-logo="" tvg-name="TVG Musigal",TVG Musigal
+#EXTINF:-1 group-title="Galicia" tvg-logo="" tvg-id="" tvg-name="TVG Musigal",TVG Musigal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://musigal-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
+#EXTINF:-1 group-title="C. de Madrid" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" tvg-id="Telemadrid.TV" tvg-name="Telemadrid",Telemadrid
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalMalaga.TV" tvg-logo="https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Málaga",Canal Málaga
+#EXTINF:-1 group-title="Andalucía" tvg-logo="https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200" tvg-id="CanalMalaga.TV" tvg-name="Canal Málaga",Canal Málaga
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Aragón" tvg-id="AragonTV.TV" tvg-logo="" tvg-name="Aragón TV",Aragón TV
+#EXTINF:-1 group-title="Aragón" tvg-logo="" tvg-id="AragonTV.TV" tvg-name="Aragón TV",Aragón TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 group-title="Extremadura" tvg-id="Extremadura.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Extremadura.png" tvg-name="Canal Extremadura",Canal Extremadura
+#EXTINF:-1 group-title="Extremadura" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Extremadura.png" tvg-id="Extremadura.TV" tvg-name="Canal Extremadura",Canal Extremadura
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="País Vasco" tvg-id="ETB1.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-1.png" tvg-name="ETB 1",ETB 1
+#EXTINF:-1 group-title="País Vasco" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-1.png" tvg-id="ETB1.TV" tvg-name="ETB 1",ETB 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
 
-#EXTINF:-1 group-title="País Vasco" tvg-id="ETB2.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-2.png" tvg-name="ETB 2",ETB 2
+#EXTINF:-1 group-title="País Vasco" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-2.png" tvg-id="ETB2.TV" tvg-name="ETB 2",ETB 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
 
-#EXTINF:-1 group-title="Int. Europa" tvg-id="TVGA.TV" tvg-logo="" tvg-name="TVG América",TVG América
+#EXTINF:-1 group-title="Int. Europa" tvg-logo="" tvg-id="TVGA.TV" tvg-name="TVG América",TVG América
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://america-crtvg.flumotion.com/crtvg/america_high/playlist.m3u8
 
-#EXTINF:-1 group-title="Int. América" tvg-id="cubavi.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cubavisión-Internacional.png" tvg-name="Cubavisión TV",Cubavisión TV
+#EXTINF:-1 group-title="Int. América" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cubavisión-Internacional.png" tvg-id="cubavi.tv.vodafone.pt" tvg-name="Cubavisión TV",Cubavisión TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87336.ts
 
-#EXTINF:-1 group-title="Int. América" tvg-id="cubavi.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cubavisión-Internacional.png" tvg-name="Cubavisión TV",Cubavisión TV
+#EXTINF:-1 group-title="Int. América" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cubavisión-Internacional.png" tvg-id="cubavi.tv.vodafone.pt" tvg-name="Cubavisión TV",Cubavisión TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8|Referer=https://teveo.cu/
 
-#EXTINF:-1 group-title="Int. América" tvg-id="TeleSUR.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png" tvg-name="TeleSUR Venezuela",TeleSUR Venezuela
+#EXTINF:-1 group-title="Int. América" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png" tvg-id="TeleSUR.TV" tvg-name="TeleSUR Venezuela",TeleSUR Venezuela
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TCVInternacional.cv" tvg-name="TCV" tvg-logo="" group-title="Int. África",TCV Internacional
+#EXTINF:-1 group-title="Int. África" tvg-logo="" tvg-id="TCVInternacional.cv" tvg-name="TCV",TCV Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87335.ts
 
-#EXTINF:-1 tvg-id="TPAInternacional.ao" tvg-name="TPA" tvg-logo="" group-title="Int. África",TPA Internacional
+#EXTINF:-1 group-title="Int. África" tvg-logo="" tvg-id="TPAInternacional.ao" tvg-name="TPA",TPA Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87340.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ZAP Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" group-title="Int. África",ZAP Viva
+#EXTINF:-1 group-title="Int. África" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" tvg-id="" tvg-name="ZAP Viva",ZAP Viva
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87303.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZAP Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" group-title="Int. África",ZAP Viva
+#EXTINF:-1 group-title="Int. África" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" tvg-id="" tvg-name="ZAP Viva",ZAP Viva
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96963
 
 #EXTINF:-1 group-title="Int. África" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVM.png",TVM
@@ -154,22 +155,22 @@ http://196.28.226.121:1935/live/smil:Channel2.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8
 
-#EXTINF:-1 group-title="Int. Asia" tvg-id="CGTNN.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN.png",CGTN
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN.png" tvg-id="CGTNN.TV",CGTN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 group-title="Int. Asia" tvg-id="CGTN.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Español.png",CGTN Español
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Español.png" tvg-id="CGTN.TV",CGTN Español
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 group-title="Int. Asia" tvg-id="CGTNFrancais.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Français.png",CGTN Français
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Français.png" tvg-id="CGTNFrancais.cn",CGTN Français
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://livefr.cgtn.com/1000f/prog_index.m3u8
 
-#EXTINF:-1 group-title="Int. Asia" tvg-id="CGTNDoc.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Documentary.png",CGTN Documentary
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Documentary.png" tvg-id="CGTNDoc.TV",CGTN Documentary
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
@@ -184,133 +185,129 @@ https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 
-#EXTINF:-1 group-title="Int. Asia" tvg-id="nhkworld.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NHK-World.png",NHK World Japan
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NHK-World.png" tvg-id="nhkworld.tv.vodafone.pt",NHK World Japan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF:-1 group-title="Int. Asia" tvg-id="aljaze.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Al-Jazeera.png",Al Jazeera
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Al-Jazeera.png" tvg-id="aljaze.tv.vodafone.pt",Al Jazeera
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 group-title="Int. Otros" tvg-id="fashiontvhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fashion-TV.png" tvg-name="Fashion TV",Fashion TV
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fashion-TV.png" tvg-id="fashiontvhd.tv.vodafone.pt" tvg-name="Fashion TV",Fashion TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Int. Otros" tvg-id="hd-fashion" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HD-Fashion-&-Lifestyle-TV.png",HD Fashion & Lifestyle TV
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HD-Fashion-&-Lifestyle-TV.png" tvg-id="hd-fashion",HD Fashion & Lifestyle TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 
-#EXTINF:-1 group-title="Int. Otros" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/World-Fashion-Channel.jpg",World Fashion Channel
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/World-Fashion-Channel.jpg" tvg-id="",World Fashion Channel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://cunhadigital.com/Picons_FR/eentertainment.png" group-title="Int. Otros",E!
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="http://cunhadigital.com/Picons_FR/eentertainment.png" tvg-id="" tvg-name="E!",E!
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87330.ts
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://cunhadigital.com/Picons_FR/eentertainment.png" group-title="Int. Otros",E!
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="http://cunhadigital.com/Picons_FR/eentertainment.png" tvg-id="" tvg-name="E!",E!
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87463.ts
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://cunhadigital.com/Picons_FR/eentertainment.png" group-title="Int. Otros",E!
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="http://cunhadigital.com/Picons_FR/eentertainment.png" tvg-id="" tvg-name="E!",E!
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96909
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC Entertainment" tvg-logo="" group-title="Int. Otros",BBC Entertainment
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="BBC Entertainment",BBC Entertainment
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87337.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CNBC Europe" tvg-logo="" group-title="Int. Otros",CNBC Europe
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="CNBC Europe",CNBC Europe
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87338.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CBS REALITY" tvg-logo="" group-title="Int. Otros",CBS Reality
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="CBS REALITY",CBS Reality
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87328.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBS REALITY" tvg-logo="" group-title="Int. Otros",CBS Reality
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="CBS REALITY",CBS Reality
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96902
-#EXTINF:-1 tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation" tvg-logo="" group-title="Int. Otros",Crime + Investigation
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation",Crime + Investigation
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87327.ts
-#EXTINF:-1 tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation" tvg-logo="" group-title="Int. Otros",Crime + Investigation
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation",Crime + Investigation
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87343.ts
-#EXTINF:-1 tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation" tvg-logo="" group-title="Int. Otros",Crime + Investigation
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation",Crime + Investigation
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96887
-#EXTINF:-1 tvg-id="" tvg-name="ID Investigation Discovery" tvg-logo="https://cunhadigital.com/Picons/Investdisc.png" group-title="Int. Otros",ID Investigation Discovery
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://cunhadigital.com/Picons/Investdisc.png" tvg-id="" tvg-name="ID Investigation Discovery",ID Investigation Discovery
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87436.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID Investigation Discovery" tvg-logo="https://cunhadigital.com/Picons/Investdisc.png" group-title="Int. Otros",ID Investigation Discovery
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://cunhadigital.com/Picons/Investdisc.png" tvg-id="" tvg-name="ID Investigation Discovery",ID Investigation Discovery
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416398
-#EXTINF:-1 tvg-id="" tvg-name="AMC Break" tvg-logo="" group-title="Int. Otros",AMC Break
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="AMC Break",AMC Break
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87296.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC Break" tvg-logo="" group-title="Int. Otros",AMC Break
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="AMC Break",AMC Break
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87344.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC Break" tvg-logo="" group-title="Int. Otros",AMC Break
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="AMC Break",AMC Break
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416440
 
-#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="Canal Cocina" tvg-logo="" group-title="Otros",Canal Cocina
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10304.ts
-#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="Canal Cocina" tvg-logo="" group-title="Otros",Canal Cocina
+#EXTINF:-1 group-title="Otros" tvg-logo="" tvg-id="CanalCocina.es" tvg-name="Canal Cocina",Canal Cocina
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10207.ts
-#EXTINF:-1 tvg-id="Decasa.es" tvg-name="Decasa" tvg-logo="" group-title="Otros",DeCasa
+#EXTINF:-1 group-title="Otros" tvg-logo="" tvg-id="CanalCocina.es" tvg-name="Canal Cocina",Canal Cocina
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10304.ts
+#EXTINF:-1 group-title="Otros" tvg-logo="" tvg-id="Decasa.es" tvg-name="Decasa",DeCasa
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10305.ts
 
-#EXTINF:-1 tvg-id="CazayPesca.es" group-title="Otros",Caça e Pesca
+#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="CazayPesca.es" tvg-name="Caza y Pesca",Caza y Pesca
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96896
 
-#EXTINF:-1 tvg-id="Cacavision.es" group-title="Otros",Caça Vision
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96898
-
-#EXTINF:-1 tvg-id="" tvg-name="Stingray IConcerts" tvg-logo="" group-title="Musicales",Stingray IConcerts
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Stingray IConcerts",Stingray IConcerts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87342.ts
 
 #EXTINF:-1 group-title="Musicales",VH1
 #http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/239
 
-#EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-name="MTV Portugal" tvg-logo="" group-title="Musicales",MTV Portugal
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="MTVPortugal.pt" tvg-name="MTV Portugal",MTV Portugal
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87325.ts
-#EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-name="MTV Portugal" tvg-logo="" group-title="Musicales",MTV Portugal
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="MTVPortugal.pt" tvg-name="MTV Portugal",MTV Portugal
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96923
-#EXTINF:-1 tvg-id="MTVSpain.es" tvg-name="MTV España" tvg-logo="" group-title="Musicales",MTV España
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="MTVSpain.es" tvg-name="MTV España",MTV España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10324.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV 00s" tvg-logo="" group-title="Musicales",MTV 00s
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MTV 00s",MTV 00s
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87476.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="MCM Pop" tvg-logo="" group-title="Musicales",MCM Pop
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MCM Pop",MCM Pop
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87472.ts
-#EXTINF:-1 tvg-id="" tvg-name="MCM Pop" tvg-logo="" group-title="Musicales",MCM Pop
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MCM Pop",MCM Pop
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87473.ts
-#EXTINF:-1 tvg-id="" tvg-name="MCM Top" tvg-logo="" group-title="Musicales",MCM Top
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MCM Top",MCM Top
 #http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/169
-#EXTINF:-1 tvg-id="" tvg-name="MCM Top" tvg-logo="" group-title="Musicales",MCM Top
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MCM Top",MCM Top
 #http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/21525
 
-#EXTINF:-1 tvg-id="180hd.tv.vodafone.pt" tvg-name="Canal 180" tvg-logo="" group-title="Musicales",Canal 180
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="180hd.tv.vodafone.pt" tvg-name="Canal 180",Canal 180
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87309.ts
 
-#EXTINF:-1 group-title="Musicales" tvg-name="ON TV Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/On-FM.png",ON TV Portugal
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/On-FM.png" tvg-name="ON TV Portugal",ON TV Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlmaLusa.pt" tvg-name="Alma Lusa" tvg-logo="" group-title="Musicales",Alma Lusa
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="AlmaLusa.pt" tvg-name="Alma Lusa",Alma Lusa
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87468.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Afro Music Channel" tvg-logo="" group-title="Musicales",Afro Music Channel
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Afro Music Channel",Afro Music Channel
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87474.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Trace Brazuca" tvg-logo="" group-title="Musicales",Trace Brazuca
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Trace Brazuca",Trace Brazuca
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87469.ts
-#EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="" group-title="Musicales",Trace Urban
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Trace Urban",Trace Urban
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87470.ts
-#EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="" group-title="Musicales",Trace Urban
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Trace Urban",Trace Urban
 #http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237
-#EXTINF:-1 group-title="Musicales" tvg-id="tracehd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png",Trace Urban
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png" tvg-id="tracehd.tv.vodafone.pt",Trace Urban
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Trace Toca" tvg-logo="" group-title="Musicales",Trace Toca
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Trace Toca",Trace Toca
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87471.ts
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live HD" tvg-logo="" group-title="Musicales",Mezzo Live
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Mezzo Live HD",Mezzo Live
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87467.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live" tvg-logo="" group-title="Musicales",Mezzo Live
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Mezzo Live",Mezzo Live
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87475.ts
 
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png",California Music Channel
@@ -323,12 +320,12 @@ https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PR
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
-#EXTINF:-1 group-title="Musicales" tvg-id="CLUBHD.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png",Clubbing TV
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png" tvg-id="CLUBHD.meo.pt",Clubbing TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Musicales" tvg-id="1HD Music" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/1HD.png",1HD Music
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/1HD.png" tvg-id="1HD Music",1HD Music
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live-3.otcnet.ru/onehdmulti/index.m3u8
@@ -338,17 +335,17 @@ https://live-3.otcnet.ru/onehdmulti/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Musicales" tvg-id="Deejay TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DeeJay-TV.png",DeeJay TV
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DeeJay-TV.png" tvg-id="Deejay TV",DeeJay TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
 
-#EXTINF:-1 group-title="Musicales" tvg-name="4FUN TV Polonia" tvg-id="4fun.pl" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/4Fun-TV.png",4FUN TV Polonia PL
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/4Fun-TV.png" tvg-id="4fun.pl" tvg-name="4FUN TV Polonia",4FUN TV Polonia PL
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
-#EXTINF:-1 group-title="Musicales" tvg-id="" tvg-id="Sexy KPOP TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sexy-KPOP-TV.png",Sexy KPOP TV
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sexy-KPOP-TV.png" tvg-id="" tvg-name="Sexy KPOP TV",Sexy KPOP TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
@@ -363,5 +360,5 @@ https://stream1.xdevel.com/video0s975817-1182/stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCancaoNovaPortugal.pt" tvg-name="Canção Nova" tvg-logo="" group-title="Religiosos",Canção Nova
+#EXTINF:-1 group-title="Religiosos" tvg-id="TVCancaoNovaPortugal.pt" tvg-logo="" tvg-name="Canção Nova",Canção Nova
 #http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/21523
