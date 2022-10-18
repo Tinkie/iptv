@@ -332,15 +332,14 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/3925
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="FuelTV.us" tvg-name="Fuel TV",Fuel TV
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fuel-TV.png" tvg-id="FuelTV.us" tvg-name="Fuel TV",Fuel TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87326.ts
 
-#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Red-Bull-TV.png" tvg-name="RedBull TV",RedBull TV EN
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://logodix.com/logo/1353032.png" tvg-id="redbulltv.pt" tvg-name="RedBull TV",RedBull TV EN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://logodix.com/logo/1353032.png" tvg-id="redbulltv.pt" tvg-name="RedBull TV",RedBull TV EN
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87413.ts
+
 
 #EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Abu-Dhabi-Sports-1.png" tvg-id="Abu Dhabi Sports",Abu Dhabi Sports 1
 #KODIPROP:inputstream=inputstream.adaptive
