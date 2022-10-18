@@ -1,47 +1,49 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml"
-#EXTINF:-1 tvg-id="La1.TV" tvg-name="La 1" tvg-logo="" group-title="Generalistas",La 1
+#Spain.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="La1.TV" tvg-name="La 1",La 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10245.ts
-#EXTINF:-1 tvg-id="La2.TV" tvg-name="La 2" tvg-logo="" group-title="Generalistas",La 2
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="La2.TV" tvg-name="La 2",La 2
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10246.ts
-#EXTINF:-1 tvg-id="La1.TV" tvg-name="La 1" tvg-logo="" group-title="Generalistas",La 1
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="La1.TV" tvg-name="La 1",La 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10199.ts
-#EXTINF:-1 tvg-id="La2.TV" tvg-name="La 2" tvg-logo="" group-title="Generalistas",La 2
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="La2.TV" tvg-name="La 2",La 2
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10200.ts
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="" group-title="Generalistas",Antena 3
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="Antena3.es" tvg-name="Antena 3",Antena 3
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10247.ts
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="" group-title="Generalistas",Antena 3
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="Antena3.es" tvg-name="Antena 3",Antena 3
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10204.ts
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="" group-title="Generalistas",Cuatro
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="Cuatro.es" tvg-name="Cuatro",Cuatro
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10248.ts
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="" group-title="Generalistas",Cuatro
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="Cuatro.es" tvg-name="Cuatro",Cuatro
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10211.ts
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="Telecinco" tvg-logo="" group-title="Generalistas",Telecinco
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="Telecinco.es" tvg-name="Telecinco",Telecinco
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10249.ts
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="La Sexta" tvg-logo="" group-title="Generalistas",La Sexta
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="LaSexta.es" tvg-name="La Sexta",La Sexta
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10250.ts
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="La Sexta" tvg-logo="" group-title="Generalistas",La Sexta
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="LaSexta.es" tvg-name="La Sexta",La Sexta
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10220.ts
-#EXTINF:-1 tvg-id="BeMad.es" tvg-name="Be Mad" tvg-logo="" group-title="Generalistas",Be Mad
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="BeMad.es" tvg-name="Be Mad",Be Mad
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10264.ts
-#EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" tvg-logo="" group-title="Generalistas",Mega
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="Mega.es" tvg-name="Mega",Mega
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10265.ts
-#EXTINF:-1 tvg-id="DKiss.es" tvg-name="DKiss" tvg-logo="" group-title="Generalistas",DKiss
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="DKiss.es" tvg-name="DKiss",DKiss
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10318.ts
-#EXTINF:-1 tvg-id="Divinity.es" tvg-name="Divinity" tvg-logo="" group-title="Generalistas",Divinity
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="Divinity.es" tvg-name="Divinity",Divinity
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10319.ts
-#EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova" tvg-logo="" group-title="Generalistas",Nova
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="Nova.es" tvg-name="Nova",Nova
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10320.ts
-#EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova" tvg-logo="" group-title="Generalistas",Nova
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="Nova.es" tvg-name="Nova",Nova
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10239.ts
-#EXTINF:-1 tvg-id="TEN.es" tvg-name="Ten" tvg-logo="" group-title="Generalistas",Ten
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="TEN.es" tvg-name="Ten",Ten
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10322.ts
-#EXTINF:-1 tvg-id="TNTSpain.es" tvg-name="TNT España" tvg-logo="" group-title="Generalistas",TNT España
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="TNTSpain.es" tvg-name="TNT España",TNT España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10316.ts
-#EXTINF:-1 tvg-id="TNTSpain.es" tvg-name="TNT España" tvg-logo="" group-title="Generalistas",TNT España
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="TNTSpain.es" tvg-name="TNT España",TNT España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10234.ts
-#EXTINF:-1 tvg-id="SundanceTVSpain.es" tvg-name="Sundance TV España" tvg-logo="" group-title="Generalistas",Sundance TV España
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="SundanceTVSpain.es" tvg-name="Sundance TV España",Sundance TV España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10317.ts
-#EXTINF:-1 tvg-id="BlazeSpain.us" tvg-name="Blaze España" tvg-logo="" group-title="Generalistas",Blaze España
+#EXTINF:-1 tvg-logo="" group-title="Generalistas" tvg-id="BlazeSpain.us" tvg-name="Blaze España",Blaze España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10315.ts
 
 #EXTINF:-1 group-title="Informativos" tvg-id="tve24.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",24h
