@@ -212,7 +212,7 @@ http://flixgran.xyz:8080/888888/888888/414919
 #EXTINF:-1 tvg-id="" tvg-name="FilmBox Arthouse" tvg-logo="" group-title="CANAIS | PORTUGAL",FilmBox Arthouse
 http://flixgran.xyz:8080/888888/888888/414920
 
-#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD" tvg-logo="http://flixgran.xyz:8080/images/78bd79d728aecab98455538167653ef0.png" group-title="Portugal",Food Network FHD
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="http://flixgran.xyz:8080/images/78bd79d728aecab98455538167653ef0.png" group-title="Portugal",Food Network
 http://flixgran.xyz:8080/888888/888888/414909
 #EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="http://flixgran.xyz:8080/images/8f805c81700b506d91267dc3cd4782be.png" group-title="Portugal",Food Network
 http://flixgran.xyz:8080/888888/888888/414870
@@ -467,7 +467,7 @@ http://flixgran.xyz:8080/888888/888888/414813
 #EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="" group-title="CANAIS | PORTUGAL",ZEE TV
 http://flixgran.xyz:8080/888888/888888/414936
 
-#EXTINF:-1 tvg-id="" tvg-name="PT:Panda Kids" tvg-logo="http://flixgran.xyz:8080/images/af449a789aabf7f5126e42644375fa9d.png" group-title="Portugal",PT:Panda Kids
+#EXTINF:-1 tvg-id="" tvg-name="Panda Kids" tvg-logo="http://flixgran.xyz:8080/images/af449a789aabf7f5126e42644375fa9d.png" group-title="Portugal",Panda Kids
 http://flixgran.xyz:8080/888888/888888/414741
 #EXTINF:-1 tvg-id="" tvg-name="24 KITCHEN HD" tvg-logo="http://flixgran.xyz:8080/images/d5caebabae7f8fe9d14cd82d9769cb08.png" group-title="Portugal",24 KITCHEN HD
 http://flixgran.xyz:8080/888888/888888/415093
@@ -549,5 +549,5 @@ http://flixgran.xyz:8080/888888/888888/415048
 http://flixgran.xyz:8080/888888/888888/415046
 #EXTINF:-1 tvg-id="" tvg-name="TVI FULHD" tvg-logo="http://flixgran.xyz:8080/images/c452921331e3bc580fe768285811bce9.png" group-title="Portugal",TVI FULHD
 http://flixgran.xyz:8080/888888/888888/415035
-#EXTINF:-1 tvg-id="" tvg-name="PT_265:PANDA HD" tvg-logo="http://flixgran.xyz:8080/images/582ba55eb08260bf08fe9d0e30f5bcb0.png" group-title="Portugal",PT_265:PANDA HD
+#EXTINF:-1 tvg-id="" tvg-name="PANDA HD" tvg-logo="http://flixgran.xyz:8080/images/582ba55eb08260bf08fe9d0e30f5bcb0.png" group-title="Portugal",PANDA HD
 http://flixgran.xyz:8080/888888/888888/415051
