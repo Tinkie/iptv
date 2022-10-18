@@ -1,141 +1,92 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz"
+#Desportivos_Portugal.m3u8
+
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 1",Sport TV 1
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96879
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 1",Sport TV 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87398.ts
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 1",Sport TV 1
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/170957
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 1",Sport TV 1
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68988?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 2",Sport TV 2
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96880
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 2",Sport TV 2
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87399.ts
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 2",Sport TV 2
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/206
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 2",Sport TV 2
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68991?checkedby:iptvcat.com
+
+
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 3",Sport TV 3
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96881
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 3",Sport TV 3
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87400.ts
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 3",Sport TV 3
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/7688
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 3",Sport TV 3
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68994?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 4",Sport TV 4
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96882
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 4",Sport TV 4
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87379.ts
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 4",Sport TV 4
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87401.ts
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 4",Sport TV 4
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11073
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 4",Sport TV 4
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68996?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 5",Sport TV 5
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96883
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 5",Sport TV 5
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87402.ts
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 5",Sport TV 5
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11074
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 5",Sport TV 5
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68998?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 6",Sport TV 6
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87403.ts
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV 6",Sport TV 6
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/249069?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV +",Sport TV +
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87395.ts
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sport TV +",Sport TV +
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69000
+
+
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87405.ts
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237022
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69004
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69003
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69002
+
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports2.pt" tvg-name="Eleven Sports 2",Eleven Sports 2
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87406.ts
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports2.pt" tvg-name="Eleven Sports 2",Eleven Sports 2
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237023
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports2.pt" tvg-name="Eleven Sports 2",Eleven Sports 2
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69007
+
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports3.pt" tvg-name="Eleven Sports 3",Eleven Sports 3
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87407.ts
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports3.pt" tvg-name="Eleven Sports 3",Eleven Sports 3
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237024
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports3.pt" tvg-name="Eleven Sports 3",Eleven Sports 3
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69010
+
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports4.pt" tvg-name="Eleven Sports 4",Eleven Sports 4
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87408.ts
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports4.pt" tvg-name="Eleven Sports 4",Eleven Sports 4
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159579
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports4.pt" tvg-name="Eleven Sports 4",Eleven Sports 4
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237025
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports4.pt" tvg-name="Eleven Sports 4",Eleven Sports 4
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69011
+
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports5.pt" tvg-name="Eleven Sports 5",Eleven Sports 5
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87409.ts
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports5.pt" tvg-name="Eleven Sports 5",Eleven Sports 5
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237026
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports5.pt" tvg-name="Eleven Sports 5",Eleven Sports 5
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69012
+
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports6.pt" tvg-name="Eleven Sports 6",Eleven Sports 6
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87410.ts
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports6.pt" tvg-name="Eleven Sports 6",Eleven Sports 6
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/143
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="elevensports6.pt" tvg-name="Eleven Sports 6",Eleven Sports 6
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69013
+
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 PT",Eurosport 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87411.ts
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 PT",Eurosport 1
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159591?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 PT",Eurosport 1
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69017
+
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 PT",Eurosport 2
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87412.ts
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 PT",Eurosport 2
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159590?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 PT",Eurosport 2
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69018
+
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="canal11.pt" tvg-name="Canal 11",Canal 11
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96967
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="canal11.pt" tvg-name="Canal 11",Canal 11
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87394.ts
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="canal11.pt" tvg-name="Canal 11",Canal 11
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/120
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="canal11.pt" tvg-name="Canal 11",Canal 11
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="canal11.pt" tvg-name="Canal 11",Canal 11
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69014
+
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="PortoCanal.pt" tvg-name="Porto Canal",Porto Canal
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87289.ts
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="PortoCanal.pt" tvg-name="Porto Canal",Porto Canal
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87308.ts
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="PortoCanal.pt" tvg-name="Porto Canal",Porto Canal
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/184
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="PortoCanal.pt" tvg-name="Porto Canal",Porto Canal
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69016
+
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sporting TV",Sporting TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87397.ts
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-name="Sporting TV",Sporting TV
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69015
+
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="BenficaTV.pt" tvg-name="Benfica TV",Benfica TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87396.ts
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="BenficaTV.pt" tvg-name="Benfica TV",Benfica TV
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11067
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="BenficaTV.pt" tvg-name="Benfica TV",Benfica TV
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68985
+
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="abolatv.pt" tvg-name="A Bola TV",A Bola TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87393.ts
 #EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="abolatv.pt" tvg-name="A Bola TV",A Bola TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87414.ts
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="abolatv.pt" tvg-name="A Bola TV",A Bola TV
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/11047
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Deportivos" tvg-id="abolatv.pt" tvg-name="A Bola TV",A Bola TV
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/69019
