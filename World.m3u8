@@ -235,15 +235,13 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96887
 #EXTINF:-1 tvg-id="" tvg-name="ID Investigation Discovery" tvg-logo="https://cunhadigital.com/Picons/Investdisc.png" group-title="Int. Otros",ID Investigation Discovery
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87436.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID Investigation Discovery" tvg-logo="https://cunhadigital.com/Picons/Investdisc.png" group-title="Int. Otros",ID Investigation Discovery
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/132
-#EXTINF:-1 tvg-id="" tvg-name="ID Investigation Discovery" tvg-logo="https://cunhadigital.com/Picons/Investdisc.png" group-title="Int. Otros",ID Investigation Discovery
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/170371
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416398
 #EXTINF:-1 tvg-id="" tvg-name="AMC Break" tvg-logo="" group-title="Int. Otros",AMC Break
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87296.ts
 #EXTINF:-1 tvg-id="" tvg-name="AMC Break" tvg-logo="" group-title="Int. Otros",AMC Break
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87344.ts
 #EXTINF:-1 tvg-id="" tvg-name="AMC Break" tvg-logo="" group-title="Int. Otros",AMC Break
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/114
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416440
 
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="Canal Cocina" tvg-logo="" group-title="Otros",Canal Cocina
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10304.ts
@@ -262,7 +260,7 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96898
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87342.ts
 
 #EXTINF:-1 group-title="Musicales",VH1
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/239
+#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/239
 
 #EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-name="MTV Portugal" tvg-logo="" group-title="Musicales",MTV Portugal
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87325.ts
@@ -278,9 +276,9 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87472.ts
 #EXTINF:-1 tvg-id="" tvg-name="MCM Pop" tvg-logo="" group-title="Musicales",MCM Pop
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87473.ts
 #EXTINF:-1 tvg-id="" tvg-name="MCM Top" tvg-logo="" group-title="Musicales",MCM Top
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/169
+#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/169
 #EXTINF:-1 tvg-id="" tvg-name="MCM Top" tvg-logo="" group-title="Musicales",MCM Top
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/21525
+#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/21525
 
 #EXTINF:-1 tvg-id="180hd.tv.vodafone.pt" tvg-name="Canal 180" tvg-logo="" group-title="Musicales",Canal 180
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87309.ts
@@ -301,7 +299,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87469.ts
 #EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="" group-title="Musicales",Trace Urban
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87470.ts
 #EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="" group-title="Musicales",Trace Urban
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237
+#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237
 #EXTINF:-1 group-title="Musicales" tvg-id="tracehd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png",Trace Urban
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -366,4 +364,4 @@ https://stream1.xdevel.com/video0s975817-1182/stream/playlist.m3u8
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCancaoNovaPortugal.pt" tvg-name="Canção Nova" tvg-logo="" group-title="Religiosos",Canção Nova
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/21523
+#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/21523
