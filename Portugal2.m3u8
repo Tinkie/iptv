@@ -52,7 +52,7 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96960
 #EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="" tvg-name="Discovery Channel",Discovery Channel
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96904
 
-#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="DiscoveryScience.us" tvg-name="Discovery Science",Discovery Science EU
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="DiscoveryScience.us" tvg-name="Discovery Science",Discovery Science (EU)
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71170
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="disneychannel.de" tvg-name="Disney Channel",Disney Channel
@@ -61,7 +61,7 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96903
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Disney Junior",Disney Junior
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96906
 
-#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png" tvg-id="euronw.tv.vodafone.pt",Euronews PT
+#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png" tvg-id="euronw.tv.vodafone.pt",Euronews (PT)
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96941
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" tvg-id="tfnhd.tv.vodafone.pt" tvg-name="Food Network",Food Network
@@ -309,7 +309,7 @@ http://top.ppvstream.fun:80/0987654321/1234567890/2163155
 #EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fuel-TV.png" tvg-id="FuelTV.us" tvg-name="Fuel TV",Fuel TV
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96918
 
-#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://logodix.com/logo/1353032.png" tvg-id="redbulltv.pt" tvg-name="RedBull TV",RedBull TV EN
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://logodix.com/logo/1353032.png" tvg-id="redbulltv.pt" tvg-name="RedBull TV",RedBull TV (EN)
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87413.ts
 
 #EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://i.imgur.com/X3mV3fA.png" tvg-id="" tvg-name="MotorVision",MotorVision
