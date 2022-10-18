@@ -128,15 +128,13 @@ https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" tvg-id="Futura [Brazil]",Canal Futura
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tv.unisc.br/hls/test.m3u8
-
 #EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/AgroBrasil-TV.png" tvg-id="AgroBrasil TV",AgroBrasil TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SBT.png" tvg-id="SBT [Brazil]",SBT
+http://flixgran.xyz:8080/888888/888888/1685
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SBT.png" tvg-id="SBT [Brazil]",SBT
 #KODIPROP:inputstream=inputstream.adaptive
@@ -145,6 +143,15 @@ https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Discovery Kids",Discovery Kids
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/99369
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" tvg-id="Futura [Brazil]",Canal Futura
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="http://flixgran.xyz:8080/images/5b8728ad0e478c13725e8b2fe319ea3f.jpg" tvg-id="futura.br" tvg-name="Canal Futura HD",Canal Futura
+http://flixgran.xyz:8080/888888/888888/339440
+#EXTINF:-1 group-title="Brazil" tvg-logo="http://flixgran.xyz:8080/images/5b8728ad0e478c13725e8b2fe319ea3f.jpg" tvg-id="futura.br" tvg-name="Canal Futura SD",Canal Futura
+http://flixgran.xyz:8080/888888/888888/339439
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Nick-Clássico.jpg" tvg-id="Nick Clássico",Nick Clássico
 #KODIPROP:inputstream=inputstream.adaptive

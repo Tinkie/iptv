@@ -56,6 +56,9 @@ https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/cha
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
+#EXTINF:-1 group-title="Int. News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ABC-News.png" tvg-id="ABC News",ABC News
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/138850
+
 #EXTINF:-1 group-title="Int. News" tvg-logo="" tvg-id="" tvg-name="Bloomberg",Bloomberg TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87465.ts
 
@@ -76,19 +79,30 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/138300
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 group-title="Int. News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CBSN.png" tvg-id="CBSN",CBS News
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/138878
 
-#EXTINF:-1 group-title="Int. News" tvg-logo="" tvg-id="" tvg-name="CNN",CNN
+#EXTINF:-1 group-title="Int. News" tvg-logo="" tvg-id="CNBC",CNBC
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/138885
+
+#EXTINF:-1 group-title="Int. News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NBC-News-Now.png" tvg-id="NBC News Now",NBC News Now
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87464.ts
+#EXTINF:-1 group-title="Int. News" tvg-logo="" tvg-id="" tvg-name="CNN",CNN
 
 #EXTINF:-1 group-title="Int. News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png" tvg-id="cnn.tv.vodafone.pt",CNN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="Int. News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NBC-News-Now.png" tvg-id="NBC News Now",NBC News Now
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Int. News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png" tvg-id="cnn.tv.vodafone.pt",CNN
+http://flixgran.xyz:8080/888888/888888/352920
+
+#EXTINF:-1 group-title="Int. News" tvg-logo="" tvg-id="" tvg-name="Fox News",Fox News
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/138917
 
 #EXTINF:-1 group-title="Int. News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png" tvg-id="TELESUR.meo.pt",teleSUR English
 #KODIPROP:inputstream=inputstream.adaptive

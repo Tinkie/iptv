@@ -65,6 +65,8 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87323.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87439.ts
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="24 Kitchen",24 Kitchen
+http://flixgran.xyz:8080/888888/888888/414861
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="24 Kitchen",24 Kitchen
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87437.ts
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" tvg-id="tfnhd.tv.vodafone.pt" tvg-name="Food Network",Food Network
@@ -168,6 +170,8 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87369.ts
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="Cine Mundo",Cine Mundo
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87352.ts
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="AMC",AMC
+http://flixgran.xyz:8080/888888/888888/414848
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="AMC",AMC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87353.ts
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="AMC",AMC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87370.ts
@@ -215,8 +219,7 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="Eurochannel.us",Eurochannel
-#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/144
-
+http://flixgran.xyz:8080/888888/888888/388522
 
 #EXTINF:-1 group-title="Documentaries" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Love-Nature-TV.png" tvg-id="LoveNature.ca",Love Nature TV (EN)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -228,6 +231,9 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/98211
 
 #EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="" tvg-name="Odisseia",Odisseia
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87447.ts
+
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="" tvg-name="Animal Planet",Animal Planet
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/138860
 
 #EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="" tvg-name="National Geographic",National Geographic
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87435.ts
@@ -254,6 +260,8 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/97173
 #EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="DiscoveryScience.us" tvg-name="Discovery Science",Discovery Science (US)
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/138897
 #EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="DiscoveryScience.us" tvg-name="Discovery Science",Discovery Science (BR)
+http://flixgran.xyz:8080/888888/888888/1528
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="DiscoveryScience.us" tvg-name="Discovery Science",Discovery Science (BR)
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/99315
 #EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="DiscoveryFamilyAfrica.us" tvg-name="Discovery Family",Discovery Family
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96307
@@ -278,6 +286,10 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
+#EXTINF:-1 group-title="Brazil" tvg-logo="http://flixgran.xyz:8080/images/3077acb4bceb16811d509f18b2f34a1b.jpg" tvg-id="off.br" tvg-name="OFF HD",Canal Off
+http://flixgran.xyz:8080/888888/888888/1581
+#EXTINF:-1 group-title="Brazil" tvg-logo="http://flixgran.xyz:8080/images/3077acb4bceb16811d509f18b2f34a1b.jpg" tvg-id="off.br" tvg-name="OFF SD",Canal Off
+http://flixgran.xyz:8080/888888/888888/1458
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Rede Globo",Globo
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87291.ts
@@ -304,8 +316,17 @@ https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://187.13.81.148:8000/play/a09b
 #EXTINF:-1 group-title="Brazil Notícias" tvg-logo="" tvg-id="" tvg-name="Globo News",Globo News
+http://flixgran.xyz:8080/888888/888888/1552
+#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="" tvg-id="" tvg-name="Globo News",Globo News
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87292.ts
 #EXTINF:-1 group-title="Brazil Notícias" tvg-logo="" tvg-id="" tvg-name="Globo News",Globo News
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87314.ts
-#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="" tvg-id="" tvg-name="Record News",Record News
+#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="" tvg-id="" tvg-name="Record TV News",Record TV News
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87462.ts
+
+#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="http://flixgran.xyz:8080/images/b861e506709dc70303bd13395e995778.jpg" tvg-id="record.news.br" tvg-name="Record News",Record News
+http://flixgran.xyz:8080/888888/888888/1684
+#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="http://flixgran.xyz:8080/images/b861e506709dc70303bd13395e995778.jpg" tvg-id="record.news.br" tvg-name="Record News",Record News
+http://flixgran.xyz:8080/888888/888888/1589
+#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="http://flixgran.xyz:8080/images/b861e506709dc70303bd13395e995778.jpg" tvg-id="record.news.br" tvg-name="Record News",Record News
+http://flixgran.xyz:8080/888888/888888/1475
