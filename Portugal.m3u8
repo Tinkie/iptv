@@ -1,91 +1,91 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="RTP 1" group-title="Portugal" tvg-logo="",RTP 1
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP 1",RTP 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87285.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP 1" group-title="Portugal" tvg-logo="",RTP 1
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP 1",RTP 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87304.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP 2" group-title="Portugal" tvg-logo="",RTP 2
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP 2",RTP 2
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87286.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP 2" group-title="Portugal" tvg-logo="",RTP 2
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP 2",RTP 2
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87305.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP 3" group-title="Portugal" tvg-logo="",RTP 3
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP 3",RTP 3
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87441.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP 3" group-title="Portugal" tvg-logo="",RTP 3
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP 3",RTP 3
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87456.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP Açores" group-title="Portugal" tvg-logo="",RTP Açores
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP Açores",RTP Açores
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87460.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP Madeira" group-title="Portugal" tvg-logo="",RTP Madeira
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP Madeira",RTP Madeira
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87459.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP Memória" group-title="Portugal" tvg-logo="",RTP Memória
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP Memória",RTP Memória
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87322.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP Internacional" tvg-logo="http://noz.ddns.net/picons/rtpinternacional.png" group-title="Portugal",RTP Internacional
+#EXTINF:-1 group-title="Portugal" tvg-logo="http://noz.ddns.net/picons/rtpinternacional.png" tvg-id="" tvg-name="RTP Internacional",RTP Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87301.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP África" group-title="Portugal" tvg-logo="",RTP África
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP África",RTP África
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87310.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP Arena" group-title="Portugal" tvg-logo="",RTP Arena
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP Arena",RTP Arena
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87433.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC" group-title="Portugal" tvg-logo="",SIC
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC",SIC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87287.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC" group-title="Portugal" tvg-logo="",SIC
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC",SIC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87306.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC Notícias" group-title="Portugal Notícias" tvg-logo="",SIC Notícias
+#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="" tvg-name="SIC Notícias",SIC Notícias
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87440.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC Notícias" group-title="Portugal Notícias" tvg-logo="",SIC Notícias
+#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="" tvg-name="SIC Notícias",SIC Notícias
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87455.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC Radical" group-title="Portugal" tvg-logo="",SIC Radical
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC Radical",SIC Radical
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87295.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC Radical" group-title="Portugal" tvg-logo="",SIC Radical
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC Radical",SIC Radical
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87324.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC Mulher" group-title="Portugal" tvg-logo="",SIC Mulher
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC Mulher",SIC Mulher
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87290.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC Mulher" group-title="Portugal" tvg-logo="",SIC Mulher
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC Mulher",SIC Mulher
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87312.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC Caras" group-title="Portugal" tvg-logo="",SIC Caras
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC Caras",SIC Caras
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87297.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC Caras" group-title="Portugal" tvg-logo="",SIC Caras
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC Caras",SIC Caras
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87329.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC OPTO" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/10/logo-opto-com-base-roxa-1.png" group-title="Portugal",SIC OPTO
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/10/logo-opto-com-base-roxa-1.png" tvg-id="" tvg-name="SIC OPTO",SIC OPTO
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87311.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC Internacional" group-title="Portugal" tvg-logo="",SIC Internacional
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC Internacional",SIC Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87302.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVI" group-title="Portugal" tvg-logo="",TVI
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="TVI",TVI
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87288.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVI" group-title="Portugal" tvg-logo="",TVI
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="TVI",TVI
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87307.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVI Ficção" group-title="Portugal" tvg-logo="",TVI Ficção
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="TVI Ficção",TVI Ficção
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87293.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVI Ficção" group-title="Portugal" tvg-logo="",TVI Ficção
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="TVI Ficção",TVI Ficção
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87315.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVI Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/99/TVI_Internacional_logo_2017.png" group-title="Portugal",TVI Internacional
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/99/TVI_Internacional_logo_2017.png" tvg-id="" tvg-name="TVI Internacional",TVI Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87334.ts
 
-#EXTINF:-1 group-title="Portugal Notícias" tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
+#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png" tvg-id="euronw.tv.vodafone.pt",Euronews PT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" group-title="Portugal Notícias" tvg-logo="",CNN Portugal
+#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal",CNN Portugal
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87442.ts
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" group-title="Portugal Notícias" tvg-logo="",CNN Portugal
+#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal",CNN Portugal
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87457.ts
-#EXTINF:-1 tvg-id="" tvg-name="CM TV" group-title="Portugal Notícias" tvg-logo="",CM TV
+#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="" tvg-name="CM TV",CM TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87443.ts
-#EXTINF:-1 tvg-id="" tvg-name="CM TV" group-title="Portugal Notícias" tvg-logo="",CM TV
+#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="" tvg-name="CM TV",CM TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87458.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal Q" group-title="Portugal" tvg-logo="",Canal Q
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Canal Q",Canal Q
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87323.ts
-#EXTINF:-1 tvg-id="casaecoz.tv.vodafone.pt" tvg-name="Casa e Cozinha" tvg-logo="https://imgur.com/tOdrDOX.png" group-title="Portugal",Casa e Cozinha
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://imgur.com/tOdrDOX.png" tvg-id="casaecoz.tv.vodafone.pt" tvg-name="Casa e Cozinha",Casa e Cozinha
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87439.ts
-#EXTINF:-1 tvg-id="" tvg-name="24 Kitchen" group-title="Portugal" tvg-logo="",24 Kitchen
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="24 Kitchen",24 Kitchen
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87437.ts
-#EXTINF:-1 tvg-id="tfnhd.tv.vodafone.pt" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" group-title="Portugal",Food Network
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" tvg-id="tfnhd.tv.vodafone.pt" tvg-name="Food Network",Food Network
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87299.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="A&E" group-title="Portugal" tvg-logo="",A&E
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="A&E",A&E
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416453
-#EXTINF:-1 tvg-id="" tvg-name="TLC" group-title="Portugal" tvg-logo="",TLC
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="TLC",TLC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87450.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="AR TV Canal Parlamento" group-title="Portugal" tvg-logo="",ARTV
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="AR TV Canal Parlamento",ARTV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87461.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="NOS Studios" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03-720x389.jpg" group-title="Movies and Series",NOS Studios
