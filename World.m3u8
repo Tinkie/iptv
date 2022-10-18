@@ -131,14 +131,25 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Int. África" tvg-logo="" tvg-id="TCVInternacional.cv" tvg-name="TCV",TCV Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87335.ts
+#EXTINF:-1 group-title="Int. África" tvg-logo="" tvg-id="TCVInternacional.cv" tvg-name="TCV",TCV Internacional
+http://flixgran.xyz:8080/888888/888888/414922
+
+#EXTINF:-1 group-title="Int. África" tvg-logo="http://flixgran.xyz:8080/images/ab5ba99847af76a9003a97b2e45cda5f.png" tvg-id="" tvg-name="TVC News",TVC News
+http://flixgran.xyz:8080/888888/888888/414902
+
 
 #EXTINF:-1 group-title="Int. África" tvg-logo="" tvg-id="TPAInternacional.ao" tvg-name="TPA",TPA Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87340.ts
+#EXTINF:-1 group-title="Int. África" tvg-logo="" tvg-id="TPAInternacional.ao" tvg-name="TPA",TPA Internacional
+http://flixgran.xyz:8080/888888/888888/414913
 
 #EXTINF:-1 group-title="Int. África" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" tvg-id="" tvg-name="ZAP Viva",ZAP Viva
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87303.ts
 #EXTINF:-1 group-title="Int. África" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" tvg-id="" tvg-name="ZAP Viva",ZAP Viva
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96963
+#EXTINF:-1 group-title="Int. África" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" tvg-id="" tvg-name="ZAP Viva",ZAP Viva
+http://flixgran.xyz:8080/888888/888888/414892
+
 
 #EXTINF:-1 group-title="Int. África" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVM.png",TVM
 #KODIPROP:inputstream=inputstream.adaptive
@@ -154,6 +165,9 @@ http://196.28.226.121:1935/live/smil:Channel2.smil/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8
+
+#EXTINF:-1 group-title="Int. África" tvg-logo="" tvg-id="" tvg-name="Stv Notícias",Stv Notícias
+http://flixgran.xyz:8080/888888/888888/414891
 
 #EXTINF:-1 group-title="Int. Asia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN.png" tvg-id="CGTNN.TV",CGTN
 #KODIPROP:inputstream=inputstream.adaptive
@@ -196,6 +210,8 @@ http://flixgran.xyz:8080/888888/888888/414927
 #EXTINF:-1 group-title="Int. Asia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Al-Jazeera.png" tvg-id="aljaze.tv.vodafone.pt",Al Jazeera
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Al-Jazeera.png" tvg-id="aljaze.tv.vodafone.pt",Al Jazeera
+http://flixgran.xyz:8080/888888/888888/414927
 
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fashion-TV.png" tvg-id="fashiontvhd.tv.vodafone.pt" tvg-name="Fashion TV",Fashion TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -235,6 +251,8 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87327.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87343.ts
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation",Crime + Investigation
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96887
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation",Crime + Investigation
+http://flixgran.xyz:8080/888888/888888/414856
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="https://cunhadigital.com/Picons/Investdisc.png" tvg-id="" tvg-name="ID Investigation Discovery",ID Investigation Discovery
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87436.ts
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="https://cunhadigital.com/Picons/Investdisc.png" tvg-id="" tvg-name="ID Investigation Discovery",ID Investigation Discovery
@@ -245,6 +263,11 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87296.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87344.ts
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="AMC Break",AMC Break
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416440
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="AMC Break",AMC Break
+http://flixgran.xyz:8080/888888/888888/414863
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="AMC Break",AMC Break
+http://flixgran.xyz:8080/888888/888888/414862
+
 
 #EXTINF:-1 group-title="Otros" tvg-logo="" tvg-id="CanalCocina.es" tvg-name="Canal Cocina",Canal Cocina
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10207.ts
@@ -255,6 +278,15 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10305.ts
 
 #EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="CazayPesca.es" tvg-name="Caza y Pesca",Caza y Pesca
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96896
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="CazayPesca.es" tvg-name="Caza y Pesca",Caza y Pesca
+http://flixgran.xyz:8080/888888/888888/414798
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="CazayPesca.es" tvg-name="Caza y Pesca",Caza y Pesca
+http://flixgran.xyz:8080/888888/888888/414797
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="http://flixgran.xyz:8080/images/2b65dab7948b8a973044dc731f7da460.png" tvg-id="" tvg-name="Caçavision",Caçavision
+http://flixgran.xyz:8080/888888/888888/414799
 
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Stingray IConcerts",Stingray IConcerts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87342.ts
@@ -296,12 +328,8 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87309.ts
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="AlmaLusa.pt" tvg-name="Alma Lusa",Alma Lusa
-http://flixgran.xyz:8080/888888/888888/414930
-#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="AlmaLusa.pt" tvg-name="Alma Lusa",Alma Lusa
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87468.ts
 
-#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Afro Music Channel",Afro Music Channel
-http://flixgran.xyz:8080/888888/888888/414938
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Afro Music Channel",Afro Music Channel
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87474.ts
 
@@ -373,737 +401,47 @@ https://stream1.xdevel.com/video0s975817-1182/stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PT:  SPORT TV NBA HD" tvg-logo="http://flixgran.xyz:8080/images/c98d8af474a6f88ae307fb8a7741164e.png" group-title="CANAIS | PORTUGAL",PT:  SPORT TV NBA HD
-http://flixgran.xyz:8080/888888/888888/414788
-#EXTINF:-1 tvg-id="" tvg-name="PT: 24 KITCHEN FHD" tvg-logo="http://flixgran.xyz:8080/images/e39026a487f035f9f748da6a0a63db5b.png" group-title="CANAIS | PORTUGAL",PT: 24 KITCHEN FHD
-http://flixgran.xyz:8080/888888/888888/414861
-#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV" tvg-logo="http://flixgran.xyz:8080/images/c04af6e7383c6fb5b92a967fbcf1360f.png" group-title="CANAIS | PORTUGAL",PT: A BOLA TV
-http://flixgran.xyz:8080/888888/888888/414729
-#EXTINF:-1 tvg-id="" tvg-name="PT: A Bola TV FHD" tvg-logo="http://flixgran.xyz:8080/images/c04af6e7383c6fb5b92a967fbcf1360f.png" group-title="CANAIS | PORTUGAL",PT: A Bola TV FHD
-http://flixgran.xyz:8080/888888/888888/414730
-#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV LOW" tvg-logo="http://flixgran.xyz:8080/images/e573be7255639ef810482a8f31ec209b.png" group-title="CANAIS | PORTUGAL",PT: A BOLA TV LOW
-http://flixgran.xyz:8080/888888/888888/414962
-#EXTINF:-1 tvg-id="" tvg-name="PT: AFRO MUSIC" tvg-logo="http://flixgran.xyz:8080/images/9780604fd1ac995f1476c5cb52929de0.png" group-title="CANAIS | PORTUGAL",PT: AFRO MUSIC
-http://flixgran.xyz:8080/888888/888888/414938
-#EXTINF:-1 tvg-id="" tvg-name="PT: ALJAZEERA" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: ALJAZEERA
-http://flixgran.xyz:8080/888888/888888/414927
-#EXTINF:-1 tvg-id="" tvg-name="PT: AlmaLusa FHD" tvg-logo="http://flixgran.xyz:8080/images/f994ddb6826401b4c62f4c787376f272.png" group-title="CANAIS | PORTUGAL",PT: AlmaLusa FHD
+#EXTINF:-1 tvg-id="" tvg-name="AlmaLusa FHD" tvg-logo="http://flixgran.xyz:8080/images/f994ddb6826401b4c62f4c787376f272.png" group-title="CANAIS | PORTUGAL",AlmaLusa FHD
 http://flixgran.xyz:8080/888888/888888/414930
-#EXTINF:-1 tvg-id="" tvg-name="PT: AMC" tvg-logo="http://flixgran.xyz:8080/images/7c52ed5b8820b7dfd90b5a784bac64b3.png" group-title="CANAIS | PORTUGAL",PT: AMC
-http://flixgran.xyz:8080/888888/888888/414847
-#EXTINF:-1 tvg-id="" tvg-name="PT: AMC HD" tvg-logo="http://flixgran.xyz:8080/images/7c52ed5b8820b7dfd90b5a784bac64b3.png" group-title="CANAIS | PORTUGAL",PT: AMC HD
-http://flixgran.xyz:8080/888888/888888/414848
-#EXTINF:-1 tvg-id="" tvg-name="PT: AMC LOW" tvg-logo="http://flixgran.xyz:8080/images/f96383dfd174c5c396b9826b69f5e677.png" group-title="CANAIS | PORTUGAL",PT: AMC LOW
-http://flixgran.xyz:8080/888888/888888/415018
-#EXTINF:-1 tvg-id="" tvg-name="PT: ANDALUCIA" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: ANDALUCIA
-http://flixgran.xyz:8080/888888/888888/414918
-#EXTINF:-1 tvg-id="" tvg-name="PT: ARTV" tvg-logo="http://flixgran.xyz:8080/images/dd7e5def90319a42a3151202ec058dc5.png" group-title="CANAIS | PORTUGAL",PT: ARTV
-http://flixgran.xyz:8080/888888/888888/414890
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN" tvg-logo="http://flixgran.xyz:8080/images/06e00c222a511e8c566365e87ccf8fe3.png" group-title="CANAIS | PORTUGAL",PT: AXN
-http://flixgran.xyz:8080/888888/888888/414827
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN FHD" tvg-logo="http://flixgran.xyz:8080/images/04ee2a3d8b4ceb395459d16c924f208e.png" group-title="CANAIS | PORTUGAL",PT: AXN FHD
-http://flixgran.xyz:8080/888888/888888/414828
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN LOW" tvg-logo="http://flixgran.xyz:8080/images/042dba4d2faaa29cd2fa4c0125416d25.PNG" group-title="CANAIS | PORTUGAL",PT: AXN LOW
-http://flixgran.xyz:8080/888888/888888/415009
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN MOVIES" tvg-logo="http://flixgran.xyz:8080/images/8a2f8a90d9c5d11792b8c185ea2ae45d.png" group-title="CANAIS | PORTUGAL",PT: AXN MOVIES
-http://flixgran.xyz:8080/888888/888888/414831
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN MOVIES FHD" tvg-logo="http://flixgran.xyz:8080/images/8a2f8a90d9c5d11792b8c185ea2ae45d.png" group-title="CANAIS | PORTUGAL",PT: AXN MOVIES FHD
-http://flixgran.xyz:8080/888888/888888/414832
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN MOVIES LOW" tvg-logo="http://flixgran.xyz:8080/images/9b1954ef5b98e226f2a624d020fb18e9.png" group-title="CANAIS | PORTUGAL",PT: AXN MOVIES LOW
-http://flixgran.xyz:8080/888888/888888/415011
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE" tvg-logo="http://flixgran.xyz:8080/images/da050e73a33d9c77620a8a895d29ee42.png" group-title="CANAIS | PORTUGAL",PT: AXN WHITE
-http://flixgran.xyz:8080/888888/888888/414829
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE FHD" tvg-logo="http://flixgran.xyz:8080/images/2f34774472c32680259b1441bc7218ed.png" group-title="CANAIS | PORTUGAL",PT: AXN WHITE FHD
-http://flixgran.xyz:8080/888888/888888/414830
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN White LOW" tvg-logo="http://flixgran.xyz:8080/images/562a5a0800e8c99a2bfd2dc71581a3e3.png" group-title="CANAIS | PORTUGAL",PT: AXN White LOW
-http://flixgran.xyz:8080/888888/888888/415010
-#EXTINF:-1 tvg-id="" tvg-name="PT: AZORES TV" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: AZORES TV
-http://flixgran.xyz:8080/888888/888888/414881
-#EXTINF:-1 tvg-id="" tvg-name="PT: BABY TV" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/BABYTV.png" group-title="CANAIS | PORTUGAL",PT: BABY TV
-http://flixgran.xyz:8080/888888/888888/414750
-#EXTINF:-1 tvg-id="" tvg-name="PT: BABY TV LOW" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/BABYTV.png" group-title="CANAIS | PORTUGAL",PT: BABY TV LOW
-http://flixgran.xyz:8080/888888/888888/414977
-#EXTINF:-1 tvg-id="" tvg-name="PT: BBC ENTERTAINEMENT" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/BBCENTERTAINMENT.png" group-title="CANAIS | PORTUGAL",PT: BBC ENTERTAINEMENT
-http://flixgran.xyz:8080/888888/888888/414897
-#EXTINF:-1 tvg-id="" tvg-name="PT: BBC WORLD NEWS" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/BBCWORLDNEWS.png" group-title="CANAIS | PORTUGAL",PT: BBC WORLD NEWS
-http://flixgran.xyz:8080/888888/888888/414898
-#EXTINF:-1 tvg-id="" tvg-name="PT: BFM TV" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: BFM TV
-http://flixgran.xyz:8080/888888/888888/414928
-#EXTINF:-1 tvg-id="" tvg-name="PT: BIGGS" tvg-logo="http://flixgran.xyz:8080/images/66129bcf60ace53b6a9d0bb0bd73c9f4.png" group-title="CANAIS | PORTUGAL",PT: BIGGS
-http://flixgran.xyz:8080/888888/888888/414742
-#EXTINF:-1 tvg-id="" tvg-name="PT: BIGGS LOW" tvg-logo="http://flixgran.xyz:8080/images/4d2492514a128376814acd33445ec464.png" group-title="CANAIS | PORTUGAL",PT: BIGGS LOW
-http://flixgran.xyz:8080/888888/888888/414973
-#EXTINF:-1 tvg-id="" tvg-name="PT: BLAZE" tvg-logo="http://flixgran.xyz:8080/images/1802250652096c1c805e7c9498d09ea7.png" group-title="CANAIS | PORTUGAL",PT: BLAZE
-http://flixgran.xyz:8080/888888/888888/414862
-#EXTINF:-1 tvg-id="" tvg-name="PT: Blaze FHD" tvg-logo="http://flixgran.xyz:8080/images/1802250652096c1c805e7c9498d09ea7.png" group-title="CANAIS | PORTUGAL",PT: Blaze FHD
-http://flixgran.xyz:8080/888888/888888/414863
-#EXTINF:-1 tvg-id="" tvg-name="PT: Bloomberg" tvg-logo="http://flixgran.xyz:8080/images/f4b781cb84583d570de2549197bf8d2d.png" group-title="CANAIS | PORTUGAL",PT: Bloomberg
-http://flixgran.xyz:8080/888888/888888/414896
-#EXTINF:-1 tvg-id="" tvg-name="PT: BOOMERANG" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnews.cision.com%2Fpt%2Fboomerang-portugal&psig=AOvVaw0JLKhODvaiz8vpq_qWUizx&ust=1649774886556000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMjY78KgjPcCFQAAAAAdAAAAABAO" group-title="CANAIS | PORTUGAL",PT: BOOMERANG
-http://flixgran.xyz:8080/888888/888888/414755
-#EXTINF:-1 tvg-id="" tvg-name="PT: BTV" tvg-logo="http://flixgran.xyz:8080/images/6dcef9d200089947243f03b59b8c04ca.png" group-title="CANAIS | PORTUGAL",PT: BTV
-http://flixgran.xyz:8080/888888/888888/414773
-#EXTINF:-1 tvg-id="" tvg-name="PT: BTV 4K" tvg-logo="http://flixgran.xyz:8080/images/6dcef9d200089947243f03b59b8c04ca.png" group-title="CANAIS | PORTUGAL",PT: BTV 4K
-http://flixgran.xyz:8080/888888/888888/414775
-#EXTINF:-1 tvg-id="" tvg-name="PT: BTV FHD" tvg-logo="http://flixgran.xyz:8080/images/4426a53cff5c8f1b24cee4b16b61c59d.png" group-title="CANAIS | PORTUGAL",PT: BTV FHD
-http://flixgran.xyz:8080/888888/888888/414774
-#EXTINF:-1 tvg-id="" tvg-name="PT: BTV LOW" tvg-logo="http://flixgran.xyz:8080/images/c2bf4f132e4f362b3b61d676debeaca7.png" group-title="CANAIS | PORTUGAL",PT: BTV LOW
-http://flixgran.xyz:8080/888888/888888/414990
-#EXTINF:-1 tvg-id="" tvg-name="PT: CACA E PESCA" tvg-logo="http://flixgran.xyz:8080/images/98b682b808893cb7856df7bc9a3d1187.png" group-title="CANAIS | PORTUGAL",PT: CACA E PESCA
-http://flixgran.xyz:8080/888888/888888/414797
-#EXTINF:-1 tvg-id="" tvg-name="PT: CACAVISION" tvg-logo="http://flixgran.xyz:8080/images/2b65dab7948b8a973044dc731f7da460.png" group-title="CANAIS | PORTUGAL",PT: CACAVISION
-http://flixgran.xyz:8080/888888/888888/414799
-#EXTINF:-1 tvg-id="" tvg-name="PT: CAMPO PEQUENO TV" tvg-logo="http://flixgran.xyz:8080/images/83c080dd719c784df16be9a93713c239.png" group-title="CANAIS | PORTUGAL",PT: CAMPO PEQUENO TV
-http://flixgran.xyz:8080/888888/888888/414806
-#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11" tvg-logo="http://flixgran.xyz:8080/images/0c50f8b78bd699d2d9914a632bd6bc32.png" group-title="CANAIS | PORTUGAL",PT: CANAL 11
-http://flixgran.xyz:8080/888888/888888/414756
-#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 FHD" tvg-logo="http://flixgran.xyz:8080/images/0c50f8b78bd699d2d9914a632bd6bc32.png" group-title="CANAIS | PORTUGAL",PT: CANAL 11 FHD
-http://flixgran.xyz:8080/888888/888888/414757
-#EXTINF:-1 tvg-id="" tvg-name="PT: Canal 11 LOW" tvg-logo="http://flixgran.xyz:8080/images/d7e912687f40d9dd9edf3eef713f1dc9.png" group-title="CANAIS | PORTUGAL",PT: Canal 11 LOW
-http://flixgran.xyz:8080/888888/888888/414982
-#EXTINF:-1 tvg-id="" tvg-name="PT: Canal 180" tvg-logo="http://flixgran.xyz:8080/images/adaebe295bd11bf3f04dde0ee27b5016.png" group-title="CANAIS | PORTUGAL",PT: Canal 180
+
+#EXTINF:-1 tvg-id="" tvg-name="AFRO MUSIC" tvg-logo="http://flixgran.xyz:8080/images/9780604fd1ac995f1476c5cb52929de0.png" group-title="Musicales",AFRO MUSIC
+http://flixgran.xyz:8080/888888/888888/414938
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 180" tvg-logo="http://flixgran.xyz:8080/images/adaebe295bd11bf3f04dde0ee27b5016.png" group-title="Musicales",Canal 180
 http://flixgran.xyz:8080/888888/888888/414889
-#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL NASA" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: CANAL NASA
-http://flixgran.xyz:8080/888888/888888/414871
-#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL PANDA" tvg-logo="http://flixgran.xyz:8080/images/acf5b5a65ab56cdda9ea43dfa70f2c46.png" group-title="CANAIS | PORTUGAL",PT: CANAL PANDA
-http://flixgran.xyz:8080/888888/888888/414739
-#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL Q" tvg-logo="http://flixgran.xyz:8080/images/45ed6f3a5be58c9231e7c5ab14fab51f.png" group-title="CANAIS | PORTUGAL",PT: CANAL Q
-http://flixgran.xyz:8080/888888/888888/414887
-#EXTINF:-1 tvg-id="" tvg-name="PT: Cancao Nova" tvg-logo="http://flixgran.xyz:8080/images/4fc48a8c7542b77b7d85bc49bba18942.png" group-title="CANAIS | PORTUGAL",PT: Cancao Nova
-http://flixgran.xyz:8080/888888/888888/414949
-#EXTINF:-1 tvg-id="" tvg-name="PT: CARTOON NETWORK" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/CARTOONNETWORK.png" group-title="CANAIS | PORTUGAL",PT: CARTOON NETWORK
-http://flixgran.xyz:8080/888888/888888/414749
-#EXTINF:-1 tvg-id="" tvg-name="PT: CARTOON NETWORK LOW" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/CARTOONNETWORK.png" group-title="CANAIS | PORTUGAL",PT: CARTOON NETWORK LOW
-http://flixgran.xyz:8080/888888/888888/414978
-#EXTINF:-1 tvg-id="" tvg-name="PT: Casa e Cozinha FHD" tvg-logo="http://flixgran.xyz:8080/images/4a22ea0e3c4e4c7ba9e189e9227da93a.png" group-title="CANAIS | PORTUGAL",PT: Casa e Cozinha FHD
-http://flixgran.xyz:8080/888888/888888/414888
-#EXTINF:-1 tvg-id="" tvg-name="PT: Caça e Pesca FHD" tvg-logo="http://flixgran.xyz:8080/images/98b682b808893cb7856df7bc9a3d1187.png" group-title="CANAIS | PORTUGAL",PT: Caça e Pesca FHD
-http://flixgran.xyz:8080/888888/888888/414798
-#EXTINF:-1 tvg-id="" tvg-name="PT: CCTV4" tvg-logo="http://flixgran.xyz:8080/images/2ac805a04b06516fa71ff56d56c20f0c.PNG" group-title="CANAIS | PORTUGAL",PT: CCTV4
-http://flixgran.xyz:8080/888888/888888/414906
-#EXTINF:-1 tvg-id="" tvg-name="PT: CGTN" tvg-logo="http://flixgran.xyz:8080/images/0f309f23d0eba44a192873cd8ed9af93.png" group-title="CANAIS | PORTUGAL",PT: CGTN
-http://flixgran.xyz:8080/888888/888888/414907
-#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO" tvg-logo="http://flixgran.xyz:8080/images/9f78fd81b42175fda2739411708cb745.png" group-title="CANAIS | PORTUGAL",PT: CINEMUNDO
-http://flixgran.xyz:8080/888888/888888/414843
-#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO FHD" tvg-logo="http://flixgran.xyz:8080/images/22f412285658bc94489a5a5173a421ce.png" group-title="CANAIS | PORTUGAL",PT: CINEMUNDO FHD
-http://flixgran.xyz:8080/888888/888888/414844
-#EXTINF:-1 tvg-id="" tvg-name="PT: Cinemundo LOW" tvg-logo="http://flixgran.xyz:8080/images/9f78fd81b42175fda2739411708cb745.png" group-title="CANAIS | PORTUGAL",PT: Cinemundo LOW
-http://flixgran.xyz:8080/888888/888888/415012
-#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV" tvg-logo="http://flixgran.xyz:8080/images/ca325d80f8342489ce21d8705c62bb87.png" group-title="CANAIS | PORTUGAL",PT: CMTV
-http://flixgran.xyz:8080/888888/888888/414719
-#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV FHD" tvg-logo="http://flixgran.xyz:8080/images/ca325d80f8342489ce21d8705c62bb87.png" group-title="CANAIS | PORTUGAL",PT: CMTV FHD
-http://flixgran.xyz:8080/888888/888888/414720
-#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV LOW" tvg-logo="http://flixgran.xyz:8080/images/ec533a0c7899f8899f3741bc9889aff5.png" group-title="CANAIS | PORTUGAL",PT: CMTV LOW
-http://flixgran.xyz:8080/888888/888888/414959
-#EXTINF:-1 tvg-id="" tvg-name="PT: CNBC" tvg-logo="http://flixgran.xyz:8080/images/aa11677d237b2c2b435fd7decac0d7ad.png" group-title="CANAIS | PORTUGAL",PT: CNBC
-http://flixgran.xyz:8080/888888/888888/414895
-#EXTINF:-1 tvg-id="" tvg-name="PT: CNN" tvg-logo="http://flixgran.xyz:8080/images/2435a45b85628172c5a47122144a7c67.png" group-title="CANAIS | PORTUGAL",PT: CNN
-http://flixgran.xyz:8080/888888/888888/414894
-#EXTINF:-1 tvg-id="" tvg-name="PT: CNN PORTUGAL" tvg-logo="http://flixgran.xyz:8080/images/9a2686807af39ff8f01a982f5fd93e22.png" group-title="CANAIS | PORTUGAL",PT: CNN PORTUGAL
-http://flixgran.xyz:8080/888888/888888/414721
-#EXTINF:-1 tvg-id="" tvg-name="PT: CNN PORTUGAL FHD" tvg-logo="http://flixgran.xyz:8080/images/9a2686807af39ff8f01a982f5fd93e22.png" group-title="CANAIS | PORTUGAL",PT: CNN PORTUGAL FHD
-http://flixgran.xyz:8080/888888/888888/414722
-#EXTINF:-1 tvg-id="" tvg-name="PT: CNN PORTUGAL LOW" tvg-logo="http://flixgran.xyz:8080/images/c17b946dd8f4446237ccf1b9f8412466.png" group-title="CANAIS | PORTUGAL",PT: CNN PORTUGAL LOW
-http://flixgran.xyz:8080/888888/888888/414960
-#EXTINF:-1 tvg-id="" tvg-name="PT: CRIME+INVESTIGATION" tvg-logo="http://flixgran.xyz:8080/images/ecbcba5c7c02ef9b01287ad8362a7679.png" group-title="CANAIS | PORTUGAL",PT: CRIME+INVESTIGATION
-http://flixgran.xyz:8080/888888/888888/414853
-#EXTINF:-1 tvg-id="" tvg-name="PT: Cubavisiðn Internacional" tvg-logo="http://flixgran.xyz:8080/images/88e1457fc5db4bae492b57a02dfc4001.png" group-title="CANAIS | PORTUGAL",PT: Cubavisiðn Internacional
-http://flixgran.xyz:8080/888888/888888/414908
-#EXTINF:-1 tvg-id="" tvg-name="PT: DEUTSCHE WELLE (A)" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: DEUTSCHE WELLE (A)
-http://flixgran.xyz:8080/888888/888888/414812
-#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="http://flixgran.xyz:8080/images/b06fe13854bd06ac9a7de02bd0d6ce2f.png" group-title="CANAIS | PORTUGAL",PT: DISCOVERY CHANNEL
-http://flixgran.xyz:8080/888888/888888/414852
-#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL FHD" tvg-logo="http://flixgran.xyz:8080/images/b06fe13854bd06ac9a7de02bd0d6ce2f.png" group-title="CANAIS | PORTUGAL",PT: DISCOVERY CHANNEL FHD
-http://flixgran.xyz:8080/888888/888888/414851
-#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL LOW" tvg-logo="https://png2.cleanpng.com/sh/fb668935adf778152970a2ca72cb1dda/L0KzQYm3VsA4N5xrgpH0aYP2gLBuTfRqe5R0jtd7eT3meLL1jvVtNaVqhNdBaYPsf7A0gBhidp9qhJ99ZXzohrr6if9vNaRtRdZyc3Pyhrb5mb1kcJJzhtd1LUXlQYq4hvEyapQ7S9YELkW8RIGCUsU1OWY3UKUCM0G4Q4iAUccveJ9s/kisspng-discovery-channel-television-channel-television-sh-discovery-channel-5b191fa1bc63d9.5940925415283731537717.png" group-title="CANAIS | PORTUGAL",PT: DISCOVERY CHANNEL LOW
-http://flixgran.xyz:8080/888888/888888/415024
-#EXTINF:-1 tvg-id="" tvg-name="PT: Disney Chanel FHD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/DISNEYCHANNEL.png" group-title="CANAIS | PORTUGAL",PT: Disney Chanel FHD
-http://flixgran.xyz:8080/888888/888888/414744
-#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY CHANNEL" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/DISNEYCHANNEL.png" group-title="CANAIS | PORTUGAL",PT: DISNEY CHANNEL
-http://flixgran.xyz:8080/888888/888888/414743
-#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY CHANNEL LOW" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/DISNEYCHANNEL.png" group-title="CANAIS | PORTUGAL",PT: DISNEY CHANNEL LOW
-http://flixgran.xyz:8080/888888/888888/414974
-#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY JUNIOR" tvg-logo="http://flixgran.xyz:8080/images/e95df52f01cc12f2d56195c1eebb39af.png" group-title="CANAIS | PORTUGAL",PT: DISNEY JUNIOR
-http://flixgran.xyz:8080/888888/888888/414745
-#EXTINF:-1 tvg-id="" tvg-name="Pt: Disney Junior FHD" tvg-logo="http://flixgran.xyz:8080/images/e95df52f01cc12f2d56195c1eebb39af.png" group-title="CANAIS | PORTUGAL",Pt: Disney Junior FHD
-http://flixgran.xyz:8080/888888/888888/414746
-#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY JUNIOR LOW" tvg-logo="http://flixgran.xyz:8080/images/b3ca7d9f982cf0d188071ddacd45f72c.png" group-title="CANAIS | PORTUGAL",PT: DISNEY JUNIOR LOW
-http://flixgran.xyz:8080/888888/888888/414976
-#EXTINF:-1 tvg-id="" tvg-name="PT: DIZI" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: DIZI
-http://flixgran.xyz:8080/888888/888888/414931
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dizi Channel" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: Dizi Channel
-http://flixgran.xyz:8080/888888/888888/414917
-#EXTINF:-1 tvg-id="" tvg-name="PT: DOCUBOX HD" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: DOCUBOX HD
-http://flixgran.xyz:8080/888888/888888/414934
-#EXTINF:-1 tvg-id="" tvg-name="PT: DOG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f9/Dogtv.png/1200px-Dogtv.png" group-title="CANAIS | PORTUGAL",PT: DOG TV
-http://flixgran.xyz:8080/888888/888888/414915
-#EXTINF:-1 tvg-id="" tvg-name="PT: E! Entertainement FHD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/E!ENTERTAINMENT.png" group-title="CANAIS | PORTUGAL",PT: E! Entertainement FHD
-http://flixgran.xyz:8080/888888/888888/414854
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS  2 FHD" tvg-logo="http://flixgran.xyz:8080/images/cb6f83451e193b919c940efd232a892d.png" group-title="CANAIS | PORTUGAL",PT: ELEVEN SPORTS  2 FHD
-http://flixgran.xyz:8080/888888/888888/414779
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="http://flixgran.xyz:8080/images/ff3bdfc3974414c5ebc4651b8b2e22d6.png" group-title="CANAIS | PORTUGAL",PT: ELEVEN SPORTS 1
-http://flixgran.xyz:8080/888888/888888/414776
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="http://flixgran.xyz:8080/images/ff3bdfc3974414c5ebc4651b8b2e22d6.png" group-title="CANAIS | PORTUGAL",PT: ELEVEN SPORTS 1 FHD
-http://flixgran.xyz:8080/888888/888888/414777
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1 LOW" tvg-logo="http://flixgran.xyz:8080/images/ff3bdfc3974414c5ebc4651b8b2e22d6.png" group-title="CANAIS | PORTUGAL",PT: Eleven Sports 1 LOW
-http://flixgran.xyz:8080/888888/888888/414991
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="http://flixgran.xyz:8080/images/cb6f83451e193b919c940efd232a892d.png" group-title="CANAIS | PORTUGAL",PT: ELEVEN SPORTS 2
-http://flixgran.xyz:8080/888888/888888/414778
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2 LOW" tvg-logo="http://flixgran.xyz:8080/images/cb6f83451e193b919c940efd232a892d.png" group-title="CANAIS | PORTUGAL",PT: Eleven Sports 2 LOW
-http://flixgran.xyz:8080/888888/888888/414992
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="http://flixgran.xyz:8080/images/919e1cb5253c131b469e1a7bcddc09d0.png" group-title="CANAIS | PORTUGAL",PT: ELEVEN SPORTS 3
-http://flixgran.xyz:8080/888888/888888/414780
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="http://flixgran.xyz:8080/images/919e1cb5253c131b469e1a7bcddc09d0.png" group-title="CANAIS | PORTUGAL",PT: ELEVEN SPORTS 3 FHD
-http://flixgran.xyz:8080/888888/888888/414781
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3 LOW" tvg-logo="http://flixgran.xyz:8080/images/919e1cb5253c131b469e1a7bcddc09d0.png" group-title="CANAIS | PORTUGAL",PT: Eleven Sports 3 LOW
-http://flixgran.xyz:8080/888888/888888/414993
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="http://flixgran.xyz:8080/images/1bef9c505f9e379c4a0f13886cd995cd.png" group-title="CANAIS | PORTUGAL",PT: ELEVEN SPORTS 4
-http://flixgran.xyz:8080/888888/888888/414782
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="http://flixgran.xyz:8080/images/1bef9c505f9e379c4a0f13886cd995cd.png" group-title="CANAIS | PORTUGAL",PT: ELEVEN SPORTS 4 FHD
-http://flixgran.xyz:8080/888888/888888/414783
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4 LOW" tvg-logo="http://flixgran.xyz:8080/images/1bef9c505f9e379c4a0f13886cd995cd.png" group-title="CANAIS | PORTUGAL",PT: Eleven Sports 4 LOW
-http://flixgran.xyz:8080/888888/888888/414994
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="http://flixgran.xyz:8080/images/c5653e3640a012e71f140bbeadda8aca.png" group-title="CANAIS | PORTUGAL",PT: ELEVEN SPORTS 5
-http://flixgran.xyz:8080/888888/888888/414784
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="http://flixgran.xyz:8080/images/c5653e3640a012e71f140bbeadda8aca.png" group-title="CANAIS | PORTUGAL",PT: ELEVEN SPORTS 5 FHD
-http://flixgran.xyz:8080/888888/888888/414785
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 5 LOW" tvg-logo="http://flixgran.xyz:8080/images/54053b98f35ace3873b11681af694d8c.png" group-title="CANAIS | PORTUGAL",PT: Eleven Sports 5 LOW
-http://flixgran.xyz:8080/888888/888888/414995
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="http://flixgran.xyz:8080/images/aa847384831b0ab5f103946223c0f430.png" group-title="CANAIS | PORTUGAL",PT: ELEVEN SPORTS 6
-http://flixgran.xyz:8080/888888/888888/414786
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="http://flixgran.xyz:8080/images/aa847384831b0ab5f103946223c0f430.png" group-title="CANAIS | PORTUGAL",PT: ELEVEN SPORTS 6 FHD
-http://flixgran.xyz:8080/888888/888888/414787
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 LOW" tvg-logo="http://flixgran.xyz:8080/images/3880945057d98b07570ae80de9ce6944.png" group-title="CANAIS | PORTUGAL",PT: ELEVEN SPORTS 6 LOW
-http://flixgran.xyz:8080/888888/888888/414996
-#EXTINF:-1 tvg-id="" tvg-name="PT: EURONEWS" tvg-logo="http://flixgran.xyz:8080/images/d2106847a4893cb4f00ce165854fdb5d.png" group-title="CANAIS | PORTUGAL",PT: EURONEWS
-http://flixgran.xyz:8080/888888/888888/414893
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1" tvg-logo="http://flixgran.xyz:8080/images/498922ed733db33091b477ae55c01903.png" group-title="CANAIS | PORTUGAL",PT: EUROSPORT 1
-http://flixgran.xyz:8080/888888/888888/414793
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="http://flixgran.xyz:8080/images/faad2c3506852718aa19517db7be9992.png" group-title="CANAIS | PORTUGAL",PT: EUROSPORT 1 FHD
-http://flixgran.xyz:8080/888888/888888/414794
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 LOW" tvg-logo="http://flixgran.xyz:8080/images/ff67d15d346ad2500cb470d5208c2de6.png" group-title="CANAIS | PORTUGAL",PT: EUROSPORT 1 LOW
-http://flixgran.xyz:8080/888888/888888/415002
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2" tvg-logo="http://flixgran.xyz:8080/images/5c09aaf1203daf782f83d680bb68c43b.png" group-title="CANAIS | PORTUGAL",PT: EUROSPORT 2
-http://flixgran.xyz:8080/888888/888888/414795
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2 FHD" tvg-logo="http://flixgran.xyz:8080/images/5c09aaf1203daf782f83d680bb68c43b.png" group-title="CANAIS | PORTUGAL",PT: EUROSPORT 2 FHD
-http://flixgran.xyz:8080/888888/888888/414796
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2 LOW" tvg-logo="http://flixgran.xyz:8080/images/5c09aaf1203daf782f83d680bb68c43b.png" group-title="CANAIS | PORTUGAL",PT: EUROSPORT 2 LOW
-http://flixgran.xyz:8080/888888/888888/415028
-#EXTINF:-1 tvg-id="" tvg-name="PT: FASHION TV" tvg-logo="http://zxz.ddns.net:25461/images/nyGjiyQ5YU0K11wExLKiV3dIA2YCMkRe.png" group-title="CANAIS | PORTUGAL",PT: FASHION TV
-http://flixgran.xyz:8080/888888/888888/414932
-#EXTINF:-1 tvg-id="" tvg-name="PT: FASHIONBOX HD" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: FASHIONBOX HD
-http://flixgran.xyz:8080/888888/888888/414933
-#EXTINF:-1 tvg-id="" tvg-name="PT: FAST & FUN BOX" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: FAST & FUN BOX
-http://flixgran.xyz:8080/888888/888888/414919
-#EXTINF:-1 tvg-id="" tvg-name="PT: FATIMA TV" tvg-logo="http://flixgran.xyz:8080/images/1618b303388e2218a8564f1b5ce4bddf.png" group-title="CANAIS | PORTUGAL",PT: FATIMA TV
-http://flixgran.xyz:8080/888888/888888/414950
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fight Network HD" tvg-logo="http://flixgran.xyz:8080/images/2983f8465d3d41d0ae1bd3447a4cba13.png" group-title="CANAIS | PORTUGAL",PT: Fight Network HD
-http://flixgran.xyz:8080/888888/888888/414810
-#EXTINF:-1 tvg-id="" tvg-name="PT: FIGHTBOX HD" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: FIGHTBOX HD
-http://flixgran.xyz:8080/888888/888888/414811
-#EXTINF:-1 tvg-id="" tvg-name="PT: FILMBOX ARTHOUSE" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: FILMBOX ARTHOUSE
-http://flixgran.xyz:8080/888888/888888/414920
-#EXTINF:-1 tvg-id="" tvg-name="PT: Food Network" tvg-logo="http://flixgran.xyz:8080/images/8f805c81700b506d91267dc3cd4782be.png" group-title="CANAIS | PORTUGAL",PT: Food Network
-http://flixgran.xyz:8080/888888/888888/414870
-#EXTINF:-1 tvg-id="" tvg-name="PT: Food Network FHD" tvg-logo="http://flixgran.xyz:8080/images/78bd79d728aecab98455538167653ef0.png" group-title="CANAIS | PORTUGAL",PT: Food Network FHD
-http://flixgran.xyz:8080/888888/888888/414909
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOOD NETWORK LOW" tvg-logo="http://flixgran.xyz:8080/images/78bd79d728aecab98455538167653ef0.png" group-title="CANAIS | PORTUGAL",PT: FOOD NETWORK LOW
-http://flixgran.xyz:8080/888888/888888/415029
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX" tvg-logo="http://flixgran.xyz:8080/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="CANAIS | PORTUGAL",PT: FOX
-http://flixgran.xyz:8080/888888/888888/414833
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY" tvg-logo="http://flixgran.xyz:8080/images/f48d84c70da0625916132d6c3a90d889.png" group-title="CANAIS | PORTUGAL",PT: FOX COMEDY
-http://flixgran.xyz:8080/888888/888888/414839
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY FHD" tvg-logo="http://flixgran.xyz:8080/images/7e3e53b1f102aa7f9f315ae1e9c92abf.png" group-title="CANAIS | PORTUGAL",PT: FOX COMEDY FHD
-http://flixgran.xyz:8080/888888/888888/414840
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY LOW" tvg-logo="http://flixgran.xyz:8080/images/f48d84c70da0625916132d6c3a90d889.png" group-title="CANAIS | PORTUGAL",PT: FOX COMEDY LOW
-http://flixgran.xyz:8080/888888/888888/415021
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Crime" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOXCRIME.png" group-title="CANAIS | PORTUGAL",PT: Fox Crime
-http://flixgran.xyz:8080/888888/888888/414837
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME FHD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOXCRIME.png" group-title="CANAIS | PORTUGAL",PT: FOX CRIME FHD
-http://flixgran.xyz:8080/888888/888888/414838
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Crime LOW" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOXCRIME.png" group-title="CANAIS | PORTUGAL",PT: Fox Crime LOW
-http://flixgran.xyz:8080/888888/888888/415015
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX FHD" tvg-logo="http://flixgran.xyz:8080/images/fd8a52ef86c0eccd62ac11bc84ab70c4.png" group-title="CANAIS | PORTUGAL",PT: FOX FHD
-http://flixgran.xyz:8080/888888/888888/414834
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE" tvg-logo="http://flixgran.xyz:8080/images/2ba18f0a3b9f4362849ea02cbee3801b.png" group-title="CANAIS | PORTUGAL",PT: FOX LIFE
-http://flixgran.xyz:8080/888888/888888/414841
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE FHD" tvg-logo="http://flixgran.xyz:8080/images/2ba18f0a3b9f4362849ea02cbee3801b.png" group-title="CANAIS | PORTUGAL",PT: FOX LIFE FHD
-http://flixgran.xyz:8080/888888/888888/414842
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Life LOW" tvg-logo="http://flixgran.xyz:8080/images/2ba18f0a3b9f4362849ea02cbee3801b.png" group-title="CANAIS | PORTUGAL",PT: Fox Life LOW
-http://flixgran.xyz:8080/888888/888888/415014
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fox LOW" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOX.png" group-title="CANAIS | PORTUGAL",PT: Fox LOW
-http://flixgran.xyz:8080/888888/888888/415016
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX MOVIES" tvg-logo="http://flixgran.xyz:8080/images/f6a25a2e1b7668a86522ce6aeb02bf15.png" group-title="CANAIS | PORTUGAL",PT: FOX MOVIES
-http://flixgran.xyz:8080/888888/888888/414835
-#EXTINF:-1 tvg-id="" tvg-name="PT: FOX MOVIES FHD" tvg-logo="http://flixgran.xyz:8080/images/f6a25a2e1b7668a86522ce6aeb02bf15.png" group-title="CANAIS | PORTUGAL",PT: FOX MOVIES FHD
-http://flixgran.xyz:8080/888888/888888/414836
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fox Movies LOW" tvg-logo="http://flixgran.xyz:8080/images/f6a25a2e1b7668a86522ce6aeb02bf15.png" group-title="CANAIS | PORTUGAL",PT: Fox Movies LOW
-http://flixgran.xyz:8080/888888/888888/415013
-#EXTINF:-1 tvg-id="" tvg-name="PT: FRANCE 24" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: FRANCE 24
-http://flixgran.xyz:8080/888888/888888/414904
-#EXTINF:-1 tvg-id="" tvg-name="PT: FTV" tvg-logo="http://flixgran.xyz:8080/images/a9c33cbd49dec669033784f65389f8dd.png" group-title="CANAIS | PORTUGAL",PT: FTV
-http://flixgran.xyz:8080/888888/888888/414923
-#EXTINF:-1 tvg-id="" tvg-name="PT: FUEL TV" tvg-logo="http://flixgran.xyz:8080/images/4b9a0fee581593ffb9c6290baa29cc29.png" group-title="CANAIS | PORTUGAL",PT: FUEL TV
-http://flixgran.xyz:8080/888888/888888/414804
-#EXTINF:-1 tvg-id="" tvg-name="PT: Fuel TV FHD" tvg-logo="http://flixgran.xyz:8080/images/4b9a0fee581593ffb9c6290baa29cc29.png" group-title="CANAIS | PORTUGAL",PT: Fuel TV FHD
-http://flixgran.xyz:8080/888888/888888/414803
-#EXTINF:-1 tvg-id="" tvg-name="PT: GAMETOON" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2020/04/GameToon-HD-black.png?w=640" group-title="CANAIS | PORTUGAL",PT: GAMETOON
-http://flixgran.xyz:8080/888888/888888/414916
-#EXTINF:-1 tvg-id="" tvg-name="PT: Ginx" tvg-logo="http://flixgran.xyz:8080/images/4f35dd301968a703f87c44ca8bb235de.png" group-title="CANAIS | PORTUGAL",PT: Ginx
-http://flixgran.xyz:8080/888888/888888/414805
-#EXTINF:-1 tvg-id="" tvg-name="PT: Globo LOW" tvg-logo="http://flixgran.xyz:8080/images/4822f410294f76aa3d37ed55b76d06b8.png" group-title="CANAIS | PORTUGAL",PT: Globo LOW
-http://flixgran.xyz:8080/888888/888888/414964
-#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO NOW LOW" tvg-logo="http://flixgran.xyz:8080/images/4822f410294f76aa3d37ed55b76d06b8.png" group-title="CANAIS | PORTUGAL",PT: GLOBO NOW LOW
-http://flixgran.xyz:8080/888888/888888/414965
-#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA" tvg-logo="http://flixgran.xyz:8080/images/5f6a7cfde29b506a5cd39c9a9ce1cf45.png" group-title="CANAIS | PORTUGAL",PT: HISTORIA
-http://flixgran.xyz:8080/888888/888888/414864
-#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA LOW" tvg-logo="http://flixgran.xyz:8080/images/ef5ef0a75c3e6410ed4828e61eaf3ebb.png" group-title="CANAIS | PORTUGAL",PT: HISTORIA LOW
-http://flixgran.xyz:8080/888888/888888/415020
-#EXTINF:-1 tvg-id="" tvg-name="PT: Histðria FHD" tvg-logo="http://flixgran.xyz:8080/images/5f6a7cfde29b506a5cd39c9a9ce1cf45.png" group-title="CANAIS | PORTUGAL",PT: Histðria FHD
-http://flixgran.xyz:8080/888888/888888/414865
-#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/HOLLYWOOD.png" group-title="CANAIS | PORTUGAL",PT: HOLLYWOOD
-http://flixgran.xyz:8080/888888/888888/414825
-#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD FHD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/HOLLYWOOD.png" group-title="CANAIS | PORTUGAL",PT: HOLLYWOOD FHD
-http://flixgran.xyz:8080/888888/888888/414826
-#EXTINF:-1 tvg-id="" tvg-name="PT: Hollywood LOW" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/HOLLYWOOD.png" group-title="CANAIS | PORTUGAL",PT: Hollywood LOW
-http://flixgran.xyz:8080/888888/888888/415008
-#EXTINF:-1 tvg-id="" tvg-name="PT: I CONCERTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2e/I_concerts_logo.png" group-title="CANAIS | PORTUGAL",PT: I CONCERTS FHD
+
+#EXTINF:-1 tvg-id="" tvg-name="I CONCERTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2e/I_concerts_logo.png" group-title="Musicales",I CONCERTS FHD
 http://flixgran.xyz:8080/888888/888888/414937
-#EXTINF:-1 tvg-id="" tvg-name="PT: ID INVESTIGATION DISCOVERY FHD" tvg-logo="http://flixgran.xyz:8080/images/6ec946cf1498f95c291beb8e2d91d0c0.png" group-title="CANAIS | PORTUGAL",PT: ID INVESTIGATION DISCOVERY FHD
-http://flixgran.xyz:8080/888888/888888/414856
-#EXTINF:-1 tvg-id="" tvg-name="PT: JIM JAM LOW" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/JIMJAM.png" group-title="CANAIS | PORTUGAL",PT: JIM JAM LOW
-http://flixgran.xyz:8080/888888/888888/414975
-#EXTINF:-1 tvg-id="" tvg-name="PT: Kombat Sports" tvg-logo="http://flixgran.xyz:8080/images/a42750559cd1ea8fdcff7d65f206cc39.png" group-title="CANAIS | PORTUGAL",PT: Kombat Sports
-http://flixgran.xyz:8080/888888/888888/414814
-#EXTINF:-1 tvg-id="" tvg-name="PT: KURIAKOS CINE" tvg-logo="http://flixgran.xyz:8080/images/55a52459090aa3523fa5f7735e065cc8.png" group-title="CANAIS | PORTUGAL",PT: KURIAKOS CINE
-http://flixgran.xyz:8080/888888/888888/414952
-#EXTINF:-1 tvg-id="" tvg-name="PT: Kuriakos TV" tvg-logo="http://flixgran.xyz:8080/images/01fc75a2cbf7289031e13ea2e89b1c80.png" group-title="CANAIS | PORTUGAL",PT: Kuriakos TV
-http://flixgran.xyz:8080/888888/888888/414953
-#EXTINF:-1 tvg-id="" tvg-name="PT: Localvisão TV HD" tvg-logo="http://flixgran.xyz:8080/images/ae229405f2af16d914aaee655ef1d94e.png" group-title="CANAIS | PORTUGAL",PT: Localvisão TV HD
-http://flixgran.xyz:8080/888888/888888/414882
-#EXTINF:-1 tvg-id="" tvg-name="PT: Lolly Kids HD" tvg-logo="http://flixgran.xyz:8080/images/e09cfeea0313d5539d577965a89b6a36.png" group-title="CANAIS | PORTUGAL",PT: Lolly Kids HD
-http://flixgran.xyz:8080/888888/888888/414754
-#EXTINF:-1 tvg-id="" tvg-name="PT: M6" tvg-logo="http://flixgran.xyz:8080/images/fc1df6307a9c4971569997963dcc8b08.png" group-title="CANAIS | PORTUGAL",PT: M6
-http://flixgran.xyz:8080/888888/888888/414910
-#EXTINF:-1 tvg-id="" tvg-name="PT: MAX" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: MAX
-http://flixgran.xyz:8080/888888/888888/414935
-#EXTINF:-1 tvg-id="" tvg-name="PT: MCM POP" tvg-logo="http://flixgran.xyz:8080/images/0fc2105420b3668778caccdab3049716.png" group-title="CANAIS | PORTUGAL",PT: MCM POP
+
+#EXTINF:-1 tvg-id="" tvg-name="MCM POP" tvg-logo="http://flixgran.xyz:8080/images/0fc2105420b3668778caccdab3049716.png" group-title="CANAIS | PORTUGAL",MCM POP
 http://flixgran.xyz:8080/888888/888888/414939
-#EXTINF:-1 tvg-id="" tvg-name="PT: MCM TOP" tvg-logo="http://flixgran.xyz:8080/images/261d0e1408f09f079c14e6678c3f03ce.png" group-title="CANAIS | PORTUGAL",PT: MCM TOP
+#EXTINF:-1 tvg-id="" tvg-name="MCM TOP" tvg-logo="http://flixgran.xyz:8080/images/261d0e1408f09f079c14e6678c3f03ce.png" group-title="CANAIS | PORTUGAL",MCM TOP
 http://flixgran.xyz:8080/888888/888888/414947
-#EXTINF:-1 tvg-id="" tvg-name="PT: MEZZO" tvg-logo="http://flixgran.xyz:8080/images/e79af0350d7cbad07e21c767684ece4a.png" group-title="CANAIS | PORTUGAL",PT: MEZZO
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO" tvg-logo="http://flixgran.xyz:8080/images/e79af0350d7cbad07e21c767684ece4a.png" group-title="CANAIS | PORTUGAL",MEZZO
 http://flixgran.xyz:8080/888888/888888/414942
-#EXTINF:-1 tvg-id="" tvg-name="PT: MOTORVISION" tvg-logo="http://flixgran.xyz:8080/images/fa80c67d413732abb5d4a2e53184f1c8.png" group-title="CANAIS | PORTUGAL",PT: MOTORVISION
-http://flixgran.xyz:8080/888888/888888/414801
-#EXTINF:-1 tvg-id="" tvg-name="PT: Motorvision FHD" tvg-logo="http://flixgran.xyz:8080/images/8d1f856f82e29320659638eba0c221a0.png" group-title="CANAIS | PORTUGAL",PT: Motorvision FHD
-http://flixgran.xyz:8080/888888/888888/414802
-#EXTINF:-1 tvg-id="" tvg-name="PT: MTV 00's" tvg-logo="http://flixgran.xyz:8080/images/8a53e0a2194f6a8f607a710700a5647e.png" group-title="CANAIS | PORTUGAL",PT: MTV 00's
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00's" tvg-logo="http://flixgran.xyz:8080/images/8a53e0a2194f6a8f607a710700a5647e.png" group-title="CANAIS | PORTUGAL",MTV 00's
 http://flixgran.xyz:8080/888888/888888/414946
-#EXTINF:-1 tvg-id="" tvg-name="PT: MTV LIVE" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: MTV LIVE
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="" group-title="CANAIS | PORTUGAL",MTV LIVE
 http://flixgran.xyz:8080/888888/888888/414948
-#EXTINF:-1 tvg-id="" tvg-name="PT: MTV LOW" tvg-logo="http://flixgran.xyz:8080/images/b49882eae96bb41a7fa1feb6aa7acc18.png" group-title="CANAIS | PORTUGAL",PT: MTV LOW
+#EXTINF:-1 tvg-id="" tvg-name="MTV LOW" tvg-logo="http://flixgran.xyz:8080/images/b49882eae96bb41a7fa1feb6aa7acc18.png" group-title="CANAIS | PORTUGAL",MTV LOW
 http://flixgran.xyz:8080/888888/888888/415031
-#EXTINF:-1 tvg-id="" tvg-name="PT: MTV PORTUGAL" tvg-logo="http://flixgran.xyz:8080/images/b49882eae96bb41a7fa1feb6aa7acc18.png" group-title="CANAIS | PORTUGAL",PT: MTV PORTUGAL
+#EXTINF:-1 tvg-id="" tvg-name="MTV PORTUGAL" tvg-logo="http://flixgran.xyz:8080/images/b49882eae96bb41a7fa1feb6aa7acc18.png" group-title="CANAIS | PORTUGAL",MTV PORTUGAL
 http://flixgran.xyz:8080/888888/888888/414941
-#EXTINF:-1 tvg-id="" tvg-name="PT: MTV PORTUGAL FHD" tvg-logo="http://flixgran.xyz:8080/images/11d6449dc69c6b5ecd7b7b4c473bcd52.png" group-title="CANAIS | PORTUGAL",PT: MTV PORTUGAL FHD
+#EXTINF:-1 tvg-id="" tvg-name="MTV PORTUGAL FHD" tvg-logo="http://flixgran.xyz:8080/images/11d6449dc69c6b5ecd7b7b4c473bcd52.png" group-title="CANAIS | PORTUGAL",MTV PORTUGAL FHD
 http://flixgran.xyz:8080/888888/888888/414940
-#EXTINF:-1 tvg-id="" tvg-name="PT: Más Chic" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: Más Chic
-http://flixgran.xyz:8080/888888/888888/414929
-#EXTINF:-1 tvg-id="" tvg-name="PT: National Geographic" tvg-logo="http://flixgran.xyz:8080/images/9d9876b31452d5549f648c4be878dbc2.png" group-title="CANAIS | PORTUGAL",PT: National Geographic
-http://flixgran.xyz:8080/888888/888888/414858
-#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC FHD" tvg-logo="http://flixgran.xyz:8080/images/9d9876b31452d5549f648c4be878dbc2.png" group-title="CANAIS | PORTUGAL",PT: NATIONAL GEOGRAPHIC FHD
-http://flixgran.xyz:8080/888888/888888/414857
-#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC LOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.png" group-title="CANAIS | PORTUGAL",PT: NATIONAL GEOGRAPHIC LOW
-http://flixgran.xyz:8080/888888/888888/415022
-#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC WILD" tvg-logo="http://flixgran.xyz:8080/images/980f87475b4915871495796d5d600b37.png" group-title="CANAIS | PORTUGAL",PT: NATIONAL GEOGRAPHIC WILD
-http://flixgran.xyz:8080/888888/888888/414859
-#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://flixgran.xyz:8080/images/980f87475b4915871495796d5d600b37.png" group-title="CANAIS | PORTUGAL",PT: NATIONAL GEOGRAPHIC WILD HD
-http://flixgran.xyz:8080/888888/888888/414860
-#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC WILD LOW" tvg-logo="http://flixgran.xyz:8080/images/e3b7411ae20ca23d6a1335fd9e18064f.png" group-title="CANAIS | PORTUGAL",PT: NATIONAL GEOGRAPHIC WILD LOW
-http://flixgran.xyz:8080/888888/888888/415023
-#EXTINF:-1 tvg-id="" tvg-name="PT: NHK WORLD JAPAN" tvg-logo="https://ibb.co/KsggN4J" group-title="CANAIS | PORTUGAL",PT: NHK WORLD JAPAN
-http://flixgran.xyz:8080/888888/888888/414924
-#EXTINF:-1 tvg-id="" tvg-name="PT: NICK JR" tvg-logo="http://flixgran.xyz:8080/images/b348d9c5ab3b88bbc12ca53e0eb279f4.png" group-title="CANAIS | PORTUGAL",PT: NICK JR
-http://flixgran.xyz:8080/888888/888888/414748
-#EXTINF:-1 tvg-id="" tvg-name="PT: NICKELODEON" tvg-logo="http://flixgran.xyz:8080/images/50afeab1fbd0ab49abe920ebd656c550.png" group-title="CANAIS | PORTUGAL",PT: NICKELODEON
-http://flixgran.xyz:8080/888888/888888/414747
-#EXTINF:-1 tvg-id="" tvg-name="PT: NICKELODEON LOW" tvg-logo="http://flixgran.xyz:8080/images/b11cc9ad84502b27a63fa7a8d813ef6a.png" group-title="CANAIS | PORTUGAL",PT: NICKELODEON LOW
-http://flixgran.xyz:8080/888888/888888/414979
-#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS" tvg-logo="http://flixgran.xyz:8080/images/5c980dfe4ae1aad08c6665b290b2035e.png" group-title="CANAIS | PORTUGAL",PT: NOS STUDIOS
-http://flixgran.xyz:8080/888888/888888/414823
-#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS FHD" tvg-logo="http://flixgran.xyz:8080/images/9906af759b37e62a40a9380a29d2a3c5.png" group-title="CANAIS | PORTUGAL",PT: NOS STUDIOS FHD
-http://flixgran.xyz:8080/888888/888888/414824
-#EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA" tvg-logo="http://flixgran.xyz:8080/images/c64fef2a854fe13c36cfc61c1c0e42a4.png" group-title="CANAIS | PORTUGAL",PT: ODISSEIA
-http://flixgran.xyz:8080/888888/888888/414866
-#EXTINF:-1 tvg-id="" tvg-name="PT: Odisseia FHD" tvg-logo="http://flixgran.xyz:8080/images/c64fef2a854fe13c36cfc61c1c0e42a4.png" group-title="CANAIS | PORTUGAL",PT: Odisseia FHD
-http://flixgran.xyz:8080/888888/888888/414867
-#EXTINF:-1 tvg-id="" tvg-name="PT: OPTO" tvg-logo="http://ytinifni.club:8080/images/a94b41153700d53ae8a41a66e0d7fe65.png" group-title="CANAIS | PORTUGAL",PT: OPTO
-http://flixgran.xyz:8080/888888/888888/414884
-#EXTINF:-1 tvg-id="" tvg-name="PT: Panda FHD" tvg-logo="http://flixgran.xyz:8080/images/acf5b5a65ab56cdda9ea43dfa70f2c46.png" group-title="CANAIS | PORTUGAL",PT: Panda FHD
-http://flixgran.xyz:8080/888888/888888/414740
-#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA LOW" tvg-logo="http://flixgran.xyz:8080/images/582ba55eb08260bf08fe9d0e30f5bcb0.png" group-title="CANAIS | PORTUGAL",PT: PANDA LOW
-http://flixgran.xyz:8080/888888/888888/414981
-#EXTINF:-1 tvg-id="" tvg-name="PT: PFC" tvg-logo="http://flixgran.xyz:8080/images/1e8d574c1b1205dc2b6bfb9700720ef9.png" group-title="CANAIS | PORTUGAL",PT: PFC
-http://flixgran.xyz:8080/888888/888888/414792
-#EXTINF:-1 tvg-id="" tvg-name="PT: PFC LOW" tvg-logo="http://flixgran.xyz:8080/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS | PORTUGAL",PT: PFC LOW
-http://flixgran.xyz:8080/888888/888888/414999
-#EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL" tvg-logo="http://flixgran.xyz:8080/images/d707ec075aae0b17f32dab0a78506a96.png" group-title="CANAIS | PORTUGAL",PT: PORTO CANAL
-http://flixgran.xyz:8080/888888/888888/414727
-#EXTINF:-1 tvg-id="" tvg-name="PT: Porto Canal FHD" tvg-logo="http://flixgran.xyz:8080/images/96a5c2a80bc836b70cf8bb274b8c5782.png" group-title="CANAIS | PORTUGAL",PT: Porto Canal FHD
-http://flixgran.xyz:8080/888888/888888/414728
-#EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL LOW" tvg-logo="http://flixgran.xyz:8080/images/c1fd58a3c81f79156ce3b2162f0b4404.png" group-title="CANAIS | PORTUGAL",PT: PORTO CANAL LOW
-http://flixgran.xyz:8080/888888/888888/414963
-#EXTINF:-1 tvg-id="" tvg-name="PT: Rally Mania" tvg-logo="http://flixgran.xyz:8080/images/b445dd58f5aac9362232f7c4bed12033.jpg" group-title="CANAIS | PORTUGAL",PT: Rally Mania
-http://flixgran.xyz:8080/888888/888888/414808
-#EXTINF:-1 tvg-id="" tvg-name="PT: Record News" tvg-logo="http://flixgran.xyz:8080/images/c223593c3537f6160d10aaa4d9a06fcc.png" group-title="CANAIS | PORTUGAL",PT: Record News
-http://flixgran.xyz:8080/888888/888888/414912
-#EXTINF:-1 tvg-id="" tvg-name="PT: Red Bull TV FHD" tvg-logo="http://flixgran.xyz:8080/images/c5dec235c944f6f8fff4c39f27d0df91.png" group-title="CANAIS | PORTUGAL",PT: Red Bull TV FHD
-http://flixgran.xyz:8080/888888/888888/414809
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTL" tvg-logo="http://flixgran.xyz:8080/images/efe01da942ed68b700b911f5a1b131a7.png" group-title="CANAIS | PORTUGAL",PT: RTL
-http://flixgran.xyz:8080/888888/888888/414900
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1" tvg-logo="http://flixgran.xyz:8080/images/320895dfca2cccfc46d910f1145b7769.png" group-title="CANAIS | PORTUGAL",PT: RTP 1
-http://flixgran.xyz:8080/888888/888888/414711
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 FHD" tvg-logo="http://flixgran.xyz:8080/images/5dc71c859f21fad05b613b18e4a0722b.png" group-title="CANAIS | PORTUGAL",PT: RTP 1 FHD
-http://flixgran.xyz:8080/888888/888888/414712
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 LOW" tvg-logo="http://flixgran.xyz:8080/images/320895dfca2cccfc46d910f1145b7769.png" group-title="CANAIS | PORTUGAL",PT: RTP 1 LOW
-http://flixgran.xyz:8080/888888/888888/414954
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2" tvg-logo="http://flixgran.xyz:8080/images/4e04d1aa0820af0de051803dbf659081.png" group-title="CANAIS | PORTUGAL",PT: RTP 2
-http://flixgran.xyz:8080/888888/888888/414713
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 FHD" tvg-logo="http://flixgran.xyz:8080/images/4e04d1aa0820af0de051803dbf659081.png" group-title="CANAIS | PORTUGAL",PT: RTP 2 FHD
-http://flixgran.xyz:8080/888888/888888/414714
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 LOW" tvg-logo="http://flixgran.xyz:8080/images/0f9cf647af77e0b76497a98fa7fedaa4.png" group-title="CANAIS | PORTUGAL",PT: RTP 2 LOW
-http://flixgran.xyz:8080/888888/888888/414955
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3" tvg-logo="http://flixgran.xyz:8080/images/5d0ebd5c14238e663e5b22de8ee709c2.png" group-title="CANAIS | PORTUGAL",PT: RTP 3
-http://flixgran.xyz:8080/888888/888888/414725
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 FHD" tvg-logo="http://flixgran.xyz:8080/images/5d0ebd5c14238e663e5b22de8ee709c2.png" group-title="CANAIS | PORTUGAL",PT: RTP 3 FHD
-http://flixgran.xyz:8080/888888/888888/414726
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 LOW" tvg-logo="http://flixgran.xyz:8080/images/a868185365d061d707f29f4ed967143e.png" group-title="CANAIS | PORTUGAL",PT: RTP 3 LOW
-http://flixgran.xyz:8080/888888/888888/414961
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP ACORES" tvg-logo="http://flixgran.xyz:8080/images/7369cfc9c84939f2f7e80eccd925c579.png" group-title="CANAIS | PORTUGAL",PT: RTP ACORES
-http://flixgran.xyz:8080/888888/888888/414877
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP AFRICA" tvg-logo="http://flixgran.xyz:8080/images/dc5812df75bfbfaf6e54f346f14782bb.png" group-title="CANAIS | PORTUGAL",PT: RTP AFRICA
-http://flixgran.xyz:8080/888888/888888/414880
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP AFRICA LOW" tvg-logo="http://flixgran.xyz:8080/images/c2977ded200dace0fe90fcef47e1bbd2.png" group-title="CANAIS | PORTUGAL",PT: RTP AFRICA LOW
-http://flixgran.xyz:8080/888888/888888/415025
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MADEIRA" tvg-logo="http://flixgran.xyz:8080/images/c4a3c0b1bb928a35ca2b34beb91873e2.png" group-title="CANAIS | PORTUGAL",PT: RTP MADEIRA
-http://flixgran.xyz:8080/888888/888888/414878
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MEMORIA" tvg-logo="http://flixgran.xyz:8080/images/c6334801fbe77002eb9ccd259dffd2fd.png" group-title="CANAIS | PORTUGAL",PT: RTP MEMORIA
-http://flixgran.xyz:8080/888888/888888/414879
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MEMORIA LOW" tvg-logo="http://flixgran.xyz:8080/images/967cf70730e31739aefcfb7b0e1dde8b.png" group-title="CANAIS | PORTUGAL",PT: RTP MEMORIA LOW
-http://flixgran.xyz:8080/888888/888888/415026
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTR-Planeta" tvg-logo="http://flixgran.xyz:8080/images/705610ed3e5ec724f5cb0d76a5fd3aa1.png" group-title="CANAIS | PORTUGAL",PT: RTR-Planeta
-http://flixgran.xyz:8080/888888/888888/414911
-#EXTINF:-1 tvg-id="" tvg-name="PT: SAUDE +" tvg-logo="http://flixgran.xyz:8080/images/dc3af6cd717b8e2aea5169944dbda405.jpg" group-title="CANAIS | PORTUGAL",PT: SAUDE +
-http://flixgran.xyz:8080/888888/888888/414883
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC" tvg-logo="http://flixgran.xyz:8080/images/a6e037a0102f33a2ceb1d0d3c2931ba9.png" group-title="CANAIS | PORTUGAL",PT: SIC
-http://flixgran.xyz:8080/888888/888888/414715
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sic Advance FHD" tvg-logo="http://flixgran.xyz:8080/images/0a34144d0dc05baabdaf9faea07e2bd8.png" group-title="CANAIS | PORTUGAL",PT: Sic Advance FHD
-http://flixgran.xyz:8080/888888/888888/414753
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC CARAS" tvg-logo="http://flixgran.xyz:8080/images/d80053cb245a3c7d4b9ad8b88a78f2b3.png" group-title="CANAIS | PORTUGAL",PT: SIC CARAS
-http://flixgran.xyz:8080/888888/888888/414733
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC CARAS FHD" tvg-logo="http://flixgran.xyz:8080/images/720832e34a48e5d280bc148967ca1ce6.png" group-title="CANAIS | PORTUGAL",PT: SIC CARAS FHD
-http://flixgran.xyz:8080/888888/888888/414734
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC CARAS LOW" tvg-logo="http://flixgran.xyz:8080/images/f3592b9ca2b19b4ee2fb3b17e0ca5c48.png" group-title="CANAIS | PORTUGAL",PT: SIC CARAS LOW
-http://flixgran.xyz:8080/888888/888888/414969
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC FHD" tvg-logo="http://flixgran.xyz:8080/images/6b4ad7416ebaa2bb0cbbd965b98b22dc.png" group-title="CANAIS | PORTUGAL",PT: SIC FHD
-http://flixgran.xyz:8080/888888/888888/414716
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC INTERNACIONAL" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: SIC INTERNACIONAL
-http://flixgran.xyz:8080/888888/888888/414885
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC K" tvg-logo="http://flixgran.xyz:8080/images/33c83cea581388c9d271017b2e4fafc4.png" group-title="CANAIS | PORTUGAL",PT: SIC K
-http://flixgran.xyz:8080/888888/888888/414751
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC K HD" tvg-logo="http://flixgran.xyz:8080/images/cad9a6f872b80bc83ae96a853d3a9da8.png" group-title="CANAIS | PORTUGAL",PT: SIC K HD
-http://flixgran.xyz:8080/888888/888888/414752
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC K LOW" tvg-logo="http://flixgran.xyz:8080/images/42467dafc4fd870872b2f6bba238c914.png" group-title="CANAIS | PORTUGAL",PT: SIC K LOW
-http://flixgran.xyz:8080/888888/888888/414972
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC LOW" tvg-logo="http://flixgran.xyz:8080/images/8cd3ac70db7ac318cf9a0e01333940a4.png" group-title="CANAIS | PORTUGAL",PT: SIC LOW
-http://flixgran.xyz:8080/888888/888888/414956
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER" tvg-logo="http://flixgran.xyz:8080/images/0752fd3699624b1e7fb67aa7e5e15182.png" group-title="CANAIS | PORTUGAL",PT: SIC MULHER
-http://flixgran.xyz:8080/888888/888888/414731
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER FHD" tvg-logo="http://flixgran.xyz:8080/images/0752fd3699624b1e7fb67aa7e5e15182.png" group-title="CANAIS | PORTUGAL",PT: SIC MULHER FHD
-http://flixgran.xyz:8080/888888/888888/414732
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Mulher LOW" tvg-logo="http://flixgran.xyz:8080/images/b5ee580c1ab17821ee7ca70f962f34f1.png" group-title="CANAIS | PORTUGAL",PT: SIC Mulher LOW
-http://flixgran.xyz:8080/888888/888888/414967
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS" tvg-logo="http://flixgran.xyz:8080/images/467e209fff003e36bfd7c15c419fd008.png" group-title="CANAIS | PORTUGAL",PT: SIC NOTICIAS
-http://flixgran.xyz:8080/888888/888888/414723
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS FHD" tvg-logo="http://flixgran.xyz:8080/images/99fc211a5ca31d3625826849ead73423.png" group-title="CANAIS | PORTUGAL",PT: SIC NOTICIAS FHD
-http://flixgran.xyz:8080/888888/888888/414724
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Noticias LOW" tvg-logo="http://flixgran.xyz:8080/images/b48779474d5782a22c822a838f5d3cf0.png" group-title="CANAIS | PORTUGAL",PT: SIC Noticias LOW
-http://flixgran.xyz:8080/888888/888888/414958
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL" tvg-logo="http://flixgran.xyz:8080/images/1de15851050ee1f6b0985134b2c2e171.png" group-title="CANAIS | PORTUGAL",PT: SIC RADICAL
-http://flixgran.xyz:8080/888888/888888/414735
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Radical  LOW" tvg-logo="http://flixgran.xyz:8080/images/9c2a277800ce90a7130b9dd6f2f5aee5.png" group-title="CANAIS | PORTUGAL",PT: SIC Radical  LOW
-http://flixgran.xyz:8080/888888/888888/414968
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL FHD" tvg-logo="http://flixgran.xyz:8080/images/1de15851050ee1f6b0985134b2c2e171.png" group-title="CANAIS | PORTUGAL",PT: SIC RADICAL FHD
-http://flixgran.xyz:8080/888888/888888/414736
-#EXTINF:-1 tvg-id="" tvg-name="PT: SKY NEWS" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/SKYNEWS.png" group-title="CANAIS | PORTUGAL",PT: SKY NEWS
-http://flixgran.xyz:8080/888888/888888/414899
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="http://flixgran.xyz:8080/images/e01764141d9eda5afeb19801ce3f9878.png" group-title="CANAIS | PORTUGAL",PT: SPORT TV +
-http://flixgran.xyz:8080/888888/888888/414758
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + FHD" tvg-logo="http://flixgran.xyz:8080/images/85af93d4c28139457c219ee24ea52fb6.png" group-title="CANAIS | PORTUGAL",PT: SPORT TV + FHD
-http://flixgran.xyz:8080/888888/888888/414759
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="http://flixgran.xyz:8080/images/b40ae6af15f0ab47db305684baf4c8b0.png" group-title="CANAIS | PORTUGAL",PT: SPORT TV 1
-http://flixgran.xyz:8080/888888/888888/414760
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 4K" tvg-logo="http://flixgran.xyz:8080/images/b40ae6af15f0ab47db305684baf4c8b0.png" group-title="CANAIS | PORTUGAL",PT: SPORT TV 1 4K
-http://flixgran.xyz:8080/888888/888888/414762
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="http://flixgran.xyz:8080/images/977b02761826eb09931ef20d3d4de43c.png" group-title="CANAIS | PORTUGAL",PT: SPORT TV 1 FHD
-http://flixgran.xyz:8080/888888/888888/414761
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1 LOW" tvg-logo="http://flixgran.xyz:8080/images/a7a7cc96830ec50bdc5b4f5e49bd7362.png" group-title="CANAIS | PORTUGAL",PT: Sport TV 1 LOW
-http://flixgran.xyz:8080/888888/888888/414984
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="http://flixgran.xyz:8080/images/ae41ec003175e8770f2b1800c2b7ea4e.png" group-title="CANAIS | PORTUGAL",PT: SPORT TV 2
-http://flixgran.xyz:8080/888888/888888/414763
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="http://flixgran.xyz:8080/images/9e25d6ac5551ad843399fc744d464e9d.png" group-title="CANAIS | PORTUGAL",PT: SPORT TV 2 FHD
-http://flixgran.xyz:8080/888888/888888/414764
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 LOW" tvg-logo="http://flixgran.xyz:8080/images/4d6947a967135a98291a0f61d0321604.png" group-title="CANAIS | PORTUGAL",PT: Sport TV 2 LOW
-http://flixgran.xyz:8080/888888/888888/414985
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="http://flixgran.xyz:8080/images/b033afb7c3dcbc1632f895bbfd302286.png" group-title="CANAIS | PORTUGAL",PT: SPORT TV 3
-http://flixgran.xyz:8080/888888/888888/414765
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="http://flixgran.xyz:8080/images/d857bbb52fba9beb0f8771023cb42355.png" group-title="CANAIS | PORTUGAL",PT: SPORT TV 3 FHD
-http://flixgran.xyz:8080/888888/888888/414766
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3 LOW" tvg-logo="http://flixgran.xyz:8080/images/3a142ac1e17bb05cfd22f643e2d62da6.png" group-title="CANAIS | PORTUGAL",PT: Sport TV 3 LOW
-http://flixgran.xyz:8080/888888/888888/414986
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="http://flixgran.xyz:8080/images/cc0fc78cbe4cb963d1484a3a343b6968.png" group-title="CANAIS | PORTUGAL",PT: SPORT TV 4
-http://flixgran.xyz:8080/888888/888888/414767
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="http://flixgran.xyz:8080/images/94407ed73a1e5d56d6917d258b39eb2f.png" group-title="CANAIS | PORTUGAL",PT: SPORT TV 4 FHD
-http://flixgran.xyz:8080/888888/888888/414768
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4 LOW" tvg-logo="http://flixgran.xyz:8080/images/3c71a17866a47a476f8b1d5259947326.png" group-title="CANAIS | PORTUGAL",PT: Sport TV 4 LOW
-http://flixgran.xyz:8080/888888/888888/414987
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="http://flixgran.xyz:8080/images/2d3b2c6de4158611574cd74d5e40657b.png" group-title="CANAIS | PORTUGAL",PT: SPORT TV 5
-http://flixgran.xyz:8080/888888/888888/414769
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="http://flixgran.xyz:8080/images/2d3b2c6de4158611574cd74d5e40657b.png" group-title="CANAIS | PORTUGAL",PT: SPORT TV 5 FHD
-http://flixgran.xyz:8080/888888/888888/414770
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5 LOW" tvg-logo="http://flixgran.xyz:8080/images/2ed61a48d3a44284c49cd0fbe821f0ff.png" group-title="CANAIS | PORTUGAL",PT: Sport TV 5 LOW
-http://flixgran.xyz:8080/888888/888888/414988
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="http://flixgran.xyz:8080/images/a477d74d52a2094d0472ee21a0e495dc.png" group-title="CANAIS | PORTUGAL",PT: SPORT TV 6 FHD
-http://flixgran.xyz:8080/888888/888888/414772
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA" tvg-logo="http://flixgran.xyz:8080/images/c98d8af474a6f88ae307fb8a7741164e.png" group-title="CANAIS | PORTUGAL",PT: SPORT TV NBA
-http://flixgran.xyz:8080/888888/888888/414789
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA LOW" tvg-logo="http://flixgran.xyz:8080/images/2bb1a4d6909e772122e779d009eeb630.png" group-title="CANAIS | PORTUGAL",PT: SPORT TV NBA LOW
-http://flixgran.xyz:8080/888888/888888/414997
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV+ LOW" tvg-logo="http://flixgran.xyz:8080/images/3e3c1b67c3c7bcca818824b8a1c4c0e8.png" group-title="CANAIS | PORTUGAL",PT: Sport TV+ LOW
-http://flixgran.xyz:8080/888888/888888/414983
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV" tvg-logo="http://flixgran.xyz:8080/images/d8fd93ff0cfba40d410cf88ba0834822.png" group-title="CANAIS | PORTUGAL",PT: SPORTING TV
-http://flixgran.xyz:8080/888888/888888/414790
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sporting Tv FHD" tvg-logo="http://flixgran.xyz:8080/images/1fb918bd6bc84051fd9f5c6f42cce7bd.png" group-title="CANAIS | PORTUGAL",PT: Sporting Tv FHD
-http://flixgran.xyz:8080/888888/888888/414791
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTV 6" tvg-logo="http://flixgran.xyz:8080/images/a8a1befa1596b58f25e328e3658c3b6d.png" group-title="CANAIS | PORTUGAL",PT: SPORTV 6
-http://flixgran.xyz:8080/888888/888888/414771
-#EXTINF:-1 tvg-id="" tvg-name="Pt: Stv Noticias" tvg-logo="" group-title="CANAIS | PORTUGAL",Pt: Stv Noticias
-http://flixgran.xyz:8080/888888/888888/414891
-#EXTINF:-1 tvg-id="" tvg-name="PT: SUPER RTL" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: SUPER RTL
-http://flixgran.xyz:8080/888888/888888/414901
-#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY" tvg-logo="http://flixgran.xyz:8080/images/23f7adcffda04234527b4461310e401b.png" group-title="CANAIS | PORTUGAL",PT: SYFY
-http://flixgran.xyz:8080/888888/888888/414845
-#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY FHD" tvg-logo="http://flixgran.xyz:8080/images/0bbf51b30920a83827f86b2f2ee64185.png" group-title="CANAIS | PORTUGAL",PT: SYFY FHD
-http://flixgran.xyz:8080/888888/888888/414846
-#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY LOW" tvg-logo="http://flixgran.xyz:8080/images/23f7adcffda04234527b4461310e401b.png" group-title="CANAIS | PORTUGAL",PT: SYFY LOW
-http://flixgran.xyz:8080/888888/888888/415017
-#EXTINF:-1 tvg-id="" tvg-name="PT: TCV CABO" tvg-logo="http://zxz.ddns.net:25461/images/LkOoXcAV7iGH3fyp4P9CHp9lLocW8iaT.png" group-title="CANAIS | PORTUGAL",PT: TCV CABO
-http://flixgran.xyz:8080/888888/888888/414922
-#EXTINF:-1 tvg-id="" tvg-name="PT: TLC" tvg-logo="http://flixgran.xyz:8080/images/2d55bc3d22d0d905660de9e29516814c.png" group-title="CANAIS | PORTUGAL",PT: TLC
-http://flixgran.xyz:8080/888888/888888/414855
-#EXTINF:-1 tvg-id="" tvg-name="PT: TLC LOW" tvg-logo="http://flixgran.xyz:8080/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="CANAIS | PORTUGAL",PT: TLC LOW
-http://flixgran.xyz:8080/888888/888888/415027
-#EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/TOROS.png" group-title="CANAIS | PORTUGAL",PT: TOROS TV
-http://flixgran.xyz:8080/888888/888888/414800
-#EXTINF:-1 tvg-id="" tvg-name="PT: Toros Tv Low" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/TOROS.png" group-title="CANAIS | PORTUGAL",PT: Toros Tv Low
-http://flixgran.xyz:8080/888888/888888/414998
-#EXTINF:-1 tvg-id="" tvg-name="PT: TPA Internacional" tvg-logo="http://evoxtream.best:25461/images/SKFZWs8PCXfcS7TPYyE6fTzMUnNV8id5.png" group-title="CANAIS | PORTUGAL",PT: TPA Internacional
-http://flixgran.xyz:8080/888888/888888/414913
-#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE SPORTS STARS" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: TRACE SPORTS STARS
-http://flixgran.xyz:8080/888888/888888/414921
-#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE TOCA" tvg-logo="http://flixgran.xyz:8080/images/bb65c2ef311d6a755470f65b3bb9d104.png" group-title="CANAIS | PORTUGAL",PT: TRACE TOCA
-http://flixgran.xyz:8080/888888/888888/414943
-#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE URBAN" tvg-logo="http://flixgran.xyz:8080/images/8bd3c8e67a63b94ca3252b38e8eea02b.png" group-title="CANAIS | PORTUGAL",PT: TRACE URBAN
-http://flixgran.xyz:8080/888888/888888/414944
-#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL" tvg-logo="http://flixgran.xyz:8080/images/e4dab141d8472d91fa12746b72f25fae.png" group-title="CANAIS | PORTUGAL",PT: TRAVEL CHANNEL
-http://flixgran.xyz:8080/888888/888888/414868
-#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL FHD" tvg-logo="http://flixgran.xyz:8080/images/e4dab141d8472d91fa12746b72f25fae.png" group-title="CANAIS | PORTUGAL",PT: TRAVEL CHANNEL FHD
-http://flixgran.xyz:8080/888888/888888/414869
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV GALICIA" tvg-logo="http://flixgran.xyz:8080/images/6c7113468e71dd9f42bb21dfb5e58539.png" group-title="CANAIS | PORTUGAL",PT: TV GALICIA
-http://flixgran.xyz:8080/888888/888888/414926
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV MUNDIAL" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: TV MUNDIAL
-http://flixgran.xyz:8080/888888/888888/414951
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV RECORD LOW" tvg-logo="http://flixgran.xyz:8080/images/7675b713c2212d1c162c96ddce3d4750.png" group-title="CANAIS | PORTUGAL",PT: TV RECORD LOW
-http://flixgran.xyz:8080/888888/888888/414966
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV5 Monde" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/TV5MONDE.png" group-title="CANAIS | PORTUGAL",PT: TV5 Monde
-http://flixgran.xyz:8080/888888/888888/414914
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVC News" tvg-logo="http://flixgran.xyz:8080/images/ab5ba99847af76a9003a97b2e45cda5f.png" group-title="CANAIS | PORTUGAL",PT: TVC News
-http://flixgran.xyz:8080/888888/888888/414902
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVE 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg" group-title="CANAIS | PORTUGAL",PT: TVE 24H
-http://flixgran.xyz:8080/888888/888888/414925
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVE INTERNACIONAL" tvg-logo="http://flixgran.xyz:8080/images/285bae10d3cd0992af79ac45be7e9f87.png" group-title="CANAIS | PORTUGAL",PT: TVE INTERNACIONAL
-http://flixgran.xyz:8080/888888/888888/414905
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI" tvg-logo="http://flixgran.xyz:8080/images/4f14ffc750c1bbfc08feaae245c8530d.png" group-title="CANAIS | PORTUGAL",PT: TVI
-http://flixgran.xyz:8080/888888/888888/414717
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FHD" tvg-logo="http://flixgran.xyz:8080/images/4f14ffc750c1bbfc08feaae245c8530d.png" group-title="CANAIS | PORTUGAL",PT: TVI FHD
-http://flixgran.xyz:8080/888888/888888/414718
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FICCAO" tvg-logo="http://flixgran.xyz:8080/images/b365eddf6d044131e75c7a5c8d401f4f.png" group-title="CANAIS | PORTUGAL",PT: TVI FICCAO
-http://flixgran.xyz:8080/888888/888888/414737
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Ficcao LOW" tvg-logo="http://flixgran.xyz:8080/images/206d8d732b55d1155d8c8ea37a35ca19.png" group-title="CANAIS | PORTUGAL",PT: TVI Ficcao LOW
-http://flixgran.xyz:8080/888888/888888/414970
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Ficçao FHD" tvg-logo="http://flixgran.xyz:8080/images/b365eddf6d044131e75c7a5c8d401f4f.png" group-title="CANAIS | PORTUGAL",PT: TVI Ficçao FHD
-http://flixgran.xyz:8080/888888/888888/414738
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Internacional" tvg-logo="http://flixgran.xyz:8080/images/a3a1ee9a09b0b8990d4a97fe040e9574.png" group-title="CANAIS | PORTUGAL",PT: TVI Internacional
-http://flixgran.xyz:8080/888888/888888/414886
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI LOW" tvg-logo="http://flixgran.xyz:8080/images/c452921331e3bc580fe768285811bce9.png" group-title="CANAIS | PORTUGAL",PT: TVI LOW
-http://flixgran.xyz:8080/888888/888888/414957
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY" tvg-logo="http://flixgran.xyz:8080/images/64a7db7395e6aae5d78d376cfa2a50e2.png" group-title="CANAIS | PORTUGAL",PT: TVI REALITY
-http://flixgran.xyz:8080/888888/888888/414849
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality - CÐmara 1" tvg-logo="http://flixgran.xyz:8080/images/85e050e42317858a0142a41dd2eeb667.png" group-title="CANAIS | PORTUGAL",PT: TVI Reality - CÐmara 1
-http://flixgran.xyz:8080/888888/888888/414873
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality - CÐmara 2" tvg-logo="http://flixgran.xyz:8080/images/85e050e42317858a0142a41dd2eeb667.png" group-title="CANAIS | PORTUGAL",PT: TVI Reality - CÐmara 2
-http://flixgran.xyz:8080/888888/888888/414874
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality - CÐmara 3" tvg-logo="http://flixgran.xyz:8080/images/85e050e42317858a0142a41dd2eeb667.png" group-title="CANAIS | PORTUGAL",PT: TVI Reality - CÐmara 3
-http://flixgran.xyz:8080/888888/888888/414875
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality - CÐmara 4" tvg-logo="http://flixgran.xyz:8080/images/85e050e42317858a0142a41dd2eeb667.png" group-title="CANAIS | PORTUGAL",PT: TVI Reality - CÐmara 4
-http://flixgran.xyz:8080/888888/888888/414876
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality - Mosaico" tvg-logo="http://flixgran.xyz:8080/images/85e050e42317858a0142a41dd2eeb667.png" group-title="CANAIS | PORTUGAL",PT: TVI Reality - Mosaico
-http://flixgran.xyz:8080/888888/888888/414872
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality FHD" tvg-logo="http://flixgran.xyz:8080/images/64a7db7395e6aae5d78d376cfa2a50e2.png" group-title="CANAIS | PORTUGAL",PT: TVI Reality FHD
-http://flixgran.xyz:8080/888888/888888/414850
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY LOW" tvg-logo="http://flixgran.xyz:8080/images/85e050e42317858a0142a41dd2eeb667.png" group-title="CANAIS | PORTUGAL",PT: TVI REALITY LOW
-http://flixgran.xyz:8080/888888/888888/414971
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVR International" tvg-logo="http://flixgran.xyz:8080/images/1103c2eae40993564620d0326beedffc.png" group-title="CANAIS | PORTUGAL",PT: TVR International
-http://flixgran.xyz:8080/888888/888888/414903
-#EXTINF:-1 tvg-id="" tvg-name="PT: VH1" tvg-logo="http://flixgran.xyz:8080/images/4f6db9548734c19eeb7aae5f442e1c96.png" group-title="CANAIS | PORTUGAL",PT: VH1
+
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="http://flixgran.xyz:8080/images/4f6db9548734c19eeb7aae5f442e1c96.png" group-title="CANAIS | PORTUGAL",VH1
 http://flixgran.xyz:8080/888888/888888/414945
-#EXTINF:-1 tvg-id="" tvg-name="PT: WRC Live HD" tvg-logo="http://flixgran.xyz:8080/images/6781f9e24e9efc0d2c6f7e179f14cc19.png" group-title="CANAIS | PORTUGAL",PT: WRC Live HD
-http://flixgran.xyz:8080/888888/888888/414807
-#EXTINF:-1 tvg-id="" tvg-name="PT: WWE NETWORK" tvg-logo="http://flixgran.xyz:8080/images/f7d66ee51a026d362604ddfe6112330c.png" group-title="CANAIS | PORTUGAL",PT: WWE NETWORK
-http://flixgran.xyz:8080/888888/888888/414813
-#EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA HD" tvg-logo="http://flixgran.xyz:8080/images/27ad700ebac58ec7152c8d8826bd950d.png" group-title="CANAIS | PORTUGAL",PT: ZAP VIVA HD
-http://flixgran.xyz:8080/888888/888888/414892
-#EXTINF:-1 tvg-id="" tvg-name="PT: ZEE TV" tvg-logo="" group-title="CANAIS | PORTUGAL",PT: ZEE TV
-http://flixgran.xyz:8080/888888/888888/414936
-#EXTINF:-1 tvg-id="" tvg-name="PT:Panda Kids" tvg-logo="http://flixgran.xyz:8080/images/af449a789aabf7f5126e42644375fa9d.png" group-title="CANAIS | PORTUGAL",PT:Panda Kids
-http://flixgran.xyz:8080/888888/888888/414741
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: 24 KITCHEN HD" tvg-logo="http://flixgran.xyz:8080/images/d5caebabae7f8fe9d14cd82d9769cb08.png" group-title="CANAIS | PORTUGAL",PT_265: 24 KITCHEN HD
-http://flixgran.xyz:8080/888888/888888/415093
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: A BOLA HD" tvg-logo="http://flixgran.xyz:8080/images/e573be7255639ef810482a8f31ec209b.png" group-title="CANAIS | PORTUGAL",PT_265: A BOLA HD
-http://flixgran.xyz:8080/888888/888888/415040
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: AMC HD" tvg-logo="http://flixgran.xyz:8080/images/f96383dfd174c5c396b9826b69f5e677.png" group-title="CANAIS | PORTUGAL",PT_265: AMC HD
-http://flixgran.xyz:8080/888888/888888/415081
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: AXN FULHD" tvg-logo="ttps://1.bp.blogspot.com/-kgGEp8DcjDA/WDrqAyUIt-I/AAAAAAAAFag/BsLySD6bwQwN0V4bCWGyNi7SQKekRx9UQCLcB/s1600/AXN%2BHD.png" group-title="CANAIS | PORTUGAL",PT_265: AXN FULHD
-http://flixgran.xyz:8080/888888/888888/415086
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: AXN MOVIES FULHD" tvg-logo="http://flixgran.xyz:8080/images/8a2f8a90d9c5d11792b8c185ea2ae45d.png" group-title="CANAIS | PORTUGAL",PT_265: AXN MOVIES FULHD
-http://flixgran.xyz:8080/888888/888888/415080
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: AXN WHITE FULHD" tvg-logo="http://flixgran.xyz:8080/images/2f34774472c32680259b1441bc7218ed.png" group-title="CANAIS | PORTUGAL",PT_265: AXN WHITE FULHD
-http://flixgran.xyz:8080/888888/888888/415087
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: BENFICA FULHD" tvg-logo="http://flixgran.xyz:8080/images/a253e009ed69af56e7e8ee535412963b.png" group-title="CANAIS | PORTUGAL",PT_265: BENFICA FULHD
-http://flixgran.xyz:8080/888888/888888/415061
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: CANAL 11 HD" tvg-logo="http://flixgran.xyz:8080/images/d7e912687f40d9dd9edf3eef713f1dc9.png" group-title="CANAIS | PORTUGAL",PT_265: CANAL 11 HD
-http://flixgran.xyz:8080/888888/888888/415053
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: CASA E COZINHA HD" tvg-logo="http://flixgran.xyz:8080/images/4a22ea0e3c4e4c7ba9e189e9227da93a.png" group-title="CANAIS | PORTUGAL",PT_265: CASA E COZINHA HD
-http://flixgran.xyz:8080/888888/888888/415094
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: CINEMUNDO HD" tvg-logo="http://flixgran.xyz:8080/images/9f78fd81b42175fda2739411708cb745.png" group-title="CANAIS | PORTUGAL",PT_265: CINEMUNDO HD
-http://flixgran.xyz:8080/888888/888888/415078
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: CMTV HD" tvg-logo="http://flixgran.xyz:8080/images/ec533a0c7899f8899f3741bc9889aff5.png" group-title="CANAIS | PORTUGAL",PT_265: CMTV HD
-http://flixgran.xyz:8080/888888/888888/415036
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: CNN PORTUGALᴴᴰ" tvg-logo="http://flixgran.xyz:8080/images/9a2686807af39ff8f01a982f5fd93e22.png" group-title="CANAIS | PORTUGAL",PT_265: CNN PORTUGALᴴᴰ
-http://flixgran.xyz:8080/888888/888888/415037
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: DISCOVERY CHANNEL HD" tvg-logo="http://flixgran.xyz:8080/images/434c98a8907784de1ae00ad0adf354b7.png" group-title="CANAIS | PORTUGAL",PT_265: DISCOVERY CHANNEL HD
-http://flixgran.xyz:8080/888888/888888/415095
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: DISNEY CHANNEL HD" tvg-logo="http://flixgran.xyz:8080/images/b3ca7d9f982cf0d188071ddacd45f72c.png" group-title="CANAIS | PORTUGAL",PT_265: DISNEY CHANNEL HD
-http://flixgran.xyz:8080/888888/888888/415052
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: E! ENTERTAINMENT HD" tvg-logo="" group-title="CANAIS | PORTUGAL",PT_265: E! ENTERTAINMENT HD
-http://flixgran.xyz:8080/888888/888888/415096
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: ELEVEN SPORTS 1 ᶠᴴᴰ" tvg-logo="http://flixgran.xyz:8080/images/ff3bdfc3974414c5ebc4651b8b2e22d6.png" group-title="CANAIS | PORTUGAL",PT_265: ELEVEN SPORTS 1 ᶠᴴᴰ
-http://flixgran.xyz:8080/888888/888888/415062
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: ELEVEN SPORTS 2 FULHD" tvg-logo="http://flixgran.xyz:8080/images/cb6f83451e193b919c940efd232a892d.png" group-title="CANAIS | PORTUGAL",PT_265: ELEVEN SPORTS 2 FULHD
-http://flixgran.xyz:8080/888888/888888/415063
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: ELEVEN SPORTS 3 FHD" tvg-logo="http://flixgran.xyz:8080/images/919e1cb5253c131b469e1a7bcddc09d0.png" group-title="CANAIS | PORTUGAL",PT_265: ELEVEN SPORTS 3 FHD
-http://flixgran.xyz:8080/888888/888888/415064
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: ELEVEN SPORTS 4 HD" tvg-logo="http://flixgran.xyz:8080/images/1bef9c505f9e379c4a0f13886cd995cd.png" group-title="CANAIS | PORTUGAL",PT_265: ELEVEN SPORTS 4 HD
-http://flixgran.xyz:8080/888888/888888/415065
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: ELEVEN SPORTS 5 ᶠᴴᴰ" tvg-logo="http://flixgran.xyz:8080/images/54053b98f35ace3873b11681af694d8c.png" group-title="CANAIS | PORTUGAL",PT_265: ELEVEN SPORTS 5 ᶠᴴᴰ
-http://flixgran.xyz:8080/888888/888888/415066
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: ELEVEN SPORTS 6 HD" tvg-logo="http://flixgran.xyz:8080/images/3880945057d98b07570ae80de9ce6944.png" group-title="CANAIS | PORTUGAL",PT_265: ELEVEN SPORTS 6 HD
-http://flixgran.xyz:8080/888888/888888/415067
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: EUROSPORT 1 HD" tvg-logo="http://flixgran.xyz:8080/images/c4b10f65bdbc7158ab8fb0cad120a470.png" group-title="CANAIS | PORTUGAL",PT_265: EUROSPORT 1 HD
-http://flixgran.xyz:8080/888888/888888/415069
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: EUROSPORT 2 HD" tvg-logo="http://flixgran.xyz:8080/images/5c09aaf1203daf782f83d680bb68c43b.png" group-title="CANAIS | PORTUGAL",PT_265: EUROSPORT 2 HD
-http://flixgran.xyz:8080/888888/888888/415070
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: FOX COMEDY HD" tvg-logo="http://flixgran.xyz:8080/images/7e3e53b1f102aa7f9f315ae1e9c92abf.png" group-title="CANAIS | PORTUGAL",PT_265: FOX COMEDY HD
-http://flixgran.xyz:8080/888888/888888/415085
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: FOX CRIME FULHD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOXCRIME.png" group-title="CANAIS | PORTUGAL",PT_265: FOX CRIME FULHD
-http://flixgran.xyz:8080/888888/888888/415083
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: FOX FHD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOX.png" group-title="CANAIS | PORTUGAL",PT_265: FOX FHD
-http://flixgran.xyz:8080/888888/888888/415082
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: FOX LIFE HD" tvg-logo="http://flixgran.xyz:8080/images/2ba18f0a3b9f4362849ea02cbee3801b.png" group-title="CANAIS | PORTUGAL",PT_265: FOX LIFE HD
-http://flixgran.xyz:8080/888888/888888/415084
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: FOX MOVIES FHD" tvg-logo="http://flixgran.xyz:8080/images/f6a25a2e1b7668a86522ce6aeb02bf15.png" group-title="CANAIS | PORTUGAL",PT_265: FOX MOVIES FHD
-http://flixgran.xyz:8080/888888/888888/415079
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: FUEL TV HD" tvg-logo="http://flixgran.xyz:8080/images/4b9a0fee581593ffb9c6290baa29cc29.png" group-title="CANAIS | PORTUGAL",PT_265: FUEL TV HD
-http://flixgran.xyz:8080/888888/888888/415071
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: GLOBO HD" tvg-logo="http://flixgran.xyz:8080/images/4822f410294f76aa3d37ed55b76d06b8.png" group-title="CANAIS | PORTUGAL",PT_265: GLOBO HD
-http://flixgran.xyz:8080/888888/888888/415049
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: GLOBO NOW HD" tvg-logo="http://flixgran.xyz:8080/images/cff86080e01a67cfe5984f11c980484e.png" group-title="CANAIS | PORTUGAL",PT_265: GLOBO NOW HD
-http://flixgran.xyz:8080/888888/888888/415050
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: HISTÓRIA HD" tvg-logo="http://flixgran.xyz:8080/images/ef5ef0a75c3e6410ed4828e61eaf3ebb.png" group-title="CANAIS | PORTUGAL",PT_265: HISTÓRIA HD
-http://flixgran.xyz:8080/888888/888888/415097
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: HOLLYWOOD FULHD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/HOLLYWOOD.png" group-title="CANAIS | PORTUGAL",PT_265: HOLLYWOOD FULHD
-http://flixgran.xyz:8080/888888/888888/415076
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: INVESTIGATION DISCOVERY HD" tvg-logo="http://flixgran.xyz:8080/images/f3ec177c593adc2e4fd0d6d2e210ea38.png" group-title="CANAIS | PORTUGAL",PT_265: INVESTIGATION DISCOVERY HD
-http://flixgran.xyz:8080/888888/888888/415092
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://flixgran.xyz:8080/images/e3b7411ae20ca23d6a1335fd9e18064f.png" group-title="CANAIS | PORTUGAL",PT_265: NATIONAL GEOGRAPHIC WILD HD
-http://flixgran.xyz:8080/888888/888888/415089
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: NATIONAL GEPGRAPHIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.pn" group-title="CANAIS | PORTUGAL",PT_265: NATIONAL GEPGRAPHIC HD
-http://flixgran.xyz:8080/888888/888888/415090
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: NOS STUDIO HD" tvg-logo="http://flixgran.xyz:8080/images/9906af759b37e62a40a9380a29d2a3c5.png" group-title="CANAIS | PORTUGAL",PT_265: NOS STUDIO HD
-http://flixgran.xyz:8080/888888/888888/415077
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: ODISSEIA HD" tvg-logo="http://flixgran.xyz:8080/images/c64fef2a854fe13c36cfc61c1c0e42a4.png" group-title="CANAIS | PORTUGAL",PT_265: ODISSEIA HD
-http://flixgran.xyz:8080/888888/888888/415091
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: PORTO CANAL HD" tvg-logo="http://flixgran.xyz:8080/images/96a5c2a80bc836b70cf8bb274b8c5782.png" group-title="CANAIS | PORTUGAL",PT_265: PORTO CANAL HD
-http://flixgran.xyz:8080/888888/888888/415041
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: RTP 1 FULHD" tvg-logo="http://flixgran.xyz:8080/images/320895dfca2cccfc46d910f1145b7769.png" group-title="CANAIS | PORTUGAL",PT_265: RTP 1 FULHD
-http://flixgran.xyz:8080/888888/888888/415032
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: RTP 2 HD" tvg-logo="http://flixgran.xyz:8080/images/0f9cf647af77e0b76497a98fa7fedaa4.png" group-title="CANAIS | PORTUGAL",PT_265: RTP 2 HD
-http://flixgran.xyz:8080/888888/888888/415033
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: RTP 3 HD" tvg-logo="http://flixgran.xyz:8080/images/a868185365d061d707f29f4ed967143e.png" group-title="CANAIS | PORTUGAL",PT_265: RTP 3 HD
-http://flixgran.xyz:8080/888888/888888/415039
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: SIC CARAS HD" tvg-logo="http://flixgran.xyz:8080/images/720832e34a48e5d280bc148967ca1ce6.png" group-title="CANAIS | PORTUGAL",PT_265: SIC CARAS HD
-http://flixgran.xyz:8080/888888/888888/415044
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: SIC FULHD" tvg-logo="http://flixgran.xyz:8080/images/8cd3ac70db7ac318cf9a0e01333940a4.png" group-title="CANAIS | PORTUGAL",PT_265: SIC FULHD
-http://flixgran.xyz:8080/888888/888888/415034
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: SIC K HD" tvg-logo="http://flixgran.xyz:8080/images/cad9a6f872b80bc83ae96a853d3a9da8.png" group-title="CANAIS | PORTUGAL",PT_265: SIC K HD
-http://flixgran.xyz:8080/888888/888888/415042
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: SIC MULHER HD" tvg-logo="http://flixgran.xyz:8080/images/b5ee580c1ab17821ee7ca70f962f34f1.png" group-title="CANAIS | PORTUGAL",PT_265: SIC MULHER HD
-http://flixgran.xyz:8080/888888/888888/415045
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: SIC NOTICIAS HD" tvg-logo="http://flixgran.xyz:8080/images/b48779474d5782a22c822a838f5d3cf0.png" group-title="CANAIS | PORTUGAL",PT_265: SIC NOTICIAS HD
-http://flixgran.xyz:8080/888888/888888/415038
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: SIC RADICAL FHD" tvg-logo="http://flixgran.xyz:8080/images/9c2a277800ce90a7130b9dd6f2f5aee5.png" group-title="CANAIS | PORTUGAL",PT_265: SIC RADICAL FHD
-http://flixgran.xyz:8080/888888/888888/415043
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: SPORT TV + HD" tvg-logo="http://flixgran.xyz:8080/images/3e3c1b67c3c7bcca818824b8a1c4c0e8.png" group-title="CANAIS | PORTUGAL",PT_265: SPORT TV + HD
-http://flixgran.xyz:8080/888888/888888/415054
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: SPORT TV 1 FULHD" tvg-logo="http://flixgran.xyz:8080/images/a7a7cc96830ec50bdc5b4f5e49bd7362.png" group-title="CANAIS | PORTUGAL",PT_265: SPORT TV 1 FULHD
-http://flixgran.xyz:8080/888888/888888/415055
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: SPORT TV 2 FULHD" tvg-logo="http://flixgran.xyz:8080/images/4d6947a967135a98291a0f61d0321604.png" group-title="CANAIS | PORTUGAL",PT_265: SPORT TV 2 FULHD
-http://flixgran.xyz:8080/888888/888888/415056
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: SPORT TV 3 FHD" tvg-logo="http://flixgran.xyz:8080/images/3a142ac1e17bb05cfd22f643e2d62da6.png" group-title="CANAIS | PORTUGAL",PT_265: SPORT TV 3 FHD
-http://flixgran.xyz:8080/888888/888888/415057
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: SPORT TV 4 HD" tvg-logo="http://flixgran.xyz:8080/images/3c71a17866a47a476f8b1d5259947326.png" group-title="CANAIS | PORTUGAL",PT_265: SPORT TV 4 HD
-http://flixgran.xyz:8080/888888/888888/415058
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: SPORT TV 5 HD" tvg-logo="http://flixgran.xyz:8080/images/2ed61a48d3a44284c49cd0fbe821f0ff.png" group-title="CANAIS | PORTUGAL",PT_265: SPORT TV 5 HD
-http://flixgran.xyz:8080/888888/888888/415059
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: SPORT TV NBA HD" tvg-logo="http://flixgran.xyz:8080/images/2bb1a4d6909e772122e779d009eeb630.png" group-title="CANAIS | PORTUGAL",PT_265: SPORT TV NBA HD
-http://flixgran.xyz:8080/888888/888888/415060
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: SPORTING TV HD" tvg-logo="http://flixgran.xyz:8080/images/03ceb74cd36fce49597fec4dcc56e597.png" group-title="CANAIS | PORTUGAL",PT_265: SPORTING TV HD
-http://flixgran.xyz:8080/888888/888888/415068
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: SYFY HD" tvg-logo="http://flixgran.xyz:8080/images/23f7adcffda04234527b4461310e401b.png" group-title="CANAIS | PORTUGAL",PT_265: SYFY HD
-http://flixgran.xyz:8080/888888/888888/415088
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: TV RECORD HD" tvg-logo="http://flixgran.xyz:8080/images/7675b713c2212d1c162c96ddce3d4750.png" group-title="CANAIS | PORTUGAL",PT_265: TV RECORD HD
-http://flixgran.xyz:8080/888888/888888/415048
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: TVI FICÇAO HD" tvg-logo="http://flixgran.xyz:8080/images/dffc5112db1884a89b40ffb6d28f9dae.png" group-title="CANAIS | PORTUGAL",PT_265: TVI FICÇAO HD
-http://flixgran.xyz:8080/888888/888888/415046
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: TVI FULHD" tvg-logo="http://flixgran.xyz:8080/images/c452921331e3bc580fe768285811bce9.png" group-title="CANAIS | PORTUGAL",PT_265: TVI FULHD
-http://flixgran.xyz:8080/888888/888888/415035
-#EXTINF:-1 tvg-id="" tvg-name="PT_265: TVI REALITY HD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/TVSERIES.png" group-title="CANAIS | PORTUGAL",PT_265: TVI REALITY HD
-http://flixgran.xyz:8080/888888/888888/415047
-#EXTINF:-1 tvg-id="" tvg-name="PT_265:PANDA HD" tvg-logo="http://flixgran.xyz:8080/images/582ba55eb08260bf08fe9d0e30f5bcb0.png" group-title="CANAIS | PORTUGAL",PT_265:PANDA HD
-http://flixgran.xyz:8080/888888/888888/415051
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull Tv Low" tvg-logo="" group-title="CANAIS | PORTUGAL",Red Bull Tv Low
-http://flixgran.xyz:8080/888888/888888/415001
+
+#EXTINF:-1 tvg-id="" tvg-name="TRACE SPORTS STARS" tvg-logo="" group-title="CANAIS | PORTUGAL",TRACE SPORTS STARS
+http://flixgran.xyz:8080/888888/888888/414921
+
+#EXTINF:-1 tvg-id="" tvg-name="TRACE TOCA" tvg-logo="http://flixgran.xyz:8080/images/bb65c2ef311d6a755470f65b3bb9d104.png" group-title="CANAIS | PORTUGAL",TRACE TOCA
+http://flixgran.xyz:8080/888888/888888/414943
+
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="http://flixgran.xyz:8080/images/8bd3c8e67a63b94ca3252b38e8eea02b.png" group-title="CANAIS | PORTUGAL",TRACE URBAN
+http://flixgran.xyz:8080/888888/888888/414944
+
+#EXTINF:-1 tvg-id="" tvg-name="Más Chic" tvg-logo="" group-title="CANAIS | PORTUGAL",Más Chic
+http://flixgran.xyz:8080/888888/888888/414929
