@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz"
+#Portugal.m3u8
+
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP 1",RTP 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87285.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP 1",RTP 1
@@ -23,14 +25,11 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87301.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87310.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP Arena",RTP Arena
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87433.ts
+
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC",SIC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87287.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC",SIC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87306.ts
-#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="" tvg-name="SIC Notícias",SIC Notícias
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87440.ts
-#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="" tvg-name="SIC Notícias",SIC Notícias
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87455.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC Radical",SIC Radical
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87295.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC Radical",SIC Radical
@@ -47,6 +46,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87329.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87311.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC Internacional",SIC Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87302.ts
+
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="TVI",TVI
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87288.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="TVI",TVI
@@ -58,199 +58,220 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87315.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/99/TVI_Internacional_logo_2017.png" tvg-id="" tvg-name="TVI Internacional",TVI Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87334.ts
 
-#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png" tvg-id="euronw.tv.vodafone.pt",Euronews PT
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal",CNN Portugal
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87442.ts
-#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal",CNN Portugal
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87457.ts
-#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="" tvg-name="CM TV",CM TV
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87443.ts
-#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="" tvg-name="CM TV",CM TV
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87458.ts
-
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Canal Q",Canal Q
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87323.ts
+
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://imgur.com/tOdrDOX.png" tvg-id="casaecoz.tv.vodafone.pt" tvg-name="Casa e Cozinha",Casa e Cozinha
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87439.ts
+
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="24 Kitchen",24 Kitchen
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87437.ts
+
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" tvg-id="tfnhd.tv.vodafone.pt" tvg-name="Food Network",Food Network
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87299.ts
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="A&E",A&E
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416453
+
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="TLC",TLC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87450.ts
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="AR TV Canal Parlamento",ARTV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87461.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NOS Studios" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03-720x389.jpg" group-title="Movies and Series",NOS Studios
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Cartoon Network",Cartoon Network
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87388.ts
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Canal Panda",Canal Panda
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87384.ts
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="disneychannel.de" tvg-name="Disney Channel",Disney Channel
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87382.ts
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Disney Junior",Disney Junior
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87386.ts
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="https://logodownload.org/wp-content/uploads/2020/11/disney-plus-logo.png" tvg-name="Disney +",Disney +
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87387.ts
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Nickelodeon",Nickelodeon
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87383.ts
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Nick JR",Nick JR
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87389.ts
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="JimJam",Jim Jam
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87392.ts
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Biggs",Biggs
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87385.ts
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC K",SIC K
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87380.ts
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC K",SIC K
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87391.ts
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Baby TV",Baby TV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87390.ts
+
+
+#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="" tvg-name="SIC Notícias",SIC Notícias
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87440.ts
+#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="" tvg-name="SIC Notícias",SIC Notícias
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87455.ts
+
+#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png" tvg-id="euronw.tv.vodafone.pt",Euronews PT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal",CNN Portugal
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87442.ts
+#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal",CNN Portugal
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87457.ts
+
+#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="" tvg-name="CM TV",CM TV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87443.ts
+#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="" tvg-name="CM TV",CM TV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87458.ts
+
+
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03-720x389.jpg" tvg-id="" tvg-name="NOS Studios",NOS Studios
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87345.ts
-#EXTINF:-1 tvg-id="" tvg-name="NOS Studios" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03-720x389.jpg" group-title="Movies and Series",NOS Studios
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03-720x389.jpg" tvg-id="" tvg-name="NOS Studios",NOS Studios
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87362.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Hollywood" group-title="Movies and Series" tvg-logo="",Hollywood
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="Canal Hollywood",Hollywood
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87346.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Hollywood" group-title="Movies and Series" tvg-logo="",Hollywood
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="Canal Hollywood",Hollywood
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87363.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVCine Top" group-title="Movies and Series" tvg-logo="",TVCine Top
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="TVCine Top",TVCine Top
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96955
-#EXTINF:-1 tvg-id="" tvg-name="TVCine Top" group-title="Movies and Series" tvg-logo="",TVCine Top
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="TVCine Top",TVCine Top
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87347.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVCine Top" group-title="Movies and Series" tvg-logo="",TVCine Top
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="TVCine Top",TVCine Top
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87364.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVCine Action" group-title="Movies and Series" tvg-logo="",TVCine Action
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="TVCine Action",TVCine Action
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96958
-#EXTINF:-1 tvg-id="" tvg-name="TVCine Action" group-title="Movies and Series" tvg-logo="",TVCine Action
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="TVCine Action",TVCine Action
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87350.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVCine Action" group-title="Movies and Series" tvg-logo="",TVCine Action
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="TVCine Action",TVCine Action
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87367.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVCine Edition" group-title="Movies and Series" tvg-logo="",TVCine Edition
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="TVCine Edition",TVCine Edition
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96957
-#EXTINF:-1 tvg-id="" tvg-name="TVCine Edition" group-title="Movies and Series" tvg-logo="",TVCine Edition
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="TVCine Edition",TVCine Edition
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87348.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVCine Edition" group-title="Movies and Series" tvg-logo="",TVCine Edition
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="TVCine Edition",TVCine Edition
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87365.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVCine Emotion" group-title="Movies and Series" tvg-logo="",TVCine Emotion
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="TVCine Emotion",TVCine Emotion
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96956
-#EXTINF:-1 tvg-id="" tvg-name="TVCine Emotion" group-title="Movies and Series" tvg-logo="",TVCine Emotion
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="TVCine Emotion",TVCine Emotion
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87349.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVCine Emotion" group-title="Movies and Series" tvg-logo="",TVCine Emotion
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="TVCine Emotion",TVCine Emotion
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87366.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Movies" group-title="Movies and Series" tvg-logo="",FOX Movies
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="FOX Movies",FOX Movies
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87351.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Movies" group-title="Movies and Series" tvg-logo="",FOX Movies
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="FOX Movies",FOX Movies
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87368.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine Mundo" group-title="Movies and Series" tvg-logo="",Cine Mundo
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="Cine Mundo",Cine Mundo
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87369.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine Mundo" group-title="Movies and Series" tvg-logo="",Cine Mundo
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="Cine Mundo",Cine Mundo
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87352.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC" group-title="Movies and Series" tvg-logo="",AMC
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="AMC",AMC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87353.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC" group-title="Movies and Series" tvg-logo="",AMC
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="AMC",AMC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87370.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN Movies" group-title="Movies and Series" tvg-logo="",AXN Movies
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="AXN Movies",AXN Movies
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87354.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN Movies" group-title="Movies and Series" tvg-logo="",AXN Movies
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="AXN Movies",AXN Movies
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87371.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN" group-title="Movies and Series" tvg-logo="",AXN
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="AXN",AXN
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87359.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN" group-title="Movies and Series" tvg-logo="",AXN
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="AXN",AXN
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87376.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN White" group-title="Movies and Series" tvg-logo="",AXN White
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="AXN White",AXN White
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87360.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN White" group-title="Movies and Series" tvg-logo="",AXN White
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="AXN White",AXN White
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87377.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX" group-title="Movies and Series" tvg-logo="",FOX
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="FOX",FOX
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87355.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX" group-title="Movies and Series" tvg-logo="",FOX
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="FOX",FOX
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87372.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Life" group-title="Movies and Series" tvg-logo="",FOX Life
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="FOX Life",FOX Life
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87356.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Life" group-title="Movies and Series" tvg-logo="",FOX Life
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="FOX Life",FOX Life
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87373.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Crime" group-title="Movies and Series" tvg-logo="",FOX Crime
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="FOX Crime",FOX Crime
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87357.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Crime" group-title="Movies and Series" tvg-logo="",FOX Crime
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="FOX Crime",FOX Crime
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87374.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy" group-title="Movies and Series" tvg-logo="",FOX Comedy
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="FOX Comedy",FOX Comedy
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87358.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Comedy" group-title="Movies and Series" tvg-logo="",FOX Comedy
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="FOX Comedy",FOX Comedy
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87375.ts
-#EXTINF:-1 tvg-id="" tvg-name="Syfy" group-title="Movies and Series" tvg-logo="",Syfy
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="Syfy",Syfy
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87361.ts
-#EXTINF:-1 tvg-id="" tvg-name="Syfy" group-title="Movies and Series" tvg-logo="",Syfy
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="Syfy",Syfy
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87378.ts
 
-#EXTINF:-1 group-title="Movies and Series" tvg-id="MyTime Movie Network" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png",MyTime Movie Network (BR)
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png" tvg-id="MyTime Movie Network",MyTime Movie Network (BR)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies and Series" tvg-id="MovieSphere" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/MovieSphere.jpg",MovieSphere
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/MovieSphere.jpg" tvg-id="MovieSphere",MovieSphere
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies and Series" tvg-id="Eurochannel.us" tvg-logo="",Eurochannel
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="Eurochannel.us",Eurochannel
 #http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/144
 
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic" group-title="Documentaries" tvg-logo="",National Geographic
+
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="" tvg-name="National Geographic",National Geographic
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87435.ts
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic" group-title="Documentaries" tvg-logo="",National Geographic
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="" tvg-name="National Geographic",National Geographic
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87448.ts
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild" group-title="Documentaries" tvg-logo="",National Geographic Wild
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="" tvg-name="National Geographic Wild",National Geographic Wild
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87449.ts
-#EXTINF:-1 group-title="Documentaries" tvg-id="LoveNature.ca" tvg-logo="",Love Nature TV
+
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="LoveNature.ca",Love Nature TV NL
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/98211
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel [Backups]" group-title="Documentaries" tvg-logo="",Discovery Channel
+
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="" tvg-name="Discovery Channel",Discovery Channel
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87444.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" group-title="Documentaries" tvg-logo="",Discovery Channel
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="" tvg-name="Discovery Channel",Discovery Channel
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87445.ts
-#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" group-title="Documentaries" tvg-logo="",Discovery Science EU
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="DiscoveryScience.us" tvg-name="Discovery Science",Discovery Science EU
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71170
-#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" group-title="Documentaries" tvg-logo="",Discovery Science UK
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="DiscoveryScience.us" tvg-name="Discovery Science",Discovery Science UK
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/97173
-#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" group-title="Documentaries" tvg-logo="",Discovery Science US
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="DiscoveryScience.us" tvg-name="Discovery Science",Discovery Science US
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/138897
-#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" group-title="Documentaries" tvg-logo="",Discovery Science BR
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="DiscoveryScience.us" tvg-name="Discovery Science",Discovery Science BR
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/99315
-#EXTINF:-1 tvg-id="DiscoveryFamilyAfrica.us" tvg-name="Discovery Family" group-title="Documentaries" tvg-logo="",Discovery Family
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="DiscoveryFamilyAfrica.us" tvg-name="Discovery Family",Discovery Family
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96307
-#EXTINF:-1 tvg-id="DiscoveryFamilyAfrica.us" tvg-name="Discovery Family" group-title="Documentaries" tvg-logo="",Discovery Family
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="DiscoveryFamilyAfrica.us" tvg-name="Discovery Family",Discovery Family
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/138895
-#EXTINF:-1 tvg-id="" tvg-name="Odisseia" group-title="Documentaries" tvg-logo="",Odisseia
+
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="" tvg-name="Odisseia",Odisseia
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87447.ts
-#EXTINF:-1 tvg-id="HistoriaPortugal.pt" tvg-name="Canal História" group-title="Documentaries" tvg-logo="",Canal História
+
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="HistoriaPortugal.pt" tvg-name="Canal História",Canal História
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87446.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" group-title="Documentaries" tvg-logo="",Travel Channel
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="" tvg-name="Travel Channel",Travel Channel
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96962
-#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" group-title="Documentaries" tvg-logo="",Travel Channel
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="" tvg-name="Travel Channel",Travel Channel
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87300.ts
-#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" group-title="Documentaries" tvg-logo="",Travel Channel
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="" tvg-name="Travel Channel",Travel Channel
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87332.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" group-title="Portugal" tvg-logo="",Cartoon Network
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87388.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Panda" group-title="Portugal" tvg-logo="",Canal Panda
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87384.ts
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel" group-title="Portugal" tvg-logo="",Disney Channel
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87382.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" group-title="Portugal" tvg-logo="",Disney Junior
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87386.ts
-#EXTINF:-1 tvg-id="https://logodownload.org/wp-content/uploads/2020/11/disney-plus-logo.png" tvg-name="Disney +" group-title="Portugal" tvg-logo="",Disney +
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87387.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" group-title="Portugal" tvg-logo="",Nickelodeon
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87383.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nick JR" group-title="Portugal" tvg-logo="",Nick JR
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87389.ts
-#EXTINF:-1 tvg-id="" tvg-name="JimJam" group-title="Portugal" tvg-logo="",Jim Jam
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87392.ts
-#EXTINF:-1 tvg-id="" tvg-name="Biggs" group-title="Portugal" tvg-logo="",Biggs
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87385.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC K" group-title="Portugal" tvg-logo="",SIC K
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87380.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC K" group-title="Portugal" tvg-logo="",SIC K
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87391.ts
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" group-title="Portugal" tvg-logo="",Baby TV
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87390.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Rede Globo" group-title="Brazil" tvg-logo="",Globo
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Rede Globo",Globo
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87291.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rede Globo" group-title="Brazil" tvg-logo="",Globo
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Rede Globo",Globo
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87313.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV" group-title="Brazil" tvg-logo="",Record TV
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Record TV",Record TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87298.ts
-#EXTINF:-1 tvg-id="" tvg-name="Record TV" group-title="Brazil" tvg-logo="",Record TV
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Record TV",Record TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87331.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos TV" group-title="Brazil" tvg-logo="",Kuriakos TV
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Kuriakos TV",Kuriakos TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87451.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos TV" group-title="Brazil" tvg-logo="",Kuriakos TV
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Kuriakos TV",Kuriakos TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87381.ts
+
 
 #EXTINF:-1 group-title="Brazil Notícias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png" tvg-id="BLOOM.meo.pt",Bloomberg TV Brasil
 #KODIPROP:inputstream=inputstream.adaptive
