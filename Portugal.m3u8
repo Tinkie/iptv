@@ -190,10 +190,14 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/98211
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87444.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="Documentaries",Discovery Channel
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87445.ts
-#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" tvg-logo="" group-title="Documentaries",Discovery Science US
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/138897
 #EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" tvg-logo="" group-title="Documentaries",Discovery Science EU
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71170
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" tvg-logo="" group-title="Documentaries",Discovery Science UK
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/97173
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" tvg-logo="" group-title="Documentaries",Discovery Science US
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/138897
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science" tvg-logo="" group-title="Documentaries",Discovery Science BR
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/99315
 #EXTINF:-1 tvg-id="DiscoveryFamilyAfrica.us" tvg-name="Discovery Family" tvg-logo="" group-title="Documentaries",Discovery Family
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96307
 #EXTINF:-1 tvg-id="DiscoveryFamilyAfrica.us" tvg-name="Discovery Family" tvg-logo="" group-title="Documentaries",Discovery Family
