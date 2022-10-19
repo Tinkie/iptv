@@ -141,6 +141,12 @@ https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SBT.png" tvg-id="SBT [Brazil]",SBT
 http://flixgran.xyz:8080/888888/888888/1685
 
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Discovery Kids",Discovery Kids SD
+http://ssvrv.xyz:80/87165110/39413705/180128
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Discovery Kids",Discovery Kids HD
+http://ssvrv.xyz:80/87165110/39413705/180131
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Discovery Kids",Discovery Kids FHD
+http://ssvrv.xyz:80/87165110/39413705/180133
 #EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Discovery Kids",Discovery Kids
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/99369
 
