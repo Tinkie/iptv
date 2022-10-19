@@ -2,11 +2,21 @@
 # Desportivos_World.m3u8
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-name="PFC",PFC
+http://395825980999307765.niceapy.xyz:80/play/1975/1975/307765.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-name="PFC",PFC HD
+http://395825980999307764.niceapy.xyz:80/play/1975/1975/307764.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-name="PFC",PFC
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96940
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-name="PFC",PFC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87431.ts
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV.br" tvg-name="SporTV",SporTV SD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
+http://395825980999327093.niceapy.xyz:80/play/1975/1975/327093.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV.br" tvg-name="SporTV",SporTV HD
+http://395825980999327092.niceapy.xyz:80/play/1975/1975/327092.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV.br" tvg-name="SporTV",SporTV FHD
+http://395825980999327568.niceapy.xyz:80/play/1975/1975/327568.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
 http://ssvrv.xyz:80/87165110/39413705/179679
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV.br" tvg-name="SporTV",SporTV HD
 http://ssvrv.xyz:80/87165110/39413705/179682
@@ -29,7 +39,13 @@ http://top.streancdn.fun:80/0987654321/1234567890/2163212
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
 http://top.ppvstream.fun:80/0987654321/1234567890/2163196
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2 SD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
+http://395825980999327567.niceapy.xyz:80/play/1975/1975/327567.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2 HD
+http://395825980999328588.niceapy.xyz:80/play/1975/1975/328588.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2 FHD
+http://395825980999327431.niceapy.xyz:80/play/1975/1975/327431.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
 http://ssvrv.xyz:80/87165110/39413705/179687
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2 HD
 http://ssvrv.xyz:80/87165110/39413705/179688
@@ -52,7 +68,13 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
 http://top.ppvstream.fun:80/0987654321/1234567890/2163190
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV3.br" tvg-name="SporTV 3",SporTV 3 SD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV3.br" tvg-name="SporTV 3",SporTV 3
+http://395825980999326867.niceapy.xyz:80/play/1975/1975/326867.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV3.br" tvg-name="SporTV 3",SporTV 3 HD
+http://395825980999326704.niceapy.xyz:80/play/1975/1975/326704.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV3.br" tvg-name="SporTV 3",SporTV 3 FHD
+http://395825980999325218.niceapy.xyz:80/play/1975/1975/325218.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV3.br" tvg-name="SporTV 3",SporTV 3
 http://ssvrv.xyz:80/87165110/39413705/179691
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV3.br" tvg-name="SporTV 3",SporTV 3 HD
 http://ssvrv.xyz:80/87165110/39413705/179694
