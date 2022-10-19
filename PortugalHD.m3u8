@@ -72,8 +72,16 @@ http://flixgran.xyz:8080/888888/888888/414756
 #EXTINF:-1 tvg-id="" tvg-name="Nasa" tvg-logo="" group-title="Documentaries",Nasa
 http://flixgran.xyz:8080/888888/888888/414871
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Panda FHD" tvg-logo="http://flixgran.xyz:8080/images/acf5b5a65ab56cdda9ea43dfa70f2c46.png" group-title="Portugal",Panda FHD
+http://flixgran.xyz:8080/888888/888888/414740
+#EXTINF:-1 tvg-id="" tvg-name="PANDA HD" tvg-logo="http://flixgran.xyz:8080/images/582ba55eb08260bf08fe9d0e30f5bcb0.png" group-title="Portugal",PANDA HD
+http://flixgran.xyz:8080/888888/888888/415051
 #EXTINF:-1 tvg-id="" tvg-name="Canal Panda" tvg-logo="http://flixgran.xyz:8080/images/acf5b5a65ab56cdda9ea43dfa70f2c46.png" group-title="Portugal",Canal Panda
 http://flixgran.xyz:8080/888888/888888/414739
+
+#EXTINF:-1 tvg-id="" tvg-name="Panda Kids" tvg-logo="http://flixgran.xyz:8080/images/af449a789aabf7f5126e42644375fa9d.png" group-title="Portugal",Canal Panda Kids
+http://flixgran.xyz:8080/888888/888888/414741
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal Q" tvg-logo="http://flixgran.xyz:8080/images/45ed6f3a5be58c9231e7c5ab14fab51f.png" group-title="Portugal",Canal Q
 http://flixgran.xyz:8080/888888/888888/414887
@@ -217,110 +225,152 @@ http://flixgran.xyz:8080/888888/888888/414909
 #EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="http://flixgran.xyz:8080/images/8f805c81700b506d91267dc3cd4782be.png" group-title="Portugal",Food Network
 http://flixgran.xyz:8080/888888/888888/414870
 
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX FHD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOX.png" group-title="Movies and Series",FOX FHD
+http://flixgran.xyz:8080/888888/888888/415082
+#EXTINF:-1 tvg-id="" tvg-name="FOX FHD" tvg-logo="http://flixgran.xyz:8080/images/fd8a52ef86c0eccd62ac11bc84ab70c4.png" group-title="Movies and Series",FOX FHD
+http://flixgran.xyz:8080/888888/888888/414834
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://flixgran.xyz:8080/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="Movies and Series",FOX
 http://flixgran.xyz:8080/888888/888888/414833
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX CRIME FULHD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOXCRIME.png" group-title="Movies and Series",FOX CRIME FULHD
+http://flixgran.xyz:8080/888888/888888/415083
+#EXTINF:-1 tvg-id="" tvg-name="FOX CRIME FHD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOXCRIME.png" group-title="Movies and Series",FOX CRIME FHD
+http://flixgran.xyz:8080/888888/888888/414838
+#EXTINF:-1 tvg-id="" tvg-name="Fox Crime" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOXCRIME.png" group-title="Movies and Series",Fox Crime
+http://flixgran.xyz:8080/888888/888888/414837
+
 #EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY" tvg-logo="http://flixgran.xyz:8080/images/f48d84c70da0625916132d6c3a90d889.png" group-title="Movies and Series",FOX COMEDY
 http://flixgran.xyz:8080/888888/888888/414839
 #EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY FHD" tvg-logo="http://flixgran.xyz:8080/images/7e3e53b1f102aa7f9f315ae1e9c92abf.png" group-title="Movies and Series",FOX COMEDY FHD
 http://flixgran.xyz:8080/888888/888888/414840
+#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY HD" tvg-logo="http://flixgran.xyz:8080/images/7e3e53b1f102aa7f9f315ae1e9c92abf.png" group-title="Movies and Series",FOX COMEDY HD
+http://flixgran.xyz:8080/888888/888888/415085
 
-#EXTINF:-1 tvg-id="" tvg-name="Fox Crime" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOXCRIME.png" group-title="Movies and Series",Fox Crime
-http://flixgran.xyz:8080/888888/888888/414837
-#EXTINF:-1 tvg-id="" tvg-name="FOX CRIME FHD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOXCRIME.png" group-title="Movies and Series",FOX CRIME FHD
-http://flixgran.xyz:8080/888888/888888/414838
-
-#EXTINF:-1 tvg-id="" tvg-name="FOX FHD" tvg-logo="http://flixgran.xyz:8080/images/fd8a52ef86c0eccd62ac11bc84ab70c4.png" group-title="Movies and Series",FOX FHD
-http://flixgran.xyz:8080/888888/888888/414834
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="http://flixgran.xyz:8080/images/2ba18f0a3b9f4362849ea02cbee3801b.png" group-title="Movies and Series",FOX LIFE
-http://flixgran.xyz:8080/888888/888888/414841
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE FHD" tvg-logo="http://flixgran.xyz:8080/images/2ba18f0a3b9f4362849ea02cbee3801b.png" group-title="Movies and Series",FOX LIFE FHD
 http://flixgran.xyz:8080/888888/888888/414842
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="http://flixgran.xyz:8080/images/2ba18f0a3b9f4362849ea02cbee3801b.png" group-title="Movies and Series",FOX LIFE HD
+http://flixgran.xyz:8080/888888/888888/415084
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="http://flixgran.xyz:8080/images/2ba18f0a3b9f4362849ea02cbee3801b.png" group-title="Movies and Series",FOX LIFE
+http://flixgran.xyz:8080/888888/888888/414841
 
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="http://flixgran.xyz:8080/images/f6a25a2e1b7668a86522ce6aeb02bf15.png" group-title="Movies and Series",FOX MOVIES
-http://flixgran.xyz:8080/888888/888888/414835
 #EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES FHD" tvg-logo="http://flixgran.xyz:8080/images/f6a25a2e1b7668a86522ce6aeb02bf15.png" group-title="Movies and Series",FOX MOVIES FHD
 http://flixgran.xyz:8080/888888/888888/414836
+#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES FHD" tvg-logo="http://flixgran.xyz:8080/images/f6a25a2e1b7668a86522ce6aeb02bf15.png" group-title="Movies and Series",FOX MOVIES FHD
+http://flixgran.xyz:8080/888888/888888/415079
+#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="http://flixgran.xyz:8080/images/f6a25a2e1b7668a86522ce6aeb02bf15.png" group-title="Movies and Series",FOX MOVIES
+http://flixgran.xyz:8080/888888/888888/414835
 
 #EXTINF:-1 tvg-id="" tvg-name="FTV" tvg-logo="http://flixgran.xyz:8080/images/a9c33cbd49dec669033784f65389f8dd.png" group-title="Portugal",FTV
 http://flixgran.xyz:8080/888888/888888/414923
-#EXTINF:-1 tvg-id="" tvg-name="FUEL TV" tvg-logo="http://flixgran.xyz:8080/images/4b9a0fee581593ffb9c6290baa29cc29.png" group-title="Deportivos Int.",FUEL TV
-http://flixgran.xyz:8080/888888/888888/414804
+
 #EXTINF:-1 tvg-id="" tvg-name="Fuel TV FHD" tvg-logo="http://flixgran.xyz:8080/images/4b9a0fee581593ffb9c6290baa29cc29.png" group-title="Deportivos Int.",Fuel TV FHD
 http://flixgran.xyz:8080/888888/888888/414803
+#EXTINF:-1 tvg-id="" tvg-name="FUEL TV HD" tvg-logo="http://flixgran.xyz:8080/images/4b9a0fee581593ffb9c6290baa29cc29.png" group-title="Deportivos Int.",FUEL TV HD
+http://flixgran.xyz:8080/888888/888888/415071
+#EXTINF:-1 tvg-id="" tvg-name="FUEL TV" tvg-logo="http://flixgran.xyz:8080/images/4b9a0fee581593ffb9c6290baa29cc29.png" group-title="Deportivos Int.",FUEL TV
+http://flixgran.xyz:8080/888888/888888/414804
+
 #EXTINF:-1 tvg-id="" tvg-name="GAMETOON" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2020/04/GameToon-HD-black.png?w=640" group-title="Portugal",GAMETOON
 http://flixgran.xyz:8080/888888/888888/414916
+
 #EXTINF:-1 tvg-id="" tvg-name="Ginx" tvg-logo="http://flixgran.xyz:8080/images/4f35dd301968a703f87c44ca8bb235de.png" group-title="Portugal",Ginx
 http://flixgran.xyz:8080/888888/888888/414805
 
+#EXTINF:-1 tvg-id="" tvg-name="História FHD" tvg-logo="http://flixgran.xyz:8080/images/5f6a7cfde29b506a5cd39c9a9ce1cf45.png" group-title="Documentaries",Histðria FHD
+http://flixgran.xyz:8080/888888/888888/414865
+#EXTINF:-1 tvg-id="" tvg-name="HISTÓRIA HD" tvg-logo="http://flixgran.xyz:8080/images/ef5ef0a75c3e6410ed4828e61eaf3ebb.png" group-title="Documentaries",HISTÓRIA HD
+http://flixgran.xyz:8080/888888/888888/415097
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="http://flixgran.xyz:8080/images/5f6a7cfde29b506a5cd39c9a9ce1cf45.png" group-title="Documentaries",HISTORIA
 http://flixgran.xyz:8080/888888/888888/414864
 
-#EXTINF:-1 tvg-id="" tvg-name="História FHD" tvg-logo="http://flixgran.xyz:8080/images/5f6a7cfde29b506a5cd39c9a9ce1cf45.png" group-title="Documentaries",Histðria FHD
-http://flixgran.xyz:8080/888888/888888/414865
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/HOLLYWOOD.png" group-title="Movies and Series",HOLLYWOOD
-http://flixgran.xyz:8080/888888/888888/414825
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD FULHD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/HOLLYWOOD.png" group-title="Movies and Series",HOLLYWOOD FULHD
+http://flixgran.xyz:8080/888888/888888/415076
 #EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD FHD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/HOLLYWOOD.png" group-title="Movies and Series",HOLLYWOOD FHD
 http://flixgran.xyz:8080/888888/888888/414826
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/HOLLYWOOD.png" group-title="Movies and Series",HOLLYWOOD
+http://flixgran.xyz:8080/888888/888888/414825
 
 #EXTINF:-1 tvg-id="" tvg-name="KURIAKOS CINE" tvg-logo="http://flixgran.xyz:8080/images/55a52459090aa3523fa5f7735e065cc8.png" group-title="Movies and Series",KURIAKOS CINE
 http://flixgran.xyz:8080/888888/888888/414952
+
 #EXTINF:-1 tvg-id="" tvg-name="Kuriakos TV" tvg-logo="http://flixgran.xyz:8080/images/01fc75a2cbf7289031e13ea2e89b1c80.png" group-title="Brazil",Kuriakos TV
 http://flixgran.xyz:8080/888888/888888/414953
+
 #EXTINF:-1 tvg-id="" tvg-name="Localvisão TV HD" tvg-logo="http://flixgran.xyz:8080/images/ae229405f2af16d914aaee655ef1d94e.png" group-title="Portugal",Localvisão TV HD
 http://flixgran.xyz:8080/888888/888888/414882
 #EXTINF:-1 tvg-id="" tvg-name="Lolly Kids HD" tvg-logo="http://flixgran.xyz:8080/images/e09cfeea0313d5539d577965a89b6a36.png" group-title="Portugal",Lolly Kids HD
 http://flixgran.xyz:8080/888888/888888/414754
-
-#EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="" group-title="CANAIS | PORTUGAL",MAX
-http://flixgran.xyz:8080/888888/888888/414935
 
 #EXTINF:-1 tvg-id="" tvg-name="MOTORVISION" tvg-logo="http://flixgran.xyz:8080/images/fa80c67d413732abb5d4a2e53184f1c8.png" group-title="Deportivos Int.",MOTORVISION
 http://flixgran.xyz:8080/888888/888888/414801
 #EXTINF:-1 tvg-id="" tvg-name="Motorvision FHD" tvg-logo="http://flixgran.xyz:8080/images/8d1f856f82e29320659638eba0c221a0.png" group-title="Deportivos Int.",Motorvision FHD
 http://flixgran.xyz:8080/888888/888888/414802
 
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="http://flixgran.xyz:8080/images/9d9876b31452d5549f648c4be878dbc2.png" group-title="Documentaries",National Geographic
-http://flixgran.xyz:8080/888888/888888/414858
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="http://flixgran.xyz:8080/images/9d9876b31452d5549f648c4be878dbc2.png" group-title="Documentaries",NATIONAL GEOGRAPHIC FHD
 http://flixgran.xyz:8080/888888/888888/414857
 
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="http://flixgran.xyz:8080/images/980f87475b4915871495796d5d600b37.png" group-title="Documentaries",NATIONAL GEOGRAPHIC WILD
-http://flixgran.xyz:8080/888888/888888/414859
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEPGRAPHIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.pn" group-title="Documentaries",NATIONAL GEPGRAPHIC HD
+http://flixgran.xyz:8080/888888/888888/415090
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="http://flixgran.xyz:8080/images/9d9876b31452d5549f648c4be878dbc2.png" group-title="Documentaries",National Geographic
+http://flixgran.xyz:8080/888888/888888/414858
+
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://flixgran.xyz:8080/images/980f87475b4915871495796d5d600b37.png" group-title="Documentaries",NATIONAL GEOGRAPHIC WILD HD
 http://flixgran.xyz:8080/888888/888888/414860
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://flixgran.xyz:8080/images/e3b7411ae20ca23d6a1335fd9e18064f.png" group-title="Documentaries",NATIONAL GEOGRAPHIC WILD HD
+http://flixgran.xyz:8080/888888/888888/415089
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="http://flixgran.xyz:8080/images/980f87475b4915871495796d5d600b37.png" group-title="Documentaries",NATIONAL GEOGRAPHIC WILD
+http://flixgran.xyz:8080/888888/888888/414859
 
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="http://flixgran.xyz:8080/images/b348d9c5ab3b88bbc12ca53e0eb279f4.png" group-title="Portugal",NICK JR
 http://flixgran.xyz:8080/888888/888888/414748
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="http://flixgran.xyz:8080/images/50afeab1fbd0ab49abe920ebd656c550.png" group-title="Portugal",NICKELODEON
 http://flixgran.xyz:8080/888888/888888/414747
 
-#EXTINF:-1 tvg-id="" tvg-name="NOS STUDIOS" tvg-logo="http://flixgran.xyz:8080/images/5c980dfe4ae1aad08c6665b290b2035e.png" group-title="Movies and Series",NOS STUDIOS
-http://flixgran.xyz:8080/888888/888888/414823
 #EXTINF:-1 tvg-id="" tvg-name="NOS STUDIOS FHD" tvg-logo="http://flixgran.xyz:8080/images/9906af759b37e62a40a9380a29d2a3c5.png" group-title="Movies and Series",NOS STUDIOS FHD
 http://flixgran.xyz:8080/888888/888888/414824
-#EXTINF:-1 tvg-id="" tvg-name="ODISSEIA" tvg-logo="http://flixgran.xyz:8080/images/c64fef2a854fe13c36cfc61c1c0e42a4.png" group-title="Documentaries",ODISSEIA
-http://flixgran.xyz:8080/888888/888888/414866
+#EXTINF:-1 tvg-id="" tvg-name="NOS STUDIO HD" tvg-logo="http://flixgran.xyz:8080/images/9906af759b37e62a40a9380a29d2a3c5.png" group-title="Movies and Series",NOS STUDIO HD
+http://flixgran.xyz:8080/888888/888888/415077
+#EXTINF:-1 tvg-id="" tvg-name="NOS STUDIOS" tvg-logo="http://flixgran.xyz:8080/images/5c980dfe4ae1aad08c6665b290b2035e.png" group-title="Movies and Series",NOS STUDIOS
+http://flixgran.xyz:8080/888888/888888/414823
+
 #EXTINF:-1 tvg-id="" tvg-name="Odisseia FHD" tvg-logo="http://flixgran.xyz:8080/images/c64fef2a854fe13c36cfc61c1c0e42a4.png" group-title="Documentaries",Odisseia FHD
 http://flixgran.xyz:8080/888888/888888/414867
+#EXTINF:-1 tvg-id="" tvg-name="ODISSEIA HD" tvg-logo="http://flixgran.xyz:8080/images/c64fef2a854fe13c36cfc61c1c0e42a4.png" group-title="Documentaries",ODISSEIA HD
+http://flixgran.xyz:8080/888888/888888/415091
+#EXTINF:-1 tvg-id="" tvg-name="ODISSEIA" tvg-logo="http://flixgran.xyz:8080/images/c64fef2a854fe13c36cfc61c1c0e42a4.png" group-title="Documentaries",ODISSEIA
+http://flixgran.xyz:8080/888888/888888/414866
+
 #EXTINF:-1 tvg-id="" tvg-name="OPTO" tvg-logo="http://ytinifni.club:8080/images/a94b41153700d53ae8a41a66e0d7fe65.png" group-title="Movies and Series",OPTO
 http://flixgran.xyz:8080/888888/888888/414884
-#EXTINF:-1 tvg-id="" tvg-name="Panda FHD" tvg-logo="http://flixgran.xyz:8080/images/acf5b5a65ab56cdda9ea43dfa70f2c46.png" group-title="Portugal",Panda FHD
-http://flixgran.xyz:8080/888888/888888/414740
 
 #EXTINF:-1 tvg-id="" tvg-name="PFC" tvg-logo="http://flixgran.xyz:8080/images/1e8d574c1b1205dc2b6bfb9700720ef9.png" group-title="Deportivos",PFC
 http://flixgran.xyz:8080/888888/888888/414792
 
-#EXTINF:-1 tvg-id="" tvg-name="PORTO Canal" tvg-logo="http://flixgran.xyz:8080/images/d707ec075aae0b17f32dab0a78506a96.png" group-title="Deportivos",PORTO Canal
-http://flixgran.xyz:8080/888888/888888/414727
 #EXTINF:-1 tvg-id="" tvg-name="Porto Canal FHD" tvg-logo="http://flixgran.xyz:8080/images/96a5c2a80bc836b70cf8bb274b8c5782.png" group-title="Deportivos",Porto Canal FHD
 http://flixgran.xyz:8080/888888/888888/414728
+#EXTINF:-1 tvg-id="" tvg-name="PORTO Canal HD" tvg-logo="http://flixgran.xyz:8080/images/96a5c2a80bc836b70cf8bb274b8c5782.png" group-title="Deportivos",PORTO Canal HD
+http://flixgran.xyz:8080/888888/888888/415041
+#EXTINF:-1 tvg-id="" tvg-name="PORTO Canal" tvg-logo="http://flixgran.xyz:8080/images/d707ec075aae0b17f32dab0a78506a96.png" group-title="Deportivos",PORTO Canal
+http://flixgran.xyz:8080/888888/888888/414727
 
 #EXTINF:-1 tvg-id="" tvg-name="Rally Mania" tvg-logo="http://flixgran.xyz:8080/images/b445dd58f5aac9362232f7c4bed12033.jpg" group-title="Deportivos Int.",Rally Mania
 http://flixgran.xyz:8080/888888/888888/414808
+
+#EXTINF:-1 tvg-id="" tvg-name="TV RECORD HD" tvg-logo="http://flixgran.xyz:8080/images/7675b713c2212d1c162c96ddce3d4750.png" group-title="Brazil",TV RECORD HD
+http://flixgran.xyz:8080/888888/888888/415048
+
 #EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="http://flixgran.xyz:8080/images/c223593c3537f6160d10aaa4d9a06fcc.png" group-title="Brazi Notícias",Record News
 http://flixgran.xyz:8080/888888/888888/414912
+
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull TV FHD" tvg-logo="http://flixgran.xyz:8080/images/c5dec235c944f6f8fff4c39f27d0df91.png" group-title="Deportivos",Red Bull TV FHD
 http://flixgran.xyz:8080/888888/888888/414809
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1" tvg-logo="http://flixgran.xyz:8080/images/320895dfca2cccfc46d910f1145b7769.png" group-title="Portugal",RTP 1
 http://flixgran.xyz:8080/888888/888888/414711
@@ -467,8 +517,6 @@ http://flixgran.xyz:8080/888888/888888/414813
 #EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="" group-title="CANAIS | PORTUGAL",ZEE TV
 http://flixgran.xyz:8080/888888/888888/414936
 
-#EXTINF:-1 tvg-id="" tvg-name="Panda Kids" tvg-logo="http://flixgran.xyz:8080/images/af449a789aabf7f5126e42644375fa9d.png" group-title="Portugal",Panda Kids
-http://flixgran.xyz:8080/888888/888888/414741
 #EXTINF:-1 tvg-id="" tvg-name="24 KITCHEN HD" tvg-logo="http://flixgran.xyz:8080/images/d5caebabae7f8fe9d14cd82d9769cb08.png" group-title="Portugal",24 KITCHEN HD
 http://flixgran.xyz:8080/888888/888888/415093
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://flixgran.xyz:8080/images/f96383dfd174c5c396b9826b69f5e677.png" group-title="Movies and Series",AMC HD
@@ -476,37 +524,13 @@ http://flixgran.xyz:8080/888888/888888/415081
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY HD" tvg-logo="http://flixgran.xyz:8080/images/7e3e53b1f102aa7f9f315ae1e9c92abf.png" group-title="Movies and Series",FOX COMEDY HD
-http://flixgran.xyz:8080/888888/888888/415085
-#EXTINF:-1 tvg-id="" tvg-name="FOX CRIME FULHD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOXCRIME.png" group-title="Movies and Series",FOX CRIME FULHD
-http://flixgran.xyz:8080/888888/888888/415083
-#EXTINF:-1 tvg-id="" tvg-name="FOX FHD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/FOX.png" group-title="Movies and Series",FOX FHD
-http://flixgran.xyz:8080/888888/888888/415082
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="http://flixgran.xyz:8080/images/2ba18f0a3b9f4362849ea02cbee3801b.png" group-title="Movies and Series",FOX LIFE HD
-http://flixgran.xyz:8080/888888/888888/415084
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES FHD" tvg-logo="http://flixgran.xyz:8080/images/f6a25a2e1b7668a86522ce6aeb02bf15.png" group-title="Movies and Series",FOX MOVIES FHD
-http://flixgran.xyz:8080/888888/888888/415079
-#EXTINF:-1 tvg-id="" tvg-name="FUEL TV HD" tvg-logo="http://flixgran.xyz:8080/images/4b9a0fee581593ffb9c6290baa29cc29.png" group-title="Deportivos Int.",FUEL TV HD
-http://flixgran.xyz:8080/888888/888888/415071
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO HD" tvg-logo="http://flixgran.xyz:8080/images/4822f410294f76aa3d37ed55b76d06b8.png" group-title="Brazil",GLOBO HD
 http://flixgran.xyz:8080/888888/888888/415049
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NOW HD" tvg-logo="http://flixgran.xyz:8080/images/cff86080e01a67cfe5984f11c980484e.png" group-title="Brazil",Globo News HD
 http://flixgran.xyz:8080/888888/888888/415050
-#EXTINF:-1 tvg-id="" tvg-name="HISTÓRIA HD" tvg-logo="http://flixgran.xyz:8080/images/ef5ef0a75c3e6410ed4828e61eaf3ebb.png" group-title="Documentaries",HISTÓRIA HD
-http://flixgran.xyz:8080/888888/888888/415097
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD FULHD" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/HOLLYWOOD.png" group-title="Movies and Series",HOLLYWOOD FULHD
-http://flixgran.xyz:8080/888888/888888/415076
 
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://flixgran.xyz:8080/images/e3b7411ae20ca23d6a1335fd9e18064f.png" group-title="Documentaries",NATIONAL GEOGRAPHIC WILD HD
-http://flixgran.xyz:8080/888888/888888/415089
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEPGRAPHIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.pn" group-title="Documentaries",NATIONAL GEPGRAPHIC HD
-http://flixgran.xyz:8080/888888/888888/415090
-#EXTINF:-1 tvg-id="" tvg-name="NOS STUDIO HD" tvg-logo="http://flixgran.xyz:8080/images/9906af759b37e62a40a9380a29d2a3c5.png" group-title="Movies and Series",NOS STUDIO HD
-http://flixgran.xyz:8080/888888/888888/415077
-#EXTINF:-1 tvg-id="" tvg-name="ODISSEIA HD" tvg-logo="http://flixgran.xyz:8080/images/c64fef2a854fe13c36cfc61c1c0e42a4.png" group-title="Documentaries",ODISSEIA HD
-http://flixgran.xyz:8080/888888/888888/415091
-#EXTINF:-1 tvg-id="" tvg-name="PORTO Canal HD" tvg-logo="http://flixgran.xyz:8080/images/96a5c2a80bc836b70cf8bb274b8c5782.png" group-title="Deportivos",PORTO Canal HD
-http://flixgran.xyz:8080/888888/888888/415041
+
+
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1 FULHD" tvg-logo="http://flixgran.xyz:8080/images/320895dfca2cccfc46d910f1145b7769.png" group-title="Portugal",RTP 1 FULHD
 http://flixgran.xyz:8080/888888/888888/415032
 #EXTINF:-1 tvg-id="" tvg-name="RTP 2 HD" tvg-logo="http://flixgran.xyz:8080/images/0f9cf647af77e0b76497a98fa7fedaa4.png" group-title="Portugal",RTP 2 HD
@@ -543,11 +567,8 @@ http://flixgran.xyz:8080/888888/888888/415060
 http://flixgran.xyz:8080/888888/888888/415068
 #EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="http://flixgran.xyz:8080/images/23f7adcffda04234527b4461310e401b.png" group-title="Movies and Series",SYFY HD
 http://flixgran.xyz:8080/888888/888888/415088
-#EXTINF:-1 tvg-id="" tvg-name="TV RECORD HD" tvg-logo="http://flixgran.xyz:8080/images/7675b713c2212d1c162c96ddce3d4750.png" group-title="Brazil",TV RECORD HD
-http://flixgran.xyz:8080/888888/888888/415048
 #EXTINF:-1 tvg-id="" tvg-name="TVI FICÇAO HD" tvg-logo="http://flixgran.xyz:8080/images/dffc5112db1884a89b40ffb6d28f9dae.png" group-title="Portugal",TVI FICÇAO HD
 http://flixgran.xyz:8080/888888/888888/415046
 #EXTINF:-1 tvg-id="" tvg-name="TVI FULHD" tvg-logo="http://flixgran.xyz:8080/images/c452921331e3bc580fe768285811bce9.png" group-title="Portugal",TVI FULHD
 http://flixgran.xyz:8080/888888/888888/415035
-#EXTINF:-1 tvg-id="" tvg-name="PANDA HD" tvg-logo="http://flixgran.xyz:8080/images/582ba55eb08260bf08fe9d0e30f5bcb0.png" group-title="Portugal",PANDA HD
-http://flixgran.xyz:8080/888888/888888/415051
+
