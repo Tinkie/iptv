@@ -218,6 +218,15 @@ http://flixgran.xyz:8080/888888/888888/414927
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fashion-TV.png" tvg-id="fashiontvhd.tv.vodafone.pt" tvg-name="Fashion TV",Fashion TV
+http://flixgran.xyz:8080/888888/888888/414932
+
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="FTV",FTV
+http://flixgran.xyz:8080/888888/888888/414923
+
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="FashionBox",FashionBox
+http://flixgran.xyz:8080/888888/888888/414933
+
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HD-Fashion-&-Lifestyle-TV.png" tvg-id="hd-fashion",HD Fashion & Lifestyle TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls

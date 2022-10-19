@@ -62,7 +62,7 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/138850
 #EXTINF:-1 group-title="Int. News" tvg-logo="" tvg-id="" tvg-name="Bloomberg",Bloomberg TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87465.ts
 
-#EXTINF:-1 group-title="Int. News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png" tvg-id="BLOOM.meo.pt",Bloomberg TV
+#EXTINF:-1 group-title="Int. News" tvg-logo="" tvg-id="" tvg-name="Bloomberg",Bloomberg TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
@@ -90,8 +90,8 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/138885
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87464.ts
 #EXTINF:-1 group-title="Int. News" tvg-logo="" tvg-id="" tvg-name="CNN",CNN
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87464.ts
 
 #EXTINF:-1 group-title="Int. News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png" tvg-id="cnn.tv.vodafone.pt",CNN
 #KODIPROP:inputstream=inputstream.adaptive
@@ -103,6 +103,9 @@ http://flixgran.xyz:8080/888888/888888/352920
 
 #EXTINF:-1 group-title="Int. News" tvg-logo="" tvg-id="" tvg-name="Fox News",Fox News
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/138917
+
+#EXTINF:-1 group-title="Int. News" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/SKYNEWS.png" tvg-id="" tvg-name="Sky News",Sky News
+http://flixgran.xyz:8080/888888/888888/414899
 
 #EXTINF:-1 group-title="Int. News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png" tvg-id="TELESUR.meo.pt",teleSUR English
 #KODIPROP:inputstream=inputstream.adaptive
