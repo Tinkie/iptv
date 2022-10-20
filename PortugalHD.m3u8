@@ -263,10 +263,10 @@ http://flixgran.xyz:8080/888888/888888/414916
 #EXTINF:-1 group-title="Portugal" tvg-logo="http://flixgran.xyz:8080/images/4f35dd301968a703f87c44ca8bb235de.png" tvg-id="" tvg-name="Ginx",Ginx
 http://flixgran.xyz:8080/888888/888888/414805
 
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Rede Globo",Globo
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="RedeGlobo.br" tvg-name="Globo",Globo
 http://flixgran.xyz:8080/888888/888888/415049
 
-#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="" tvg-id="" tvg-name="Globo News",Globo News
+#EXTINF:-1 group-title="Brazil News" tvg-logo="" tvg-id="GloboNews.br" tvg-name="Globo News",Globo News
 http://flixgran.xyz:8080/888888/888888/415050
 
 #EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="HistoriaPortugal.pt" tvg-name="Canal História",História
@@ -286,7 +286,7 @@ http://flixgran.xyz:8080/888888/888888/414825
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="http://flixgran.xyz:8080/images/55a52459090aa3523fa5f7735e065cc8.png" tvg-id="" tvg-name="Kuriakos Cine",Kuriakos Cine
 http://flixgran.xyz:8080/888888/888888/414952
 
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Kuriakos TV",Kuriakos TV
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV",Kuriakos TV
 http://flixgran.xyz:8080/888888/888888/414953
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="http://flixgran.xyz:8080/images/ae229405f2af16d914aaee655ef1d94e.png" tvg-id="" tvg-name="Localvisão TV",Localvisão TV
@@ -349,16 +349,16 @@ http://flixgran.xyz:8080/888888/888888/414727
 #EXTINF:-1 group-title="Deportivos Int." tvg-logo="http://flixgran.xyz:8080/images/b445dd58f5aac9362232f7c4bed12033.jpg" tvg-id="" tvg-name="Rally Mania",Rally Mania
 http://flixgran.xyz:8080/888888/888888/414808
 
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Record TV",Record TV
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="RecordTV.br" tvg-name="Record TV",Record TV
 http://flixgran.xyz:8080/888888/888888/415048
 
-#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="" tvg-id="record.news.br" tvg-name="Record News",Record News
+#EXTINF:-1 group-title="Brazil News" tvg-logo="" tvg-id="RecordNews.br" tvg-name="Record News",Record News
 http://flixgran.xyz:8080/888888/888888/414912
-#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="" tvg-id="record.news.br" tvg-name="Record News",Record News
+#EXTINF:-1 group-title="Brazil News" tvg-logo="" tvg-id="RecordNews.br" tvg-name="Record News",Record News
 http://flixgran.xyz:8080/888888/888888/1684
-#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="" tvg-id="record.news.br" tvg-name="Record News",Record News
+#EXTINF:-1 group-title="Brazil News" tvg-logo="" tvg-id="RecordNews.br" tvg-name="Record News",Record News
 http://flixgran.xyz:8080/888888/888888/1589
-#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="" tvg-id="record.news.br" tvg-name="Record News",Record News
+#EXTINF:-1 group-title="Brazil News" tvg-logo="" tvg-id="RecordNews.br" tvg-name="Record News",Record News
 http://flixgran.xyz:8080/888888/888888/1475
 
 #EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://logodix.com/logo/1353032.png" tvg-id="redbulltv.pt" tvg-name="RedBull TV",RedBull TV EN
