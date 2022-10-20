@@ -335,6 +335,9 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87333.ts
 #EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://i.imgur.com/X3mV3fA.png" tvg-id="" tvg-name="MotorVision",MotorVision
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87432.ts
 
+#EXTINF:-1 group-title="Deportivos Int." tvg-shift="1" tvg-logo="" tvg-id="SuperSportMotorSport.za" tvg-name="SuperSport MotorSport",SuperSport MotorSport
+http://395825980999325115.niceapy.xyz:80/play/1975/1975/325115.ts
+
 #EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="ZiggoSportRacing.nl" tvg-name="Ziggo Sport Racing",Ziggo Sport Racing
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/3925
 
@@ -402,11 +405,17 @@ https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/index.m3u8
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/index.m3u8
 
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportBlitz.za" tvg-name="SuperSport Blitz",SuperSport Blitz
+http://395825980999325108.niceapy.xyz:80/play/1975/1975/325108.ts
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportBlitz.za" tvg-name="SuperSport Blitz",SuperSport Blitz
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2707.ts
 
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football",SuperSport Football
+http://395825980999328352.niceapy.xyz:80/play/1975/1975/328352.ts
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football",SuperSport Football
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2704.ts
 
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga",SuperSport LaLiga
+http://395825980999325113.niceapy.xyz:80/play/1975/1975/325113.ts
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga",SuperSport LaLiga
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2703.ts
 
@@ -414,65 +423,50 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2703.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2702.ts
 
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL",SuperSport PSL
+http://395825980999325117.niceapy.xyz:80/play/1975/1975/325117.ts
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL",SuperSport PSL
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2701.ts
 
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1",SuperSport Variety 1
+http://395825980999325120.niceapy.xyz:80/play/1975/1975/325120.ts
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1",SuperSport Variety 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2705.ts
 
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2",SuperSport Variety 2 HD
+http://395825980999328142.niceapy.xyz:80/play/1975/1975/328142.ts
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2",SuperSport Variety 2
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2706.ts
 
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3
+http://395825980999325122.niceapy.xyz:80/play/1975/1975/325122.ts
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3
+http://395825980999326371.niceapy.xyz:80/play/1975/1975/326371.ts
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2709.ts
 
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4",SuperSport Variety 4 HD
+http://395825980999325123.niceapy.xyz:80/play/1975/1975/325123.ts
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4",SuperSport Variety 4
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2708.ts
 
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Action",SuperSport Action
+http://395825980999325107.niceapy.xyz:80/play/1975/1975/325107.ts
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Action",SuperSport Action
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2710.ts
 
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SuperSportMaximo1.za" tvg-shift="1" tvg-name="SuperSport Maximo 1",SuperSport Maximo 1
+http://395825980999326937.niceapy.xyz:80/play/1975/1975/326937.ts
+
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand",SuperSport Grandstand
+http://395825980999328353.niceapy.xyz:80/play/1975/1975/328353.ts
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand",SuperSport Grandstand
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2700.ts
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SuperSportTennis.za" tvg-shift="1" tvg-name="SS Tennis Nigeria",SuperSport Tennis
-http://vipiptv101.com:80/gencosman/020919.cvf/130668
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SuperSportTennis.za" tvg-shift="1" tvg-name="SS Tennis Nigeria",SuperSport Tennis
-http://vipiptv101.com:80/gencosman/020919.cvf/130720
-
-
-
-#EXTINF:-1,ZA: SUPERSPORT ACTION
-http://395825980999325107.niceapy.xyz:80/play/1975/1975/325107.ts
-#EXTINF:-1,ZA: SUPERSPORT BLITZ
-http://395825980999325108.niceapy.xyz:80/play/1975/1975/325108.ts
-#EXTINF:-1,ZA: SUPERSPORT LALIGA
-http://395825980999325113.niceapy.xyz:80/play/1975/1975/325113.ts
-#EXTINF:-1,ZA: SUPERSPORT MOTORSPORT
-http://395825980999325115.niceapy.xyz:80/play/1975/1975/325115.ts
-#EXTINF:-1,ZA: SUPERSPORT PSL
-http://395825980999325117.niceapy.xyz:80/play/1975/1975/325117.ts
-#EXTINF:-1,ZA: SUPERSPORT TENNIS
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SuperSportTennis.za" tvg-shift="1" tvg-name="SuperSport Tennis",SuperSport Tennis
 http://395825980999325119.niceapy.xyz:80/play/1975/1975/325119.ts
-#EXTINF:-1,ZA SUPERSPORT TENNIS
-http://395825980999327827.niceapy.xyz:80/play/1975/1975/327827.ts
-#EXTINF:-1,ZA: SUPERSPORT VARIETY 1
-http://395825980999325120.niceapy.xyz:80/play/1975/1975/325120.ts
-#EXTINF:-1,ZA: SUPERSPORT VARIETY 2 HD
-http://395825980999328142.niceapy.xyz:80/play/1975/1975/328142.ts
-#EXTINF:-1,ZA: SUPERSPORT VARIETY 3
-http://395825980999325122.niceapy.xyz:80/play/1975/1975/325122.ts
-#EXTINF:-1,ZA SUPERSPORT VARIETY 3
-http://395825980999326371.niceapy.xyz:80/play/1975/1975/326371.ts
-#EXTINF:-1,ZA: SUPERSPORT VARIETY 4 HD
-http://395825980999325123.niceapy.xyz:80/play/1975/1975/325123.ts
-#EXTINF:-1,ZA: SUPERSPORT MAXIMO 1
-http://395825980999326937.niceapy.xyz:80/play/1975/1975/326937.ts
-#EXTINF:-1,ZA: SUPERSPORT FOOTBALL
-http://395825980999328352.niceapy.xyz:80/play/1975/1975/328352.ts
-#EXTINF:-1,ZA: SUPERSPORT GRANDSTAND
-http://395825980999328353.niceapy.xyz:80/play/1975/1975/328353.ts
 
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SuperSportTennis.za" tvg-shift="1" tvg-name="SuperSport Tennis",SuperSport Tennis
+http://395825980999327827.niceapy.xyz:80/play/1975/1975/327827.ts
 
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://www.logolynx.com/images/logolynx/fc/fc5dfa094e2a9cd5ee98aac69bd57b87.jpeg" tvg-id="tennischannel.us" tvg-name="Tennis Channel",Tennis Channel US
