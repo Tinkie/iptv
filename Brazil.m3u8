@@ -1,0 +1,152 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz"
+# Portugal.m3u8
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="http://flixgran.xyz:8080/images/3077acb4bceb16811d509f18b2f34a1b.jpg" tvg-id="off.br" tvg-name="OFF",Canal Off SD
+http://ssvrv.xyz:80/87165110/39413705/180246
+#EXTINF:-1 group-title="Brazil" tvg-logo="http://flixgran.xyz:8080/images/3077acb4bceb16811d509f18b2f34a1b.jpg" tvg-id="off.br" tvg-name="OFF",Canal Off HD
+http://ssvrv.xyz:80/87165110/39413705/180249
+#EXTINF:-1 group-title="Brazil" tvg-logo="http://flixgran.xyz:8080/images/3077acb4bceb16811d509f18b2f34a1b.jpg" tvg-id="off.br" tvg-name="OFF HD",Canal Off
+http://flixgran.xyz:8080/888888/888888/1581
+#EXTINF:-1 group-title="Brazil" tvg-logo="http://flixgran.xyz:8080/images/3077acb4bceb16811d509f18b2f34a1b.jpg" tvg-id="off.br" tvg-name="OFF SD",Canal Off
+http://flixgran.xyz:8080/888888/888888/1458
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Rede Globo",Globo
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87291.ts
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Rede Globo",Globo
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87313.ts
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Record TV",Record TV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87298.ts
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Record TV",Record TV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87331.ts
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Kuriakos TV",Kuriakos TV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87451.ts
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Kuriakos TV",Kuriakos TV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87381.ts
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Kuriakos Kids",Kuriakos Kids
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416396
+
+
+#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png" tvg-id="BLOOM.meo.pt",Bloomberg TV Brasil
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png" tvg-id="",CNN Brasil
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://187.13.81.148:8000/play/a09b
+
+#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png" tvg-id="",CNN Brasil SD
+http://ssvrv.xyz:80/87165110/39413705/180092
+#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png" tvg-id="",CNN Brasil HD
+http://ssvrv.xyz:80/87165110/39413705/180095
+#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png" tvg-id="",CNN Brasil FHD
+http://ssvrv.xyz:80/87165110/39413705/180097
+
+#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="" tvg-id="" tvg-name="Globo News",Globo News SD
+http://ssvrv.xyz:80/87165110/39413705/180098
+#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="" tvg-id="" tvg-name="Globo News",Globo News HD
+http://ssvrv.xyz:80/87165110/39413705/180101
+#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="" tvg-id="" tvg-name="Globo News",Globo News FHD
+http://ssvrv.xyz:80/87165110/39413705/180103
+#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="" tvg-id="" tvg-name="Globo News",Globo News
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87292.ts
+#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="" tvg-id="" tvg-name="Globo News",Globo News
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87314.ts
+
+#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="" tvg-id="record.news.br" tvg-name="Record News",Record News SD
+http://ssvrv.xyz:80/87165110/39413705/180104
+#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="" tvg-id="record.news.br" tvg-name="Record News",Record News HD
+http://ssvrv.xyz:80/87165110/39413705/180107
+#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="" tvg-id="record.news.br" tvg-name="Record News",Record News FHD
+http://ssvrv.xyz:80/87165110/39413705/180109
+#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="" tvg-id="record.news.br" tvg-name="Record News",Record News
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87462.ts
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porta-dos-Fundos.jpg",Porta dos Fundos
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BraziTV.png",BraziTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TV-camara.png",TV Câmara
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/AgroBrasil-TV.png" tvg-id="AgroBrasil TV",AgroBrasil TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SBT.png" tvg-id="SBT [Brazil]",SBT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SBT.png" tvg-id="SBT [Brazil]",SBT
+http://flixgran.xyz:8080/888888/888888/1685
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Discovery Kids",Discovery Kids SD
+http://ssvrv.xyz:80/87165110/39413705/180128
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Discovery Kids",Discovery Kids HD
+http://ssvrv.xyz:80/87165110/39413705/180131
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Discovery Kids",Discovery Kids FHD
+http://ssvrv.xyz:80/87165110/39413705/180133
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Discovery Kids",Discovery Kids
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/99369
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" tvg-id="Futura [Brazil]",Canal Futura
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF:-1 group-title="Brazil" tvg-logo="http://flixgran.xyz:8080/images/5b8728ad0e478c13725e8b2fe319ea3f.jpg" tvg-id="futura.br" tvg-name="Canal Futura HD",Canal Futura
+http://flixgran.xyz:8080/888888/888888/339440
+#EXTINF:-1 group-title="Brazil" tvg-logo="http://flixgran.xyz:8080/images/5b8728ad0e478c13725e8b2fe319ea3f.jpg" tvg-id="futura.br" tvg-name="Canal Futura SD",Canal Futura
+http://flixgran.xyz:8080/888888/888888/339439
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Nick-Clássico.jpg" tvg-id="Nick Clássico",Nick Clássico
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BabyFirst.png" tvg-id="BabyFirst",BabyFirst
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Retro-TV.png" tvg-id="Retrô Cartoon",Retrô Cartoon
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Anime TV",Anime TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="AniTV",AniTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Rede Globo",Globo
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96953
+
+#EXTINF:-1 group-title="Brazil Notícias" tvg-logo="" tvg-id="" tvg-name="Globo News",Globo News
+#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/160
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Record TV",Record TV
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96954
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Kuriakos TV",Kuriakos TV
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416395
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Kuriakos Kids",Kuriakos Kids
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416396
+
