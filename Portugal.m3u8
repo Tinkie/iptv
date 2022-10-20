@@ -412,5 +412,5 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87390.ts
 
 # Brazil
 
-#EXTINF:0 type="playlist", content-type="playlist", Brazil
-./Brazil.m3u8
+#EXTINF:-1 type="playlist", content-type="playlist", Brazil
+https://raw.githubusercontent.com/trincowski/iptv/main/Brazil.m3u8
