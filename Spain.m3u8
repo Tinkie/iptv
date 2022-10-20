@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml"
 # Spain.m3u8
 
+# Generalistas
+
 #EXTINF:-1 group-title="Generalistas" tvg-logo="" tvg-id="La1.TV" tvg-name="La 1",La 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10245.ts
 #EXTINF:-1 group-title="Generalistas" tvg-logo="" tvg-id="La2.TV" tvg-name="La 2",La 2
@@ -46,6 +48,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10317.ts
 #EXTINF:-1 group-title="Generalistas" tvg-logo="" tvg-id="BlazeSpain.us" tvg-name="Blaze España",Blaze España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10315.ts
 
+# Informativos
 
 #EXTINF:-1 group-title="Informativos" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png" tvg-id="tve24.tv.vodafone.pt",24h
 #KODIPROP:inputstream=inputstream.adaptive
@@ -78,6 +81,7 @@ https://live1.presstv.ir/live/hispan.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
+# Cine y Series
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="0porMovistarPlus.es" tvg-name="#0",#0
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10251.ts
@@ -159,6 +163,8 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10230.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10272.ts
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarSeries.es" tvg-name="Movistar Series",Movistar Series
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10273.ts
+
+# Documentales
 
 #EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="NationalGeographicSpain.es" tvg-name="National Geographic",National Geographic
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10297.ts
