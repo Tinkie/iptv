@@ -1,31 +1,79 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz"
 # Portugal.m3u8
 
+# RTP
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png" tvg-id="rtp1hd.tv.vodafone.pt",RTP 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|user-agent=Opera
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP 1",RTP 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87285.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP 1",RTP 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87304.ts
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png" tvg-id="rtp2hd.tv.vodafone.pt",RTP 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8|user-agent=Opera
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP 2",RTP 2
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87286.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP 2",RTP 2
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87305.ts
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png" tvg-id="rtp3hd.tv.vodafone.pt",RTP 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8|user-agent=Opera
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP 3",RTP 3
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87441.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP 3",RTP 3
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87456.ts
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png" tvg-id="rtpacorhd.tv.vodafone.pt",RTP Açores
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8|user-agent=Opera
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP Açores",RTP Açores
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87460.ts
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Madeira.png" tvg-id="rtpmad.tv.vodafone.pt",RTP Madeira
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|user-agent=Opera
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP Madeira",RTP Madeira
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87459.ts
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png" tvg-id="rtpmem.tv.vodafone.pt",RTP Memória
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|user-agent=Opera
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP Memória",RTP Memória
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87322.ts
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacional.png" tvg-id="RTPInternacional.pt",RTP Internacional
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent=Opera
 #EXTINF:-1 group-title="Portugal" tvg-logo="http://noz.ddns.net/picons/rtpinternacional.png" tvg-id="" tvg-name="RTP Internacional",RTP Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87301.ts
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-África.png" tvg-id="rtpaf.tv.vodafone.pt",RTP África
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|user-agent=Opera
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP África",RTP África
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87310.ts
+
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="RTP Arena",RTP Arena
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87433.ts
 
+# SIC
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" tvg-id="sichd.tv.vodafone.pt",SIC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC",SIC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87287.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC",SIC
@@ -47,16 +95,34 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87311.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC Internacional",SIC Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87302.ts
 
+# TVI
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" tvg-id="tvihd.tv.vodafone.pt",TVI
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyMiA0OjM0OjE0IFBNJmhhc2hfdmFsdWU9UWZ1SU9ONWp3ZGlpcnI5ZWtIc1dDUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTE3MzU3NGM4LWI5NTktNDE4MC1iYjJiLTY0ZTU1MzEyY2EyZg==/
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="TVI",TVI
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87288.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="TVI",TVI
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87307.ts
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png" tvg-id="TVIFIC.meo.pt",TVI Ficção
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="TVI Ficção",TVI Ficção
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87293.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="TVI Ficção",TVI Ficção
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87315.ts
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png" tvg-id="TVIInt.pt",TVI Internacional
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyMiAyOjM0OjI2IFBNJmhhc2hfdmFsdWU9RnVRM0xjTUZUSkFSTDYwVmxBbDgzdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWZkMzFjMzRkLTQ4ZDYtNGEyNi1iOTMyLWNkYTBjY2YyNTZkMg==/
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/99/TVI_Internacional_logo_2017.png" tvg-id="" tvg-name="TVI Internacional",TVI Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87334.ts
+
+# Outros
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Canal Q",Canal Q
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87323.ts
@@ -75,12 +141,24 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87299.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="A&E",A&E
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416453
 
+
+#EXTINF:-1 group-title="Portugal" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fama-TV.jpg",Fama TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://streamer-b02.videos.sapo.pt/live/famatv/playlist.m3u8
+
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="TLC",TLC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87450.ts
 
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png" tvg-id="artv.tv.vodafone.pt",ARTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="AR TV Canal Parlamento",ARTV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87461.ts
 
+# Animação
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Cartoon Network",Cartoon Network
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87388.ts
@@ -107,36 +185,49 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87391.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Baby TV",Baby TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87390.ts
 
+# Notícias
 
-#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="" tvg-name="SIC Notícias",SIC Notícias
+#EXTINF:-1 group-title="Portugal News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png" tvg-id="sicnhd.tv.vodafone.pt",SIC Notícias
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#https://live.impresa.pt/live/sicnot/sicnot.m3u8
+https://sicnot.live.impresa.pt/sicnot.m3u8
+#EXTINF:-1 group-title="Portugal News" tvg-logo="" tvg-id="" tvg-name="SIC Notícias",SIC Notícias
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87440.ts
-#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="" tvg-name="SIC Notícias",SIC Notícias
+#EXTINF:-1 group-title="Portugal News" tvg-logo="" tvg-id="" tvg-name="SIC Notícias",SIC Notícias
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87455.ts
 
-#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png" tvg-id="euronw.tv.vodafone.pt",Euronews (PT)
+#EXTINF:-1 group-title="Portugal News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png" tvg-id="euronw.tv.vodafone.pt",Euronews (PT)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal",CNN Portugal
+#EXTINF:-1 group-title="Portugal News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" tvg-id="cnnpthd.tv.vodafone.pt",CNN Portugal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyMiA0OjM0OjE1IFBNJmhhc2hfdmFsdWU9WVJSTGJjc1BzdmhjazJSR2pJRW9hUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWQyMzdhMWYzLTUyMmQtNGE2OC05ODZiLTYzNzY4NzRkYWJjMA==/
+#EXTINF:-1 group-title="Portugal News" tvg-logo="" tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal",CNN Portugal
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87442.ts
-#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal",CNN Portugal
+#EXTINF:-1 group-title="Portugal News" tvg-logo="" tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal",CNN Portugal
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87457.ts
 
-#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="" tvg-name="CM TV",CM TV
+#EXTINF:-1 group-title="Portugal News" tvg-logo="" tvg-id="" tvg-name="CM TV",CM TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87443.ts
-#EXTINF:-1 group-title="Portugal Notícias" tvg-logo="" tvg-id="" tvg-name="CM TV",CM TV
+#EXTINF:-1 group-title="Portugal News" tvg-logo="" tvg-id="" tvg-name="CM TV",CM TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87458.ts
 
+# Movies and Series
 
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03-720x389.jpg" tvg-id="" tvg-name="NOS Studios",NOS Studios
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87345.ts
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03-720x389.jpg" tvg-id="" tvg-name="NOS Studios",NOS Studios
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87362.ts
+
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="Canal Hollywood",Hollywood
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87346.ts
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="Canal Hollywood",Hollywood
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87363.ts
+
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="TVCine Top",TVCine Top
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96955
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="TVCine Top",TVCine Top
@@ -161,20 +252,24 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96956
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87349.ts
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="TVCine Emotion",TVCine Emotion
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87366.ts
+
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="FOX Movies",FOX Movies
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87351.ts
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="FOX Movies",FOX Movies
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87368.ts
+
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="Cine Mundo",Cine Mundo
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87369.ts
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="Cine Mundo",Cine Mundo
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87352.ts
+
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="AMC",AMC
 http://flixgran.xyz:8080/888888/888888/414848
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="AMC",AMC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87353.ts
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="AMC",AMC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87370.ts
+
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="AXN Movies",AXN Movies
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87354.ts
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="AXN Movies",AXN Movies
@@ -187,6 +282,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87376.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87360.ts
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="AXN White",AXN White
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87377.ts
+
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="FOX",FOX
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87355.ts
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="FOX",FOX
@@ -203,12 +299,13 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87374.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87358.ts
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="FOX Comedy",FOX Comedy
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87375.ts
+
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="Syfy",Syfy
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87361.ts
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="Syfy",Syfy
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87378.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="FilmBox Arthouse" tvg-logo="" group-title="Movies and Series",FilmBox Arthouse (BR)
+#EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="" tvg-name="FilmBox Arthouse",FilmBox Arthouse
 http://flixgran.xyz:8080/888888/888888/414920
 
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png" tvg-id="MyTime Movie Network",MyTime Movie Network
@@ -223,6 +320,8 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="Eurochannel.us",Eurochannel
 http://flixgran.xyz:8080/888888/888888/388522
+
+# Documentaries
 
 #EXTINF:-1 group-title="Documentaries" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Love-Nature-TV.png" tvg-id="LoveNature.ca",Love Nature TV (EN)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -294,5 +393,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+# Brazil
 
 https://github.com/trincowski/iptv/blob/main/Brazil.m3u8
