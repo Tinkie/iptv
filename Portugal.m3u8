@@ -164,44 +164,7 @@ https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/pla
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="AR TV Canal Parlamento",ARTV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87461.ts
 
-# Animação
-
-#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Cartoon Network",Cartoon Network
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87388.ts
-
-#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Canal Panda",Canal Panda
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87384.ts
-
-#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="disneychannel.de" tvg-name="Disney Channel",Disney Channel
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87382.ts
-#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Disney Junior",Disney Junior
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87386.ts
-#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="https://logodownload.org/wp-content/uploads/2020/11/disney-plus-logo.png" tvg-name="Disney +",Disney +
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87387.ts
-
-#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Kuriakos Kids",Kuriakos Kids
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416396
-
-#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Nickelodeon",Nickelodeon
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87383.ts
-#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Nick JR",Nick JR
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87389.ts
-
-#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="JimJam",Jim Jam
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87392.ts
-
-#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Biggs",Biggs
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87385.ts
-
-#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC K",SIC K
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87380.ts
-#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC K",SIC K
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87391.ts
-
-#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Baby TV",Baby TV
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87390.ts
-
-# Notícias
+# Portugal News
 
 #EXTINF:-1 group-title="Portugal News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png" tvg-id="sicnhd.tv.vodafone.pt",SIC Notícias
 #KODIPROP:inputstream=inputstream.adaptive
@@ -409,6 +372,43 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+# Animação
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Cartoon Network",Cartoon Network
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87388.ts
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Canal Panda",Canal Panda
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87384.ts
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="disneychannel.de" tvg-name="Disney Channel",Disney Channel
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87382.ts
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Disney Junior",Disney Junior
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87386.ts
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="https://logodownload.org/wp-content/uploads/2020/11/disney-plus-logo.png" tvg-name="Disney +",Disney +
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87387.ts
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Kuriakos Kids",Kuriakos Kids
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416396
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Nickelodeon",Nickelodeon
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87383.ts
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Nick JR",Nick JR
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87389.ts
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="JimJam",Jim Jam
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87392.ts
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Biggs",Biggs
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87385.ts
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC K",SIC K
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87380.ts
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="SIC K",SIC K
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87391.ts
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Baby TV",Baby TV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87390.ts
 
 # Brazil
 
