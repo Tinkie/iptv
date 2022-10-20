@@ -38,6 +38,7 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/249069?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-name="Sport TV +",Sport TV +
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87395.ts
 
+
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87405.ts
 
@@ -68,6 +69,11 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87412.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 PT",Eurosport 2
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159590?checkedby:iptvcat.com
 
+
+#EXTINF:-1 group-title="Deportivos" tvg-id="canal11hd.tv.vodafone.pt" tvg-name="11 HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-11.png",Canal 11
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="canal11.pt" tvg-name="Canal 11",Canal 11
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96967
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="canal11.pt" tvg-name="Canal 11",Canal 11
@@ -75,6 +81,16 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87394.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="canal11.pt" tvg-name="Canal 11",Canal 11
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="abolatv.pt" tvg-name="A Bola TV",A Bola TV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87393.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="abolatv.pt" tvg-name="A Bola TV",A Bola TV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87414.ts
+
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png" tvg-id="portochd.tv.vodafone.pt",Porto Canal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="PortoCanal.pt" tvg-name="Porto Canal",Porto Canal
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87289.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="PortoCanal.pt" tvg-name="Porto Canal",Porto Canal
@@ -85,8 +101,3 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87397.ts
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BenficaTV.pt" tvg-name="Benfica TV",Benfica TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87396.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="abolatv.pt" tvg-name="A Bola TV",A Bola TV
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87393.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="abolatv.pt" tvg-name="A Bola TV",A Bola TV
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87414.ts
