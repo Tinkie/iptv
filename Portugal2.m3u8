@@ -5,25 +5,16 @@
 
 # 📺 TV channels
 
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png" tvg-id="rtp1hd.tv.vodafone.pt",RTP 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|user-agent=Opera
 
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png" tvg-id="rtp2hd.tv.vodafone.pt",RTP 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8|user-agent=Opera
 
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" tvg-id="sichd.tv.vodafone.pt",SIC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
+
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" tvg-id="tvihd.tv.vodafone.pt",TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyMiA0OjM0OjE0IFBNJmhhc2hfdmFsdWU9UWZ1SU9ONWp3ZGlpcnI5ZWtIc1dDUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTE3MzU3NGM4LWI5NTktNDE4MC1iYjJiLTY0ZTU1MzEyY2EyZg==/
+
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png" tvg-id="rtp3hd.tv.vodafone.pt",RTP 3
 #KODIPROP:inputstream=inputstream.adaptive
@@ -90,11 +81,6 @@ https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlis
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png" tvg-id="TVIR.meo.pt",TVI Reality
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/playlist.m3u8
 
 #EXTINF:-1 group-title="Portugal" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fama-TV.jpg",Fama TV
 #KODIPROP:inputstream=inputstream.adaptive
