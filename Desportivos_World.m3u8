@@ -2,16 +2,14 @@
 # Desportivos_World.m3u8
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-name="PFC",PFC
-http://395825980999307765.niceapy.xyz:80/play/1975/1975/307765.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-name="PFC",PFC HD
 http://395825980999307764.niceapy.xyz:80/play/1975/1975/307764.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-name="PFC",PFC
+http://395825980999307765.niceapy.xyz:80/play/1975/1975/307765.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-name="PFC",PFC
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96940
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-name="PFC",PFC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87431.ts
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
-http://395825980999327093.niceapy.xyz:80/play/1975/1975/327093.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV.br" tvg-name="SporTV",SporTV HD
 http://395825980999327092.niceapy.xyz:80/play/1975/1975/327092.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV.br" tvg-name="SporTV",SporTV FHD
@@ -22,14 +20,8 @@ http://ssvrv.xyz:80/87165110/39413705/179679
 http://ssvrv.xyz:80/87165110/39413705/179682
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV.br" tvg-name="SporTV",SporTV FHD
 http://ssvrv.xyz:80/87165110/39413705/179684
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
-http://flixgran.xyz:8080/888888/888888/1691
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
-http://flixgran.xyz:8080/888888/888888/1601
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV.br" tvg-name="SporTV",SporTV FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
-#http://vipiptv101.com:80/gencosman/020919.cvf/121162
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
 http://top.streancdn.fun:80/0987654321/1234567890/2163129
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
@@ -39,11 +31,7 @@ http://top.streancdn.fun:80/0987654321/1234567890/2163212
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
 http://top.ppvstream.fun:80/0987654321/1234567890/2163196
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
-http://395825980999327567.niceapy.xyz:80/play/1975/1975/327567.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2 HD
-http://395825980999328588.niceapy.xyz:80/play/1975/1975/328588.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2 FHD
 http://395825980999327431.niceapy.xyz:80/play/1975/1975/327431.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
 http://ssvrv.xyz:80/87165110/39413705/179687
@@ -51,28 +39,16 @@ http://ssvrv.xyz:80/87165110/39413705/179687
 http://ssvrv.xyz:80/87165110/39413705/179688
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2 FHD
 http://ssvrv.xyz:80/87165110/39413705/179690
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
-http://flixgran.xyz:8080/888888/888888/1689
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
-http://flixgran.xyz:8080/888888/888888/1599
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2 HD
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/99322
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
-#http://vipiptv101.com:80/gencosman/020919.cvf/121163
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
-http://top.streancdn.fun:80/0987654321/1234567890/2163190
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
-http://top.streancdn.fun:80/0987654321/1234567890/2163210
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV2.br" tvg-name="SporTV 2",SporTV 2
-http://top.ppvstream.fun:80/0987654321/1234567890/2163190
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV3.br" tvg-name="SporTV 3",SporTV 3
 http://395825980999326867.niceapy.xyz:80/play/1975/1975/326867.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV3.br" tvg-name="SporTV 3",SporTV 3 HD
 http://395825980999326704.niceapy.xyz:80/play/1975/1975/326704.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV3.br" tvg-name="SporTV 3",SporTV 3 FHD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV3.br" tvg-name="SporTV 3",SporTV 3 HD
 http://395825980999325218.niceapy.xyz:80/play/1975/1975/325218.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV3.br" tvg-name="SporTV 3",SporTV 3
 http://ssvrv.xyz:80/87165110/39413705/179691
@@ -80,49 +56,37 @@ http://ssvrv.xyz:80/87165110/39413705/179691
 http://ssvrv.xyz:80/87165110/39413705/179694
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV3.br" tvg-name="SporTV 3",SporTV 3 FHD
 http://ssvrv.xyz:80/87165110/39413705/179696
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV3.br" tvg-name="SporTV 3",SporTV 3
-http://flixgran.xyz:8080/888888/888888/1690
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV3.br" tvg-name="SporTV 3",SporTV 3
-http://flixgran.xyz:8080/888888/888888/1600
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV3.br" tvg-name="SporTV 3",SporTV 3
-#http://vipiptv101.com:80/gencosman/020919.cvf/121164
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SporTV3.br" tvg-name="SporTV 3",SporTV 3
-http://top.streancdn.fun:80/0987654321/1234567890/2163211
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes
 http://ssvrv.xyz:80/87165110/39413705/179698
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes HD
 http://ssvrv.xyz:80/87165110/39413705/179701
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes FHD
 http://ssvrv.xyz:80/87165110/39413705/179703
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes
-http://flixgran.xyz:8080/888888/888888/327389
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes
-http://flixgran.xyz:8080/888888/888888/327390
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/99324
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes HD
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/99325
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes FHD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/99324
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10291.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte
-http://red.ipfox.org:8080/Karam2022/Karam2023/47372
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte
-http://red.ipfox.org:8080/Karam2022/Karam2023/47371
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte HD
 http://red.ipfox.org:8080/osama2022/osama2023/47372
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte HD
+http://red.ipfox.org:8080/Karam2022/Karam2023/47372
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte FHD
+http://red.ipfox.org:8080/Karam2022/Karam2023/47371
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10295.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol HD
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96841
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/47399
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol
-http://red.ipfox.org:8080/Karam2022/Karam2023/47398
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol HD
 http://red.ipfox.org:8080/osama2022/osama2023/47399
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol FHD
+http://red.ipfox.org:8080/Karam2022/Karam2023/47398
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10294.ts
@@ -132,15 +96,11 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96853
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10240.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
 http://93.152.174.144:4000/play/barcatv/index.m3u8
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48659
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96932
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10244.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/48854
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://styles.redditmedia.com/t5_2t9a7/styles/communityIcon_i0d3pom28av61.jpg" tvg-id="JuventusTV.it" tvg-name="Juventus TV",Juventus TV
 http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374492
