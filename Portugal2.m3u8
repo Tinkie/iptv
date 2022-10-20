@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz"
-# Portugal3.m3u8
+# Portugal2.m3u8
 
 # M3UPT.com - IPTV playlist in M3U format optimized for Kodi with 📺 TV channels and 📻 radio stations in 🇵🇹 Portuguese. Public and official streams only.
 
@@ -111,75 +111,3 @@ https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/in
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porta-dos-Fundos.jpg",Porta dos Fundos
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BraziTV.png",BraziTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-
-#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TV-camara.png",TV Câmara
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-
-#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/AgroBrasil-TV.png" tvg-id="AgroBrasil TV",AgroBrasil TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-
-#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SBT.png" tvg-id="SBT [Brazil]",SBT
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SBT.png" tvg-id="SBT [Brazil]",SBT
-http://flixgran.xyz:8080/888888/888888/1685
-
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Discovery Kids",Discovery Kids SD
-http://ssvrv.xyz:80/87165110/39413705/180128
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Discovery Kids",Discovery Kids HD
-http://ssvrv.xyz:80/87165110/39413705/180131
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Discovery Kids",Discovery Kids FHD
-http://ssvrv.xyz:80/87165110/39413705/180133
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Discovery Kids",Discovery Kids
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/99369
-
-#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" tvg-id="Futura [Brazil]",Canal Futura
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1 group-title="Brazil" tvg-logo="http://flixgran.xyz:8080/images/5b8728ad0e478c13725e8b2fe319ea3f.jpg" tvg-id="futura.br" tvg-name="Canal Futura HD",Canal Futura
-http://flixgran.xyz:8080/888888/888888/339440
-#EXTINF:-1 group-title="Brazil" tvg-logo="http://flixgran.xyz:8080/images/5b8728ad0e478c13725e8b2fe319ea3f.jpg" tvg-id="futura.br" tvg-name="Canal Futura SD",Canal Futura
-http://flixgran.xyz:8080/888888/888888/339439
-
-#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Nick-Clássico.jpg" tvg-id="Nick Clássico",Nick Clássico
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BabyFirst.png" tvg-id="BabyFirst",BabyFirst
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Retro-TV.png" tvg-id="Retrô Cartoon",Retrô Cartoon
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Anime TV",Anime TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="AniTV",AniTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
