@@ -35,7 +35,6 @@ https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://187.13.81.148:8000/play/a09b
-
 #EXTINF:-1 group-title="Brazil Notícias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png" tvg-id="",CNN Brasil SD
 http://ssvrv.xyz:80/87165110/39413705/180092
 #EXTINF:-1 group-title="Brazil Notícias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png" tvg-id="",CNN Brasil HD
