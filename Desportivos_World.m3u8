@@ -436,25 +436,23 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2705.ts
 
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2",SuperSport Variety 2
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2706.ts
-#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2",SuperSport Variety 2 FHD
-http://395825980999328142.niceapy.xyz:80/play/1975/1975/328142.ts
 
-#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3
-http://395825980999325122.niceapy.xyz:80/play/1975/1975/325122.ts
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3
 http://395825980999326371.niceapy.xyz:80/play/1975/1975/326371.ts
-#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3 HD
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2709.ts
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3 Alt HD
+http://395825980999325122.niceapy.xyz:80/play/1975/1975/325122.ts
 
-#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4",SuperSport Variety 4 A
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4",SuperSport Variety 4
 http://395825980999325123.niceapy.xyz:80/play/1975/1975/325123.ts
-#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4",SuperSport Variety 4 B
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4",SuperSport Variety 4 Alt
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2708.ts
 
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand",SuperSport Grandstand
-http://395825980999328353.niceapy.xyz:80/play/1975/1975/328353.ts
-#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand",SuperSport Grandstand
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2700.ts
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand",SuperSport Grandstand HD
+http://395825980999328353.niceapy.xyz:80/play/1975/1975/328353.ts
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SuperSportMaximo1.za" tvg-shift="1" tvg-name="SuperSport Maximo 1",SuperSport Maximo 1
 http://395825980999326937.niceapy.xyz:80/play/1975/1975/326937.ts
