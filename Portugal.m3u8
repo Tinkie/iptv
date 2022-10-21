@@ -414,18 +414,3 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87390.ts
 
 #EXTINF:0 type="playlist", content-type="playlist", Brazil
 https://raw.githubusercontent.com/trincowski/iptv/main/Brazil.m3u8
-
-# Portugal 3
-
-#EXTINF:0 type="playlist", content-type="playlist", Sport Test
-https://raw.githubusercontent.com/trincowski/iptv/main/SportTest.m3u8
-
-# Portugal 3
-
-#EXTINF:0 type="playlist", content-type="playlist", Portugal 3
-https://raw.githubusercontent.com/trincowski/iptv/main/Portugal3.m3u8
-
-# Portugal 3
-
-#EXTINF:0 type="playlist", content-type="playlist", Spain 2
-https://raw.githubusercontent.com/trincowski/iptv/main/Spain2.m3u8

@@ -1,0 +1,17 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz"
+# Test.m3u8
+
+# Sport Test
+
+#EXTINF:0 type="playlist", content-type="playlist", Sport Test
+https://raw.githubusercontent.com/trincowski/iptv/main/SportTest.m3u8
+
+# Portugal 3
+
+#EXTINF:0 type="playlist", content-type="playlist", Portugal 3
+https://raw.githubusercontent.com/trincowski/iptv/main/Portugal3.m3u8
+
+# Portugal 3
+
+#EXTINF:0 type="playlist", content-type="playlist", Spain 2
+https://raw.githubusercontent.com/trincowski/iptv/main/Spain2.m3u8
