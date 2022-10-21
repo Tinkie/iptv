@@ -87,6 +87,8 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/47399
 http://red.ipfox.org:8080/osama2022/osama2023/47399
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol FHD
 http://red.ipfox.org:8080/Karam2022/Karam2023/47398
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol FHD
+http://red.ipfox.org:8080/osama2022/osama2023/47398
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96853
