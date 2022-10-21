@@ -89,18 +89,18 @@ http://red.ipfox.org:8080/osama2022/osama2023/47399
 http://red.ipfox.org:8080/Karam2022/Karam2023/47398
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10294.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96853
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10240.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
 http://93.152.174.144:4000/play/barcatv/index.m3u8
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV FHD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10240.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV FHD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10294.ts
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV HD
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96932
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10244.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96932
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://styles.redditmedia.com/t5_2t9a7/styles/communityIcon_i0d3pom28av61.jpg" tvg-id="JuventusTV.it" tvg-name="Juventus TV",Juventus TV
 http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374492
@@ -290,11 +290,11 @@ http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73766
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73708
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena",Sky Sport Arena
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/24107
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena",Sky Sport Arena
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/2106
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena",Sky Sport Arena
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/5581
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena",Sky Sport Arena HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/2106
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena",Sky Sport Arena FHD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/24107
 
 #EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-name="NBA TV",Sport TV NBA
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87404.ts
@@ -335,7 +335,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87333.ts
 #EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://i.imgur.com/X3mV3fA.png" tvg-id="" tvg-name="MotorVision",MotorVision
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87432.ts
 
-#EXTINF:-1 group-title="Deportivos Int." tvg-shift="1" tvg-logo="" tvg-id="SuperSportMotorSport.za" tvg-name="SuperSport MotorSport",SuperSport MotorSport
+#EXTINF:-1 group-title="Deportivos Int." tvg-shift="1" tvg-logo="" tvg-id="SuperSportMotorSport.za" tvg-name="SuperSport MotorSport",SuperSport MotorSport HD
 http://395825980999325115.niceapy.xyz:80/play/1975/1975/325115.ts
 
 #EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="ZiggoSportRacing.nl" tvg-name="Ziggo Sport Racing",Ziggo Sport Racing
@@ -424,7 +424,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2702.ts
 
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL",SuperSport PSL
 http://395825980999325117.niceapy.xyz:80/play/1975/1975/325117.ts
-#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL",SuperSport PSL
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL",SuperSport PSL FHD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2701.ts
 
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1",SuperSport Variety 1
@@ -432,41 +432,43 @@ http://395825980999325120.niceapy.xyz:80/play/1975/1975/325120.ts
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1",SuperSport Variety 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2705.ts
 
-#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2",SuperSport Variety 2 HD
-http://395825980999328142.niceapy.xyz:80/play/1975/1975/328142.ts
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2",SuperSport Variety 2
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2706.ts
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2",SuperSport Variety 2 FHD
+http://395825980999328142.niceapy.xyz:80/play/1975/1975/328142.ts
 
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3
 http://395825980999325122.niceapy.xyz:80/play/1975/1975/325122.ts
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3
 http://395825980999326371.niceapy.xyz:80/play/1975/1975/326371.ts
-#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3 HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2709.ts
 
-#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4",SuperSport Variety 4 HD
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4",SuperSport Variety 4 A
 http://395825980999325123.niceapy.xyz:80/play/1975/1975/325123.ts
-#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4",SuperSport Variety 4
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4",SuperSport Variety 4 B
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2708.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Action",SuperSport Action
-http://395825980999325107.niceapy.xyz:80/play/1975/1975/325107.ts
-#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Action",SuperSport Action
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2710.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SuperSportMaximo1.za" tvg-shift="1" tvg-name="SuperSport Maximo 1",SuperSport Maximo 1
-http://395825980999326937.niceapy.xyz:80/play/1975/1975/326937.ts
 
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand",SuperSport Grandstand
 http://395825980999328353.niceapy.xyz:80/play/1975/1975/328353.ts
 #EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand",SuperSport Grandstand
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2700.ts
 
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SuperSportMaximo1.za" tvg-shift="1" tvg-name="SuperSport Maximo 1",SuperSport Maximo 1
+http://395825980999326937.niceapy.xyz:80/play/1975/1975/326937.ts
+
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Action",SuperSport Action
+http://395825980999325107.niceapy.xyz:80/play/1975/1975/325107.ts
+#EXTINF:-1 group-title="Deportivos" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Action",SuperSport Action
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2710.ts
+
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SuperSportTennis.za" tvg-shift="1" tvg-name="SuperSport Tennis",SuperSport Tennis
 http://395825980999325119.niceapy.xyz:80/play/1975/1975/325119.ts
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SuperSportTennis.za" tvg-shift="1" tvg-name="SuperSport Tennis",SuperSport Tennis
 http://395825980999327827.niceapy.xyz:80/play/1975/1975/327827.ts
+
+
 
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://www.logolynx.com/images/logolynx/fc/fc5dfa094e2a9cd5ee98aac69bd57b87.jpeg" tvg-id="tennischannel.us" tvg-name="Tennis Channel",Tennis Channel US
@@ -486,53 +488,42 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQGjvnBSYRriIw/company-logo_200_200/0/1646327585123?e=2147483647&v=beta&t=GelKB0_PQ-HChC4XztbmTOQnN39ZExsRfaUoUI42190" tvg-name="Tennis Channel INT",Tennis Channel INT Line 1
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ERKwKJurmCEE4mH4tjsuvoqdem6m2WmwMw&usqp=CAU" tvg-name="Tennis Channel DE",Tennis Channel DE
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ERKwKJurmCEE4mH4tjsuvoqdem6m2WmwMw&usqp=CAU" tvg-name="Tennis Channel DE",Tennis Channel (DE)
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SuperTennis.it" tvg-name="Super Tennis",Super Tennis
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SuperTennis.it" tvg-name="Super Tennis",Super Tennis HD
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/2110
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SuperTennis.it" tvg-name="Super Tennis",Super Tennis
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/6568
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SuperTennis.it" tvg-name="Super Tennis",Super Tennis
-http://vipiptv101.com:80/gencosman/020919.cvf/122353
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SuperTennis.it" tvg-name="Super Tennis",Super Tennis
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SuperTennis.it" tvg-name="Super Tennis",Super Tennis FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159574
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SuperTennis.it" tvg-name="Super Tennis",Super Tennis
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SuperTennis.it" tvg-name="Super Tennis",Super Tennis FHD
 http://cineapp.org:8000/Fernando/Fernando/5058
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SkySportTennisHD.it" tvg-name="Sky Sport Tennis IT",Sky Sport Tennis IT
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/24153
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SkySportTennisHD.it" tvg-name="Sky Sport Tennis IT",Sky Sport Tennis IT
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/2175
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SkySportTennisHD.it" tvg-name="Sky Sport Tennis IT",Sky Sport Tennis IT
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/9418
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SkySportTennisHD.it" tvg-name="Sky Sport Tennis IT",Sky Sport Tennis IT HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/2175
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SkySportTennisHD.it" tvg-name="Sky Sport Tennis IT",Sky Sport Tennis IT FHD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/24153
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis",Sky Sport Tennis DE
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis",Sky Sport Tennis (DE) FHD
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/193622
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis",Sky Sport Tennis DE
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis",Sky Sport Tennis (DE) HD
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/193617
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis",Sky Sport Tennis DE
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/395395
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis",Sky Sport Tennis DE
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/347475
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis",Sky Sport Tennis DE
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis",Sky Sport Tennis (DE)
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161774
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://www.barcelonaopenbancsabadell.com/wp-content/uploads/2021/04/atp-logo.png" tvg-id="" tvg-name="Tennis TV",Tennis TV
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/311067
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis HD
 http://red.ipfox.org:8080/osama2022/osama2023/49180
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49180
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71382
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71381
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/3299
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
-http://vipiptv101.com:80/gencosman/020919.cvf/130430
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://www.barcelonaopenbancsabadell.com/wp-content/uploads/2021/04/atp-logo.png" tvg-id="" tvg-name="Tennis TV",Tennis TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/311067
 
 #EXTINF:-1 tvg-name="True Tennis" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.webp" group-title="Deportivos",True Tennis
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115805
