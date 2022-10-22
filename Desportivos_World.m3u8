@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/raiplay.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/telecablesat.fr.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz,https://epg.pm/api/epg.xml?channel_id=3668"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/raiplay.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/telecablesat.fr.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz,https://epg.pm/api/epg.xml?channel_id=3668"
 # Desportivos_World.m3u8
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-name="PFC",PFC
@@ -76,6 +76,8 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/99324
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes FHD
 http://flixgran.xyz:8080/888888/888888/393663
 
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte
+http://395825980999317630.niceapy.xyz:80/play/1975/1975/317630.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10291.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte HD
@@ -102,6 +104,8 @@ http://red.ipfox.org:8080/osama2022/osama2023/47398
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96853
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
 http://93.152.174.144:4000/play/barcatv/index.m3u8
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV FHD
+http://395825980999317576.niceapy.xyz:80/play/1975/1975/317576.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV FHD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10240.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV FHD
@@ -213,15 +217,28 @@ http://666827234535228397.niceapy.xyz:80/play/Antonio123/Antonio123/228397.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarLaLiga.es" tvg-name="M+ LaLiga",M+ LaLiga TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10286.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarLaLiga.es" tvg-name="M+ LaLiga",M+ LaLiga TV FHD
+http://395825980999317611.niceapy.xyz:80/play/1975/1975/317611.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarLaLiga.es" tvg-name="M+ LaLiga",M+ LaLiga TV FHD
+http://395825980999317614.niceapy.xyz:80/play/1975/1975/317614.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarLaLiga.es" tvg-name="M+ LaLiga",M+ LaLiga TV FHD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10280.ts
+
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/9tAxTgU.png" tvg-id="MovistarLaLiga1.es" tvg-name="M+ LaLiga 2",M+ LaLiga SmartBank
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10347.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/9tAxTgU.png" tvg-id="MovistarLaLiga1.es" tvg-name="M+ LaLiga 2",M+ LaLiga SmartBank HD
+http://395825980999317613.niceapy.xyz:80/play/1975/1975/317613.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/9tAxTgU.png" tvg-id="MovistarLaLiga1.es" tvg-name="M+ LaLiga 2",M+ LaLiga SmartBank FHD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10346.ts
 
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/9tAxTgU.png" tvg-id="MovistarLaLiga1.es" tvg-name="M+ LaLiga 2",M+ LaLiga SmartBank TV FHD
+http://395825980999323190.niceapy.xyz:80/play/1975/1975/323190.ts
+
+
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="VamosporMovistarPlus.es" tvg-name="M+ Vamos",M+ Vamos HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10282.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="VamosporMovistarPlus.es" tvg-name="M+ Vamos",M+ Vamos FHD
+http://395825980999323188.niceapy.xyz:80/play/1975/1975/323188.ts
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarDeportes.es" tvg-name="M+ Deportes",M+ Deportes HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10285.ts
@@ -229,11 +246,17 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10285.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10225.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarDeportes.es" tvg-name="M+ Deportes",M+ Deportes HD
 http://red.ipfox.org:8080/osama2022/osama2023/47327
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarDeportes.es" tvg-name="M+ Deportes",M+ Deportes HD
+http://395825980999317607.niceapy.xyz:80/play/1975/1975/317607.ts
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/GsHKpfr.png" tvg-id="MovistarDeportes1.es" tvg-name="M+ Deportes 2",M+ Deportes 2 HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10328.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/GsHKpfr.png" tvg-id="MovistarDeportes1.es" tvg-name="M+ Deportes 2",M+ Deportes 2 HD
 http://red.ipfox.org:8080/osama2022/osama2023/47323
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/GsHKpfr.png" tvg-id="MovistarDeportes1.es" tvg-name="M+ Deportes 2",M+ Deportes 2 FHD
+http://395825980999317610.niceapy.xyz:80/play/1975/1975/317610.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/GsHKpfr.png" tvg-id="MovistarDeportes1.es" tvg-name="M+ Deportes 2",M+ Deportes 2 FHD
+http://395825980999317612.niceapy.xyz:80/play/1975/1975/317612.ts
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/rg7lHMF.png" tvg-id="MovistarDeportes2.es" tvg-name="M+ Deportes 3",M+ Deportes 3 HD
 http://red.ipfox.org:8080/osama2022/osama2023/47321
@@ -248,6 +271,8 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10330.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/YgxYpU2.png" tvg-id="MovistarDeportes4.es" tvg-name="M+ Deportes 5",M+ Deportes 5 HD
 http://red.ipfox.org:8080/osama2022/osama2023/47317
 
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/uSSTfjY.png" tvg-id="MovistarLigadeCampeones.es" tvg-name="Movistar Liga de Campeones",M+ Liga de Campeones FHD
+http://395825980999317616.niceapy.xyz:80/play/1975/1975/317616.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/uSSTfjY.png" tvg-id="MovistarLigadeCampeones.es" tvg-name="Movistar Liga de Campeones",M+ Liga de Campeones FHD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10283.ts
 
@@ -338,27 +363,49 @@ http://red.ipfox.org:8080/osama2022/osama2023/49185
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League",Sky Sports Premier League HD
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/97132
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSportFrance.fr" tvg-name="Canal+ Sport FR",Canal+ Sport FR
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126834
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSportFrance.fr" tvg-name="Canal+ Sport FR",Canal+ Sport FR FHD
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126814
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSportPoland.pl" tvg-name="Canal+ Sport PL",Canal+ Sport PL FHD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSportFrance.fr" tvg-name="Canal+ Sport FR",Canal+ Sport (FR)
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126834
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSportFrance.fr" tvg-name="Canal+ Sport FR",Canal+ Sport (FR) HD
+http://395825980999317852.niceapy.xyz:80/play/1975/1975/317852.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSportFrance.fr" tvg-name="Canal+ Sport FR",Canal+ Sport (FR) FHD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126814
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSportFrance.fr" tvg-name="Canal+ Sport FR",Canal+ Sport (FR) FHD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126826
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="CanalPlusSport360.fr" tvg-name="Canal+ Sport 360",Canal+ Sport 360 (FR) HD
+http://395825980999328297.niceapy.xyz:80/play/1975/1975/328297.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="CanalPlusSport360.fr" tvg-name="Canal+ Sport 360",Canal+ Sport 360 (FR) FHD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/199686
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="CanalPlusFoot.fr" tvg-name="Canal+ Foot",Canal+ Sport Foot (FR) FHD
+#EXTINF:-1,FR: CANAL+ SPORT
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/199964
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="CanalPlusPremierLeague.fr" tvg-name="Canal+ Premier League",Canal+ Sport Premier League (FR) FHD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126828
+
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSportPoland.pl" tvg-name="Canal+ Sport PL",Canal+ Sport (PL) FHD
+http://395825980999318907.niceapy.xyz:80/play/1975/1975/318907.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSportPoland.pl" tvg-name="Canal+ Sport PL",Canal+ Sport (PL) FHD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/55430
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport1Poland.pl" tvg-name="Canal+ Sport PL 1",Canal+ Sport PL 1 FHD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport1Poland.pl" tvg-name="Canal+ Sport PL 1",Canal+ Sport (PL) 1 FHD
+http://395825980999318907.niceapy.xyz:80/play/1975/1975/318907.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport1Poland.pl" tvg-name="Canal+ Sport PL 1",Canal+ Sport (PL) 1 FHD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73662
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal%2B_Sport_2_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport2Poland.pl" tvg-name="Canal+ Sport PL 2",Canal+ Sport PL 2 FHD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73664
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal%2B_Sport_2_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport2Poland.pl" tvg-name="Canal+ Sport PL 2",Canal+ Sport (PL) 2 FHD
+http://395825980999320246.niceapy.xyz:80/play/1975/1975/320246.ts
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Canal%2B_Sport_3_%282019-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport3Poland.pl" tvg-name="Canal+ Sport PL 3",Canal+ Sport PL 3 FHD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73765
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Canal%2B_Sport_3_%282019-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport3Poland.pl" tvg-name="Canal+ Sport PL 3",Canal+ Sport (PL) 3 FHD
+http://395825980999320247.niceapy.xyz:80/play/1975/1975/320247.ts
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal%2B_Sport_4_%282019-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport4Poland.pl" tvg-name="Canal+ Sport PL 4",Canal+ Sport PL 4 FHD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73766
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal%2B_Sport_4_%282019-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport4Poland.pl" tvg-name="Canal+ Sport PL 4",Canal+ Sport (PL) 4 FHD
+http://395825980999326759.niceapy.xyz:80/play/1975/1975/326759.ts
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a4/Canal%2B_Sport_5_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport5Poland.pl" tvg-name="Canal+ Sport PL 5",Canal+ Sport PL 5 FHD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a4/Canal%2B_Sport_5_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport5Poland.pl" tvg-name="Canal+ Sport PL 5",Canal+ Sport (PL) 5 FHD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73708
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena",Sky Sport Arena
