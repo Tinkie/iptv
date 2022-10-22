@@ -379,6 +379,7 @@ http://395825980999328297.niceapy.xyz:80/play/1975/1975/328297.ts
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/199686
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="CanalPlusFoot.fr" tvg-name="Canal+ Foot",Canal+ Sport Foot (FR) FHD
+#EXTINF:-1,FR: CANAL+ SPORT
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/199964
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="CanalPlusPremierLeague.fr" tvg-name="Canal+ Premier League",Canal+ Sport Premier League (FR) FHD
@@ -388,9 +389,6 @@ http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126828
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSportPoland.pl" tvg-name="Canal+ Sport PL",Canal+ Sport (PL) FHD
 http://395825980999318907.niceapy.xyz:80/play/1975/1975/318907.ts
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport1Poland.pl" tvg-name="Canal+ Sport PL 1",Canal+ Sport (PL) 1 FHD
-#http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73662
-
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal%2B_Sport_2_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport2Poland.pl" tvg-name="Canal+ Sport PL 2",Canal+ Sport (PL) 2 FHD
 http://395825980999320246.niceapy.xyz:80/play/1975/1975/320246.ts
 
@@ -399,9 +397,6 @@ http://395825980999320247.niceapy.xyz:80/play/1975/1975/320247.ts
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal%2B_Sport_4_%282019-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport4Poland.pl" tvg-name="Canal+ Sport PL 4",Canal+ Sport (PL) 4 FHD
 http://395825980999326759.niceapy.xyz:80/play/1975/1975/326759.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a4/Canal%2B_Sport_5_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport5Poland.pl" tvg-name="Canal+ Sport PL 5",Canal+ Sport (PL) 5 FHD
-#http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73708
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena",Sky Sport Arena
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/5581
