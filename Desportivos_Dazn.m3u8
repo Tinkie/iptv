@@ -1,16 +1,16 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz"
 # Desportivos_Dazn.m3u8
 
 #EXTINF:-1,Vetrina DAZN
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/175672
 
-#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="Zona DAZN",Zona DAZN HD
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="ZonaDAZN.it" tvg-name="Zona DAZN",Zona DAZN HD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313486
-#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="Zona DAZN",Zona DAZN HD
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="ZonaDAZN.it" tvg-name="Zona DAZN",Zona DAZN HD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313487
-#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="Zona DAZN",Zona DAZN FHD
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="ZonaDAZN.it" tvg-name="Zona DAZN",Zona DAZN FHD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/175669
-#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="Zona DAZN",Zona DAZN FHD
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="ZonaDAZN.it" tvg-name="Zona DAZN",Zona DAZN FHD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313485
 
 #EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN Gol Europa League",DAZN Gol Europa League FHD
