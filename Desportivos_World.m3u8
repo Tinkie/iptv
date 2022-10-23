@@ -48,14 +48,17 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/47372
 http://red.ipfox.org:8080/Karam2022/Karam2023/47371
 
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="" tvg-name="DAZN 1",DAZN (Web)
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="" tvg-name="DAZN",DAZN (Web)
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313498
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="" tvg-name="DAZN",DAZN (Web)
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/281479
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="" tvg-name="DAZN 1",DAZN (Web) HD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="" tvg-name="DAZN",DAZN (Web) HD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313497
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="" tvg-name="DAZN",DAZN (Web) HD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/281478
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="" tvg-name="DAZN 1",DAZN (Web) FHD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="" tvg-name="DAZN",DAZN (Web) FHD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/175673
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="" tvg-name="DAZN",DAZN (Web) FHD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/391276
 
 
