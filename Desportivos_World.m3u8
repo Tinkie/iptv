@@ -1,6 +1,226 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/raiplay.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/telecablesat.fr.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz,https://epg.pm/api/epg.xml?channel_id=3668"
 # Desportivos_World.m3u8
 
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96853
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
+http://93.152.174.144:4000/play/barcatv/index.m3u8
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV FHD
+http://395825980999317576.niceapy.xyz:80/play/1975/1975/317576.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV FHD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10240.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV FHD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10294.ts
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10244.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/415891
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96932
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV FHD
+http://2.139.164.166:4040/bysid/103
+
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol HD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10295.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96841
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol HD
+http://red.ipfox.org:8080/Karam2022/Karam2023/47399
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol HD
+http://red.ipfox.org:8080/osama2022/osama2023/47399
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol FHD
+http://red.ipfox.org:8080/Karam2022/Karam2023/47398
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol FHD
+http://red.ipfox.org:8080/osama2022/osama2023/47398
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte
+http://395825980999317630.niceapy.xyz:80/play/1975/1975/317630.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte HD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10291.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte HD
+http://red.ipfox.org:8080/osama2022/osama2023/47372
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte HD
+http://red.ipfox.org:8080/Karam2022/Karam2023/47372
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte FHD
+http://red.ipfox.org:8080/Karam2022/Karam2023/47371
+
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="" tvg-name="DAZN 1",DAZN (Web)
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313498
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/281479
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="" tvg-name="DAZN 1",DAZN (Web) HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313497
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/281478
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="" tvg-name="DAZN 1",DAZN (Web) FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/175673
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/391276
+
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1-color.png" tvg-id="DAZN3Spain.uk" tvg-name="DAZN LaLiga",DAZN LaLiga
+http://666827234535320792.niceapy.xyz:80/play/Antonio123/Antonio123/320792.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1-color.png" tvg-id="DAZN3Spain.uk" tvg-name="DAZN LaLiga",DAZN LaLiga HD
+http://666827234535320781.niceapy.xyz:80/play/Antonio123/Antonio123/320781.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1-color.png" tvg-id="DAZN3Spain.uk" tvg-name="DAZN LaLiga",DAZN LaLiga FHD
+http://666827234535320782.niceapy.xyz:80/play/Antonio123/Antonio123/320782.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1-color.png" tvg-id="DAZN3Spain.uk" tvg-name="DAZN LaLiga",DAZN LaLiga HD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10345.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1-color.png" tvg-id="DAZN3Spain.uk" tvg-name="DAZN LaLiga",DAZN LaLiga HD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10281.ts
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png" tvg-id="DAZN4Spain.uk" tvg-name="DAZN LaLiga 2",DAZN LaLiga 2 HD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10327.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png" tvg-id="DAZN4Spain.uk" tvg-name="DAZN LaLiga 2",DAZN LaLiga 2 HD
+http://666827234535320779.niceapy.xyz:80/play/Antonio123/Antonio123/320779.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png" tvg-id="DAZN4Spain.uk" tvg-name="DAZN LaLiga 2",DAZN LaLiga 2 FHD
+http://dontuse.offshorerev.cc:80/SPIDER_O9gvbQ/o3aDY7Xm0r/153520
+
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1
+http://666827234535267267.niceapy.xyz:80/play/Antonio123/Antonio123/267267.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1 HD
+http://red.ipfox.org:8080/osama2022/osama2023/47384
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1 HD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10370.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1 HD
+http://666827234535228385.niceapy.xyz:80/play/Antonio123/Antonio123/228385.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1 FHD
+http://red.ipfox.org:8080/osama2022/osama2023/47383
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1 FHD
+http://949968080834317586.niceapy.xyz:80/play/1975/1975/317586.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1 FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416016
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2
+http://666827234535228389.niceapy.xyz:80/play/Antonio123/Antonio123/228389.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2 HD
+http://red.ipfox.org:8080/osama2022/osama2023/47382
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2 HD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10326.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2 HD
+http://666827234535320779.niceapy.xyz:80/play/Antonio123/Antonio123/320779.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2 FHD
+http://red.ipfox.org:8080/osama2022/osama2023/47381
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2 FHD
+http://666827234535267268.niceapy.xyz:80/play/Antonio123/Antonio123/267268.ts
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3
+http://666827234535228395.niceapy.xyz:80/play/Antonio123/Antonio123/228395.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3 HD
+http://red.ipfox.org:8080/osama2022/osama2023/47380
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3 HD
+http://666827234535228392.niceapy.xyz:80/play/Antonio123/Antonio123/228392.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416014
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3 FHD
+http://red.ipfox.org:8080/osama2022/osama2023/47379
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3 FHD
+http://666827234535228393.niceapy.xyz:80/play/Antonio123/Antonio123/228393.ts
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4
+http://666827234535228399.niceapy.xyz:80/play/Antonio123/Antonio123/228399.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4 HD
+http://red.ipfox.org:8080/osama2022/osama2023/47378
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4 HD
+http://666827234535228398.niceapy.xyz:80/play/Antonio123/Antonio123/228398.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416013
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4 FHD
+http://red.ipfox.org:8080/osama2022/osama2023/47377
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4 FHD
+http://666827234535228397.niceapy.xyz:80/play/Antonio123/Antonio123/228397.ts
+
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarLaLiga.es" tvg-name="M+ LaLiga",M+ LaLiga TV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10286.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarLaLiga.es" tvg-name="M+ LaLiga",M+ LaLiga TV FHD
+http://395825980999317611.niceapy.xyz:80/play/1975/1975/317611.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarLaLiga.es" tvg-name="M+ LaLiga",M+ LaLiga TV FHD
+http://395825980999317614.niceapy.xyz:80/play/1975/1975/317614.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarLaLiga.es" tvg-name="M+ LaLiga",M+ LaLiga TV FHD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10280.ts
+
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/9tAxTgU.png" tvg-id="MovistarLaLiga1.es" tvg-name="M+ LaLiga 2",M+ LaLiga SmartBank
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10347.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/9tAxTgU.png" tvg-id="MovistarLaLiga1.es" tvg-name="M+ LaLiga 2",M+ LaLiga SmartBank HD
+http://395825980999317613.niceapy.xyz:80/play/1975/1975/317613.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/9tAxTgU.png" tvg-id="MovistarLaLiga1.es" tvg-name="M+ LaLiga 2",M+ LaLiga SmartBank FHD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10346.ts
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/9tAxTgU.png" tvg-id="MovistarLaLiga1.es" tvg-name="M+ LaLiga 2",M+ LaLiga SmartBank TV FHD
+http://395825980999323190.niceapy.xyz:80/play/1975/1975/323190.ts
+
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="VamosporMovistarPlus.es" tvg-name="M+ Vamos",M+ Vamos HD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10282.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="VamosporMovistarPlus.es" tvg-name="M+ Vamos",M+ Vamos FHD
+http://395825980999323188.niceapy.xyz:80/play/1975/1975/323188.ts
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarDeportes.es" tvg-name="M+ Deportes",M+ Deportes HD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10285.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarDeportes.es" tvg-name="M+ Deportes",M+ Deportes HD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10225.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarDeportes.es" tvg-name="M+ Deportes",M+ Deportes HD
+http://red.ipfox.org:8080/osama2022/osama2023/47327
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarDeportes.es" tvg-name="M+ Deportes",M+ Deportes HD
+http://395825980999317607.niceapy.xyz:80/play/1975/1975/317607.ts
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/GsHKpfr.png" tvg-id="MovistarDeportes1.es" tvg-name="M+ Deportes 2",M+ Deportes 2 HD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10328.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/GsHKpfr.png" tvg-id="MovistarDeportes1.es" tvg-name="M+ Deportes 2",M+ Deportes 2 HD
+http://red.ipfox.org:8080/osama2022/osama2023/47323
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/GsHKpfr.png" tvg-id="MovistarDeportes1.es" tvg-name="M+ Deportes 2",M+ Deportes 2 FHD
+http://395825980999317610.niceapy.xyz:80/play/1975/1975/317610.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/GsHKpfr.png" tvg-id="MovistarDeportes1.es" tvg-name="M+ Deportes 2",M+ Deportes 2 FHD
+http://395825980999317612.niceapy.xyz:80/play/1975/1975/317612.ts
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/rg7lHMF.png" tvg-id="MovistarDeportes2.es" tvg-name="M+ Deportes 3",M+ Deportes 3 HD
+http://red.ipfox.org:8080/osama2022/osama2023/47321
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/rg7lHMF.png" tvg-id="MovistarDeportes2.es" tvg-name="M+ Deportes 3",M+ Deportes 3 FHD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10329.ts
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/dAexwR0.png" tvg-id="MovistarDeportes3.es" tvg-name="M+ Deportes 4",M+ Deportes 4 HD
+http://red.ipfox.org:8080/osama2022/osama2023/47319
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/dAexwR0.png" tvg-id="MovistarDeportes3.es" tvg-name="M+ Deportes 4",M+ Deportes 4 FHD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10330.ts
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/YgxYpU2.png" tvg-id="MovistarDeportes4.es" tvg-name="M+ Deportes 5",M+ Deportes 5 HD
+http://red.ipfox.org:8080/osama2022/osama2023/47317
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/uSSTfjY.png" tvg-id="MovistarLigadeCampeones.es" tvg-name="Movistar Liga de Campeones",M+ Liga de Campeones FHD
+http://395825980999317616.niceapy.xyz:80/play/1975/1975/317616.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/uSSTfjY.png" tvg-id="MovistarLigadeCampeones.es" tvg-name="Movistar Liga de Campeones",M+ Liga de Campeones FHD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10283.ts
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/R9AIpnA.png" tvg-id="MovistarLigadeCampeones1.es" tvg-name="Movistar Liga de Campeones 1",M+ Liga de Campeones 1 HD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10335.ts
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/dq59BRx.png" tvg-id="MovistarLigadeCampeones2.es" tvg-name="Movistar Liga de Campeones 2",M+ Liga de Campeones 2 HD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10284.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/dq59BRx.png" tvg-id="MovistarLigadeCampeones2.es" tvg-name="Movistar Liga de Campeones 2",M+ Liga de Campeones 2 HD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10336.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/KYQdW5V.png" tvg-id="MovistarLigadeCampeones3.es" tvg-name="Movistar Liga de Campeones 3",M+ Liga de Campeones 3 FHD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10338.ts
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/bE1Tnkg.png" tvg-id="MovistarLigadeCampeones4.es" tvg-name="Movistar Liga de Campeones 4",M+ Liga de Campeones 4 FHD
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10339.ts
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/tDni2Ao.png" tvg-id="MovistarLigadeCampeones5.es" tvg-name="Movistar Liga de Campeones 5",M+ Liga de Campeones 5
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10340.ts
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/2m5zsaX.png" tvg-id="MovistarLigadeCampeones6.es" tvg-name="Movistar Liga de Campeones 6",M+ Liga de Campeones 6
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10341.ts
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/hvaF0kX.png" tvg-id="MovistarLigadeCampeones7.es" tvg-name="Movistar Liga de Campeones 7",M+ Liga de Campeones 7
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10342.ts
+
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/ZeUxE4o.png" tvg-id="MovistarLigadeCampeones8.es" tvg-name="Movistar Liga de Campeones 8",M+ Liga de Campeones 8
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10343.ts
+
+
 #EXTINF:-1 group-title="Sports (Brazil)" tvg-logo="" tvg-name="PFC",PFC
 http://395825980999307764.niceapy.xyz:80/play/1975/1975/307764.ts
 #EXTINF:-1 group-title="Sports (Brazil)" tvg-logo="" tvg-name="PFC",PFC
@@ -180,222 +400,6 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/149244
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/157933
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="" tvg-name="FC Bayern TV",FC Bayern TV FHD
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/200529
-
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96853
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
-http://93.152.174.144:4000/play/barcatv/index.m3u8
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV FHD
-http://395825980999317576.niceapy.xyz:80/play/1975/1975/317576.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV FHD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10240.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV FHD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10294.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10244.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/415891
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV HD
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96932
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV FHD
-http://2.139.164.166:4040/bysid/103
-
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol HD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10295.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol HD
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96841
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol HD
-http://red.ipfox.org:8080/Karam2022/Karam2023/47399
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol HD
-http://red.ipfox.org:8080/osama2022/osama2023/47399
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol FHD
-http://red.ipfox.org:8080/Karam2022/Karam2023/47398
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol FHD
-http://red.ipfox.org:8080/osama2022/osama2023/47398
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte
-http://395825980999317630.niceapy.xyz:80/play/1975/1975/317630.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte HD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10291.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte HD
-http://red.ipfox.org:8080/osama2022/osama2023/47372
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte HD
-http://red.ipfox.org:8080/Karam2022/Karam2023/47372
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte FHD
-http://red.ipfox.org:8080/Karam2022/Karam2023/47371
-
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1-color.png" tvg-id="DAZN3Spain.uk" tvg-name="DAZN LaLiga",DAZN LaLiga
-http://666827234535320792.niceapy.xyz:80/play/Antonio123/Antonio123/320792.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1-color.png" tvg-id="DAZN3Spain.uk" tvg-name="DAZN LaLiga",DAZN LaLiga HD
-http://666827234535320781.niceapy.xyz:80/play/Antonio123/Antonio123/320781.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1-color.png" tvg-id="DAZN3Spain.uk" tvg-name="DAZN LaLiga",DAZN LaLiga FHD
-http://666827234535320782.niceapy.xyz:80/play/Antonio123/Antonio123/320782.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1-color.png" tvg-id="DAZN3Spain.uk" tvg-name="DAZN LaLiga",DAZN LaLiga HD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10345.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1-color.png" tvg-id="DAZN3Spain.uk" tvg-name="DAZN LaLiga",DAZN LaLiga HD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10281.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png" tvg-id="DAZN4Spain.uk" tvg-name="DAZN LaLiga 2",DAZN LaLiga 2 HD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10327.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png" tvg-id="DAZN4Spain.uk" tvg-name="DAZN LaLiga 2",DAZN LaLiga 2 HD
-http://666827234535320779.niceapy.xyz:80/play/Antonio123/Antonio123/320779.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png" tvg-id="DAZN4Spain.uk" tvg-name="DAZN LaLiga 2",DAZN LaLiga 2 FHD
-http://dontuse.offshorerev.cc:80/SPIDER_O9gvbQ/o3aDY7Xm0r/153520
-
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN (UK)
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/281479
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN (UK) HD
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/281478
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN (UK) FHD
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/281477
-
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1
-http://666827234535267267.niceapy.xyz:80/play/Antonio123/Antonio123/267267.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1 HD
-http://red.ipfox.org:8080/osama2022/osama2023/47384
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1 HD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10370.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1 HD
-http://666827234535228385.niceapy.xyz:80/play/Antonio123/Antonio123/228385.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1 FHD
-http://red.ipfox.org:8080/osama2022/osama2023/47383
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1 FHD
-http://949968080834317586.niceapy.xyz:80/play/1975/1975/317586.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1 FHD
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416016
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2
-http://666827234535228389.niceapy.xyz:80/play/Antonio123/Antonio123/228389.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2 HD
-http://red.ipfox.org:8080/osama2022/osama2023/47382
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2 HD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10326.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2 HD
-http://666827234535320779.niceapy.xyz:80/play/Antonio123/Antonio123/320779.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2 FHD
-http://red.ipfox.org:8080/osama2022/osama2023/47381
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2 FHD
-http://666827234535267268.niceapy.xyz:80/play/Antonio123/Antonio123/267268.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3
-http://666827234535228395.niceapy.xyz:80/play/Antonio123/Antonio123/228395.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3 HD
-http://red.ipfox.org:8080/osama2022/osama2023/47380
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3 HD
-http://666827234535228392.niceapy.xyz:80/play/Antonio123/Antonio123/228392.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3 HD
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416014
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3 FHD
-http://red.ipfox.org:8080/osama2022/osama2023/47379
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3 FHD
-http://666827234535228393.niceapy.xyz:80/play/Antonio123/Antonio123/228393.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4
-http://666827234535228399.niceapy.xyz:80/play/Antonio123/Antonio123/228399.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4 HD
-http://red.ipfox.org:8080/osama2022/osama2023/47378
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4 HD
-http://666827234535228398.niceapy.xyz:80/play/Antonio123/Antonio123/228398.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4 HD
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416013
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4 FHD
-http://red.ipfox.org:8080/osama2022/osama2023/47377
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4 FHD
-http://666827234535228397.niceapy.xyz:80/play/Antonio123/Antonio123/228397.ts
-
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarLaLiga.es" tvg-name="M+ LaLiga",M+ LaLiga TV
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10286.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarLaLiga.es" tvg-name="M+ LaLiga",M+ LaLiga TV FHD
-http://395825980999317611.niceapy.xyz:80/play/1975/1975/317611.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarLaLiga.es" tvg-name="M+ LaLiga",M+ LaLiga TV FHD
-http://395825980999317614.niceapy.xyz:80/play/1975/1975/317614.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarLaLiga.es" tvg-name="M+ LaLiga",M+ LaLiga TV FHD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10280.ts
-
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/9tAxTgU.png" tvg-id="MovistarLaLiga1.es" tvg-name="M+ LaLiga 2",M+ LaLiga SmartBank
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10347.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/9tAxTgU.png" tvg-id="MovistarLaLiga1.es" tvg-name="M+ LaLiga 2",M+ LaLiga SmartBank HD
-http://395825980999317613.niceapy.xyz:80/play/1975/1975/317613.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/9tAxTgU.png" tvg-id="MovistarLaLiga1.es" tvg-name="M+ LaLiga 2",M+ LaLiga SmartBank FHD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10346.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/9tAxTgU.png" tvg-id="MovistarLaLiga1.es" tvg-name="M+ LaLiga 2",M+ LaLiga SmartBank TV FHD
-http://395825980999323190.niceapy.xyz:80/play/1975/1975/323190.ts
-
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="VamosporMovistarPlus.es" tvg-name="M+ Vamos",M+ Vamos HD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10282.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="VamosporMovistarPlus.es" tvg-name="M+ Vamos",M+ Vamos FHD
-http://395825980999323188.niceapy.xyz:80/play/1975/1975/323188.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarDeportes.es" tvg-name="M+ Deportes",M+ Deportes HD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10285.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarDeportes.es" tvg-name="M+ Deportes",M+ Deportes HD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10225.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarDeportes.es" tvg-name="M+ Deportes",M+ Deportes HD
-http://red.ipfox.org:8080/osama2022/osama2023/47327
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarDeportes.es" tvg-name="M+ Deportes",M+ Deportes HD
-http://395825980999317607.niceapy.xyz:80/play/1975/1975/317607.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/GsHKpfr.png" tvg-id="MovistarDeportes1.es" tvg-name="M+ Deportes 2",M+ Deportes 2 HD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10328.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/GsHKpfr.png" tvg-id="MovistarDeportes1.es" tvg-name="M+ Deportes 2",M+ Deportes 2 HD
-http://red.ipfox.org:8080/osama2022/osama2023/47323
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/GsHKpfr.png" tvg-id="MovistarDeportes1.es" tvg-name="M+ Deportes 2",M+ Deportes 2 FHD
-http://395825980999317610.niceapy.xyz:80/play/1975/1975/317610.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/GsHKpfr.png" tvg-id="MovistarDeportes1.es" tvg-name="M+ Deportes 2",M+ Deportes 2 FHD
-http://395825980999317612.niceapy.xyz:80/play/1975/1975/317612.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/rg7lHMF.png" tvg-id="MovistarDeportes2.es" tvg-name="M+ Deportes 3",M+ Deportes 3 HD
-http://red.ipfox.org:8080/osama2022/osama2023/47321
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/rg7lHMF.png" tvg-id="MovistarDeportes2.es" tvg-name="M+ Deportes 3",M+ Deportes 3 FHD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10329.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/dAexwR0.png" tvg-id="MovistarDeportes3.es" tvg-name="M+ Deportes 4",M+ Deportes 4 HD
-http://red.ipfox.org:8080/osama2022/osama2023/47319
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/dAexwR0.png" tvg-id="MovistarDeportes3.es" tvg-name="M+ Deportes 4",M+ Deportes 4 FHD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10330.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/YgxYpU2.png" tvg-id="MovistarDeportes4.es" tvg-name="M+ Deportes 5",M+ Deportes 5 HD
-http://red.ipfox.org:8080/osama2022/osama2023/47317
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/uSSTfjY.png" tvg-id="MovistarLigadeCampeones.es" tvg-name="Movistar Liga de Campeones",M+ Liga de Campeones FHD
-http://395825980999317616.niceapy.xyz:80/play/1975/1975/317616.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/uSSTfjY.png" tvg-id="MovistarLigadeCampeones.es" tvg-name="Movistar Liga de Campeones",M+ Liga de Campeones FHD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10283.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/R9AIpnA.png" tvg-id="MovistarLigadeCampeones1.es" tvg-name="Movistar Liga de Campeones 1",M+ Liga de Campeones 1 HD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10335.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/dq59BRx.png" tvg-id="MovistarLigadeCampeones2.es" tvg-name="Movistar Liga de Campeones 2",M+ Liga de Campeones 2 HD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10284.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/dq59BRx.png" tvg-id="MovistarLigadeCampeones2.es" tvg-name="Movistar Liga de Campeones 2",M+ Liga de Campeones 2 HD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10336.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/KYQdW5V.png" tvg-id="MovistarLigadeCampeones3.es" tvg-name="Movistar Liga de Campeones 3",M+ Liga de Campeones 3 FHD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10338.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/bE1Tnkg.png" tvg-id="MovistarLigadeCampeones4.es" tvg-name="Movistar Liga de Campeones 4",M+ Liga de Campeones 4 FHD
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10339.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/tDni2Ao.png" tvg-id="MovistarLigadeCampeones5.es" tvg-name="Movistar Liga de Campeones 5",M+ Liga de Campeones 5
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10340.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/2m5zsaX.png" tvg-id="MovistarLigadeCampeones6.es" tvg-name="Movistar Liga de Campeones 6",M+ Liga de Campeones 6
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10341.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/hvaF0kX.png" tvg-id="MovistarLigadeCampeones7.es" tvg-name="Movistar Liga de Campeones 7",M+ Liga de Campeones 7
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10342.ts
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/ZeUxE4o.png" tvg-id="MovistarLigadeCampeones8.es" tvg-name="Movistar Liga de Campeones 8",M+ Liga de Campeones 8
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10343.ts
 
 
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League",Sky Sports Premier League HD
