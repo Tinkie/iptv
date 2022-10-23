@@ -304,11 +304,11 @@ http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/204483
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="MilanTV.it" tvg-name="Milan TV",Milan TV FHD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/390024
 
-#EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="InterTV.it" tvg-name="Inter TV",Inter TV FHD
+#EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-shift="-2" tvg-id="InterTV.it" tvg-name="Inter TV",Inter TV FHD
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/4180
-#EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="InterTV.it" tvg-name="Inter TV",Inter TV FHD
+#EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-shift="-2" tvg-id="InterTV.it" tvg-name="Inter TV",Inter TV FHD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/204484
-#EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="InterTV.it" tvg-name="Inter TV",Inter TV FHD
+#EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-shift="-2" tvg-id="InterTV.it" tvg-name="Inter TV",Inter TV FHD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/390022
 
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="LazioStyleTV.it" tvg-name="Lazio Style TV",Lazio Style TV HD
