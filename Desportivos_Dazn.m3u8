@@ -1,0 +1,138 @@
+#EXTM3U
+# Desportivos_Dazn.m3u8
+
+#EXTINF:-1,Vetrina DAZN
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/175672
+
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="Zona DAZN",Zona DAZN HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313486
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="Zona DAZN",Zona DAZN HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313487
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="Zona DAZN",Zona DAZN FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/175669
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="Zona DAZN",Zona DAZN FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313485
+
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN Gol Europa League",DAZN Gol Europa League FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313488
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN Gol Europa League",DAZN Gol Europa League FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313489
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN Gol Europa League",DAZN Gol Europa League FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313490
+
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN Gol Serie A",DAZN Gol Serie A FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313491
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN Gol Serie A",DAZN Gol Serie A FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313493
+
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN Gol Serie B",DAZN Gol Serie B FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313494
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN Gol Serie B",DAZN Gol Serie B FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313495
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN Gol Serie B",DAZN Gol Serie B FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313496
+
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 1",DAZN (Web) 1 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313498
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 1",DAZN (Web) 1 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313497
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 1",DAZN (Web) 1 FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/175673
+
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 2",DAZN (Web) 2 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313499
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 2",DAZN (Web) 2 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313500
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 2",DAZN (Web) 2 FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/175674
+
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 3",DAZN (Web) 3 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313501
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 3",DAZN (Web) 3 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313502
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 3",DAZN (Web) 3 FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/175675
+
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 4",DAZN (Web) 4 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313503
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 4",DAZN (Web) 4 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313504
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 4",DAZN (Web) 4 FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/175676
+
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 5",DAZN (Web) 5 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313505
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 5",DAZN (Web) 5 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313506
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 5",DAZN (Web) 5 FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/175677
+
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 6",DAZN (Web) 6 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313507
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 6",DAZN (Web) 6 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313508
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 6",DAZN (Web) 6 FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/175678
+
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 7",DAZN (Web) 7 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313509
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 7",DAZN (Web) 7 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313510
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 7",DAZN (Web) 7 FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/175679
+
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 8",DAZN (Web) 8 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313511
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 8",DAZN (Web) 8 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313512
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 8",DAZN (Web) 8 FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/175680
+
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 9",DAZN (Web) 9 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313513
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 9",DAZN (Web) 9 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313514
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 9",DAZN (Web) 9 FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/175681
+
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 10",DAZN (Web) 10 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313515
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 10",DAZN (Web) 10 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313516
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 10",DAZN (Web) 10 FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/175682
+
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 11",DAZN (Web) 11 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/392141
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 11",DAZN (Web) 11 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/392140
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 11",DAZN (Web) 11 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/392139
+
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 12",DAZN (Web) 12 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/392138
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 12",DAZN (Web) 12 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/392137
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 12",DAZN (Web) 12 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/392136
+
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 13",DAZN (Web) 13 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/392135
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 13",DAZN (Web) 13 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/392134
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 13",DAZN (Web) 13 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/392133
+
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 14",DAZN (Web) 14 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/392132
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 14",DAZN (Web) 14 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/392131
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 14",DAZN (Web) 14 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/392130
+
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 15",DAZN (Web) 15 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/392129
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 15",DAZN (Web) 15 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/392128
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (Web) 15",DAZN (Web) 15 HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/392127

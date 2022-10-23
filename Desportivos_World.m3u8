@@ -48,20 +48,6 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/47372
 http://red.ipfox.org:8080/Karam2022/Karam2023/47371
 
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="" tvg-name="DAZN",DAZN (Web)
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313498
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="" tvg-name="DAZN",DAZN (Web)
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/281479
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="" tvg-name="DAZN",DAZN (Web) HD
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/313497
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="" tvg-name="DAZN",DAZN (Web) HD
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/281478
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="" tvg-name="DAZN",DAZN (Web) FHD
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/175673
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="" tvg-name="DAZN",DAZN (Web) FHD
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/391276
-
-
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1-color.png" tvg-id="DAZN3Spain.uk" tvg-name="DAZN LaLiga",DAZN LaLiga
 http://666827234535320792.niceapy.xyz:80/play/Antonio123/Antonio123/320792.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1-color.png" tvg-id="DAZN3Spain.uk" tvg-name="DAZN LaLiga",DAZN LaLiga HD
@@ -315,11 +301,15 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/165381
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/6660
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="MilanTV.it" tvg-name="Milan TV",Milan TV FHD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/204483
+#EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="MilanTV.it" tvg-name="Milan TV",Milan TV FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/390024
 
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="InterTV.it" tvg-name="Inter TV",Inter TV FHD
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/4180
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="InterTV.it" tvg-name="Inter TV",Inter TV FHD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/204484
+#EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="InterTV.it" tvg-name="Inter TV",Inter TV FHD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/390022
 
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="LazioStyleTV.it" tvg-name="Lazio Style TV",Lazio Style TV HD
 http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/40
