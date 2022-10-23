@@ -122,6 +122,7 @@ https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlis
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/99/TVI_Internacional_logo_2017.png" tvg-id="" tvg-name="TVI Internacional",TVI Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87334.ts
 
+
 # Outros
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Canal Q",Canal Q
@@ -156,13 +157,13 @@ http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416395
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="TLC",TLC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87450.ts
 
-
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png" tvg-id="artv.tv.vodafone.pt",ARTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="AR TV Canal Parlamento",ARTV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87461.ts
+
 
 # Portugal News
 
@@ -194,6 +195,13 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87457.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87443.ts
 #EXTINF:-1 group-title="Portugal News" tvg-logo="" tvg-id="" tvg-name="CM TV",CM TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87458.ts
+
+
+# International News
+
+#EXTINF:0 type="playlist", content-type="playlist", International News
+https://raw.githubusercontent.com/trincowski/iptv/main/International_News.m3u8
+
 
 # Movies and Series
 
@@ -300,6 +308,7 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies and Series" tvg-logo="" tvg-id="Eurochannel.us",Eurochannel
 http://flixgran.xyz:8080/888888/888888/388522
 
+
 # Documentaries
 
 #EXTINF:-1 group-title="Documentaries" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Love-Nature-TV.png" tvg-id="LoveNature.ca",Love Nature TV (EN)
@@ -373,6 +382,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
+
 # Animação
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Cartoon Network",Cartoon Network
@@ -409,6 +419,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87391.ts
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Baby TV",Baby TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87390.ts
+
 
 # Brazil
 
