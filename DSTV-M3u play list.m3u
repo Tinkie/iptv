@@ -1,0 +1,515 @@
+﻿#EXTM3U
+#EXTINF:-1,DSTV: [ZA] Movie Room
+http://za.cline.in:8888/DSTV/eab73dde155e4515a7066d1324f9084b/mpegts
+#EXTINF:-1,DSTV: [ZA] 1Magic
+http://za.cline.in:8888/DSTV/2a094aeb1f4744c5abfe056ad928db8c/mpegts
+#EXTINF:-1,DSTV: [ZA] M-Net Movies 1 HD
+http://za.cline.in:8888/DSTV/d7197942ef3b4533a7ed1d26f41b9d46/mpegts
+#EXTINF:-1,DSTV: [ZA] M-Net Movies 1 FHD
+http://za.cline.in:8888/DSTV/1236d3dc9d789c5e018ef7244aaf7368/mpegts
+#EXTINF:-1,DSTV: [ZA] M-Net Movies 2 HD
+http://za.cline.in:8888/DSTV/a4ec39ad9b0f44cbbc4b672d0a005405/mpegts
+#EXTINF:-1,DSTV: [ZA] M-Net Movies 2 FHD
+http://za.cline.in:8888/DSTV/4bda1286e2027357be421f6cb85e63a0/mpegts
+#EXTINF:-1,DSTV: [ZA] M-Net Movies 3 HD
+http://za.cline.in:8888/DSTV/85ddeeb965084270a9b9cfa247b7021e/mpegts
+#EXTINF:-1,DSTV: [ZA] M-Net Movies 3 FHD
+http://za.cline.in:8888/DSTV/1422b3744a9735278706cd9eeceb4130/mpegts
+#EXTINF:-1,DSTV: [ZA] M-Net Movies 4 HD
+http://za.cline.in:8888/DSTV/a0e986c29734480f981b1f7c18852728/mpegts
+#EXTINF:-1,DSTV: [ZA] M-Net Movies 4 FHD
+http://za.cline.in:8888/DSTV/ab21728b21745b29ff83da9531bd2c61/mpegts
+#EXTINF:-1,DSTV: [ZA] Studio Universal
+http://za.cline.in:8888/DSTV/6975a820fd264af187f62de70f5d76a3/mpegts
+#EXTINF:-1,DSTV: [ZA] ME TV
+http://za.cline.in:8888/DSTV/e92fa1c779b54bbca2760522f73b06ec/mpegts
+#EXTINF:-1,DSTV: [ZA] Universal TV
+http://za.cline.in:8888/DSTV/6d11af4a5c31407c90d1e0468b8f625b/mpegts
+#EXTINF:-1,DSTV: [ZA] Telemundo
+http://za.cline.in:8888/DSTV/0c2d61481fb046fd957fb47eb4689bfb/mpegts
+#EXTINF:-1,DSTV: [ZA] BBC Brit
+http://za.cline.in:8888/DSTV/d38465be4ee24e47a00237dca48d7c21/mpegts
+#EXTINF:-1,DSTV: [ZA] Discovery Channel
+http://za.cline.in:8888/DSTV/a2301f0de5174b15a3cc0086b1689e26/mpegts
+#EXTINF:-1,DSTV: [ZA] Comedy Central
+http://za.cline.in:8888/DSTV/988771b34bc44f22886d8f29ac9d2bba/mpegts
+#EXTINF:-1,DSTV: [ZA] E! Entertainment Television
+http://za.cline.in:8888/DSTV/ec61ce86be5e4e86bfed47ccee968295/mpegts
+#EXTINF:-1,DSTV: [ZA] Ginx eSports TV
+http://za.cline.in:8888/DSTV/16e85dd8d0be45a68f29de83a04dd42f/mpegts
+#EXTINF:-1,DSTV: [ZA] BET
+http://za.cline.in:8888/DSTV/229ec623f22040faa9e00c237ff00d3f/mpegts
+#EXTINF:-1,DSTV: [ZA] MTV
+http://za.cline.in:8888/DSTV/843a85885902478aa933c4db3bc5c715/mpegts
+#EXTINF:-1,DSTV: [ZA] Novela Magic
+http://za.cline.in:8888/DSTV/61d349692deb4bc3a1e997ff46c207a0/mpegts
+#EXTINF:-1,DSTV: [ZA] CBS Reality
+http://za.cline.in:8888/DSTV/ad7d7c39b3eb4ce0b303d26ab84db6ab/mpegts
+#EXTINF:-1,DSTV: [ZA] TLC Entertainment
+http://za.cline.in:8888/DSTV/d24854f270a54719953b230f33cd3747/mpegts
+#EXTINF:-1,DSTV: [ZA] Discovery Family
+http://za.cline.in:8888/DSTV/b0c101c4313948d8885bbf8a246b70c8/mpegts
+#EXTINF:-1,DSTV: [ZA] TNT Africa
+http://za.cline.in:8888/DSTV/70ddb17da0324c85841806ad107cc340/mpegts
+#EXTINF:-1,DSTV: [ZA] eMovies
+http://za.cline.in:8888/DSTV/d3e38b2fedd6414388f38e8fb88f9cad/mpegts
+#EXTINF:-1,DSTV: [ZA] eMovies Extra
+http://za.cline.in:8888/DSTV/21c27500b5d7467396c47773940d934f/mpegts
+#EXTINF:-1,DSTV: [ZA] kykNET
+http://za.cline.in:8888/DSTV/abe5994d189a40beb51db15369e4bde7/mpegts
+#EXTINF:-1,DSTV: [ZA] kykNET & Kie
+http://za.cline.in:8888/DSTV/5125cb0ea0ee438096978d4eb2c5c718/mpegts
+#EXTINF:-1,DSTV: [ZA] kykNET Nou!
+http://za.cline.in:8888/DSTV/dcfa84d35c6b44489dd0a5925c315478/mpegts
+#EXTINF:-1,DSTV: [ZA] VIA
+http://za.cline.in:8888/DSTV/9d13e4d6d45c491bafbad59f9839e0aa/mpegts
+#EXTINF:-1,DSTV: [ZA] fliekNET
+http://za.cline.in:8888/DSTV/ea97d1f11ca24c91be2c1d026fe95380/mpegts
+#EXTINF:-1,DSTV: [ZA] AfricaMagic Epic
+http://za.cline.in:8888/DSTV/9908da19b50644d592c664ab5ca05ae5/mpegts
+#EXTINF:-1,DSTV: [ZA] Africa Magic Urban
+http://za.cline.in:8888/DSTV/a17405a47f2b43668983b93a0b47ee88/mpegts
+#EXTINF:-1,DSTV: [ZA] Africa Magic Family
+http://za.cline.in:8888/DSTV/abc333b65ec543f6bf769aaa770ae991/mpegts
+#EXTINF:-1,DSTV: [ZA] Real Time
+http://za.cline.in:8888/DSTV/f413c18cff79437fb248f236b5131f4f/mpegts
+#EXTINF:-1,DSTV: [ZA] MojaLove
+http://za.cline.in:8888/DSTV/265a473307b5474890e89209a6cd4a6f/mpegts
+#EXTINF:-1,DSTV: [ZA] Mzansi Magic
+http://za.cline.in:8888/DSTV/eb295b0750c5472a95407379c31bc78a/mpegts
+#EXTINF:-1,DSTV: [ZA] Mzansi Wethu
+http://za.cline.in:8888/DSTV/2b892f4a91514c02b6e3d6dd4eefa866/mpegts
+#EXTINF:-1,DSTV: [ZA] Mzansi Bioskop
+http://za.cline.in:8888/DSTV/456d08f513d04dfaa9b5a7aa084ee8cc/mpegts
+#EXTINF:-1,DSTV: [ZA] Zee World
+http://za.cline.in:8888/DSTV/711825eb72b14e8e9c3f362f6eb011b4/mpegts
+#EXTINF:-1,DSTV: [ZA] Star Life
+http://za.cline.in:8888/DSTV/08d52215e9f54152814a19e2d139a6c0/mpegts
+#EXTINF:-1,DSTV: [ZA] ROK
+http://za.cline.in:8888/DSTV/1bf6867b2a1f43578c6bc844a14be27f/mpegts
+#EXTINF:-1,DSTV: [ZA] CBS Justice
+http://za.cline.in:8888/DSTV/8e055c00b1a345348f7a818415770792/mpegts
+#EXTINF:-1,DSTV: [ZA] Investigation Discovery
+http://za.cline.in:8888/DSTV/55b890b27389448eba9b9a9ad4b93608/mpegts
+#EXTINF:-1,DSTV: [ZA] BBC Lifestyle
+http://za.cline.in:8888/DSTV/f0b01393ae3249cca02e7d71b958d9ea/mpegts
+#EXTINF:-1,DSTV: [ZA] Food Network
+http://za.cline.in:8888/DSTV/1e7b4fdcde4042cbb9b3390daa829edc/mpegts
+#EXTINF:-1,DSTV: [ZA] The Home Channel
+http://za.cline.in:8888/DSTV/db9e760f873c46c7820ea2415dd90a40/mpegts
+#EXTINF:-1,DSTV: [ZA] HGTV
+http://za.cline.in:8888/DSTV/a1b023a8e73944ba9de7d621ee8cdec2/mpegts
+#EXTINF:-1,DSTV: [ZA] Travel Channel
+http://za.cline.in:8888/DSTV/ae741844ec1947d0a8c6a95a84221875/mpegts
+#EXTINF:-1,DSTV: [ZA] Peopleâ€™s Weather
+http://za.cline.in:8888/DSTV/486b8b7eeb944b47bfd330d1d9675a23/mpegts
+#EXTINF:-1,DSTV: [ZA] National Geographic
+http://za.cline.in:8888/DSTV/6c949e769cf24110bb28c28b41124a15/mpegts
+#EXTINF:-1,DSTV: [ZA] National Geographic WILD
+http://za.cline.in:8888/DSTV/962b202cd3944459a084f31fcb43c478/mpegts
+#EXTINF:-1,DSTV: [ZA] WildEarth
+http://za.cline.in:8888/DSTV/d5498eb747e147099a1cddf5a5b79c95/mpegts
+#EXTINF:-1,DSTV: [ZA] BBC Earth
+http://za.cline.in:8888/DSTV/83f17af23e9049719145b7b5ef07377d/mpegts
+#EXTINF:-1,DSTV: [ZA] Curiosity Channel
+http://za.cline.in:8888/DSTV/5c966c69c02042a38ca26d709676d128/mpegts
+#EXTINF:-1,DSTV: [ZA] HISTORY
+http://za.cline.in:8888/DSTV/8f90ebcd3b264ccfb857c6206f7d73f2/mpegts
+#EXTINF:-1,DSTV: [ZA] Ignition
+http://za.cline.in:8888/DSTV/b92237a0e3b94400b7af7e0386066277/mpegts
+#EXTINF:-1,DSTV: [ZA] Spice TV
+http://za.cline.in:8888/DSTV/89553393f65b443abbae6edc9fc7519d/mpegts
+#EXTINF:-1,DSTV: [ZA] SABC 1
+http://za.cline.in:8888/DSTV/e712ce6963674d8b9d9c1cf675722679/mpegts
+#EXTINF:-1,DSTV: [ZA] SABC 2
+http://za.cline.in:8888/DSTV/b73270c437814faea6107e468e321c80/mpegts
+#EXTINF:-1,DSTV: [ZA] SABC 3
+http://za.cline.in:8888/DSTV/ecc416562e1245bca1b0e778cba7ce75/mpegts
+#EXTINF:-1,DSTV: [ZA] e.tv
+http://za.cline.in:8888/DSTV/ee54a0fdd2484b17b2a3170c593f1619/mpegts
+#EXTINF:-1,DSTV: [ZA] e.TV Extra
+http://za.cline.in:8888/DSTV/4c1782d5745b453c97b017dca0db9582/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Blitz
+http://za.cline.in:8888/DSTV/48c468a076b3486a858c1a5012609d54/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Grandstand HD
+http://za.cline.in:8888/DSTV/7cfb679a8dfe417e95af60e6fb0d490c/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Grandstand FHD
+http://za.cline.in:8888/DSTV/48d4fc11a4cefeef42ad7b368cadbb24/mpegts
+#EXTINF:-1,DSTV: [ZA] SS PSL
+http://za.cline.in:8888/DSTV/0866e73b6ece42c98b8768ad31db5847/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Premier League HD
+http://za.cline.in:8888/DSTV/aa0bc8730cfa4739b213e64243cd22ef/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Premier League FHD
+http://za.cline.in:8888/DSTV/3613cd6eec5da39809fd1d7554396d9d/mpegts
+#EXTINF:-1,DSTV: [ZA] SS La Liga HD
+http://za.cline.in:8888/DSTV/e6058f0643f14ba2beb5caab09b63ef6/mpegts
+#EXTINF:-1,DSTV: [ZA] SS La Liga FHD
+http://za.cline.in:8888/DSTV/bd8a8cfde918de877017f261e320bbd2/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Football HD
+http://za.cline.in:8888/DSTV/78b1070618c34c7d9a5e2a02a0e2ea23/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Football FHD
+http://za.cline.in:8888/DSTV/73594e443b363dba8a4971812df802bb/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Variety 1 HD
+http://za.cline.in:8888/DSTV/c9abd929c698452896c45309ff5ba3ca/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Variety 1 FHD
+http://za.cline.in:8888/DSTV/17dab28be1da3d683212260543e3826b/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Variety 2 HD
+http://za.cline.in:8888/DSTV/6c2aede7c1f6463cb1fab5444818aa7d/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Variety 2 FHD
+http://za.cline.in:8888/DSTV/1f0313aee7c365ff322e057c37f72e19/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Variety 3 HD
+http://za.cline.in:8888/DSTV/cf9ae0a9c81d4e73a10b97a84ed8abee/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Variety 3 FHD
+http://za.cline.in:8888/DSTV/ba1ddcab80baece0052afae71a370318/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Variety 4 HD
+http://za.cline.in:8888/DSTV/74f3dea140e04635bc7900d73c8095d8/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Variety 4 FHD
+http://za.cline.in:8888/DSTV/c09219355a83893d2d5d0af1cc970e38/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Action HD
+http://za.cline.in:8888/DSTV/547fd8779913468887764607122fdf4b/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Action FHD
+http://za.cline.in:8888/DSTV/fac926cc0420659ac5ebf672577f23fe/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Rugby HD
+http://za.cline.in:8888/DSTV/92046b9eec224a248ea6a8892080d7ee/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Rugby FHD
+http://za.cline.in:8888/DSTV/fc1a802d4828bfd59bc3b1706ec17e8d/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Cricket HD
+http://za.cline.in:8888/DSTV/9224a47413644025922b2997f2abf56d/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Cricket FHD
+http://za.cline.in:8888/DSTV/63735dac80d5473fd814c03b55f5fc02/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Golf
+http://za.cline.in:8888/DSTV/1b4ed47c3b0a4b6084cf2240f9c22aa0/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Tennis
+http://za.cline.in:8888/DSTV/a1117afa51984e99bbc750d4785ffcf4/mpegts
+#EXTINF:-1,DSTV: [ZA] SS Motorsport
+http://za.cline.in:8888/DSTV/48678ec96003498b98968cd65c227569/mpegts
+#EXTINF:-1,DSTV: [ZA] ESPN
+http://za.cline.in:8888/DSTV/a995be3f277e44498320f83a2648d479/mpegts
+#EXTINF:-1,DSTV: [ZA] ESPN2
+http://za.cline.in:8888/DSTV/bdac286b35ae4ffabbcaaabe377d6771/mpegts
+#EXTINF:-1,DSTV: [ZA] WWE Channel
+http://za.cline.in:8888/DSTV/4d5a3b05310048f2a31e3f1c9402be98/mpegts
+#EXTINF:-1,DSTV: [ZA] SS MaXimo 1
+http://za.cline.in:8888/DSTV/2a43f46b632448ed85ae729f98fafb11/mpegts
+#EXTINF:-1,DSTV: [ZA] SuperSport Play
+http://za.cline.in:8888/DSTV/c010daeacd6245658a53a8db133977be/mpegts
+#EXTINF:-1,DSTV: [ZA] SS EVENT 1
+http://za.cline.in:8888/DSTV/eb0817a30582d0e708dff1a77dc15132/mpegts
+#EXTINF:-1,DSTV: [ZA] SS EVENT 2
+http://za.cline.in:8888/DSTV/5b29f8e964a72f1b9c8098a1f20efbae/mpegts
+#EXTINF:-1,DSTV: [ZA] SS EVENT 3
+http://za.cline.in:8888/DSTV/dd83a0dc5230aee2eab5ffaa53c2fb49/mpegts
+#EXTINF:-1,DSTV: [ZA] SS EVENT 4
+http://za.cline.in:8888/DSTV/16aa7426fb9f503806e2efe801ae4449/mpegts
+#EXTINF:-1,DSTV: [ZA] SS EVENT 5
+http://za.cline.in:8888/DSTV/a22133a81348a53257a95183cb19e261/mpegts
+#EXTINF:-1,DSTV: [ZA] SS EVENT 6
+http://za.cline.in:8888/DSTV/c93839287730f1a9d2fc816594c3fdc7/mpegts
+#EXTINF:-1,DSTV: [ZA] SS EVENT 7
+http://za.cline.in:8888/DSTV/728bab81390dd3241e73ccdfb7ad5e2e/mpegts
+#EXTINF:-1,DSTV: [ZA] SS EVENT 8
+http://za.cline.in:8888/DSTV/e963a19f4b066e202590ad4eccc7c05b/mpegts
+#EXTINF:-1,DSTV: [ZA] Racing 240
+http://za.cline.in:8888/DSTV/640f0eb0412f4962a5d5625de342dd3b/mpegts
+#EXTINF:-1,DSTV: [ZA] Soweto TV
+http://za.cline.in:8888/DSTV/de5ba9c7ebc54ea28e81d1be4fb402df/mpegts
+#EXTINF:-1,DSTV: [ZA] Bay TV
+http://za.cline.in:8888/DSTV/a9d10da033434d178a8455046e1470f4/mpegts
+#EXTINF:-1,DSTV: [ZA] 1 KZN
+http://za.cline.in:8888/DSTV/039f82d8b1df4c12bea0af289d4f1d00/mpegts
+#EXTINF:-1,DSTV: [ZA] Tshwane TV
+http://za.cline.in:8888/DSTV/3d8a823eb75045cf9e174523025a6886/mpegts
+#EXTINF:-1,DSTV: [ZA] Cape Town TV
+http://za.cline.in:8888/DSTV/e4b0a7d04b0942fba873a46dfca85521/mpegts
+#EXTINF:-1,DSTV: [ZA] GauTV
+http://za.cline.in:8888/DSTV/e4c1a19983a249dea863908df576b2c7/mpegts
+#EXTINF:-1,DSTV: [ZA] Lesotho TV
+http://za.cline.in:8888/DSTV/2306dd3d1bc14f3a8cdb8e4c6d5b8b4b/mpegts
+#EXTINF:-1,DSTV: [ZA] Cartoon Network
+http://za.cline.in:8888/DSTV/370a209bdab646d9b8c05a9a3831f3a3/mpegts
+#EXTINF:-1,DSTV: [ZA] Boomerang
+http://za.cline.in:8888/DSTV/383aa9816bbd49009ac0f2c540d2eabb/mpegts
+#EXTINF:-1,DSTV: [ZA] Disney Channel
+http://za.cline.in:8888/DSTV/4d4c722f97ef4e0b8a34327793d72b0c/mpegts
+#EXTINF:-1,DSTV: [ZA] Nickelodeon
+http://za.cline.in:8888/DSTV/76fcac7a065c4620a663cc139dc12e5b/mpegts
+#EXTINF:-1,DSTV: [ZA] Cbeebies
+http://za.cline.in:8888/DSTV/5cdf82940c9e44888c804287f01c49f6/mpegts
+#EXTINF:-1,DSTV: [ZA] Nick Jr
+http://za.cline.in:8888/DSTV/8a1d78a4e2b24875b1c93ec9fccee015/mpegts
+#EXTINF:-1,DSTV: [ZA] NickTOONS 
+http://za.cline.in:8888/DSTV/20c971dd68d046f0bde32a0649f4d6b9/mpegts
+#EXTINF:-1,DSTV: [ZA] Disney Junior
+http://za.cline.in:8888/DSTV/0250edde4d0c42f185607ff5aabd5293/mpegts
+#EXTINF:-1,DSTV: [ZA] JimJam
+http://za.cline.in:8888/DSTV/9539a361f2784d51b9319d49a386556d/mpegts
+#EXTINF:-1,DSTV: [ZA] eToonz
+http://za.cline.in:8888/DSTV/b8118bde23d24cc5b636e0dae41523bc/mpegts
+#EXTINF:-1,DSTV: [ZA] PBS Kids
+http://za.cline.in:8888/DSTV/36f3f0ab935c499e83952eff6477b064/mpegts
+#EXTINF:-1,DSTV: [ZA] Da Vinci
+http://za.cline.in:8888/DSTV/d110d1a3145645b88e3cf730997e21fc/mpegts
+#EXTINF:-1,DSTV: [ZA] Mindset
+http://za.cline.in:8888/DSTV/d55129f05cfd46388d7a6c9ca404c906/mpegts
+#EXTINF:-1,DSTV: [ZA] Channel O
+http://za.cline.in:8888/DSTV/97a3c5edad8d44a98b60082cbd91aeda/mpegts
+#EXTINF:-1,DSTV: [ZA] Mzansi Magic Music
+http://za.cline.in:8888/DSTV/072d8582ffe04e4baf0a7ba008a0fd5f/mpegts
+#EXTINF:-1,DSTV: [ZA] MTV Base
+http://za.cline.in:8888/DSTV/1eef36aa553746b4bf5734b7b33c0c94/mpegts
+#EXTINF:-1,DSTV: [ZA] MTV Music 24
+http://za.cline.in:8888/DSTV/7f010a2c2d0a4fc8b1800b13c24a1aef/mpegts
+#EXTINF:-1,DSTV: [ZA] TRACE Urban
+http://za.cline.in:8888/DSTV/38a564d0705249a4a217e5bac466b029/mpegts
+#EXTINF:-1,DSTV: [ZA] TRACE Africa
+http://za.cline.in:8888/DSTV/588bf8caab714db58a9a41b5d4c110d5/mpegts
+#EXTINF:-1,DSTV: [ZA] SOUNDCITY
+http://za.cline.in:8888/DSTV/9ec996d7ee72417ba20ba5fb0e7958f1/mpegts
+#EXTINF:-1,DSTV: [ZA] One Gospel
+http://za.cline.in:8888/DSTV/7c2990bd41174604bc42d4fed92517db/mpegts
+#EXTINF:-1,DSTV: [ZA] TRACE Gospel
+http://za.cline.in:8888/DSTV/d6c7b69a400f4b90a73fae6db4a12d68/mpegts
+#EXTINF:-1,DSTV: [ZA] Dumisa
+http://za.cline.in:8888/DSTV/d54727aac4a64d92821780e0f303a336/mpegts
+#EXTINF:-1,DSTV: [ZA] FAITH
+http://za.cline.in:8888/DSTV/2b6c2c5d17274577899633bd9b00596b/mpegts
+#EXTINF:-1,DSTV: [ZA] Daystar
+http://za.cline.in:8888/DSTV/4567156b9aa14eecb9c59e13f0ad712c/mpegts
+#EXTINF:-1,DSTV: [ZA] TBN Africa
+http://za.cline.in:8888/DSTV/ef6c26fe2f924787855e6ea889f2b15a/mpegts
+#EXTINF:-1,DSTV: [ZA] iTV Networks
+http://za.cline.in:8888/DSTV/3902032e862d4146bb667dfd590aced1/mpegts
+#EXTINF:-1,DSTV: [ZA] Emmanuel TV
+http://za.cline.in:8888/DSTV/b621dbb5a70c4be99ce92b6d31fbdd72/mpegts
+#EXTINF:-1,DSTV: [ZA] BBC World News
+http://za.cline.in:8888/DSTV/91a7da2c2dc44d2e82f6219d23ad733f/mpegts
+#EXTINF:-1,DSTV: [ZA] CNN International
+http://za.cline.in:8888/DSTV/e28667e66adb4fb9b0003f460daba414/mpegts
+#EXTINF:-1,DSTV: [ZA] Sky News
+http://za.cline.in:8888/DSTV/55b623481fe64e2aa9e5a9296aa47456/mpegts
+#EXTINF:-1,DSTV: [ZA] eNCA
+http://za.cline.in:8888/DSTV/eb0777b1b213454995133ed93d0de4e8/mpegts
+#EXTINF:-1,DSTV: [ZA] SABC News
+http://za.cline.in:8888/DSTV/6b58880d3f604a24bace0f37c0495218/mpegts
+#EXTINF:-1,DSTV: [ZA] Newzroom Afrika
+http://za.cline.in:8888/DSTV/3eaaa8dc1ce148e99f0e8c1e12f3d7e5/mpegts
+#EXTINF:-1,DSTV: [ZA] Al Jazeera
+http://za.cline.in:8888/DSTV/439b1abf601f41bd9add1a7c08f7426f/mpegts
+#EXTINF:-1,DSTV: [ZA] Russia Today
+http://za.cline.in:8888/DSTV/73a5fca167ce476dae5673560b334194/mpegts
+#EXTINF:-1,DSTV: [ZA] Parliamentary Service
+http://za.cline.in:8888/DSTV/91b5cc83444644609d43100177e9a19d/mpegts
+#EXTINF:-1,DSTV: [ZA] CGTN News
+http://za.cline.in:8888/DSTV/e578fb738f96490c8e95e6976dffb329/mpegts
+#EXTINF:-1,DSTV: [ZA] CNBC Africa
+http://za.cline.in:8888/DSTV/95483d17e76046e9af5905943a3f40d8/mpegts
+#EXTINF:-1,DSTV: [ZA] Bloomberg
+http://za.cline.in:8888/DSTV/02ac838d24114a5e82c016f102b921a0/mpegts
+#EXTINF:-1,DSTV: [ZA] Business Day TV
+http://za.cline.in:8888/DSTV/c54c732c61dd468fabdc49af451dfc98/mpegts
+#EXTINF:-1,DSTV: [ZA] NDTV247
+http://za.cline.in:8888/DSTV/f3bd787e526d4c29a5c732268ea7f85f/mpegts
+#EXTINF:-1,DSTV: [ZA] EuroNews
+http://za.cline.in:8888/DSTV/02256254f0834a66927e5769793fa0ef/mpegts
+#EXTINF:-1,DSTV: [ZA] africanews
+http://za.cline.in:8888/DSTV/ee6abebd1025452e989d9738445cfeae/mpegts
+#EXTINF:-1,DSTV: [ZA] RAI Italia
+http://za.cline.in:8888/DSTV/6c4ac6dd57814913b1c499e65e7e201c/mpegts
+#EXTINF:-1,DSTV: [ZA] NHK
+http://za.cline.in:8888/DSTV/285166d87e424dfe964bf4862bd58f49/mpegts
+#EXTINF:-1,DSTV: [ZA] Deutsche Welle
+http://za.cline.in:8888/DSTV/98facd642cf54fd2a0f1614f981ee1bf/mpegts
+#EXTINF:-1,DSTV: [ZA] CCTV 4
+http://za.cline.in:8888/DSTV/e0da90437410405d86944f800dc677ff/mpegts
+#EXTINF:-1,DSTV: [ZA] RTP Internacional
+http://za.cline.in:8888/DSTV/49e4281992b64c95b3b73732550df95b/mpegts
+#EXTINF:-1,DSTV: [ZA] KIX
+http://za.cline.in:8888/DSTV/03aef2839dcaa3a35e1cf71e8d6af68c/mpegts
+#EXTINF:-1,DSTV: [ZA] tlnovelas
+http://za.cline.in:8888/DSTV/adcbcdd2c9860067a27ba1757ac4e917/mpegts
+#EXTINF:-1,DSTV: [ZA] Maisha M Movies
+http://za.cline.in:8888/DSTV/b52774e765449b94db867b30d1d59c34/mpegts
+#EXTINF:-1,DSTV: [ZA] Holiday Channel
+http://za.cline.in:8888/DSTV/96d812576a598f8e44bc3be1394755d9/mpegts
+#EXTINF:-1,DSTV: [ZA] MpumaKapa
+http://za.cline.in:8888/DSTV/7d6b790ae3736a090ce5841268f5fadf/mpegts
+#EXTINF:-1,DSTV: [ZA] Honey
+http://za.cline.in:8888/DSTV/d905b230500dd89789120439b44776e3/mpegts
+#EXTINF:-1,DSTV: [WEST] M-Net West
+http://za.cline.in:8888/DSTV/198cde58b53aa5f98fd7f3781beff5d5/mpegts
+#EXTINF:-1,DSTV: [WEST] NTAi
+http://za.cline.in:8888/DSTV/ce6de0317ffeca5c627f0270eba84089/mpegts
+#EXTINF:-1,DSTV: [WEST] Silverbird
+http://za.cline.in:8888/DSTV/14b7012b317fe35798a13409ebd48ca6/mpegts
+#EXTINF:-1,DSTV: [WEST] Metro TV
+http://za.cline.in:8888/DSTV/fd747b6d8cb4865bf12aaa1c5496b0d8/mpegts
+#EXTINF:-1,DSTV: [WEST] GTV
+http://za.cline.in:8888/DSTV/7364683be97dbd01aa3dd4786fdfbb21/mpegts
+#EXTINF:-1,DSTV: [WEST] TV3
+http://za.cline.in:8888/DSTV/f3eb42286b515b3e380e59378ebfd77a/mpegts
+#EXTINF:-1,DSTV: [WEST] ADOM TV
+http://za.cline.in:8888/DSTV/669e8d13e8a75c3b6b88968dd7f64498/mpegts
+#EXTINF:-1,DSTV: [WEST] JOY NEWS
+http://za.cline.in:8888/DSTV/15f80cdd7ff57fd1e8e3fedbcf0b0abe/mpegts
+#EXTINF:-1,DSTV: [WEST] Joy Prime
+http://za.cline.in:8888/DSTV/70af4b674111e72cbd202d9142378d43/mpegts
+#EXTINF:-1,DSTV: [WEST] Ghana Learning TV
+http://za.cline.in:8888/DSTV/da0df3a12fe235cc2305b53029ea8cc9/mpegts
+#EXTINF:-1,DSTV: [WEST] UTV
+http://za.cline.in:8888/DSTV/e47124c83e72135041f9ab715224b30d/mpegts
+#EXTINF:-1,DSTV: [WEST] GHOne TV
+http://za.cline.in:8888/DSTV/2f18e08de26c20b3f893b65e5606351a/mpegts
+#EXTINF:-1,DSTV: [WEST] Channels
+http://za.cline.in:8888/DSTV/fc5b489c4c68774c86a925dd7244e37f/mpegts
+#EXTINF:-1,DSTV: [WEST] AIT
+http://za.cline.in:8888/DSTV/c74aadc9055029d1b1c51e0d532e5955/mpegts
+#EXTINF:-1,DSTV: [WEST] Lagos TV
+http://za.cline.in:8888/DSTV/2bfdd2332a544fe6bff4e8b3d97ea6b7/mpegts
+#EXTINF:-1,DSTV: [WEST] ONTV MAX
+http://za.cline.in:8888/DSTV/b19107daf8904b7226babdcd3ac086bd/mpegts
+#EXTINF:-1,DSTV: [WEST] Galaxy
+http://za.cline.in:8888/DSTV/169e215a3fed1244bb01c80786d0a289/mpegts
+#EXTINF:-1,DSTV: [WEST] Wazobia Max
+http://za.cline.in:8888/DSTV/ba20f432bdaea0873c3bbde0bd5f2ad4/mpegts
+#EXTINF:-1,DSTV: [WEST] OGTV
+http://za.cline.in:8888/DSTV/69c3689516e4335fecde3e02d7e2bfeb/mpegts
+#EXTINF:-1,DSTV: [WEST] Arewa 24
+http://za.cline.in:8888/DSTV/c5c48ae0254b1aea61ae94f43f4f3b5d/mpegts
+#EXTINF:-1,DSTV: [WEST] wapTV
+http://za.cline.in:8888/DSTV/7b4b3dd869f1bbd3d801b501d0081108/mpegts
+#EXTINF:-1,DSTV: [WEST] NTA 2
+http://za.cline.in:8888/DSTV/9478687611310d8473c02ce089cc6977/mpegts
+#EXTINF:-1,DSTV: [WEST] NTA Parliament
+http://za.cline.in:8888/DSTV/5a35bb86851466ea93a2c54e05f504f4/mpegts
+#EXTINF:-1,DSTV: [WEST] Arise News
+http://za.cline.in:8888/DSTV/d66dd96f0b595c6246a3604eb4a85724/mpegts
+#EXTINF:-1,DSTV: [WEST] TVC News Nigeria
+http://za.cline.in:8888/DSTV/7abfb5e3980c2ec8f75841a5ac035950/mpegts
+#EXTINF:-1,DSTV: [WEST] TPA1
+http://za.cline.in:8888/DSTV/5856a7766633744fd7bcc52ae68aaea6/mpegts
+#EXTINF:-1,DSTV: [WEST] TPA2
+http://za.cline.in:8888/DSTV/89f9ed7bc7ec9dde3e5a0d226db24f8f/mpegts
+#EXTINF:-1,DSTV: [WEST] TV Zimbo
+http://za.cline.in:8888/DSTV/a69e5bf30b226798ab2eb271dcf91c4f/mpegts
+#EXTINF:-1,DSTV: [WEST] Miramar
+http://za.cline.in:8888/DSTV/fcba41504861a6d7d0446c3eaf1613a1/mpegts
+#EXTINF:-1,DSTV: [EAST] Fana TV
+http://za.cline.in:8888/DSTV/2ab3cfd8cbb6f19965d4eda285231f60/mpegts
+#EXTINF:-1,DSTV: [EAST] Y254
+http://za.cline.in:8888/DSTV/b20c27dae79a0e0ecc180262b3658d37/mpegts
+#EXTINF:-1,DSTV: [EAST] ARTS TV
+http://za.cline.in:8888/DSTV/21e5ba9e20666e46e2d5f698ac87d9ae/mpegts
+#EXTINF:-1,DSTV: [EAST] Asham TV
+http://za.cline.in:8888/DSTV/3a40ec2ae6739c78e3245461a21c6c9b/mpegts
+#EXTINF:-1,DSTV: [EAST] Nahoo TV
+http://za.cline.in:8888/DSTV/ed764cafec62a1f1d281aec74ea6ffcb/mpegts
+#EXTINF:-1,DSTV: [EAST] ADDIS TV
+http://za.cline.in:8888/DSTV/9aa11d2fee6a52b70d3af49eea45367c/mpegts
+#EXTINF:-1,DSTV: [EAST] Balageru TV
+http://za.cline.in:8888/DSTV/e61a37c186e884e2466784e68665192c/mpegts
+#EXTINF:-1,DSTV: [EAST] Amhara TV
+http://za.cline.in:8888/DSTV/5e6eed4534a7abe7866db940f7b126de/mpegts
+#EXTINF:-1,DSTV: [EAST] Tigray TV
+http://za.cline.in:8888/DSTV/95cccf99d4d7a9ca31a2d0a22f09b3eb/mpegts
+#EXTINF:-1,DSTV: [EAST] Oromia
+http://za.cline.in:8888/DSTV/2b900115410dd9c65b05af48b4cba172/mpegts
+#EXTINF:-1,DSTV: [EAST] SS Football Plus HD
+http://za.cline.in:8888/DSTV/e05320cf50a5f886bb45dfe23e2d8013/mpegts
+#EXTINF:-1,DSTV: [EAST] SS Football Plus FHD
+http://za.cline.in:8888/DSTV/1df27619bab914759e7ad132832e0215/mpegts
+#EXTINF:-1,DSTV: [EAST] SS Maximo 2
+http://za.cline.in:8888/DSTV/6b4fadda3e5c8d7de0d13aefee10cfca/mpegts
+#EXTINF:-1,DSTV: [EAST] M-Net East
+http://za.cline.in:8888/DSTV/cfed1b97edd778885f42be2bb42d14a4/mpegts
+#EXTINF:-1,DSTV: [EAST] Mambo Moto
+http://za.cline.in:8888/DSTV/a2e7d2e135d1b8a2574434f1f58b5055/mpegts
+#EXTINF:-1,DSTV: [EAST] Maisha Magic Poa
+http://za.cline.in:8888/DSTV/936755166db9205b854b742f1473396b/mpegts
+#EXTINF:-1,DSTV: [EAST] ABOL TV
+http://za.cline.in:8888/DSTV/2d3068a849d2bab54eb5c0e754a16b5f/mpegts
+#EXTINF:-1,DSTV: [EAST] Pearl Magic Prime
+http://za.cline.in:8888/DSTV/8276e0be55626d1d4fccf46c735d9863/mpegts
+#EXTINF:-1,DSTV: [EAST] Akwaaba Magic
+http://za.cline.in:8888/DSTV/154481825d853ba83af96e5f44888255/mpegts
+#EXTINF:-1,DSTV: [EAST] AfricaMagic Showcase
+http://za.cline.in:8888/DSTV/a93fe0926d80f43a210c1524a3f50ad3/mpegts
+#EXTINF:-1,DSTV: [EAST] Africa Magic Hausa
+http://za.cline.in:8888/DSTV/bcedf71ab1021a0149acce8f520a4652/mpegts
+#EXTINF:-1,DSTV: [EAST] Africa Magic Yoruba
+http://za.cline.in:8888/DSTV/1fbb1d564a23d1d9abda45c874bcdc01/mpegts
+#EXTINF:-1,DSTV: [EAST] AfricaMagic Igbo
+http://za.cline.in:8888/DSTV/d60ed4193949185f2936592c962ba7ed/mpegts
+#EXTINF:-1,DSTV: [EAST] Maisha Magic BONGO
+http://za.cline.in:8888/DSTV/60a3a0e19a5b82c552c0d26ef75e2f39/mpegts
+#EXTINF:-1,DSTV: [EAST] Maisha Magic Plus
+http://za.cline.in:8888/DSTV/3f952a5835327ea74d6cbd8bb6d14106/mpegts
+#EXTINF:-1,DSTV: [EAST] ROK GH
+http://za.cline.in:8888/DSTV/01ee18ba3851a8e3636c34232dfbc41d/mpegts
+#EXTINF:-1,DSTV: [EAST] ROK 2
+http://za.cline.in:8888/DSTV/abe699b4109f756737303226a5f1a564/mpegts
+#EXTINF:-1,DSTV: [EAST] Televista
+http://za.cline.in:8888/DSTV/37c87ae01ae9a824f267520e44ca7d5a/mpegts
+#EXTINF:-1,DSTV: [EAST] Trybe TV
+http://za.cline.in:8888/DSTV/149d23e99a002d0a3b8ae67054f95b90/mpegts
+#EXTINF:-1,DSTV: [EAST] STN TV
+http://za.cline.in:8888/DSTV/7a01907350c482b42f924db1ff03ee46/mpegts
+#EXTINF:-1,DSTV: [EAST] TV47
+http://za.cline.in:8888/DSTV/2e59174adcb66c9c78749919b357a86b/mpegts
+#EXTINF:-1,DSTV: [EAST] KBCTV
+http://za.cline.in:8888/DSTV/a4de45a166ee2b25f701651c32285884/mpegts
+#EXTINF:-1,DSTV: [EAST] NTV
+http://za.cline.in:8888/DSTV/62c9479a3dcb61f4d5ee5da5856bf638/mpegts
+#EXTINF:-1,DSTV: [EAST] Citizen TV
+http://za.cline.in:8888/DSTV/8e38e76fc7e4cf68184ed7f6cd5c4cbd/mpegts
+#EXTINF:-1,DSTV: [EAST] KTN News
+http://za.cline.in:8888/DSTV/8e87e9bc9a6daca44275b0d92bba655c/mpegts
+#EXTINF:-1,DSTV: [EAST] K24
+http://za.cline.in:8888/DSTV/046199e3a0f1d565d778a3b1f5384eae/mpegts
+#EXTINF:-1,DSTV: [EAST] Uganda Broadcasting Corporation
+http://za.cline.in:8888/DSTV/065f68e487aa734c893fa8d32f377883/mpegts
+#EXTINF:-1,DSTV: [EAST] NTVU
+http://za.cline.in:8888/DSTV/2112ee47f13a133ec2b12b68c0aabc60/mpegts
+#EXTINF:-1,DSTV: [EAST] Bukedde TV
+http://za.cline.in:8888/DSTV/b67fa5c308ce73c5f30ce19ecfc8b3fd/mpegts
+#EXTINF:-1,DSTV: [EAST] Spark TV
+http://za.cline.in:8888/DSTV/4a8ec6767592dd5ab382c906e7c05ae1/mpegts
+#EXTINF:-1,DSTV: [EAST] NBS
+http://za.cline.in:8888/DSTV/e5cffa1b809a69eff7a101e4776cf937/mpegts
+#EXTINF:-1,DSTV: [EAST] BBS TV
+http://za.cline.in:8888/DSTV/6a626847e25e556cf48e2ed2b1cfe802/mpegts
+#EXTINF:-1,DSTV: [EAST] Urban TV
+http://za.cline.in:8888/DSTV/51c2c60d5c548768a8e228cce0eb9860/mpegts
+#EXTINF:-1,DSTV: [EAST] TV West
+http://za.cline.in:8888/DSTV/4c5e4b35e5a5130369608e0a5557d410/mpegts
+#EXTINF:-1,DSTV: [EAST] TV1 Tanzania
+http://za.cline.in:8888/DSTV/d67abf33178485a0bba996489e8f774b/mpegts
+#EXTINF:-1,DSTV: [EAST] Zanzibar TV
+http://za.cline.in:8888/DSTV/9d46283b46e6179034cf4e27f6a80681/mpegts
+#EXTINF:-1,DSTV: [EAST] Safari TV
+http://za.cline.in:8888/DSTV/fbc467b5686a1551fba7cca5b6f00125/mpegts
+#EXTINF:-1,DSTV: [EAST] TVE Tanzania
+http://za.cline.in:8888/DSTV/48692e11a8faaa99121ddc95e3065797/mpegts
+#EXTINF:-1,DSTV: [EAST] Wasafi TV
+http://za.cline.in:8888/DSTV/6ef3358b44509289d9adda65510f1518/mpegts
+#EXTINF:-1,DSTV: [EAST] Channel 44
+http://za.cline.in:8888/DSTV/fd90158e02a5ff92a1611a42dcdf4896/mpegts
+#EXTINF:-1,DSTV: [EAST] ETV News
+http://za.cline.in:8888/DSTV/4eeff1fa04b6bd57d4e5a476aaa5ea51/mpegts
+#EXTINF:-1,DSTV: [EAST] Rwanda TV
+http://za.cline.in:8888/DSTV/7eb1cd25c6d3e22f3628a2e773dea07c/mpegts
+#EXTINF:-1,DSTV: [EAST] SBN
+http://za.cline.in:8888/DSTV/52e20fb46c30341997b4f0aedbf1f41a/mpegts
+#EXTINF:-1,DSTV: [EAST] Citi TV
+http://za.cline.in:8888/DSTV/8691eb27c3d939f28b41d63e014f42f0/mpegts
+#EXTINF:-1,DSTV: [EAST] Salt TV
+http://za.cline.in:8888/DSTV/d1244f4e39c38cabe7a990e6f2b5b87c/mpegts
+#EXTINF:-1,DSTV: [EAST] Baba TV
+http://za.cline.in:8888/DSTV/63be535837a1f279ab0ef01e0cee1b67/mpegts
+#EXTINF:-1,DSTV: [EAST] Bukedde 2
+http://za.cline.in:8888/DSTV/9703358ecc2bf5b65a8552a0b198e3c2/mpegts
+#EXTINF:-1,DSTV: [EAST] PLUS TV Africa
+http://za.cline.in:8888/DSTV/a98c8fd6ad108e22a5ae1ad2b16e6b2b/mpegts
+#EXTINF:-1,DSTV: [ZA] M-Net FHD
+http://za.cline.in:8888/DSTV/c74ffef3bca6b26eaf1826023d792be2/mpegts
+#EXTINF:-1,DSTV: [ZA] M-Net HD
+http://za.cline.in:8888/DSTV/3b9cda27b37684d6ddad8cee25c3fdc3/mpegts
