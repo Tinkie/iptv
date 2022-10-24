@@ -39,10 +39,6 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10320.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10239.ts
 #EXTINF:-1 group-title="Generalistas" tvg-logo="" tvg-id="TEN.es" tvg-name="Ten",Ten
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10322.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="TNTSpain.es" tvg-name="TNT España",TNT España
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10316.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="TNTSpain.es" tvg-name="TNT España",TNT España
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10234.ts
 #EXTINF:-1 group-title="Generalistas" tvg-logo="" tvg-id="SundanceTVSpain.es" tvg-name="Sundance TV España",Sundance TV España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10317.ts
 #EXTINF:-1 group-title="Generalistas" tvg-logo="" tvg-id="BlazeSpain.us" tvg-name="Blaze España",Blaze España
@@ -111,6 +107,10 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10256.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10233.ts
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="Calle13.es" tvg-name="Calle 13",Calle 13
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10257.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="TNTSpain.es" tvg-name="TNT España",TNT España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10316.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="TNTSpain.es" tvg-name="TNT España",TNT España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10234.ts
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="TCMSpain.es" tvg-name="TCM España",TCM España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10258.ts
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="Cosmo",Cosmo
