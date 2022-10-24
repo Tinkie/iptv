@@ -192,3 +192,8 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10219.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10303.ts
 #EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="Odisea.es" tvg-name="Odisea España",Odisea España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10321.ts
+
+#Backup Providers
+
+#EXTINF:0 type="playlist", content-type="playlist", Spain 2
+https://raw.githubusercontent.com/trincowski/iptv/main/Spain2.m3u8
