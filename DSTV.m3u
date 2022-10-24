@@ -1,4 +1,99 @@
-﻿#EXTM3U
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz"
+# DTSV.m3u8
+
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportBlitz.za" tvg-name="SuperSport Blitz",SuperSport Blitz
+http://za.cline.in:8888/DSTV/48c468a076b3486a858c1a5012609d54/mpegts
+
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football",SuperSport Football HD
+http://za.cline.in:8888/DSTV/78b1070618c34c7d9a5e2a02a0e2ea23/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football",SuperSport Football FHD
+http://za.cline.in:8888/DSTV/73594e443b363dba8a4971812df802bb/mpegts
+
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="" tvg-name="SuperSport Football Plus",SuperSport Football Plus HD
+http://za.cline.in:8888/DSTV/e05320cf50a5f886bb45dfe23e2d8013/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="" tvg-name="SuperSport Football Plus",SuperSport Football Plus FHD
+http://za.cline.in:8888/DSTV/1df27619bab914759e7ad132832e0215/mpegts
+
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga",SuperSport LaLiga HD
+http://za.cline.in:8888/DSTV/e6058f0643f14ba2beb5caab09b63ef6/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga",SuperSport LaLiga FHD
+http://za.cline.in:8888/DSTV/bd8a8cfde918de877017f261e320bbd2/mpegts
+
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League",SuperSport Premier League HD
+http://za.cline.in:8888/DSTV/aa0bc8730cfa4739b213e64243cd22ef/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League",SuperSport Premier League HD
+http://za.cline.in:8888/DSTV/3613cd6eec5da39809fd1d7554396d9d/mpegts
+
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPSL.za" tvg-name="SuperSport Premier Soccer League",SuperSport Premier Soccer League
+http://za.cline.in:8888/DSTV/0866e73b6ece42c98b8768ad31db5847/mpegts
+
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1",SuperSport Variety 1 HD
+http://za.cline.in:8888/DSTV/c9abd929c698452896c45309ff5ba3ca/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1",SuperSport Variety 1 FHD
+http://za.cline.in:8888/DSTV/17dab28be1da3d683212260543e3826b/mpegts
+
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2",SuperSport Variety 2 HD
+http://za.cline.in:8888/DSTV/6c2aede7c1f6463cb1fab5444818aa7d/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2",SuperSport Variety 2 FHD
+http://za.cline.in:8888/DSTV/1f0313aee7c365ff322e057c37f72e19/mpegts
+
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3 HD
+http://za.cline.in:8888/DSTV/cf9ae0a9c81d4e73a10b97a84ed8abee/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3 FHD
+http://za.cline.in:8888/DSTV/ba1ddcab80baece0052afae71a370318/mpegts
+
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4",SuperSport Variety 4 HD
+http://za.cline.in:8888/DSTV/74f3dea140e04635bc7900d73c8095d8/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4",SuperSport Variety 4 FHD
+http://za.cline.in:8888/DSTV/c09219355a83893d2d5d0af1cc970e38/mpegts
+
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand",SuperSport Grandstand HD
+http://za.cline.in:8888/DSTV/7cfb679a8dfe417e95af60e6fb0d490c/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand",SuperSport Grandstand FHD
+http://za.cline.in:8888/DSTV/48d4fc11a4cefeef42ad7b368cadbb24/mpegts
+
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Play",SuperSport Play
+http://za.cline.in:8888/DSTV/c010daeacd6245658a53a8db133977be/mpegts
+
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Action",SuperSport Action HD
+http://za.cline.in:8888/DSTV/547fd8779913468887764607122fdf4b/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Action",SuperSport Action FHD
+http://za.cline.in:8888/DSTV/fac926cc0420659ac5ebf672577f23fe/mpegts
+
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 1",SuperSport Event 1
+http://za.cline.in:8888/DSTV/eb0817a30582d0e708dff1a77dc15132/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 2",SuperSport Event 2
+http://za.cline.in:8888/DSTV/5b29f8e964a72f1b9c8098a1f20efbae/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 3",SuperSport Event 3
+http://za.cline.in:8888/DSTV/dd83a0dc5230aee2eab5ffaa53c2fb49/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 4",SuperSport Event 4
+http://za.cline.in:8888/DSTV/16aa7426fb9f503806e2efe801ae4449/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 5",SuperSport Event 5
+http://za.cline.in:8888/DSTV/a22133a81348a53257a95183cb19e261/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 6",SuperSport Event 6
+http://za.cline.in:8888/DSTV/c93839287730f1a9d2fc816594c3fdc7/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 7",SuperSport Event 7
+http://za.cline.in:8888/DSTV/728bab81390dd3241e73ccdfb7ad5e2e/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 8",SuperSport Event 8
+http://za.cline.in:8888/DSTV/e963a19f4b066e202590ad4eccc7c05b/mpegts
+
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SuperSportMaximo1.za" tvg-shift="1" tvg-name="SuperSport Maximo 1",SuperSport Maximo 1
+http://za.cline.in:8888/DSTV/2a43f46b632448ed85ae729f98fafb11/mpegts
+
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SuperSportMaximo2.za" tvg-shift="2" tvg-name="SuperSport Maximo 2",SuperSport Maximo 2
+http://za.cline.in:8888/DSTV/6b4fadda3e5c8d7de0d13aefee10cfca/mpegts
+
+#EXTINF:-1 group-title="Deportivos Int." tvg-shift="1" tvg-logo="" tvg-id="SuperSportMotorSport.za" tvg-name="SuperSport MotorSport",SuperSport MotorSport
+http://za.cline.in:8888/DSTV/48678ec96003498b98968cd65c227569/mpegts
+
+#EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="SuperSportTennis.za" tvg-shift="1" tvg-name="SuperSport Tennis",SuperSport Tennis
+http://za.cline.in:8888/DSTV/a1117afa51984e99bbc750d4785ffcf4/mpegts
+
+#EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="WWEChannel.za" tvg-shift="1" tvg-name="WWE Channel",WWE Channel
+http://za.cline.in:8888/DSTV/4d5a3b05310048f2a31e3f1c9402be98/mpegts
+
+
+
 #EXTINF:-1,DSTV: [ZA] Movie Room
 http://za.cline.in:8888/DSTV/eab73dde155e4515a7066d1324f9084b/mpegts
 #EXTINF:-1,DSTV: [ZA] 1Magic
@@ -129,86 +224,10 @@ http://za.cline.in:8888/DSTV/ecc416562e1245bca1b0e778cba7ce75/mpegts
 http://za.cline.in:8888/DSTV/ee54a0fdd2484b17b2a3170c593f1619/mpegts
 #EXTINF:-1,DSTV: [ZA] e.TV Extra
 http://za.cline.in:8888/DSTV/4c1782d5745b453c97b017dca0db9582/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Blitz
-http://za.cline.in:8888/DSTV/48c468a076b3486a858c1a5012609d54/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Grandstand HD
-http://za.cline.in:8888/DSTV/7cfb679a8dfe417e95af60e6fb0d490c/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Grandstand FHD
-http://za.cline.in:8888/DSTV/48d4fc11a4cefeef42ad7b368cadbb24/mpegts
-#EXTINF:-1,DSTV: [ZA] SS PSL
-http://za.cline.in:8888/DSTV/0866e73b6ece42c98b8768ad31db5847/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Premier League HD
-http://za.cline.in:8888/DSTV/aa0bc8730cfa4739b213e64243cd22ef/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Premier League FHD
-http://za.cline.in:8888/DSTV/3613cd6eec5da39809fd1d7554396d9d/mpegts
-#EXTINF:-1,DSTV: [ZA] SS La Liga HD
-http://za.cline.in:8888/DSTV/e6058f0643f14ba2beb5caab09b63ef6/mpegts
-#EXTINF:-1,DSTV: [ZA] SS La Liga FHD
-http://za.cline.in:8888/DSTV/bd8a8cfde918de877017f261e320bbd2/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Football HD
-http://za.cline.in:8888/DSTV/78b1070618c34c7d9a5e2a02a0e2ea23/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Football FHD
-http://za.cline.in:8888/DSTV/73594e443b363dba8a4971812df802bb/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Variety 1 HD
-http://za.cline.in:8888/DSTV/c9abd929c698452896c45309ff5ba3ca/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Variety 1 FHD
-http://za.cline.in:8888/DSTV/17dab28be1da3d683212260543e3826b/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Variety 2 HD
-http://za.cline.in:8888/DSTV/6c2aede7c1f6463cb1fab5444818aa7d/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Variety 2 FHD
-http://za.cline.in:8888/DSTV/1f0313aee7c365ff322e057c37f72e19/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Variety 3 HD
-http://za.cline.in:8888/DSTV/cf9ae0a9c81d4e73a10b97a84ed8abee/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Variety 3 FHD
-http://za.cline.in:8888/DSTV/ba1ddcab80baece0052afae71a370318/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Variety 4 HD
-http://za.cline.in:8888/DSTV/74f3dea140e04635bc7900d73c8095d8/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Variety 4 FHD
-http://za.cline.in:8888/DSTV/c09219355a83893d2d5d0af1cc970e38/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Action HD
-http://za.cline.in:8888/DSTV/547fd8779913468887764607122fdf4b/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Action FHD
-http://za.cline.in:8888/DSTV/fac926cc0420659ac5ebf672577f23fe/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Rugby HD
-http://za.cline.in:8888/DSTV/92046b9eec224a248ea6a8892080d7ee/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Rugby FHD
-http://za.cline.in:8888/DSTV/fc1a802d4828bfd59bc3b1706ec17e8d/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Cricket HD
-http://za.cline.in:8888/DSTV/9224a47413644025922b2997f2abf56d/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Cricket FHD
-http://za.cline.in:8888/DSTV/63735dac80d5473fd814c03b55f5fc02/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Golf
-http://za.cline.in:8888/DSTV/1b4ed47c3b0a4b6084cf2240f9c22aa0/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Tennis
-http://za.cline.in:8888/DSTV/a1117afa51984e99bbc750d4785ffcf4/mpegts
-#EXTINF:-1,DSTV: [ZA] SS Motorsport
-http://za.cline.in:8888/DSTV/48678ec96003498b98968cd65c227569/mpegts
 #EXTINF:-1,DSTV: [ZA] ESPN
 http://za.cline.in:8888/DSTV/a995be3f277e44498320f83a2648d479/mpegts
 #EXTINF:-1,DSTV: [ZA] ESPN2
 http://za.cline.in:8888/DSTV/bdac286b35ae4ffabbcaaabe377d6771/mpegts
-#EXTINF:-1,DSTV: [ZA] WWE Channel
-http://za.cline.in:8888/DSTV/4d5a3b05310048f2a31e3f1c9402be98/mpegts
-#EXTINF:-1,DSTV: [ZA] SS MaXimo 1
-http://za.cline.in:8888/DSTV/2a43f46b632448ed85ae729f98fafb11/mpegts
-#EXTINF:-1,DSTV: [ZA] SuperSport Play
-http://za.cline.in:8888/DSTV/c010daeacd6245658a53a8db133977be/mpegts
-#EXTINF:-1,DSTV: [ZA] SS EVENT 1
-http://za.cline.in:8888/DSTV/eb0817a30582d0e708dff1a77dc15132/mpegts
-#EXTINF:-1,DSTV: [ZA] SS EVENT 2
-http://za.cline.in:8888/DSTV/5b29f8e964a72f1b9c8098a1f20efbae/mpegts
-#EXTINF:-1,DSTV: [ZA] SS EVENT 3
-http://za.cline.in:8888/DSTV/dd83a0dc5230aee2eab5ffaa53c2fb49/mpegts
-#EXTINF:-1,DSTV: [ZA] SS EVENT 4
-http://za.cline.in:8888/DSTV/16aa7426fb9f503806e2efe801ae4449/mpegts
-#EXTINF:-1,DSTV: [ZA] SS EVENT 5
-http://za.cline.in:8888/DSTV/a22133a81348a53257a95183cb19e261/mpegts
-#EXTINF:-1,DSTV: [ZA] SS EVENT 6
-http://za.cline.in:8888/DSTV/c93839287730f1a9d2fc816594c3fdc7/mpegts
-#EXTINF:-1,DSTV: [ZA] SS EVENT 7
-http://za.cline.in:8888/DSTV/728bab81390dd3241e73ccdfb7ad5e2e/mpegts
-#EXTINF:-1,DSTV: [ZA] SS EVENT 8
-http://za.cline.in:8888/DSTV/e963a19f4b066e202590ad4eccc7c05b/mpegts
 #EXTINF:-1,DSTV: [ZA] Racing 240
 http://za.cline.in:8888/DSTV/640f0eb0412f4962a5d5625de342dd3b/mpegts
 #EXTINF:-1,DSTV: [ZA] Soweto TV
@@ -413,12 +432,6 @@ http://za.cline.in:8888/DSTV/5e6eed4534a7abe7866db940f7b126de/mpegts
 http://za.cline.in:8888/DSTV/95cccf99d4d7a9ca31a2d0a22f09b3eb/mpegts
 #EXTINF:-1,DSTV: [EAST] Oromia
 http://za.cline.in:8888/DSTV/2b900115410dd9c65b05af48b4cba172/mpegts
-#EXTINF:-1,DSTV: [EAST] SS Football Plus HD
-http://za.cline.in:8888/DSTV/e05320cf50a5f886bb45dfe23e2d8013/mpegts
-#EXTINF:-1,DSTV: [EAST] SS Football Plus FHD
-http://za.cline.in:8888/DSTV/1df27619bab914759e7ad132832e0215/mpegts
-#EXTINF:-1,DSTV: [EAST] SS Maximo 2
-http://za.cline.in:8888/DSTV/6b4fadda3e5c8d7de0d13aefee10cfca/mpegts
 #EXTINF:-1,DSTV: [EAST] M-Net East
 http://za.cline.in:8888/DSTV/cfed1b97edd778885f42be2bb42d14a4/mpegts
 #EXTINF:-1,DSTV: [EAST] Mambo Moto
