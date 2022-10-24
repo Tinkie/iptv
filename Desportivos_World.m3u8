@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/raiplay.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/telecablesat.fr.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz,https://epg.pm/api/epg.xml?channel_id=3668"
-# Desportivos_World.m3u8
 
+# Desportivos_World.m3u8
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96853
@@ -144,7 +144,8 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10346.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/9tAxTgU.png" tvg-id="MovistarLaLiga1.es" tvg-name="M+ LaLiga 2",M+ LaLiga SmartBank TV FHD
 http://395825980999323190.niceapy.xyz:80/play/1975/1975/323190.ts
 
-
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="VamosporMovistarPlus.es" tvg-name="M+ Vamos",M+ Vamos
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/144173
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="VamosporMovistarPlus.es" tvg-name="M+ Vamos",M+ Vamos HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10282.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="VamosporMovistarPlus.es" tvg-name="M+ Vamos",M+ Vamos FHD
@@ -159,6 +160,8 @@ http://red.ipfox.org:8080/osama2022/osama2023/47327
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarDeportes.es" tvg-name="M+ Deportes",M+ Deportes HD
 http://395825980999317607.niceapy.xyz:80/play/1975/1975/317607.ts
 
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/GsHKpfr.png" tvg-id="MovistarDeportes1.es" tvg-name="M+ Deportes 2",M+ Deportes 2
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127720
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/GsHKpfr.png" tvg-id="MovistarDeportes1.es" tvg-name="M+ Deportes 2",M+ Deportes 2 HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10328.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/GsHKpfr.png" tvg-id="MovistarDeportes1.es" tvg-name="M+ Deportes 2",M+ Deportes 2 HD
@@ -457,94 +460,167 @@ http://395825980999326759.niceapy.xyz:80/play/1975/1975/326759.ts
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal%2B_Sport_4_%282019-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport4Poland.pl" tvg-name="Canal+ Sport PL 4",Canal+ Sport (PL) 4 FHD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/413291
 
-
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportBlitz.za" tvg-name="SuperSport Blitz",SuperSport Blitz
-http://395825980999325108.niceapy.xyz:80/play/1975/1975/325108.ts
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportBlitz.za" tvg-name="SuperSport Blitz",SuperSport Blitz
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportBlitz.za" tvg-name="SuperSport Blitz",SuperSport Blitz HD
+http://za.cline.in:8888/DSTV/48c468a076b3486a858c1a5012609d54/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportBlitz.za" tvg-name="SuperSport Blitz",SuperSport Blitz HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2707.ts
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportBlitz.za" tvg-name="SuperSport Blitz",SuperSport Blitz
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportBlitz.za" tvg-name="SuperSport Blitz",SuperSport Blitz HD
+http://395825980999325108.niceapy.xyz:80/play/1975/1975/325108.ts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportBlitz.za" tvg-name="SuperSport Blitz",SuperSport Blitz HD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/418593
 
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football",SuperSport Football
-http://395825980999328352.niceapy.xyz:80/play/1975/1975/328352.ts
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football",SuperSport Football
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football",SuperSport Football HD
+http://za.cline.in:8888/DSTV/78b1070618c34c7d9a5e2a02a0e2ea23/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football",SuperSport Football FHD
+http://za.cline.in:8888/DSTV/73594e443b363dba8a4971812df802bb/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football",SuperSport Football HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2704.ts
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football",SuperSport Football
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football",SuperSport Football HD
+http://395825980999328352.niceapy.xyz:80/play/1975/1975/328352.ts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football",SuperSport Football HD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/418591
 
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga",SuperSport LaLiga
-http://395825980999325113.niceapy.xyz:80/play/1975/1975/325113.ts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="" tvg-name="SuperSport Football Plus",SuperSport Football Plus HD
+http://za.cline.in:8888/DSTV/e05320cf50a5f886bb45dfe23e2d8013/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="" tvg-name="SuperSport Football Plus",SuperSport Football Plus FHD
+http://za.cline.in:8888/DSTV/1df27619bab914759e7ad132832e0215/mpegts
+
 #EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga",SuperSport LaLiga
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2703.ts
 #EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga",SuperSport LaLiga
+http://395825980999325113.niceapy.xyz:80/play/1975/1975/325113.ts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga",SuperSport LaLiga
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/418588
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga",SuperSport LaLiga HD
+http://za.cline.in:8888/DSTV/e6058f0643f14ba2beb5caab09b63ef6/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga",SuperSport LaLiga FHD
+http://za.cline.in:8888/DSTV/bd8a8cfde918de877017f261e320bbd2/mpegts
 
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport PL",SuperSport PL
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League",SuperSport Premier League
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2702.ts
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport PL",SuperSport PL
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League",SuperSport Premier League HD
+http://za.cline.in:8888/DSTV/aa0bc8730cfa4739b213e64243cd22ef/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League",SuperSport Premier League HD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/418585
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League",SuperSport Premier League FHD
+http://za.cline.in:8888/DSTV/3613cd6eec5da39809fd1d7554396d9d/mpegts
 
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPSL.za" tvg-name="SuperSport Premier Soccer League",SuperSport Premier Soccer League
-http://395825980999325117.niceapy.xyz:80/play/1975/1975/325117.ts
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPSL.za" tvg-name="SuperSport Premier Soccer League",SuperSport Premier Soccer League
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/418584
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPSL.za" tvg-name="SuperSport Premier Soccer League",SuperSport Premier Soccer League FHD
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPSL.za" tvg-name="SuperSport Premier Soccer League",SuperSport Premier Soccer League HD
+http://za.cline.in:8888/DSTV/0866e73b6ece42c98b8768ad31db5847/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPSL.za" tvg-name="SuperSport Premier Soccer League",SuperSport Premier Soccer League HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2701.ts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPSL.za" tvg-name="SuperSport Premier Soccer League",SuperSport Premier Soccer League HD
+http://395825980999325117.niceapy.xyz:80/play/1975/1975/325117.ts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportPSL.za" tvg-name="SuperSport Premier Soccer League",SuperSport Premier Soccer League HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/418584
 
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1",SuperSport Variety 1
-http://395825980999325120.niceapy.xyz:80/play/1975/1975/325120.ts
 #EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1",SuperSport Variety 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2705.ts
 #EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1",SuperSport Variety 1
+http://395825980999325120.niceapy.xyz:80/play/1975/1975/325120.ts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1",SuperSport Variety 1
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/418581
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1",SuperSport Variety 1 HD
+http://za.cline.in:8888/DSTV/c9abd929c698452896c45309ff5ba3ca/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1",SuperSport Variety 1 FHD
+http://za.cline.in:8888/DSTV/17dab28be1da3d683212260543e3826b/mpegts
 
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2",SuperSport Variety 2
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2",SuperSport Variety 2 HD
+http://za.cline.in:8888/DSTV/6c2aede7c1f6463cb1fab5444818aa7d/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2",SuperSport Variety 2 HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2706.ts
 #EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2",SuperSport Variety 2 HD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/418580
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2",SuperSport Variety 2 FHD
+http://za.cline.in:8888/DSTV/1f0313aee7c365ff322e057c37f72e19/mpegts
 
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3
-http://395825980999326371.niceapy.xyz:80/play/1975/1975/326371.ts
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3 HD
+http://za.cline.in:8888/DSTV/cf9ae0a9c81d4e73a10b97a84ed8abee/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3 HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2709.ts
 #EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3 HD
+http://395825980999326371.niceapy.xyz:80/play/1975/1975/326371.ts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3 HD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/418579
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3 FHD
+http://za.cline.in:8888/DSTV/ba1ddcab80baece0052afae71a370318/mpegts
+
 #EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3",SuperSport Variety 3 Alt HD
 http://395825980999325122.niceapy.xyz:80/play/1975/1975/325122.ts
 
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4",SuperSport Variety 4
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4",SuperSport Variety 4 HD
+http://za.cline.in:8888/DSTV/74f3dea140e04635bc7900d73c8095d8/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4",SuperSport Variety 4 HD
 http://395825980999325123.niceapy.xyz:80/play/1975/1975/325123.ts
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4",SuperSport Variety 4
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4",SuperSport Variety 4 HD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/418578
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4",SuperSport Variety 4 Alt
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4",SuperSport Variety 4 FHD
+http://za.cline.in:8888/DSTV/c09219355a83893d2d5d0af1cc970e38/mpegts
+
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4",SuperSport Variety 4 Alt HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2708.ts
 
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand",SuperSport Grandstand
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand",SuperSport Grandstand HD
+http://za.cline.in:8888/DSTV/7cfb679a8dfe417e95af60e6fb0d490c/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand",SuperSport Grandstand HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2700.ts
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand",SuperSport Grandstand
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/418589
 #EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand",SuperSport Grandstand HD
 http://395825980999328353.niceapy.xyz:80/play/1975/1975/328353.ts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand",SuperSport Grandstand HD
+http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/418589
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand",SuperSport Grandstand FHD
+http://za.cline.in:8888/DSTV/48d4fc11a4cefeef42ad7b368cadbb24/mpegts
 
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SuperSportMaximo1.za" tvg-shift="1" tvg-name="SuperSport Maximo 1",SuperSport Maximo 1
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Play",SuperSport Play HD
+http://za.cline.in:8888/DSTV/c010daeacd6245658a53a8db133977be/mpegts
+
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SuperSportMaximo1.za" tvg-shift="1" tvg-name="SuperSport Maximo 1",SuperSport Maximo 1 HD
+http://za.cline.in:8888/DSTV/2a43f46b632448ed85ae729f98fafb11/mpegts
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SuperSportMaximo1.za" tvg-shift="1" tvg-name="SuperSport Maximo 1",SuperSport Maximo 1 HD
 http://395825980999326937.niceapy.xyz:80/play/1975/1975/326937.ts
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SuperSportMaximo1.za" tvg-shift="1" tvg-name="SuperSport Maximo 1",SuperSport Maximo 1
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SuperSportMaximo1.za" tvg-shift="1" tvg-name="SuperSport Maximo 1",SuperSport Maximo 1 HD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/418587
 
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Action",SuperSport Action
-http://395825980999325107.niceapy.xyz:80/play/1975/1975/325107.ts
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Action",SuperSport Action
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SuperSportMaximo2.za" tvg-shift="2" tvg-name="SuperSport Maximo 2",SuperSport Maximo 2 HD
+http://za.cline.in:8888/DSTV/6b4fadda3e5c8d7de0d13aefee10cfca/mpegts
+
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Action",SuperSport Action HD
+http://za.cline.in:8888/DSTV/547fd8779913468887764607122fdf4b/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Action",SuperSport Action HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2710.ts
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Action",SuperSport Action
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Action",SuperSport Action HD
+http://395825980999325107.niceapy.xyz:80/play/1975/1975/325107.ts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Action",SuperSport Action HD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/418594
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Action",SuperSport Action FHD
+http://za.cline.in:8888/DSTV/fac926cc0420659ac5ebf672577f23fe/mpegts
 
-#EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="SuperSportTennis.za" tvg-shift="1" tvg-name="SuperSport Tennis",SuperSport Tennis
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 1",SuperSport Event 1 HD
+http://za.cline.in:8888/DSTV/eb0817a30582d0e708dff1a77dc15132/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 2",SuperSport Event 2 HD
+http://za.cline.in:8888/DSTV/5b29f8e964a72f1b9c8098a1f20efbae/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 3",SuperSport Event 3 HD
+http://za.cline.in:8888/DSTV/dd83a0dc5230aee2eab5ffaa53c2fb49/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 4",SuperSport Event 4 HD
+http://za.cline.in:8888/DSTV/16aa7426fb9f503806e2efe801ae4449/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 5",SuperSport Event 5 HD
+http://za.cline.in:8888/DSTV/a22133a81348a53257a95183cb19e261/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 6",SuperSport Event 6 HD
+http://za.cline.in:8888/DSTV/c93839287730f1a9d2fc816594c3fdc7/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 7",SuperSport Event 7 HD
+http://za.cline.in:8888/DSTV/728bab81390dd3241e73ccdfb7ad5e2e/mpegts
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 8",SuperSport Event 8 HD
+http://za.cline.in:8888/DSTV/e963a19f4b066e202590ad4eccc7c05b/mpegts
+
+
+#EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="SuperSportTennis.za" tvg-shift="1" tvg-name="SuperSport Tennis",SuperSport Tennis HD
+http://za.cline.in:8888/DSTV/a1117afa51984e99bbc750d4785ffcf4/mpegts
+#EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="SuperSportTennis.za" tvg-shift="1" tvg-name="SuperSport Tennis",SuperSport Tennis HD
 http://395825980999325119.niceapy.xyz:80/play/1975/1975/325119.ts
-#EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="SuperSportTennis.za" tvg-shift="1" tvg-name="SuperSport Tennis",SuperSport Tennis
+#EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="SuperSportTennis.za" tvg-shift="1" tvg-name="SuperSport Tennis",SuperSport Tennis HD
 http://395825980999327827.niceapy.xyz:80/play/1975/1975/327827.ts
-#EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="SuperSportTennis.za" tvg-shift="1" tvg-name="SuperSport Tennis",SuperSport Tennis
+#EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="SuperSportTennis.za" tvg-shift="1" tvg-name="SuperSport Tennis",SuperSport Tennis HD
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/418582
-
 
 #EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="https://www.logolynx.com/images/logolynx/fc/fc5dfa094e2a9cd5ee98aac69bd57b87.jpeg" tvg-id="tennischannel.us" tvg-name="Tennis Channel",Tennis Channel US
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2806.ts
@@ -630,6 +706,9 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/2160
 #EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA",Sky Sport NBA
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/9520
 
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="WWEChannel.za" tvg-shift="1" tvg-name="WWE Channel",WWE Channel HD
+http://za.cline.in:8888/DSTV/4d5a3b05310048f2a31e3f1c9402be98/mpegts
+
 #EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="DAZNF1.es" tvg-name="DAZN F1",DAZN F1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10288.ts
 #EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="DAZNF1.es" tvg-name="DAZN F1",DAZN F1
@@ -657,6 +736,9 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87333.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87432.ts
 
 #EXTINF:-1 group-title="Deportivos Int." tvg-shift="1" tvg-logo="" tvg-id="SuperSportMotorSport.za" tvg-name="SuperSport MotorSport",SuperSport MotorSport HD
+http://za.cline.in:8888/DSTV/48678ec96003498b98968cd65c227569/mpegts
+
+#EXTINF:-1 group-title="Deportivos Int." tvg-shift="1" tvg-logo="" tvg-id="SuperSportMotorSport.za" tvg-name="SuperSport MotorSport",SuperSport MotorSport HD
 http://395825980999325115.niceapy.xyz:80/play/1975/1975/325115.ts
 
 #EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="ZiggoSportRacing.nl" tvg-name="Ziggo Sport Racing",Ziggo Sport Racing
@@ -673,3 +755,8 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87326.ts
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#Backup Providers
+
+#EXTINF:0 type="playlist", content-type="playlist", DSTV
+https://raw.githubusercontent.com/trincowski/iptv/main/DSTV.m3u8

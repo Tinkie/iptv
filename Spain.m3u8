@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml"
+
 # Spain.m3u8
 
 # Generalistas
@@ -166,6 +167,18 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10273.ts
 
 # Documentales
 
+#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="DMax.es" tvg-name="DMax",DMax
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127770
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="" tvg-name="Iberalia TV",Iberalia TV
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127728
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="" tvg-name="M+ BBC Earth",M+ BBC Earth
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/182511
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="DiscoveryChannelSpain.es" tvg-name="Discovery Channel Iberia",Discovery Channel España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10303.ts
+
 #EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="NationalGeographicSpain.es" tvg-name="National Geographic",National Geographic
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10297.ts
 #EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="NationalGeographicSpain.es" tvg-name="National Geographic",National Geographic
@@ -174,24 +187,30 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10231.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10298.ts
 #EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="NationalGeographicWildSpain.es" tvg-name="National Geographic Wild",National Geographic Wild
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10232.ts
-#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="CazayPesca.es" tvg-name="Caza y Pesca",Caza y Pesca
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10299.ts
-#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="CazayPesca.es" tvg-name="Caza y Pesca",Caza y Pesca
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10208.ts
-#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="" tvg-name="Viajar",Viajar
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10300.ts
-#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="" tvg-name="Viajar",Viajar
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10236.ts
-#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="CrimenPlusInvestigacion.es" tvg-name="Crimen + Investigación",Crimen + Investigación
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10301.ts
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="Odisea.es" tvg-name="Odisea España",Odisea España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10321.ts
+
 #EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="HistoriaSpain.es" tvg-name="Historia España",Historia España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10302.ts
 #EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="HistoriaSpain.es" tvg-name="Historia España",Historia España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10219.ts
-#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="DiscoveryChannelSpain.es" tvg-name="Discovery Channel Iberia",Discovery Channel España
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10303.ts
-#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="Odisea.es" tvg-name="Odisea España",Odisea España
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10321.ts
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="" tvg-name="Viajar",Viajar
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10300.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="" tvg-name="Viajar",Viajar
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10236.ts
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="CazayPesca.es" tvg-name="Caza y Pesca",Caza y Pesca
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10299.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="CazayPesca.es" tvg-name="Caza y Pesca",Caza y Pesca
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10208.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="CazayPesca.es" tvg-name="Caza y Pesca",Caza y Pesca
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96896
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="http://flixgran.xyz:8080/images/2b65dab7948b8a973044dc731f7da460.png" tvg-id="" tvg-name="Caçavision",Caçavision
+http://flixgran.xyz:8080/888888/888888/414799
+
 
 #Backup Providers
 

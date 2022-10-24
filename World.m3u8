@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/raiplay.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz"
+
 # World.m3u8
 
 #EXTINF:-1 group-title="Generalistas" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La1.png" tvg-id="La1.TV" tvg-name="La 1",La 1
@@ -17,12 +18,28 @@ https://rtvelivestream.akamaized.net/segments/la2/la2_main.m3u8
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Andalucía" tvg-logo="" tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127653
+#EXTINF:-1 group-title="Andalucía" tvg-logo="" tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10323.ts
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Sur 1 Andalucía",Canal Sur 1 Andalucía
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127673
+
 #EXTINF:-1 group-title="Andalucía" tvg-logo="" tvg-id="CanalMalaga.TV" tvg-name="Canal Málaga",Canal Málaga
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10364.ts
 
+#EXTINF:-1 group-title="Aragón" tvg-logo="" tvg-id="AragonTV.TV" tvg-name="Aragón TV",Aragón TV
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127657
+
+#EXTINF:-1 tvg-id="CMM.TV" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="Castilla-La Mancha" tvg-name="Castilla-La Mancha Media",Castilla-La Mancha Media
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/194245
+
+#EXTINF:-1 group-title="C. de Madrid" tvg-logo="" tvg-id="Telemadrid.TV" tvg-name="Telemadrid",Telemadrid
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/194254
 #EXTINF:-1 group-title="C. de Madrid" tvg-logo="" tvg-id="Telemadrid.TV" tvg-name="Telemadrid",Telemadrid
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10293.ts
+
+#EXTINF:-1 group-title="Extremadura" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Extremadura.png" tvg-id="Extremadura.TV" tvg-name="Canal Extremadura",Canal Extremadura
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127654
 
 #EXTINF:-1 group-title="R. de Murcia" tvg-logo="" tvg-id="7RM.TV" tvg-name="7 R. de Murcia",7 R. de Murcia
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96870
@@ -30,14 +47,25 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96870
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10368.ts
 
 #EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" tvg-id="" tvg-name="TV3CAT",TV3CAT
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/194251
+#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" tvg-id="" tvg-name="TV3CAT",TV3CAT
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="BoingSpain.it" tvg-name="Boing España",Boing España
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127793
 #EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="BoingSpain.it" tvg-name="Boing España",Boing España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10306.ts
 #EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="BoingSpain.it" tvg-name="Boing España",Boing España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10206.ts
 #EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="ClanTVE.es" tvg-name="Clan TVE",Clan
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127646
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="ClanTVE.es" tvg-name="Clan TVE",Clan
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10312.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="" tvg-name="DreamWorks",DreamWorks
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127790
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="DisneyChannelSpain.es" tvg-name="Disney Channel España",Disney Channel España
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127795
 #EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="DisneyChannelSpain.es" tvg-name="Disney Channel España",Disney Channel España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10311.ts
 #EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="DisneyChannelSpain.es" tvg-name="Disney Channel España",Disney Channel España
@@ -47,24 +75,37 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10309.ts
 #EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="" tvg-name="Disney + España",Disney + España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10214.ts
 #EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="DisneyJuniorSpain.es" tvg-name="Disney Junior España",Disney Junior España
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127796
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="DisneyJuniorSpain.es" tvg-name="Disney Junior España",Disney Junior España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10310.ts
 #EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="DisneyJuniorSpain.es" tvg-name="Disney Junior España",Disney Junior España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10213.ts
 #EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="CanalPandaSpain.pt" tvg-name="Canal Panda España",Canal Panda España
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127794
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="CanalPandaSpain.pt" tvg-name="Canal Panda España",Canal Panda España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10314.ts
 #EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="NickelodeonSpain.es" tvg-name="Nickelodeon España",Nickelodeon España
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127787
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="NickelodeonSpain.es" tvg-name="Nickelodeon España",Nickelodeon España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10308.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="NickJrSpain.es" tvg-name="Nick Jr España",Nick Jr España
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127788
 #EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="NickJrSpain.es" tvg-name="Nick Jr España",Nick Jr España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10307.ts
 #EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="NickJrSpain.es" tvg-name="Nick Jr España",Nick Jr España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10238.ts
 #EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="BabyTV.uk" tvg-name="Baby TV Latin America",Baby TV Latin America
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127792
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="BabyTV.uk" tvg-name="Baby TV Latin America",Baby TV Latin America
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10313.ts
+
 
 #EXTINF:-1 group-title="Galicia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVG.png" tvg-id="tvgalicia.tv.vodafone.pt" tvg-name="TVG",TVG
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
+#EXTINF:-1 group-title="Galicia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVG.png" tvg-id="tvgalicia.tv.vodafone.pt" tvg-name="TVG",TVG
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/194253
 
 #EXTINF:-1 group-title="Galicia" tvg-logo="" tvg-id="" tvg-name="TVG Cultura",TVG Cultura
 #KODIPROP:inputstream=inputstream.adaptive
@@ -129,6 +170,9 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
+#EXTINF:-1 group-title="Int. América" tvg-logo="" tvg-id="" tvg-name="Canal Orbe 21",Canal Orbe 21
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127674
+
 #EXTINF:-1 group-title="Int. África" tvg-logo="" tvg-id="TCVInternacional.cv" tvg-name="TCV",TCV Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87335.ts
 #EXTINF:-1 group-title="Int. África" tvg-logo="" tvg-id="TCVInternacional.cv" tvg-name="TCV",TCV Internacional
@@ -136,7 +180,6 @@ http://flixgran.xyz:8080/888888/888888/414922
 
 #EXTINF:-1 group-title="Int. África" tvg-logo="http://flixgran.xyz:8080/images/ab5ba99847af76a9003a97b2e45cda5f.png" tvg-id="" tvg-name="TVC News",TVC News
 http://flixgran.xyz:8080/888888/888888/414902
-
 
 #EXTINF:-1 group-title="Int. África" tvg-logo="" tvg-id="TPAInternacional.ao" tvg-name="TPA",TPA Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87340.ts
@@ -149,7 +192,6 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87303.ts
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96963
 #EXTINF:-1 group-title="Int. África" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" tvg-id="" tvg-name="ZAP Viva",ZAP Viva
 http://flixgran.xyz:8080/888888/888888/414892
-
 
 #EXTINF:-1 group-title="Int. África" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVM.png",TVM
 #KODIPROP:inputstream=inputstream.adaptive
@@ -255,6 +297,8 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87328.ts
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="CBS REALITY",CBS Reality
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96902
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation",Crime + Investigation
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127769
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation",Crime + Investigation
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87327.ts
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation",Crime + Investigation
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87343.ts
@@ -262,10 +306,14 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87343.ts
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96887
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation",Crime + Investigation
 http://flixgran.xyz:8080/888888/888888/414856
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="CrimenPlusInvestigacion.es" tvg-name="Crimen + Investigación",Crimen + Investigación
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10301.ts
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="https://cunhadigital.com/Picons/Investdisc.png" tvg-id="" tvg-name="ID Investigation Discovery",ID Investigation Discovery
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87436.ts
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="https://cunhadigital.com/Picons/Investdisc.png" tvg-id="" tvg-name="ID Investigation Discovery",ID Investigation Discovery
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416398
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="BlazeSpain.us" tvg-name="Blaze España",Blaze España
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/181633
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="AMC Break",AMC Break
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87296.ts
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="AMC Break",AMC Break
@@ -279,23 +327,23 @@ http://flixgran.xyz:8080/888888/888888/414862
 
 
 #EXTINF:-1 group-title="Otros" tvg-logo="" tvg-id="CanalCocina.es" tvg-name="Canal Cocina",Canal Cocina
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127777
+#EXTINF:-1 group-title="Otros" tvg-logo="" tvg-id="CanalCocina.es" tvg-name="Canal Cocina",Canal Cocina
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10207.ts
 #EXTINF:-1 group-title="Otros" tvg-logo="" tvg-id="CanalCocina.es" tvg-name="Canal Cocina",Canal Cocina
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10304.ts
+
+#EXTINF:-1 group-title="Otros" tvg-logo="" tvg-id="Decasa.es" tvg-name="Decasa",DeCasa
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127729
 #EXTINF:-1 group-title="Otros" tvg-logo="" tvg-id="Decasa.es" tvg-name="Decasa",DeCasa
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10305.ts
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="CazayPesca.es" tvg-name="Caza y Pesca",Caza y Pesca
-http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96896
+#EXTINF:-1 group-title="Otros" tvg-logo="" tvg-id="" tvg-name="Canal de Las Estrelas",Canal de Las Estrelas
+http://395825980999317579.niceapy.xyz:80/play/1975/1975/317579.ts
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="CazayPesca.es" tvg-name="Caza y Pesca",Caza y Pesca
-http://flixgran.xyz:8080/888888/888888/414798
+#EXTINF:-1 group-title="Otros" tvg-logo="" tvg-id="" tvg-name="Got Talent Spain",Got Talent Spain
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127650
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="CazayPesca.es" tvg-name="Caza y Pesca",Caza y Pesca
-http://flixgran.xyz:8080/888888/888888/414797
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="http://flixgran.xyz:8080/images/2b65dab7948b8a973044dc731f7da460.png" tvg-id="" tvg-name="Caçavision",Caçavision
-http://flixgran.xyz:8080/888888/888888/414799
 
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Stingray IConcerts",Stingray IConcerts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87342.ts
@@ -307,15 +355,19 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87342.ts
 http://flixgran.xyz:8080/888888/888888/393982
 
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MTV 00s",MTV 00s
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127813
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MTV 00s",MTV 00s
 http://flixgran.xyz:8080/888888/888888/393969
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MTV 00s",MTV 00s
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87476.ts
-
 
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="MTVPortugal.pt" tvg-name="MTV Portugal",MTV Portugal
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87325.ts
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="MTVPortugal.pt" tvg-name="MTV Portugal",MTV Portugal
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96923
+
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="MTVSpain.es" tvg-name="MTV España",MTV España
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127809
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="MTVSpain.es" tvg-name="MTV España",MTV España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10324.ts
 
@@ -327,6 +379,12 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87473.ts
 #http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/169
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MCM Top",MCM Top
 #http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/21525
+
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Mezzo",Mezzo
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127804
+
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Mezzo Live",Mezzo Live
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127812
 
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="180hd.tv.vodafone.pt" tvg-name="Canal 180",Canal 180
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87309.ts
