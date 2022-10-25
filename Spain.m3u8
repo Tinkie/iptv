@@ -80,11 +80,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 # Cine y Series
 
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="0porMovistarPlus.es" tvg-name="M+ #0",M+ #0
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10251.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="0porMovistarPlus.es" tvg-name="M+ #0",M+ #0
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10201.ts
-
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="AMCSpain.es" tvg-name="AMC España",AMC España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10263.ts
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="AMCSpain.es" tvg-name="AMC España",AMC España
@@ -130,6 +125,11 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10218.ts
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="CanalHollywoodSpain.es" tvg-name="Hollywood España",Hollywood España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10268.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="0porMovistarPlus.es" tvg-name="M+ #0",M+ #0
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10251.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="0porMovistarPlus.es" tvg-name="M+ #0",M+ #0
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10201.ts
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarCineEspanol.es" tvg-name="M+ Cine",M+ Cine
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10277.ts
