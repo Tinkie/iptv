@@ -45,7 +45,7 @@ http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127735
 #EXTINF:-1 group-title="Generalistas" tvg-logo="" tvg-id="DKiss.es" tvg-name="DKiss",DKiss
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127757
 
-#EXTINF:-1 group-title="Generalistas" tvg-logo="" tvg-id="MovistarResistencia.es" tvg-name="Movistar Resistencia",Movistar Resistencia
+#EXTINF:-1 group-title="Generalistas" tvg-logo="" tvg-id="MovistarResistencia.es" tvg-name="M+ Resistencia",M+ Resistencia
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/164752
 
 #EXTINF:-1 group-title="Generalistas" tvg-logo="" tvg-id="SundanceTVSpain.es" tvg-name="Sundance TV España",Sundance TV España
@@ -55,17 +55,11 @@ http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127706
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="Neox.es" tvg-name="Neox",Neox
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127672
 
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="Dark",Dark
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/194252
-
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="0porMovistarPlus.es" tvg-name="#0",#0
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="0porMovistarPlus.es" tvg-name="M+ #0",M+ #0
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127718
 
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarSeries.es" tvg-name="Movistar Series",Movistar Series
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarSeries.es" tvg-name="M+ Series",M+ Series
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127719
-
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarSeries2.es" tvg-name="Movistar Series 2",Movistar Series 2
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/164751
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="ComedyCentralSpain.es" tvg-name="Comedy Central España",Comedy Central España
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127700
@@ -97,33 +91,24 @@ http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127732
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="FDF",FDF
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127733
 
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="XTRM",XTRM
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127736
-
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="Bom Cine",Bom Cine
-http://395825980999317604.niceapy.xyz:80/play/1975/1975/317604.ts
-
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarEstrenos.es" tvg-name="Movistar Estrenos",Movistar Estrenos
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarEstrenos.es" tvg-name="M+ Estrenos",M+ Estrenos
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127687
 
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarEstrenos2.es" tvg-name="Movistar Estrenos 2",Movistar Estrenos 2
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/164749
-
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarAccion.es" tvg-name="Movistar Acción",Movistar Acción
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarAccion.es" tvg-name="M+ Acción",M+ Acción
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127688
 
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarComedia.es" tvg-name="Movistar Comedia",Movistar Comedia
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarComedia.es" tvg-name="M+ Comedia",M+ Comedia
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127689
 
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarDrama.es" tvg-name="Movistar Drama",Movistar Drama
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarDrama.es" tvg-name="M+ Drama",M+ Drama
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127679
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarDrama.es" tvg-name="Movistar Drama",Movistar Drama
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarDrama.es" tvg-name="M+ Drama",M+ Drama
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127690
 
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarCineEspanol.es" tvg-name="Movistar Cine",Movistar Cine
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarCineEspanol.es" tvg-name="M+ Cine",M+ Cine
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127680
 
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="CanalHollywoodSpain.es" tvg-name="Canal Hollywood España",Hollywood España
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="CanalHollywoodSpain.es" tvg-name="Hollywood España",Hollywood España
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127693
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="TCMSpain.es" tvg-name="TCM España",TCM España
@@ -134,9 +119,6 @@ http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127695
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="ParamountChannelSpain.es" tvg-name="Paramount Channel España",Paramount Channel España
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127696
-
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="Somos",Somos
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/164750
 
 
 #EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="DiscoveryChannelSpain.es" tvg-name="Discovery Channel Iberia",Discovery Channel España
