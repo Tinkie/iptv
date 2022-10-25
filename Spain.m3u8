@@ -80,10 +80,45 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 # Cine y Series
 
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="0porMovistarPlus.es" tvg-name="#0",#0
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="0porMovistarPlus.es" tvg-name="M+ #0",M+ #0
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10251.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="0porMovistarPlus.es" tvg-name="#0",#0
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="0porMovistarPlus.es" tvg-name="M+ #0",M+ #0
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10201.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="AMCSpain.es" tvg-name="AMC España",AMC España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10263.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="AMCSpain.es" tvg-name="AMC España",AMC España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10203.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="AXNEurope.gr" tvg-name="AXN España",AXN España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10254.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="AXNEurope.gr" tvg-name="AXN España",AXN España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10205.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="AXNWhite.us" tvg-name="AXN White España",AXN White España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10255.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="Bom Cine",Bom Cine
+http://395825980999317604.niceapy.xyz:80/play/1975/1975/317604.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="Calle13.es" tvg-name="Calle 13",Calle 13
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10257.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="Cosmo",Cosmo
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10259.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="Cosmo",Cosmo
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10210.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="Energy.es" tvg-name="Energy",Energy
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10260.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="Energy.es" tvg-name="Energy",Energy
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10215.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="FDF",FDF
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10261.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="FDF",FDF
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10216.ts
+
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="FoxSpain.es" tvg-name="Fox España",Fox España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10252.ts
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="FoxSpain.es" tvg-name="Fox España",Fox España
@@ -92,78 +127,85 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10217.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10253.ts
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="FoxLifeSpain.es" tvg-name="Fox Life España",Fox Life España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10218.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="AMCSpain.es" tvg-name="AMC España",AMC España
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10263.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="AMCSpain.es" tvg-name="AMC España",AMC España
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10203.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="AXNEurope.gr" tvg-name="AXN España",AXN España
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10254.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="AXNEurope.gr" tvg-name="AXN España",AXN España
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10205.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="AXNWhite.us" tvg-name="AXN White España",AXN White España
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10255.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="SyfySpain.us" tvg-name="Syfy España",SyFy España
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10256.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="SyfySpain.us" tvg-name="Syfy España",Syfy España
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10233.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="Calle13.es" tvg-name="Calle 13",Calle 13
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10257.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="TNTSpain.es" tvg-name="TNT España",TNT España
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10316.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="TNTSpain.es" tvg-name="TNT España",TNT España
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10234.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="TCMSpain.es" tvg-name="TCM España",TCM España
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10258.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="Cosmo",Cosmo
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10259.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="Cosmo",Cosmo
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10210.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="Energy.es" tvg-name="Energy",Energy
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10260.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="Energy.es" tvg-name="Energy",Energy
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10215.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="FDF",FDF
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10261.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="FDF",FDF
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10216.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="CanalHollywoodSpain.es" tvg-name="Hollywood España",Hollywood España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10268.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarCineEspanol.es" tvg-name="M+ Cine",M+ Cine
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10277.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarAccion.es" tvg-name="M+ Acción",M+ Acción
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10270.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarAccion.es" tvg-name="M+ Acción",M+ Acción
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10222.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarComedia.es" tvg-name="M+ Comedia",M+ Comedia
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10276.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarComedia.es" tvg-name="M+ Comedia",M+ Comedia
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10224.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarEstrenos.es" tvg-name="M+ Estrenos",M+ Estrenos
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10274.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarEstrenos.es" tvg-name="M+ Estrenos",M+ Estrenos
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10227.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarEstrenos2.es" tvg-name="M+ Estrenos 2",M+ Estrenos 2
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/164749
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarDrama.es" tvg-name="M+ Drama",M+ Drama
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10275.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarDrama.es" tvg-name="M+ Drama",M+ Drama
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10226.ts
+
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="Neox.es" tvg-name="Neox",Neox
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10262.ts
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="Neox.es" tvg-name="Neox",Neox
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10237.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="ParamountChannelSpain.es" tvg-name="Paramount Channel España",Paramount Channel España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10269.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="Somos",Somos
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/164750
+
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="SyfySpain.us" tvg-name="Syfy España",SyFy España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10256.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="SyfySpain.us" tvg-name="Syfy España",Syfy España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10233.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="TCMSpain.es" tvg-name="TCM España",TCM España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10258.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="TNTSpain.es" tvg-name="TNT España",TNT España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10316.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="TNTSpain.es" tvg-name="TNT España",TNT España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10234.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="Dark",Dark
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/194252
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="XTRM",XTRM
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127736
+
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="A3Series",A3Series
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10267.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarSeries.es" tvg-name="M+ Series",M+ Series
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10230.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarSeries.es" tvg-name="M+ Series",M+ Series
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10272.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarSeries.es" tvg-name="M+ Series",M+ Series
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10273.ts
+
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarSeries2.es" tvg-name="M+ Series 2",M+ Series 2
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/164751
+
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="ComedyCentralSpain.es" tvg-name="Comedy Central España",Comedy Central España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10266.ts
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="ComedyCentralSpain.es" tvg-name="Comedy Central España",Comedy Central España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10209.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="A3Series",A3Series
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10267.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="CanalHollywoodSpain.es" tvg-name="Canal Hollywood España",Hollywood España
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10268.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="ParamountChannelSpain.es" tvg-name="Paramount Channel España",Paramount Channel España
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10269.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarCineEspanol.es" tvg-name="Movistar Cine",Movistar Cine
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10277.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarAccion.es" tvg-name="Movistar Acción",Movistar Acción
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10270.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarAccion.es" tvg-name="Movistar Acción",Movistar Acción
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10222.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarComedia.es" tvg-name="Movistar Comedia",Movistar Comedia
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10276.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarComedia.es" tvg-name="Movistar Comedia",Movistar Comedia
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10224.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarEstrenos.es" tvg-name="Movistar Estrenos",Movistar Estrenos
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10274.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarEstrenos.es" tvg-name="Movistar Estrenos",Movistar Estrenos
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10227.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarDrama.es" tvg-name="Movistar Drama",Movistar Drama
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10275.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarDrama.es" tvg-name="Movistar Drama",Movistar Drama
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10226.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarSeries.es" tvg-name="Movistar Series",Movistar Series
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10230.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarSeries.es" tvg-name="Movistar Series",Movistar Series
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10272.ts
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarSeries.es" tvg-name="Movistar Series",Movistar Series
-http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10273.ts
 
 # Documentales
 
