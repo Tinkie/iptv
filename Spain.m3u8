@@ -253,6 +253,70 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96896
 #EXTINF:-1 group-title="Documentales" tvg-logo="http://flixgran.xyz:8080/images/2b65dab7948b8a973044dc731f7da460.png" tvg-id="" tvg-name="Caçavision",Caçavision
 http://flixgran.xyz:8080/888888/888888/414799
 
+# Infantiles
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="Infantiles" tvg-name="Cartoon Network Latino",Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="BoingSpain.it" tvg-name="Boing España",Boing España
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127793
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="BoingSpain.it" tvg-name="Boing España",Boing España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10306.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="BoingSpain.it" tvg-name="Boing España",Boing España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10206.ts
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="CanalPandaSpain.pt" tvg-name="Canal Panda España",Canal Panda España
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127794
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="CanalPandaSpain.pt" tvg-name="Canal Panda España",Canal Panda España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10314.ts
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="ClanTVE.es" tvg-name="Clan TVE",Clan
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127646
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="ClanTVE.es" tvg-name="Clan TVE",Clan
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10312.ts
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="" tvg-name="DreamWorks",DreamWorks
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127790
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="DisneyChannelSpain.es" tvg-name="Disney Channel España",Disney Channel España
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127795
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="DisneyChannelSpain.es" tvg-name="Disney Channel España",Disney Channel España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10311.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="DisneyChannelSpain.es" tvg-name="Disney Channel España",Disney Channel España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10212.ts
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="" tvg-name="Disney + España",Disney + España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10309.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="" tvg-name="Disney + España",Disney + España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10214.ts
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="DisneyJuniorSpain.es" tvg-name="Disney Junior España",Disney Junior España
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127796
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="DisneyJuniorSpain.es" tvg-name="Disney Junior España",Disney Junior España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10310.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="DisneyJuniorSpain.es" tvg-name="Disney Junior España",Disney Junior España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10213.ts
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="NickelodeonSpain.es" tvg-name="Nickelodeon España",Nickelodeon España
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127787
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="NickelodeonSpain.es" tvg-name="Nickelodeon España",Nickelodeon España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10308.ts
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="NickJrSpain.es" tvg-name="Nick Jr España",Nick Jr España
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127788
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="NickJrSpain.es" tvg-name="Nick Jr España",Nick Jr España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10307.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="NickJrSpain.es" tvg-name="Nick Jr España",Nick Jr España
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10238.ts
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="BabyTV.uk" tvg-name="Baby TV Latin America",Baby TV Latin America
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127792
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="BabyTV.uk" tvg-name="Baby TV Latin America",Baby TV Latin America
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10313.ts
+
 
 #Backup Providers
 
