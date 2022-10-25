@@ -275,6 +275,9 @@ http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127646
 #EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="ClanTVE.es" tvg-name="Clan TVE",Clan
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10312.ts
 
+#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan GEO
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+
 #EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="" tvg-name="DreamWorks",DreamWorks
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127790
 
