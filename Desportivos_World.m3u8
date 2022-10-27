@@ -327,17 +327,19 @@ http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/204481
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/151440
 
 
-#EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="RaiSport.it" tvg-name="Rai Sport",RAI Sport HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159562
+#EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="RaiSport.it" tvg-name="Rai Sport",RAI Sport FHD
+#
 
-#EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport + FHD
-http://cineapp.org:8000/Fernando/Fernando/1276
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport + HD
 http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/218
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport + HD
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/1899
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport + HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159562
+#EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport + FHD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159562
+#EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport + FHD
+http://cineapp.org:8000/Fernando/Fernando/1276
 
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="https://image.emojisky.com/668/12236668-middle.png" tvg-name="RTV Sport",RTV Sport HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159564
