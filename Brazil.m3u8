@@ -8,10 +8,42 @@
 http://ssvrv.xyz:80/87165110/39413705/180246
 #EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalOff.br" tvg-name="Canal Off",Canal Off HD
 http://ssvrv.xyz:80/87165110/39413705/180249
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalOff.br" tvg-name="Canal Off",Canal Off
-http://flixgran.xyz:8080/888888/888888/1458
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalOff.br" tvg-name="Canal Off",Canal Off FHD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272829
 #EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalOff.br" tvg-name="Canal Off",Canal Off HD
-http://flixgran.xyz:8080/888888/888888/1581
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272830
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalOff.br" tvg-name="Canal Off",Canal Off
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272831
+
+#EXTINF:-1 group-title="Brazil",Lifetime FHD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272590
+#EXTINF:-1 group-title="Brazil",Lifetime HD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272591
+#EXTINF:-1 group-title="Brazil",Lifetime
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272592
+
+#EXTINF:-1 group-title="Brazil",Modo Viagem FHD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272593
+#EXTINF:-1 group-title="Brazil",Modo Viagem HD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272594
+#EXTINF:-1 group-title="Brazil",Modo Viagem
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272595
+
+#EXTINF:-1 group-title="Brazil",Nova Era TV HD
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+
+#EXTINF:-1 group-title="Brazil",Rede RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+
+#EXTINF:-1 group-title="Brazil",Rede RCRPC TV
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272423
+
+#EXTINF:-1 group-title="Brazil",TV das Artes
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8
+
+#EXTINF:-1 group-title="Brazil",TV Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="RedeGlobo.br" tvg-name="Globo",Globo
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87291.ts
@@ -91,28 +123,35 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="SBTNacional.br" tvg-name="SBT",SBT
-http://flixgran.xyz:8080/888888/888888/1685
 
 # Animação
 
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids
-http://ssvrv.xyz:80/87165110/39413705/180128
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Cartoonito.br" tvg-name="Cartoonito",Cartoonito FHD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272431
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Cartoonito.br" tvg-name="Cartoonito",Cartoonito HD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272432
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Cartoonito.br" tvg-name="Cartoonito",Cartoonito
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272433
+
 #EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids HD
 http://ssvrv.xyz:80/87165110/39413705/180131
 #EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids FHD
 http://ssvrv.xyz:80/87165110/39413705/180133
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids FHD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272437
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids HD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272438
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272439
 #EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/99369
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids
+http://ssvrv.xyz:80/87165110/39413705/180128
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalFutura.br" tvg-name="Canal Futura",Canal Futura
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalFutura.br" tvg-name="Canal Futura",Canal Futura
-http://flixgran.xyz:8080/888888/888888/339439
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalFutura.br" tvg-name="Canal Futura",Canal Futura HD
-http://flixgran.xyz:8080/888888/888888/339440
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Nick-Clássico.jpg" tvg-id="" tvg-name="Nick Clássico",Nick Clássico
 #KODIPROP:inputstream=inputstream.adaptive

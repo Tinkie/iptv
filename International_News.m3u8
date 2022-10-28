@@ -74,7 +74,7 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="Int. News" tvg-logo="" tvg-id="bbcwd.tv.vodafone.pt",BBC World News
-http://flixgran.xyz:8080/888888/888888/414898
+#http://flixgran.xyz:8080/888888/888888/414898
 
 #EXTINF:-1 group-title="Int. News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CBSN.png" tvg-id="CBSN",CBS News
 #KODIPROP:inputstream=inputstream.adaptive
@@ -99,14 +99,11 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87464.ts
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="Int. News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png" tvg-id="cnn.tv.vodafone.pt",CNN
-http://flixgran.xyz:8080/888888/888888/352920
-
 #EXTINF:-1 group-title="Int. News" tvg-logo="" tvg-id="" tvg-name="Fox News",Fox News
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/138917
 
 #EXTINF:-1 group-title="Int. News" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/SKYNEWS.png" tvg-id="" tvg-name="Sky News",Sky News
-http://flixgran.xyz:8080/888888/888888/414899
+#http://flixgran.xyz:8080/888888/888888/414899
 
 #EXTINF:-1 group-title="Int. News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png" tvg-id="TELESUR.meo.pt",teleSUR English
 #KODIPROP:inputstream=inputstream.adaptive

@@ -129,23 +129,17 @@ http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127674
 
 #EXTINF:-1 group-title="Int. África" tvg-logo="" tvg-id="TCVInternacional.cv" tvg-name="TCV",TCV Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87335.ts
-#EXTINF:-1 group-title="Int. África" tvg-logo="" tvg-id="TCVInternacional.cv" tvg-name="TCV",TCV Internacional
-http://flixgran.xyz:8080/888888/888888/414922
 
 #EXTINF:-1 group-title="Int. África" tvg-logo="http://flixgran.xyz:8080/images/ab5ba99847af76a9003a97b2e45cda5f.png" tvg-id="" tvg-name="TVC News",TVC News
-http://flixgran.xyz:8080/888888/888888/414902
+#http://flixgran.xyz:8080/888888/888888/414902
 
 #EXTINF:-1 group-title="Int. África" tvg-logo="" tvg-id="TPAInternacional.ao" tvg-name="TPA",TPA Internacional
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87340.ts
-#EXTINF:-1 group-title="Int. África" tvg-logo="" tvg-id="TPAInternacional.ao" tvg-name="TPA",TPA Internacional
-http://flixgran.xyz:8080/888888/888888/414913
 
 #EXTINF:-1 group-title="Int. África" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" tvg-id="" tvg-name="ZAP Viva",ZAP Viva
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87303.ts
 #EXTINF:-1 group-title="Int. África" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" tvg-id="" tvg-name="ZAP Viva",ZAP Viva
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96963
-#EXTINF:-1 group-title="Int. África" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" tvg-id="" tvg-name="ZAP Viva",ZAP Viva
-http://flixgran.xyz:8080/888888/888888/414892
 
 #EXTINF:-1 group-title="Int. África" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVM.png",TVM
 #KODIPROP:inputstream=inputstream.adaptive
@@ -163,7 +157,7 @@ http://196.28.226.121:1935/live/smil:Channel2.smil/playlist.m3u8
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8
 
 #EXTINF:-1 group-title="Int. África" tvg-logo="" tvg-id="" tvg-name="Stv Notícias",Stv Notícias
-http://flixgran.xyz:8080/888888/888888/414891
+#http://flixgran.xyz:8080/888888/888888/414891
 
 
 #EXTINF:-1 group-title="Int. Asia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN.png" tvg-id="CGTNN.TV",CGTN
@@ -201,29 +195,16 @@ https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Al-Jazeera.png" tvg-id="aljaze.tv.vodafone.pt",Al Jazeera
-http://flixgran.xyz:8080/888888/888888/414927
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTINF:-1 group-title="Int. Asia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Al-Jazeera.png" tvg-id="aljaze.tv.vodafone.pt",Al Jazeera
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Al-Jazeera.png" tvg-id="aljaze.tv.vodafone.pt",Al Jazeera
-http://flixgran.xyz:8080/888888/888888/414927
 
 
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fashion-TV.png" tvg-id="fashiontvhd.tv.vodafone.pt" tvg-name="Fashion TV",Fashion TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fashion-TV.png" tvg-id="fashiontvhd.tv.vodafone.pt" tvg-name="Fashion TV",Fashion TV
-http://flixgran.xyz:8080/888888/888888/414932
-
-#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fashion-TV.png" tvg-id="fashiontvhd.tv.vodafone.pt" tvg-name="Fashion TV",Fashion TV
-http://flixgran.xyz:8080/888888/888888/414923
-
-#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="FashionBox",FashionBox
-http://flixgran.xyz:8080/888888/888888/414933
 
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HD-Fashion-&-Lifestyle-TV.png" tvg-id="hd-fashion",HD Fashion & Lifestyle TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -261,8 +242,6 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87327.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87343.ts
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation",Crime + Investigation
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96887
-#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation",Crime + Investigation
-http://flixgran.xyz:8080/888888/888888/414856
 
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="CrimenPlusInvestigacion.es" tvg-name="Crimen + Investigación",Crimen + Investigación
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10301.ts
@@ -281,10 +260,6 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87296.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87344.ts
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="AMC Break",AMC Break
 http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416440
-#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="AMC Break",AMC Break
-http://flixgran.xyz:8080/888888/888888/414863
-#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="AMC Break",AMC Break
-http://flixgran.xyz:8080/888888/888888/414862
 
 
 #EXTINF:-1 group-title="Otros" tvg-logo="" tvg-id="CanalCocina.es" tvg-name="Canal Cocina",Canal Cocina
@@ -312,13 +287,8 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87342.ts
 #EXTINF:-1 group-title="Musicales",VH1
 #http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/239
 
-#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MTV Live",MTV Live
-http://flixgran.xyz:8080/888888/888888/393982
-
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MTV 00s",MTV 00s
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127813
-#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MTV 00s",MTV 00s
-http://flixgran.xyz:8080/888888/888888/393969
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MTV 00s",MTV 00s
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87476.ts
 
@@ -360,6 +330,13 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87468.ts
 
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Afro Music Channel",Afro Music Channel
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87474.ts
+
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Music Box Brazil",Music Box Brazil FHD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272605
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Music Box Brazil",Music Box Brazil HD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272606
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Music Box Brazil",Music Box Brazil
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272607
 
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Trace Brazuca",Trace Brazuca
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87469.ts
@@ -428,48 +405,3 @@ https://stream1.xdevel.com/video0s975817-1182/stream/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AlmaLusa FHD" tvg-logo="http://flixgran.xyz:8080/images/f994ddb6826401b4c62f4c787376f272.png" group-title="CANAIS | PORTUGAL",AlmaLusa FHD
-http://flixgran.xyz:8080/888888/888888/414930
-
-#EXTINF:-1 tvg-id="" tvg-name="AFRO MUSIC" tvg-logo="http://flixgran.xyz:8080/images/9780604fd1ac995f1476c5cb52929de0.png" group-title="Musicales",AFRO MUSIC
-http://flixgran.xyz:8080/888888/888888/414938
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal 180" tvg-logo="http://flixgran.xyz:8080/images/adaebe295bd11bf3f04dde0ee27b5016.png" group-title="Musicales",Canal 180
-http://flixgran.xyz:8080/888888/888888/414889
-
-#EXTINF:-1 tvg-id="" tvg-name="I CONCERTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2e/I_concerts_logo.png" group-title="Musicales",I CONCERTS FHD
-http://flixgran.xyz:8080/888888/888888/414937
-
-#EXTINF:-1 tvg-id="" tvg-name="MCM POP" tvg-logo="http://flixgran.xyz:8080/images/0fc2105420b3668778caccdab3049716.png" group-title="CANAIS | PORTUGAL",MCM POP
-http://flixgran.xyz:8080/888888/888888/414939
-#EXTINF:-1 tvg-id="" tvg-name="MCM TOP" tvg-logo="http://flixgran.xyz:8080/images/261d0e1408f09f079c14e6678c3f03ce.png" group-title="CANAIS | PORTUGAL",MCM TOP
-http://flixgran.xyz:8080/888888/888888/414947
-#EXTINF:-1 tvg-id="" tvg-name="MEZZO" tvg-logo="http://flixgran.xyz:8080/images/e79af0350d7cbad07e21c767684ece4a.png" group-title="CANAIS | PORTUGAL",MEZZO
-http://flixgran.xyz:8080/888888/888888/414942
-
-#EXTINF:-1 tvg-id="" tvg-name="MTV 00's" tvg-logo="http://flixgran.xyz:8080/images/8a53e0a2194f6a8f607a710700a5647e.png" group-title="CANAIS | PORTUGAL",MTV 00's
-http://flixgran.xyz:8080/888888/888888/414946
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="" group-title="CANAIS | PORTUGAL",MTV LIVE
-http://flixgran.xyz:8080/888888/888888/414948
-#EXTINF:-1 tvg-id="" tvg-name="MTV LOW" tvg-logo="http://flixgran.xyz:8080/images/b49882eae96bb41a7fa1feb6aa7acc18.png" group-title="CANAIS | PORTUGAL",MTV LOW
-http://flixgran.xyz:8080/888888/888888/415031
-#EXTINF:-1 tvg-id="" tvg-name="MTV PORTUGAL" tvg-logo="http://flixgran.xyz:8080/images/b49882eae96bb41a7fa1feb6aa7acc18.png" group-title="CANAIS | PORTUGAL",MTV PORTUGAL
-http://flixgran.xyz:8080/888888/888888/414941
-#EXTINF:-1 tvg-id="" tvg-name="MTV PORTUGAL FHD" tvg-logo="http://flixgran.xyz:8080/images/11d6449dc69c6b5ecd7b7b4c473bcd52.png" group-title="CANAIS | PORTUGAL",MTV PORTUGAL FHD
-http://flixgran.xyz:8080/888888/888888/414940
-
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="http://flixgran.xyz:8080/images/4f6db9548734c19eeb7aae5f442e1c96.png" group-title="CANAIS | PORTUGAL",VH1
-http://flixgran.xyz:8080/888888/888888/414945
-
-#EXTINF:-1 tvg-id="" tvg-name="TRACE SPORTS STARS" tvg-logo="" group-title="CANAIS | PORTUGAL",TRACE SPORTS STARS
-http://flixgran.xyz:8080/888888/888888/414921
-
-#EXTINF:-1 tvg-id="" tvg-name="TRACE TOCA" tvg-logo="http://flixgran.xyz:8080/images/bb65c2ef311d6a755470f65b3bb9d104.png" group-title="CANAIS | PORTUGAL",TRACE TOCA
-http://flixgran.xyz:8080/888888/888888/414943
-
-#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="http://flixgran.xyz:8080/images/8bd3c8e67a63b94ca3252b38e8eea02b.png" group-title="CANAIS | PORTUGAL",TRACE URBAN
-http://flixgran.xyz:8080/888888/888888/414944
-
-#EXTINF:-1 tvg-id="" tvg-name="Más Chic" tvg-logo="" group-title="CANAIS | PORTUGAL",Más Chic
-http://flixgran.xyz:8080/888888/888888/414929
