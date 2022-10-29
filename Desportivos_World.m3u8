@@ -472,7 +472,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2704.ts
 #EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football",SuperSport Football HD
 http://395825980999328352.niceapy.xyz:80/play/1975/1975/328352.ts
 
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="" tvg-name="SuperSport Football Plus",SuperSport Football Plus FHD
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportFootballPlus.za" tvg-name="SuperSport Football Plus",SuperSport Football Plus FHD
 #http://za.cline.in:8888/DSTV/1df27619bab914759e7ad132832e0215/mpegts
 
 #EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga",SuperSport LaLiga
@@ -529,21 +529,21 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2710.ts
 #EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Action",SuperSport Action HD
 http://395825980999325107.niceapy.xyz:80/play/1975/1975/325107.ts
 
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 1",SuperSport Event 1 HD
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportOTT.za" tvg-name="SuperSport Event 1",SuperSport Event 1 HD
 #http://za.cline.in:8888/DSTV/eb0817a30582d0e708dff1a77dc15132/mpegts
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 2",SuperSport Event 2 HD
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportOTT2.za" tvg-name="SuperSport Event 2",SuperSport Event 2 HD
 #http://za.cline.in:8888/DSTV/5b29f8e964a72f1b9c8098a1f20efbae/mpegts
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 3",SuperSport Event 3 HD
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportOTT3.za" tvg-name="SuperSport Event 3",SuperSport Event 3 HD
 #http://za.cline.in:8888/DSTV/dd83a0dc5230aee2eab5ffaa53c2fb49/mpegts
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 4",SuperSport Event 4 HD
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportOTT4.za" tvg-name="SuperSport Event 4",SuperSport Event 4 HD
 #http://za.cline.in:8888/DSTV/16aa7426fb9f503806e2efe801ae4449/mpegts
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 5",SuperSport Event 5 HD
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportOTT5.za" tvg-name="SuperSport Event 5",SuperSport Event 5 HD
 #http://za.cline.in:8888/DSTV/a22133a81348a53257a95183cb19e261/mpegts
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 6",SuperSport Event 6 HD
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportOTT6.za" tvg-name="SuperSport Event 6",SuperSport Event 6 HD
 #http://za.cline.in:8888/DSTV/c93839287730f1a9d2fc816594c3fdc7/mpegts
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 7",SuperSport Event 7 HD
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportOTT7.za" tvg-name="SuperSport Event 7",SuperSport Event 7 HD
 #http://za.cline.in:8888/DSTV/728bab81390dd3241e73ccdfb7ad5e2e/mpegts
-#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportAction.za" tvg-name="SuperSport Event 8",SuperSport Event 8 HD
+#EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportOTT8.za" tvg-name="SuperSport Event 8",SuperSport Event 8 HD
 #http://za.cline.in:8888/DSTV/e963a19f4b066e202590ad4eccc7c05b/mpegts
 
 
