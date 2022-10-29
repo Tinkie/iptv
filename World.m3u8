@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/raiplay.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/raiplay.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz"
 
 # World.m3u8
 
@@ -195,10 +195,13 @@ https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTINF:-1 group-title="Int. Asia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Al-Jazeera.png" tvg-id="aljaze.tv.vodafone.pt",Al Jazeera
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 group-title="Int. Asia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Al-Jazeera.png" tvg-id="aljaze.tv.vodafone.pt",Al Jazeera
+https://hls.youtb.workers.dev/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
 
 
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fashion-TV.png" tvg-id="fashiontvhd.tv.vodafone.pt" tvg-name="Fashion TV",Fashion TV
@@ -280,6 +283,12 @@ http://395825980999317579.niceapy.xyz:80/play/1975/1975/317579.ts
 #EXTINF:-1 group-title="Otros" tvg-logo="" tvg-id="" tvg-name="Got Talent Spain",Got Talent Spain
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127650
 
+
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="MovistarFest.es" tvg-name="M+ Fest",M+ Fest HD
+http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/207563
+
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Sky High Concert",Sky High Concert HD
+http://he11o.akadatel.com/iptv/PK5FRU78DHR3N6/14241/index.m3u8
 
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Stingray IConcerts",Stingray IConcerts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87342.ts

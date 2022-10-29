@@ -42,6 +42,8 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10239.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10322.ts
 #EXTINF:-1 group-title="Generalistas" tvg-logo="" tvg-id="SundanceTVSpain.es" tvg-name="Sundance TV España",Sundance TV España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10317.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="" tvg-id="MovistarResistencia.es" tvg-name="M+ Resistencia",M+ Resistencia
+http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/207599
 #EXTINF:-1 group-title="Generalistas" tvg-logo="" tvg-id="BlazeSpain.us" tvg-name="Blaze España",Blaze España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10315.ts
 
@@ -275,6 +277,8 @@ https://ztnr.rtve.es/ztnr/5466990.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="" tvg-name="DreamWorks",DreamWorks
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127790
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="" tvg-name="DreamWorks",DreamWorks HD
+http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/207565
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="DisneyChannelSpain.es" tvg-name="Disney Channel España",Disney Channel España
 http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127795
