@@ -103,7 +103,7 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/138917
 
 #EXTINF:-1 group-title="Int. News" tvg-logo="http://picon.webhop.net/logo/PORTUGAL/SKYNEWS.png" tvg-id="" tvg-name="Sky News",Sky News
-#http://flixgran.xyz:8080/888888/888888/414899
+http://angeltv.biz:6969/jessica/jessica/61024
 
 #EXTINF:-1 group-title="Int. News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png" tvg-id="TELESUR.meo.pt",teleSUR English
 #KODIPROP:inputstream=inputstream.adaptive
