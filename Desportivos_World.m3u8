@@ -133,8 +133,6 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10280.ts
 http://395825980999317611.niceapy.xyz:80/play/1975/1975/317611.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/9tAxTgU.png" tvg-id="MovistarLaLiga1.es" tvg-name="M+ LaLiga TV 2",M+ LaLiga TV 2
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10347.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/9tAxTgU.png" tvg-id="MovistarLaLiga1.es" tvg-name="M+ LaLiga TV 2",M+ LaLiga TV 2 HD
-http://395825980999317613.niceapy.xyz:80/play/1975/1975/317613.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/9tAxTgU.png" tvg-id="MovistarLaLiga1.es" tvg-name="M+ LaLiga TV 2",M+ LaLiga TV 2 FHD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10346.ts
 
@@ -166,6 +164,8 @@ http://red.ipfox.org:8080/osama2022/osama2023/47327
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarDeportes.es" tvg-name="M+ Deportes",M+ Deportes HD
 http://395825980999317607.niceapy.xyz:80/play/1975/1975/317607.ts
 
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/GsHKpfr.png" tvg-id="MovistarDeportes1.es" tvg-name="M+ Deportes 2",M+ Deportes 2 HD
+http://395825980999317613.niceapy.xyz:80/play/1975/1975/317613.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/GsHKpfr.png" tvg-id="MovistarDeportes1.es" tvg-name="M+ Deportes 2",M+ Deportes 2 HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10328.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://i.imgur.com/GsHKpfr.png" tvg-id="MovistarDeportes1.es" tvg-name="M+ Deportes 2",M+ Deportes 2 HD
