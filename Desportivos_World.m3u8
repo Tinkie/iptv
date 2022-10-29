@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/raiplay.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/telecablesat.fr.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz,https://epg.pm/api/epg.xml?channel_id=3668"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/raiplay.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml.gz,https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/telecablesat.fr.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml.gz,https://epg.pm/api/epg.xml?channel_id=3668"
 
 # Desportivos_World.m3u8
 
@@ -47,6 +47,8 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/47372
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte FHD
 http://red.ipfox.org:8080/Karam2022/Karam2023/47371
 
+#EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1-color.png" tvg-id="" tvg-name="DAZN LaLiga",DAZN LaLiga
+http://xtratexxx.dimapro.xyz:8080/unitetelegram/bcchff/89117
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1-color.png" tvg-id="" tvg-name="DAZN LaLiga",DAZN LaLiga
 http://xtratexxx.dimapro.xyz:8080/unitetelegram/bcchff/38439
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1-color.png" tvg-id="" tvg-name="DAZN LaLiga",DAZN LaLiga
@@ -118,11 +120,6 @@ http://red.ipfox.org:8080/osama2022/osama2023/47377
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4 FHD
 http://666827234535228397.niceapy.xyz:80/play/Antonio123/Antonio123/228397.ts
 
-
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN ?",DAZN ? FHD
-http://xtratexxx.dimapro.xyz:8080/unitetelegram/bcchff/89117
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN ?",DAZN ? FHD
-http://xtratexxx.dimapro.xyz:8080/unitetelegram/bcchff/38437
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarLaLiga.es" tvg-name="M+ LaLiga",M+ LaLiga TV FHD
 http://395825980999317614.niceapy.xyz:80/play/1975/1975/317614.ts
@@ -422,9 +419,12 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/97193
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="3668" tvg-name="LFCTV HD",Liverpool FC TV HD
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/149244
 
-#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="3668" tvg-name="MUTV",Manchester United TV
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="LFCTV.uk" tvg-name="LFCTV HD",Liverpool FC TV 2 HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/149244
+
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="MUTV.uk" tvg-name="MUTV",Manchester United TV
 http://angeltv.biz:6969/jessica/jessica/14722
-#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="3668" tvg-name="MUTV",Manchester United TV HD
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="MUTV.uk" tvg-name="MUTV",Manchester United TV HD
 http://angeltv.biz:6969/jessica/jessica/14718
 
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="" tvg-name="FC Bayern TV",FC Bayern TV HD
