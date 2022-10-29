@@ -379,6 +379,8 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/8420
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/151440
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="https://cdn.teleon.tv/logo/udinese-tv-it.png" tvg-id="UdineseTV.it" tvg-name="Udinese TV",Udinese TV FHD
 http://he11o.akadatel.com/iptv/PK5FRU78DHR3N6/19114/index.m3u8
+#EXTINF:-1 group-title="Sports (Italy)" tvg-logo="https://cdn.teleon.tv/logo/udinese-tv-it.png" tvg-id="UdineseTV.it" tvg-name="Udinese TV",Udinese TV FHD
+http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/19114/index.m3u8
 
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="RaiSport.it" tvg-name="Rai Sport",RAI Sport FHD
 #
@@ -399,6 +401,8 @@ http://cineapp.org:8000/Fernando/Fernando/1276
 http://he11o.akadatel.com/iptv/PK5FRU78DHR3N6/19106/index.m3u8
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport + FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/43942
+#EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport + FHD
+http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/19106/index.m3u8
 
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="https://image.emojisky.com/668/12236668-middle.png" tvg-name="RTV Sport",RTV Sport HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159564
@@ -475,6 +479,8 @@ http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/13918
 #http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/157933
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="" tvg-name="FC Bayern TV",FC Bayern TV FHD
 http://he11o.akadatel.com/iptv/PK5FRU78DHR3N6/19024/index.m3u8
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="" tvg-name="FC Bayern TV",FC Bayern TV FHD
+http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/19024/index.m3u8
 
 
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football",Sky Sports Football FHD
@@ -525,6 +531,8 @@ http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/76355
 
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="ZiggoSportSelect.nl" tvg-name="Ziggo Sport Select",Ziggo Sport Select HD
 http://red.ipfox.org:8080/osama2022/osama2023/49185
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="ZiggoSportSelect.nl" tvg-name="Ziggo Sport Select",Ziggo Sport Select HD
+http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/2560/index.m3u8
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="ZiggoSportSelect.nl" tvg-name="Ziggo Sport Select",Ziggo Sport Select FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/76350
 
@@ -727,6 +735,8 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159574
 http://cineapp.org:8000/Fernando/Fernando/5058
 #EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="SuperTennis.it" tvg-name="Super Tennis",Super Tennis FHD
 http://he11o.akadatel.com/iptv/PK5FRU78DHR3N6/19111/index.m3u8
+#EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="SuperTennis.it" tvg-name="Super Tennis",Super Tennis FHD
+http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/19111/index.m3u8
 
 
 #EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="SkySportTennisHD.it" tvg-name="Sky Sport Tennis IT",Sky Sport Tennis (IT)
