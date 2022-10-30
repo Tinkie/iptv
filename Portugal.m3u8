@@ -306,6 +306,11 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/272612
 #EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="" tvg-name="Travel Box Brazil",Travel Box Brazil
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272613
 
+#EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="CanalFutura.br" tvg-name="Canal Futura",Canal Futura
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://tv.unisc.br/hls/test.m3u8
+
 #EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="" tvg-name="Discovery Channel",Discovery Channel
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87444.ts
 #EXTINF:-1 group-title="Documentaries" tvg-logo="" tvg-id="" tvg-name="Discovery Channel",Discovery Channel

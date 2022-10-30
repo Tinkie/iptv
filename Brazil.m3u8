@@ -148,11 +148,6 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/99369
 #EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids
 http://ssvrv.xyz:80/87165110/39413705/180128
 
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalFutura.br" tvg-name="Canal Futura",Canal Futura
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://tv.unisc.br/hls/test.m3u8
-
 #EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Nick-Clássico.jpg" tvg-id="" tvg-name="Nick Clássico",Nick Clássico
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls

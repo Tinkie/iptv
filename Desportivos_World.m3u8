@@ -12,6 +12,8 @@ http://395825980999317576.niceapy.xyz:80/play/1975/1975/317576.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10240.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV FHD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10294.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV FHD
+http://gbox.goldeniptv.com:25461/123321/123321/134164
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10244.ts
@@ -363,6 +365,8 @@ http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374492
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/165381
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="https://styles.redditmedia.com/t5_2t9a7/styles/communityIcon_i0d3pom28av61.jpg" tvg-id="JuventusTV.it" tvg-name="Juventus TV",Juventus TV HD
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/14673
+#EXTINF:-1 group-title="Sports (Italy)" tvg-logo="https://styles.redditmedia.com/t5_2t9a7/styles/communityIcon_i0d3pom28av61.jpg" tvg-id="JuventusTV.it" tvg-name="Juventus TV",Juventus TV HD
+http://gbox.goldeniptv.com:25461/123321/123321/147506
 
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="MilanTV.it" tvg-name="Milan TV",Milan TV HD
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/6660
@@ -458,25 +462,26 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/24107
 
 
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="OLTV.fr" tvg-name="OL TV", Olympique Lyonnais TV
-#http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126952
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/160880
 
-#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="3668" tvg-name="LFCTV HD",Liverpool FC TV HD
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="LFCTV.uk" tvg-name="LFCTV HD",Liverpool FC TV HD
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/97193
-#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="3668" tvg-name="LFCTV HD",Liverpool FC TV HD
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="LFCTV.uk" tvg-name="LFCTV HD",Liverpool FC TV HD
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/149244
-#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="3668" tvg-name="LFCTV HD",Liverpool FC TV HD
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="LFCTV.uk" tvg-name="LFCTV HD",Liverpool FC TV HD
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/13913
-
-#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="LFCTV.uk" tvg-name="LFCTV HD",Liverpool FC TV 2 HD
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="LFCTV.uk" tvg-name="LFCTV HD",Liverpool FC TV HD
 http://angeltv.biz:6969/jessica/jessica/14718
 
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="MUTV.uk" tvg-name="MUTV",Manchester United TV
 http://angeltv.biz:6969/jessica/jessica/14722
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="MUTV.uk" tvg-name="MUTV",Manchester United TV HD
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/13918
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="MUTV.uk" tvg-name="MUTV",Manchester United TV HD
+http://gbox.goldeniptv.com:25461/123321/123321/132157
 
-#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="" tvg-name="FC Bayern TV",FC Bayern TV HD
-#http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/157933
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="" tvg-name="FC Bayern TV",FC Bayern TV FHD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/83716
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="" tvg-name="FC Bayern TV",FC Bayern TV FHD
 http://he11o.akadatel.com/iptv/PK5FRU78DHR3N6/19024/index.m3u8
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="" tvg-name="FC Bayern TV",FC Bayern TV FHD
@@ -520,10 +525,16 @@ http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/13897
 
 
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="ZiggoSportVoetbal.nl" tvg-name="Ziggo Sport Voetbal",Ziggo Sport Voetbal HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71391
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="ZiggoSportVoetbal.nl" tvg-name="Ziggo Sport Voetbal",Ziggo Sport Voetbal HD
 http://red.ipfox.org:8080/osama2022/osama2023/49184
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="ZiggoSportVoetbal.nl" tvg-name="Ziggo Sport Voetbal",Ziggo Sport Voetbal HD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/76351
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="ZiggoSportVoetbal.nl" tvg-name="Ziggo Sport Voetbal",Ziggo Sport Voetbal FHD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71390
 
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="ZiggoSportDocu.nl" tvg-name="Ziggo Sport Docu",Ziggo Sport Docu HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71389
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="ZiggoSportDocu.nl" tvg-name="Ziggo Sport Docu",Ziggo Sport Docu HD
 http://red.ipfox.org:8080/osama2022/osama2023/49181
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="ZiggoSportDocu.nl" tvg-name="Ziggo Sport Docu",Ziggo Sport Docu HD
@@ -569,20 +580,32 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/190842
 
 
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSportPoland.pl" tvg-name="Canal+ Sport PL",Canal+ Sport (PL) FHD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/73662
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSportPoland.pl" tvg-name="Canal+ Sport PL",Canal+ Sport (PL) FHD
 http://he11o.akadatel.com/iptv/PK5FRU78DHR3N6/6098/index.m3u8
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSportPoland.pl" tvg-name="Canal+ Sport PL",Canal+ Sport (PL) FHD
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/15411
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSportPoland.pl" tvg-name="Canal+ Sport PL",Canal+ Sport (PL) FHD
+http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/6098/index.m3u8
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSportPoland.pl" tvg-name="Canal+ Sport PL",Canal+ Sport (PL) FHD
 http://395825980999318907.niceapy.xyz:80/play/1975/1975/318907.ts
 
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal%2B_Sport_2_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport2Poland.pl" tvg-name="Canal+ Sport PL 2",Canal+ Sport (PL) 2 FHD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/73664
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal%2B_Sport_2_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport2Poland.pl" tvg-name="Canal+ Sport PL 2",Canal+ Sport (PL) 2 FHD
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/15414
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal%2B_Sport_2_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport2Poland.pl" tvg-name="Canal+ Sport PL 2",Canal+ Sport (PL) 2 FHD
+http://m9ekdq8o.rostelekom.xyz/iptv/W3QV2ZD98DH5SM/6099/index.m3u8
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal%2B_Sport_2_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport2Poland.pl" tvg-name="Canal+ Sport PL 2",Canal+ Sport (PL) 2 FHD
 http://395825980999320246.niceapy.xyz:80/play/1975/1975/320246.ts
 
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Canal%2B_Sport_3_%282019-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport3Poland.pl" tvg-name="Canal+ Sport PL 3",Canal+ Sport (PL) 3 FHD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/73765
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Canal%2B_Sport_3_%282019-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport3Poland.pl" tvg-name="Canal+ Sport PL 3",Canal+ Sport (PL) 3 FHD
 http://395825980999320247.niceapy.xyz:80/play/1975/1975/320247.ts
 
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal%2B_Sport_4_%282019-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport4Poland.pl" tvg-name="Canal+ Sport PL 4",Canal+ Sport (PL) 4 FHD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/73766
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal%2B_Sport_4_%282019-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport4Poland.pl" tvg-name="Canal+ Sport PL 4",Canal+ Sport (PL) 4 FHD
 http://395825980999326759.niceapy.xyz:80/play/1975/1975/326759.ts
 
@@ -754,13 +777,14 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/24153
 #EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png?tr=n-logo_80" tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis",Sky Sport Tennis (DE)
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161774
 
-
 #EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis HD
 http://red.ipfox.org:8080/osama2022/osama2023/49180
 #EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49180
 #EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis HD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/76354
+#EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis FHD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71380
 #EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71382
 #EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="ZiggoSportTennis.nl" tvg-name="Ziggo Sport Tennis",Ziggo Sport Tennis
@@ -792,6 +816,8 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/9520
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/15976
 #EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="WWEChannel.za" tvg-shift="1" tvg-name="WWE Network",WWE Network HD
 http://angeltv.biz:6969/jessica/jessica/14573
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="WWEChannel.za" tvg-shift="1" tvg-name="WWE Network",WWE Network HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/15141
 #EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="WWEChannel.za" tvg-shift="1" tvg-name="WWE Network",WWE Network FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/224076
 
@@ -835,8 +861,8 @@ http://395825980999325115.niceapy.xyz:80/play/1975/1975/325115.ts
 #EXTINF:-1 group-title="Deportivos Int." tvg-shift="1" tvg-logo="" tvg-id="SuperSportMotorSport.za" tvg-name="SuperSport MotorSport",SuperSport MotorSport HD
 http://angeltv.biz:6969/jessica/jessica/14862
 
-#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="ZiggoSportRacing.nl" tvg-name="Ziggo Sport Racing",Ziggo Sport Racing
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/3925
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="ZiggoSportRacing.nl" tvg-name="Ziggo Sport Racing",Ziggo Sport Racing FHD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71376
 #EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="ZiggoSportRacing.nl" tvg-name="Ziggo Sport Racing",Ziggo Sport Racing FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/76353
 
