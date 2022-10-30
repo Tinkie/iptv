@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br.xml.gz,https://iptv-org.github.io/epg/guides/es.xml.gz,https://www.tdtchannels.com/epg/TV.xml"
 
 # Spain.m3u8
 
@@ -43,7 +43,15 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10322.ts
 #EXTINF:-1 group-title="Generalistas" tvg-logo="" tvg-id="SundanceTVSpain.es" tvg-name="Sundance TV España",Sundance TV España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10317.ts
 #EXTINF:-1 group-title="Generalistas" tvg-logo="" tvg-id="MovistarResistencia.es" tvg-name="M+ Resistencia",M+ Resistencia
+http://fenz668.top:80/live/pdd4800/vndjspd4t/176.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="" tvg-id="MovistarResistencia.es" tvg-name="M+ Resistencia",M+ Resistencia
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/207599
+#EXTINF:-1 group-title="Generalistas" tvg-logo="" tvg-id="MovistarResistencia.es" tvg-name="M+ Resistencia",M+ Resistencia HD
+http://fenz668.top:80/live/pdd4800/vndjspd4t/177.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="" tvg-id="MovistarResistencia.es" tvg-name="M+ Resistencia",M+ Resistencia FHD
+http://fenz668.top:80/live/pdd4800/vndjspd4t/178.ts
+#EXTINF:-1 group-title="Generalistas" tvg-logo="" tvg-id="MovistarResistencia.es" tvg-name="M+ Ellas",M+ Ellas
+http://fenz668.top:80/live/pdd4800/vndjspd4t/1500.ts
 #EXTINF:-1 group-title="Generalistas" tvg-logo="" tvg-id="BlazeSpain.us" tvg-name="Blaze España",Blaze España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10315.ts
 
@@ -150,7 +158,11 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10274.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10227.ts
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarEstrenos2.es" tvg-name="M+ Estrenos 2",M+ Estrenos 2
-
+http://fenz668.top:80/live/pdd4800/vndjspd4t/93.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarEstrenos2.es" tvg-name="M+ Estrenos 2",M+ Estrenos 2 HD
+http://fenz668.top:80/live/pdd4800/vndjspd4t/94.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarEstrenos2.es" tvg-name="M+ Estrenos 2",M+ Estrenos 2 FHD
+http://clientportal.link:80/VB7sxJ1708/TCCc6b495/12712
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarDrama.es" tvg-name="M+ Drama",M+ Drama
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10275.ts
@@ -166,8 +178,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10237.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10269.ts
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="Somos",Somos
-
-
+http://fenz668.top:80/live/pdd4800/vndjspd4t/279.ts
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="SyfySpain.us" tvg-name="Syfy España",SyFy España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10256.ts
@@ -183,11 +194,15 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10316.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10234.ts
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="Dark",Dark
+http://fenz668.top:80/live/pdd4800/vndjspd4t/119.ts
 
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="XTRM",XTRM
-
-
+http://fenz668.top:80/live/pdd4800/vndjspd4t/160.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="XTRM",XTRM HD
+http://fenz668.top:80/live/pdd4800/vndjspd4t/161.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="XTRM",XTRM FHD
+http://fenz668.top:80/live/pdd4800/vndjspd4t/162.ts
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="" tvg-name="A3Series",A3Series
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10267.ts
@@ -200,7 +215,13 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10272.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10273.ts
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarSeries2.es" tvg-name="M+ Series 2",M+ Series 2
-
+http://fenz668.top:80/live/pdd4800/vndjspd4t/116.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarSeries2.es" tvg-name="M+ Series 2",M+ Series 2 HD
+http://fenz668.top:80/live/pdd4800/vndjspd4t/117.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarSeries2.es" tvg-name="M+ Series 2",M+ Series 2 FHD
+http://fenz668.top:80/live/pdd4800/vndjspd4t/118.ts
+#EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="MovistarSeries2.es" tvg-name="M+ Series 2",M+ Series 2 FHD
+http://clientportal.link:80/VB7sxJ1708/TCCc6b495/13664
 
 #EXTINF:-1 group-title="Cine y Series" tvg-logo="" tvg-id="ComedyCentralSpain.es" tvg-name="Comedy Central España",Comedy Central España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10266.ts
@@ -209,11 +230,13 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10209.ts
 
 # Documentales
 
-#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="DMax.es" tvg-name="DMax",DMax
+#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="DMax.es" tvg-name="DMax",DMax FHD
+http://fenz668.top:80/live/pdd4800/vndjspd4t/1506.ts
 
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="" tvg-name="Iberalia TV",Iberalia TV
-
+#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="" tvg-name="Iberalia TV",Iberalia TV FHD
+http://fenz668.top:80/live/pdd4800/vndjspd4t/1504.ts
+#EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="" tvg-name="Iberalia TV",Iberalia TV FHD
+http://fenz668.top:80/live/pdd4800/vndjspd4t/314.ts
 
 #EXTINF:-1 group-title="Documentales" tvg-logo="" tvg-id="" tvg-name="M+ BBC Earth",M+ BBC Earth
 
@@ -269,8 +292,10 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10312.ts
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan GEO
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 
-#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="" tvg-name="DreamWorks",DreamWorks HD
-http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/207565
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="" tvg-name="DreamWorks",DreamWorks
+http://fenz668.top:80/live/pdd4800/vndjspd4t/336.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="" tvg-name="DreamWorks",DreamWorks FHD
+http://fenz668.top:80/live/pdd4800/vndjspd4t/338.ts
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="" tvg-id="DisneyChannelSpain.es" tvg-name="Disney Channel España",Disney Channel España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10311.ts

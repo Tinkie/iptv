@@ -5,30 +5,57 @@
 # Brazil
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalOff.br" tvg-name="Canal Off",Canal Off
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/280
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalOff.br" tvg-name="Canal Off",Canal Off
 http://ssvrv.xyz:80/87165110/39413705/180246
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalOff.br" tvg-name="Canal Off",Canal Off HD
-http://ssvrv.xyz:80/87165110/39413705/180249
-
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalOff.br" tvg-name="Canal Off",Canal Off FHD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272829
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalOff.br" tvg-name="Canal Off",Canal Off HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272830
 #EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalOff.br" tvg-name="Canal Off",Canal Off
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272831
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalOff.br" tvg-name="Canal Off",Canal Off HD
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/283
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalOff.br" tvg-name="Canal Off",Canal Off HD
+http://ssvrv.xyz:80/87165110/39413705/180249
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalOff.br" tvg-name="Canal Off",Canal Off HD
+http://lishb.com:8080/3981413734/4936998505/856716
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalOff.br" tvg-name="Canal Off",Canal Off HD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272830
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalOff.br" tvg-name="Canal Off",Canal Off FHD
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/282
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalOff.br" tvg-name="Canal Off",Canal Off FHD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272829
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalOff.br" tvg-name="Canal Off",Canal Off FHD
+http://s.downboot.ga:80/104827593/108425arl/83404
 
-#EXTINF:-1 group-title="Brazil",Lifetime FHD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272590
-#EXTINF:-1 group-title="Brazil",Lifetime HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272591
+#EXTINF:-1 group-title="Brazil",Lifetime
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/237
 #EXTINF:-1 group-title="Brazil",Lifetime
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272592
+#EXTINF:-1 group-title="Brazil",Lifetime HD
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/240
+#EXTINF:-1 group-title="Brazil",Lifetime HD
+http://lishb.com:8080/3981413734/4936998505/856693
+#EXTINF:-1 group-title="Brazil",Lifetime HD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272591
+#EXTINF:-1 group-title="Brazil",Lifetime FHD
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/239
+#EXTINF:-1 group-title="Brazil",Lifetime FHD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272590
+#EXTINF:-1 group-title="Brazil",Lifetime FHD
+http://s.downboot.ga:80/104827593/108425arl/83395
 
-#EXTINF:-1 group-title="Brazil",Modo Viagem FHD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272593
-#EXTINF:-1 group-title="Brazil",Modo Viagem HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272594
+#EXTINF:-1 group-title="Brazil",Modo Viagem
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/241
 #EXTINF:-1 group-title="Brazil",Modo Viagem
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272595
+#EXTINF:-1 group-title="Brazil",Modo Viagem HD
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/243
+#EXTINF:-1 group-title="Brazil",Modo Viagem HD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272594
+#EXTINF:-1 group-title="Brazil",Modo Viagem FHD
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/242
+#EXTINF:-1 group-title="Brazil",Modo Viagem FHD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272593
+#EXTINF:-1 group-title="Brazil",Modo Viagem FHD
+http://s.downboot.ga:80/104827593/108425arl/83396
 
 #EXTINF:-1 group-title="Brazil",Nova Era TV HD
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
@@ -126,27 +153,62 @@ https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
 # Animação
 
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Cartoonito.br" tvg-name="Cartoonito",Cartoonito FHD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272431
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Cartoonito.br" tvg-name="Cartoonito",Cartoonito HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272432
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Cartoonito.br" tvg-name="Cartoonito",Cartoonito
+http://s.downboot.ga:80/104827593/108425arl/83531
 #EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Cartoonito.br" tvg-name="Cartoonito",Cartoonito
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272433
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Cartoonito.br" tvg-name="Cartoonito",Cartoonito
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/31
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Cartoonito.br" tvg-name="Cartoonito",Cartoonito HD
+http://s.downboot.ga:80/104827593/108425arl/140941
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Cartoonito.br" tvg-name="Cartoonito",Cartoonito HD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272432
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Cartoonito.br" tvg-name="Cartoonito",Cartoonito HD
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/34
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Cartoonito.br" tvg-name="Cartoonito",Cartoonito FHD
+http://s.downboot.ga:80/104827593/108425arl/83372
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Cartoonito.br" tvg-name="Cartoonito",Cartoonito FHD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272431
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Cartoonito.br" tvg-name="Cartoonito",Cartoonito FHD
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/32
 
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids HD
-http://ssvrv.xyz:80/87165110/39413705/180131
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids FHD
-http://ssvrv.xyz:80/87165110/39413705/180133
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids FHD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272437
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272438
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids
+http://s.downboot.ga:80/104827593/108425arl/83543
 #EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272439
 #EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/99369
 #EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids
 http://ssvrv.xyz:80/87165110/39413705/180128
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/74
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids HD
+http://ssvrv.xyz:80/87165110/39413705/180131
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids HD
+http://lishb.com:8080/3981413734/4936998505/856592
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids HD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272438
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids FHD
+http://s.downboot.ga:80/104827593/108425arl/83378
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids FHD
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/76
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids FHD
+http://ssvrv.xyz:80/87165110/39413705/180133
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids FHD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272437
+
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Gloob",Gloob
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/186
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Gloob",Gloob HD
+http://s.downboot.ga:80/104827593/108425arl/83221
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Gloob",Gloob HD
+http://lishb.com:8080/3981413734/4936998505/983254
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Gloob",Gloob HD
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/188
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Gloob",Gloob FHD
+http://s.downboot.ga:80/104827593/108425arl/83392
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Gloob",Gloob FHD
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/698
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Nick-Clássico.jpg" tvg-id="" tvg-name="Nick Clássico",Nick Clássico
 #KODIPROP:inputstream=inputstream.adaptive

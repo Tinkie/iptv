@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/raiplay.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://iptv-org.github.io/epg/guides/br.xml.gz,https://iptv-org.github.io/epg/guides/es.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml.gz,https://iptv-org.github.io/epg/guides/us.xml.gz"
 
 # World.m3u8
 
@@ -276,6 +276,11 @@ http://angeltv.biz:6969/jessica/jessica/1280
 
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MTV 00s",MTV 00s
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87476.ts
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MTV 00s",MTV 00s FHD
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/425
+
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MTV Live",MTV Live FHD
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/659
 
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="MTVPortugal.pt" tvg-name="MTV Portugal",MTV Portugal
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87325.ts
@@ -313,12 +318,24 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87468.ts
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Afro Music Channel",Afro Music Channel
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87474.ts
 
-#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Music Box Brazil",Music Box Brazil FHD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272605
-#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Music Box Brazil",Music Box Brazil HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272606
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Music Box Brazil",Music Box Brazil
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/256
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Music Box Brazil",Music Box Brazil
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272607
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Music Box Brazil",Music Box Brazil
+http://dns.acaidopara.net:8080/JEIbGAhEC6/BGurJzzf7D/2169
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Music Box Brazil",Music Box Brazil HD
+http://dns.acaidopara.net:8080/JEIbGAhEC6/BGurJzzf7D/2170
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Music Box Brazil",Music Box Brazil HD
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/81697
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Music Box Brazil",Music Box Brazil HD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272606
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Music Box Brazil",Music Box Brazil FHD
+http://dns.acaidopara.net:8080/JEIbGAhEC6/BGurJzzf7D/1852
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Music Box Brazil",Music Box Brazil FHD
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/81696
+#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Music Box Brazil",Music Box Brazil FHD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272605
 
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Trace Brazuca",Trace Brazuca
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87469.ts
