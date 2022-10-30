@@ -18,11 +18,7 @@ https://rtvelivestream.akamaized.net/segments/la2/la2_main.m3u8
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Andalucía" tvg-logo="" tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127653
-#EXTINF:-1 group-title="Andalucía" tvg-logo="" tvg-id="CanalSurA.TV" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10323.ts
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Sur 1 Andalucía",Canal Sur 1 Andalucía
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127673
 
 #EXTINF:-1 group-title="Andalucía" tvg-logo="" tvg-id="CanalMalaga.TV" tvg-name="Canal Málaga",Canal Málaga
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10364.ts
@@ -33,18 +29,13 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10364.ts
 http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 group-title="Aragón" tvg-logo="" tvg-id="AragonTV.TV" tvg-name="Aragón TV",Aragón TV
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127657
-
-#EXTINF:-1 group-title="Aragón" tvg-logo="" tvg-id="AragonTV.TV" tvg-name="Aragón TV",Aragón TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1 tvg-id="CMM.TV" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="Castilla-La Mancha" tvg-name="Castilla-La Mancha Media",Castilla-La Mancha Media
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/194245
 
-#EXTINF:-1 group-title="C. de Madrid" tvg-logo="" tvg-id="Telemadrid.TV" tvg-name="Telemadrid",Telemadrid
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/194254
+
 #EXTINF:-1 group-title="C. de Madrid" tvg-logo="" tvg-id="Telemadrid.TV" tvg-name="Telemadrid",Telemadrid
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10293.ts
 
@@ -54,7 +45,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10293.ts
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
 #EXTINF:-1 group-title="Extremadura" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Extremadura.png" tvg-id="Extremadura.TV" tvg-name="Canal Extremadura",Canal Extremadura
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127654
+
 
 #EXTINF:-1 group-title="Extremadura" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Extremadura.png" tvg-id="Extremadura.TV" tvg-name="Canal Extremadura",Canal Extremadura
 #KODIPROP:inputstream=inputstream.adaptive
@@ -65,8 +56,6 @@ https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
-#EXTINF:-1 group-title="Galicia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVG.png" tvg-id="tvgalicia.tv.vodafone.pt" tvg-name="TVG",TVG
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/194253
 
 #EXTINF:-1 group-title="Galicia" tvg-logo="" tvg-id="" tvg-name="TVG Cultura",TVG Cultura
 #KODIPROP:inputstream=inputstream.adaptive
@@ -105,8 +94,6 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10368.ts
 https://america-crtvg.flumotion.com/crtvg/america_high/playlist.m3u8
 
 #EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" tvg-id="" tvg-name="TV3CAT",TV3CAT
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/194251
-#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" tvg-id="" tvg-name="TV3CAT",TV3CAT
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 
 
@@ -124,7 +111,6 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Int. América" tvg-logo="" tvg-id="" tvg-name="Canal Orbe 21",Canal Orbe 21
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127674
 
 
 #EXTINF:-1 group-title="Int. África" tvg-logo="" tvg-id="TCVInternacional.cv" tvg-name="TCV",TCV Internacional
@@ -238,8 +224,6 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87328.ts
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96902
 
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation",Crime + Investigation
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127769
-#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation",Crime + Investigation
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87327.ts
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="CrimePlusInvestigationPortugal.pt" tvg-name="Crime + Investigation",Crime + Investigation
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87343.ts
@@ -251,38 +235,26 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10301.ts
 
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="https://cunhadigital.com/Picons/Investdisc.png" tvg-id="" tvg-name="ID Investigation Discovery",ID Investigation Discovery
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87436.ts
-#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://cunhadigital.com/Picons/Investdisc.png" tvg-id="" tvg-name="ID Investigation Discovery",ID Investigation Discovery
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416398
 
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="BlazeSpain.us" tvg-name="Blaze España",Blaze España
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/181633
+
 
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="AMC Break",AMC Break
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87296.ts
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="AMC Break",AMC Break
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87344.ts
-#EXTINF:-1 group-title="Int. Otros" tvg-logo="" tvg-id="" tvg-name="AMC Break",AMC Break
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416440
 
 
-#EXTINF:-1 group-title="Otros" tvg-logo="" tvg-id="CanalCocina.es" tvg-name="Canal Cocina",Canal Cocina
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127777
 #EXTINF:-1 group-title="Otros" tvg-logo="" tvg-id="CanalCocina.es" tvg-name="Canal Cocina",Canal Cocina
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10207.ts
 #EXTINF:-1 group-title="Otros" tvg-logo="" tvg-id="CanalCocina.es" tvg-name="Canal Cocina",Canal Cocina
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10304.ts
 
 #EXTINF:-1 group-title="Otros" tvg-logo="" tvg-id="Decasa.es" tvg-name="Decasa",DeCasa
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127729
-#EXTINF:-1 group-title="Otros" tvg-logo="" tvg-id="Decasa.es" tvg-name="Decasa",DeCasa
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10305.ts
 
 #EXTINF:-1 group-title="Otros" tvg-logo="" tvg-id="" tvg-name="Canal de Las Estrelas",Canal de Las Estrelas
 http://395825980999317579.niceapy.xyz:80/play/1975/1975/317579.ts
-
-#EXTINF:-1 group-title="Otros" tvg-logo="" tvg-id="" tvg-name="Got Talent Spain",Got Talent Spain
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127650
-
 
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="MovistarFest.es" tvg-name="M+ Fest",M+ Fest HD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/207563
@@ -300,10 +272,8 @@ http://angeltv.biz:6969/jessica/jessica/1279
 http://angeltv.biz:6969/jessica/jessica/1280
 
 #EXTINF:-1 group-title="Musicales",VH1
-#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/239
 
-#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MTV 00s",MTV 00s
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127813
+
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MTV 00s",MTV 00s
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87476.ts
 
@@ -313,24 +283,21 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87325.ts
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96923
 
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="MTVSpain.es" tvg-name="MTV España",MTV España
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127809
-#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="MTVSpain.es" tvg-name="MTV España",MTV España
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10324.ts
 
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MCM Pop",MCM Pop
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87472.ts
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MCM Pop",MCM Pop
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87473.ts
+
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MCM Top",MCM Top
-#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/169
-#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="MCM Top",MCM Top
-#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/21525
+
 
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Mezzo",Mezzo
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127804
+
 
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Mezzo Live",Mezzo Live
-http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127812
+
 
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="180hd.tv.vodafone.pt" tvg-name="Canal 180",Canal 180
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87309.ts
@@ -357,8 +324,6 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/272607
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87469.ts
 #EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Trace Urban",Trace Urban
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87470.ts
-#EXTINF:-1 group-title="Musicales" tvg-logo="" tvg-id="" tvg-name="Trace Urban",Trace Urban
-#http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/237
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png" tvg-id="tracehd.tv.vodafone.pt",Trace Urban
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls

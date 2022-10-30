@@ -139,7 +139,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87437.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87299.ts
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="A&E",A&E
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416453
+
 
 #EXTINF:-1 group-title="Portugal" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fama-TV.jpg",Fama TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -150,8 +150,6 @@ https://streamer-b02.videos.sapo.pt/live/famatv/playlist.m3u8
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87451.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV",Kuriakos TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87381.ts
-#EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV",Kuriakos TV
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416395
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="TLC",TLC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87450.ts
@@ -369,7 +367,7 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87386.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87387.ts
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Kuriakos Kids",Kuriakos Kids
-http://privatvt1.noip.team:8080/b4khJG5O45/N7NxpT0RA4/416396
+
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="" tvg-id="" tvg-name="Nickelodeon",Nickelodeon
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87383.ts
