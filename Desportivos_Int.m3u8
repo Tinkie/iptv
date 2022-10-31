@@ -2,10 +2,10 @@
 
 # Desportivos_Int.m3u8
 
-#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-name="NBA TV",Sport TV NBA
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="NBATVInternational.us" tvg-name="NBA TV International",Sport TV NBA
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87404.ts
 
-#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-name="NBA TV",NBA TV
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="NBATV.us" tvg-name="NBA TV",NBA TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2697.ts
 
 #EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA",Sky Sport NBA
@@ -61,9 +61,9 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/5584
 #EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport Moto GP",Sky Sport Moto GP (IT) FHD
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/14663
 
-#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://i.imgur.com/X3mV3fA.png" tvg-id="" tvg-name="MotorVision",MotorVision
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://i.imgur.com/X3mV3fA.png" tvg-id="MotorvisionTV.de" tvg-name="MotorVision",MotorVision
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87333.ts
-#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://i.imgur.com/X3mV3fA.png" tvg-id="" tvg-name="MotorVision",MotorVision
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://i.imgur.com/X3mV3fA.png" tvg-id="MotorvisionTV.de" tvg-name="MotorVision",MotorVision
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87432.ts
 
 #EXTINF:-1 group-title="Deportivos Int." tvg-shift="1" tvg-logo="" tvg-id="SuperSportMotorSport.za" tvg-name="SuperSport MotorSport",SuperSport MotorSport HD
