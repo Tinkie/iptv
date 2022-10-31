@@ -938,6 +938,13 @@ http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71381
 #EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.webp" tvg-id="" tvg-name="True Tennis",True Tennis
 #
 
+
+# Deportivos Int.
+
+#EXTINF:0 type="playlist", content-type="playlist", Deportivos Int.
+https://raw.githubusercontent.com/trincowski/iptv/main/Desportivos_Int.m3u8
+
+
 # DAZN
 
 #EXTINF:0 type="playlist", content-type="playlist", Sports (DAZN)
@@ -948,12 +955,6 @@ https://raw.githubusercontent.com/trincowski/iptv/main/Desportivos_Dazn.m3u8
 
 #EXTINF:0 type="playlist", content-type="playlist", Sports (Magenta)
 https://raw.githubusercontent.com/trincowski/iptv/main/Desportivos_Magenta.m3u8
-
-
-# Deportivos Int.
-
-#EXTINF:0 type="playlist", content-type="playlist", Deportivos Int.
-https://raw.githubusercontent.com/trincowski/iptv/main/Desportivos_Int.m3u8
 
 
 #Backup Providers
