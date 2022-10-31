@@ -1,0 +1,87 @@
+#EXTM3U
+
+# Desportivos_Int.m3u8
+
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-name="NBA TV",Sport TV NBA
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87404.ts
+
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-name="NBA TV",NBA TV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/2697.ts
+
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA",Sky Sport NBA
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/24149
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA",Sky Sport NBA
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/2160
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA",Sky Sport NBA
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/9520
+
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="WWEChannel.za" tvg-shift="1" tvg-name="WWE Channel",WWE Channel HD
+#http://za.cline.in:8888/DSTV/4d5a3b05310048f2a31e3f1c9402be98/mpegts
+
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="WWEChannel.za" tvg-shift="1" tvg-name="WWE Network",WWE Network
+http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/15976
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="WWEChannel.za" tvg-shift="1" tvg-name="WWE Network",WWE Network
+http://angeltv.biz:6969/jessica/jessica/14573
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="WWEChannel.za" tvg-shift="1" tvg-name="WWE Network",WWE Network
+http://angeltv.biz:6969/darlene/darlene/14573
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="WWEChannel.za" tvg-shift="1" tvg-name="WWE Network",WWE Network HD
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/15141
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="WWEChannel.za" tvg-shift="1" tvg-name="WWE Network",WWE Network FHD
+http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/224076
+
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="DAZNF1.es" tvg-name="DAZN F1",DAZN F1
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10288.ts
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="DAZNF1.es" tvg-name="DAZN F1",DAZN F1
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10228.ts
+
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1",Sky Sports F1 (UK) FHD
+http://angeltv.biz:6969/jessica/jessica/33391
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1",Sky Sports F1 (UK) FHD
+http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/13896
+
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="SkySportF1.it" tvg-name="Sky Sport F1",Sky Sport F1 (IT)
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/24151
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="SkySportF1.it" tvg-name="Sky Sport F1",Sky Sport F1 (IT)
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/2109
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="SkySportF1.it" tvg-name="Sky Sport F1",Sky Sport F1 (IT)
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/5583
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="SkySportF1.it" tvg-name="Sky Sport F1",Sky Sport F1 (IT) FHD
+http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/14658
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/512px-Sky_Sport_F1_-_Logo_2020.svg.png" tvg-id="SkySportF1OnBoard.it" tvg-name="Sky Sport F1 On Board",Sky Sport F1 On Board (IT)
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/153228
+
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport Moto GP",Sky Sport Moto GP (IT)
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/24150
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport Moto GP",Sky Sport Moto GP (IT)
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/2161
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport Moto GP",Sky Sport Moto GP (IT)
+http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/5584
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport Moto GP",Sky Sport Moto GP (IT) FHD
+http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/14663
+
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://i.imgur.com/X3mV3fA.png" tvg-id="" tvg-name="MotorVision",MotorVision
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87333.ts
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://i.imgur.com/X3mV3fA.png" tvg-id="" tvg-name="MotorVision",MotorVision
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87432.ts
+
+#EXTINF:-1 group-title="Deportivos Int." tvg-shift="1" tvg-logo="" tvg-id="SuperSportMotorSport.za" tvg-name="SuperSport MotorSport",SuperSport MotorSport HD
+http://395825980999325115.niceapy.xyz:80/play/1975/1975/325115.ts
+#EXTINF:-1 group-title="Deportivos Int." tvg-shift="1" tvg-logo="" tvg-id="SuperSportMotorSport.za" tvg-name="SuperSport MotorSport",SuperSport MotorSport HD
+http://angeltv.biz:6969/jessica/jessica/14862
+
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="ZiggoSportRacing.nl" tvg-name="Ziggo Sport Racing",Ziggo Sport Racing FHD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71376
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="" tvg-id="ZiggoSportRacing.nl" tvg-name="Ziggo Sport Racing",Ziggo Sport Racing FHD
+http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/76353
+
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fuel-TV.png" tvg-id="FuelTV.us" tvg-name="Fuel TV",Fuel TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fuel-TV.png" tvg-id="FuelTV.us" tvg-name="Fuel TV",Fuel TV
+http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87326.ts
+
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://logodix.com/logo/1353032.png" tvg-id="redbulltv.pt" tvg-name="RedBull TV",RedBull TV EN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
