@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/br.xml.gz,https://iptv-org.github.io/epg/guides/es.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://iptv-org.github.io/epg/guides/it.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml.gz,https://iptv-org.github.io/epg/guides/fr.xml.gz,https://iptv-org.github.io/epg/guides/us.xml.gz,https://iptv-org.github.io/epg/guides/nl.xml.gz,https://iptv-org.github.io/epg/guides/us.xml.gz,https://iptv-org.github.io/epg/guides/pl.xml.epg.xml.gz,https://iptv-org.github.io/epg/guides/za.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/br.xml.gz,https://iptv-org.github.io/epg/guides/es.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://epg.pm/api/epg.xml?lang=en&timezone=RXVyb3BlL0xpc2Jvbg%3D%3D&channel_id=15271,https://epg.pm/api/epg.xml?lang=en&timezone=RXVyb3BlL0xpc2Jvbg%3D%3D&channel_id=15276,https://epg.pm/api/epg.xml?lang=en&timezone=RXVyb3BlL0xpc2Jvbg%3D%3D&channel_id=15249,https://epg.pm/api/epg.xml?lang=en&timezone=RXVyb3BlL0xpc2Jvbg%3D%3D&channel_id=15232,https://iptv-org.github.io/epg/guides/it.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml.gz,https://iptv-org.github.io/epg/guides/fr.xml.gz,https://iptv-org.github.io/epg/guides/us.xml.gz,https://iptv-org.github.io/epg/guides/nl.xml.gz,https://iptv-org.github.io/epg/guides/us.xml.gz,https://iptv-org.github.io/epg/guides/pl.xml.gz,https://iptv-org.github.io/epg/guides/za.xml.gz"
 
 # Desportivos_World.m3u8
 
@@ -6,6 +6,10 @@
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96853
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV
 http://93.152.174.144:4000/play/barcatv/index.m3u8
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV FHD
+http://destiny4k.com:2086/live/6bM5ifOI96/qCwWd3TwXS/10294.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV FHD
+http://destiny4k.com:2086/live/6bM5ifOI96/qCwWd3TwXS/10240.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV FHD
 http://395825980999317576.niceapy.xyz:80/play/1975/1975/317576.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="BarcaTV.es" tvg-name="Barça TV",Barça TV FHD
@@ -16,9 +20,13 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10294.ts
 http://gbox.goldeniptv.com:25461/123321/123321/134164
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV
+http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/15248/index.m3u8
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10244.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96932
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV FHD
+http://destiny4k.com:2086/live/6bM5ifOI96/qCwWd3TwXS/10244.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV Español",RealMadrid TV FHD
 http://2.139.164.166:4040/bysid/103
 
@@ -41,6 +49,8 @@ http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/136002
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol HD
 http://fenz668.top:80/live/pdd4800/vndjspd4t/268.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol FHD
+http://destiny4k.com:2086/live/6bM5ifOI96/qCwWd3TwXS/10295.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol FHD
 http://red.ipfox.org:8080/Karam2022/Karam2023/47398
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Gol.es" tvg-name="Gol",Gol FHD
 http://red.ipfox.org:8080/osama2022/osama2023/47398
@@ -59,6 +69,8 @@ http://red.ipfox.org:8080/osama2022/osama2023/47372
 http://red.ipfox.org:8080/Karam2022/Karam2023/47372
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte HD
 http://fenz668.top:80/live/pdd4800/vndjspd4t/264.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte FHD
+http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/15245/index.m3u8
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte FHD
 http://red.ipfox.org:8080/Karam2022/Karam2023/47371
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="Teledeporte.es" tvg-name="Teledeporte",Teledeporte FHD
@@ -100,90 +112,92 @@ http://fenz668.top:80/live/pdd4800/vndjspd4t/1769.ts
 #EXTINF:-1 group-title="Deportivos" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png" tvg-id="" tvg-name="DAZN LaLiga 2",DAZN LaLiga 2 FHD
 http://dontuse.offshorerev.cc:80/SPIDER_O9gvbQ/o3aDY7Xm0r/153520
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15271" tvg-name="DAZN 1",DAZN 1
 http://fenz668.top:80/live/pdd4800/vndjspd4t/214.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15271" tvg-name="DAZN 1",DAZN 1
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/135989
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15271" tvg-name="DAZN 1",DAZN 1
 http://666827234535267267.niceapy.xyz:80/play/Antonio123/Antonio123/267267.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1 HD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15271" tvg-name="DAZN 1",DAZN 1 HD
 http://red.ipfox.org:8080/osama2022/osama2023/47384
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1 HD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15271" tvg-name="DAZN 1",DAZN 1 HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10370.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1 HD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15271" tvg-name="DAZN 1",DAZN 1 HD
 http://fenz668.top:80/live/pdd4800/vndjspd4t/215.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1 HD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15271" tvg-name="DAZN 1",DAZN 1 HD
+http://destiny4k.com:2086/live/6bM5ifOI96/qCwWd3TwXS/10370.ts
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15271" tvg-name="DAZN 1",DAZN 1 HD
 http://666827234535228385.niceapy.xyz:80/play/Antonio123/Antonio123/228385.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1 FHD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15271" tvg-name="DAZN 1",DAZN 1 FHD
 http://red.ipfox.org:8080/osama2022/osama2023/47383
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1 FHD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15271" tvg-name="DAZN 1",DAZN 1 FHD
 http://fenz668.top:80/live/pdd4800/vndjspd4t/216.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1 FHD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15271" tvg-name="DAZN 1",DAZN 1 FHD
 http://clientportal.link:80/VB7sxJ1708/TCCc6b495/28893
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN1Spain.uk" tvg-name="DAZN 1",DAZN 1 FHD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15271" tvg-name="DAZN 1",DAZN 1 FHD
 http://949968080834317586.niceapy.xyz:80/play/1975/1975/317586.ts
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15276" tvg-name="DAZN 2",DAZN 2
 http://fenz668.top:80/live/pdd4800/vndjspd4t/217.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15276" tvg-name="DAZN 2",DAZN 2
 http://666827234535228389.niceapy.xyz:80/play/Antonio123/Antonio123/228389.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15276" tvg-name="DAZN 2",DAZN 2
 http://395825980999317588.niceapy.xyz:80/play/1975/1975/317588.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2 HD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15276" tvg-name="DAZN 2",DAZN 2 HD
 http://red.ipfox.org:8080/osama2022/osama2023/47382
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2 HD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15276" tvg-name="DAZN 2",DAZN 2 HD
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10326.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2 HD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15276" tvg-name="DAZN 2",DAZN 2 HD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/135990
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2 HD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15276" tvg-name="DAZN 2",DAZN 2 HD
 http://fenz668.top:80/live/pdd4800/vndjspd4t/218.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2 FHD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15276" tvg-name="DAZN 2",DAZN 2 FHD
 http://red.ipfox.org:8080/osama2022/osama2023/47381
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2 FHD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15276" tvg-name="DAZN 2",DAZN 2 FHD
 http://fenz668.top:80/live/pdd4800/vndjspd4t/219.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2 FHD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15276" tvg-name="DAZN 2",DAZN 2 FHD
 http://clientportal.link:80/VB7sxJ1708/TCCc6b495/72648
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN2Spain.uk" tvg-name="DAZN 2",DAZN 2 FHD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15276" tvg-name="DAZN 2",DAZN 2 FHD
 http://666827234535267268.niceapy.xyz:80/play/Antonio123/Antonio123/267268.ts
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15249" tvg-name="DAZN 3",DAZN 3
 http://fenz668.top:80/live/pdd4800/vndjspd4t/220.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15249" tvg-name="DAZN 3",DAZN 3
 http://clientportal.link:80/VB7sxJ1708/TCCc6b495/114457
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15249" tvg-name="DAZN 3",DAZN 3
 http://666827234535228395.niceapy.xyz:80/play/Antonio123/Antonio123/228395.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3 HD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15249" tvg-name="DAZN 3",DAZN 3 HD
 http://red.ipfox.org:8080/osama2022/osama2023/47380
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3 HD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15249" tvg-name="DAZN 3",DAZN 3 HD
 http://fenz668.top:80/live/pdd4800/vndjspd4t/221.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3 HD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15249" tvg-name="DAZN 3",DAZN 3 HD
 http://666827234535228392.niceapy.xyz:80/play/Antonio123/Antonio123/228392.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3 FHD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15249" tvg-name="DAZN 3",DAZN 3 FHD
 http://red.ipfox.org:8080/osama2022/osama2023/47379
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3 FHD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15249" tvg-name="DAZN 3",DAZN 3 FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/207568
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3 FHD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15249" tvg-name="DAZN 3",DAZN 3 FHD
 http://fenz668.top:80/live/pdd4800/vndjspd4t/222.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN3Spain.uk" tvg-name="DAZN 3",DAZN 3 FHD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15249" tvg-name="DAZN 3",DAZN 3 FHD
 http://666827234535228393.niceapy.xyz:80/play/Antonio123/Antonio123/228393.ts
 
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15232" tvg-name="DAZN 4",DAZN 4
 http://fenz668.top:80/live/pdd4800/vndjspd4t/223.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15232" tvg-name="DAZN 4",DAZN 4
 http://clientportal.link:80/VB7sxJ1708/TCCc6b495/87129
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15232" tvg-name="DAZN 4",DAZN 4
 http://666827234535228399.niceapy.xyz:80/play/Antonio123/Antonio123/228399.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4 HD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15232" tvg-name="DAZN 4",DAZN 4 HD
 http://red.ipfox.org:8080/osama2022/osama2023/47378
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4 HD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15232" tvg-name="DAZN 4",DAZN 4 HD
 http://fenz668.top:80/live/pdd4800/vndjspd4t/224.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4 HD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15232" tvg-name="DAZN 4",DAZN 4 HD
 http://666827234535228398.niceapy.xyz:80/play/Antonio123/Antonio123/228398.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4 FHD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15232" tvg-name="DAZN 4",DAZN 4 FHD
 http://red.ipfox.org:8080/osama2022/osama2023/47377
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4 FHD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15232" tvg-name="DAZN 4",DAZN 4 FHD
 http://fenz668.top:80/live/pdd4800/vndjspd4t/225.ts
-#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="DAZN4Spain.uk" tvg-name="DAZN 4",DAZN 4 FHD
+#EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="15232" tvg-name="DAZN 4",DAZN 4 FHD
 http://666827234535228397.niceapy.xyz:80/play/Antonio123/Antonio123/228397.ts
 
 #EXTINF:-1 group-title="Deportivos" tvg-logo="" tvg-id="MovistarLaLiga.es" tvg-name="M+ LaLiga",M+ LaLiga TV HD
@@ -319,15 +333,15 @@ http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10342.ts
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/10343.ts
 
 
-#EXTINF:-1 group-title="Sports (Brazil)" tvg-logo="" tvg-name="PFC",PFC
+#EXTINF:-1 group-title="Sports (Brazil)" tvg-logo="" tvg-id="pfc.tv.vodafone.pt" tvg-name="PFC",PFC
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/224041
-#EXTINF:-1 group-title="Sports (Brazil)" tvg-logo="" tvg-name="PFC",PFC
+#EXTINF:-1 group-title="Sports (Brazil)" tvg-logo="" tvg-id="pfc.tv.vodafone.pt" tvg-name="PFC",PFC
 http://395825980999307764.niceapy.xyz:80/play/1975/1975/307764.ts
-#EXTINF:-1 group-title="Sports (Brazil)" tvg-logo="" tvg-name="PFC",PFC
+#EXTINF:-1 group-title="Sports (Brazil)" tvg-logo="" tvg-id="pfc.tv.vodafone.pt" tvg-name="PFC",PFC
 http://395825980999307765.niceapy.xyz:80/play/1975/1975/307765.ts
-#EXTINF:-1 group-title="Sports (Brazil)" tvg-logo="" tvg-name="PFC",PFC
+#EXTINF:-1 group-title="Sports (Brazil)" tvg-logo="" tvg-id="pfc.tv.vodafone.pt" tvg-name="PFC",PFC
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87431.ts
-#EXTINF:-1 group-title="Sports (Brazil)" tvg-logo="" tvg-name="PFC",PFC
+#EXTINF:-1 group-title="Sports (Brazil)" tvg-logo="" tvg-id="pfc.tv.vodafone.pt" tvg-name="PFC",PFC
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96940
 
 #EXTINF:-1 group-title="Sports (Brazil)" tvg-logo="" tvg-id="SporTV.br" tvg-name="SporTV",SporTV
@@ -456,9 +470,10 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/215711
 #EXTINF:-1 group-title="Sports (Brazil)" tvg-logo="" tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes",Premiere Clubes FHD
 http://s.downboot.ga:80/104827593/108425arl/83405
 
-
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="https://styles.redditmedia.com/t5_2t9a7/styles/communityIcon_i0d3pom28av61.jpg" tvg-id="JuventusTV.it" tvg-name="Juventus TV",Juventus TV
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/165381
+#EXTINF:-1 group-title="Sports (Italy)" tvg-logo="https://styles.redditmedia.com/t5_2t9a7/styles/communityIcon_i0d3pom28av61.jpg" tvg-id="JuventusTV.it" tvg-name="Juventus TV",Juventus TV HD
+http://iptvtree.net:8080/F17744/f01e18e2/12328
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="https://styles.redditmedia.com/t5_2t9a7/styles/communityIcon_i0d3pom28av61.jpg" tvg-id="JuventusTV.it" tvg-name="Juventus TV",Juventus TV HD
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/14673
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="https://styles.redditmedia.com/t5_2t9a7/styles/communityIcon_i0d3pom28av61.jpg" tvg-id="JuventusTV.it" tvg-name="Juventus TV",Juventus TV HD
@@ -476,11 +491,13 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/4180
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/8420
 
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="https://cdn.teleon.tv/logo/udinese-tv-it.png" tvg-id="UdineseTV.it" tvg-name="Udinese TV",Udinese TV FHD
+http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/19114/index.m3u8
+#EXTINF:-1 group-title="Sports (Italy)" tvg-logo="https://cdn.teleon.tv/logo/udinese-tv-it.png" tvg-id="UdineseTV.it" tvg-name="Udinese TV",Udinese TV FHD
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/151440
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="https://cdn.teleon.tv/logo/udinese-tv-it.png" tvg-id="UdineseTV.it" tvg-name="Udinese TV",Udinese TV FHD
 http://he11o.akadatel.com/iptv/PK5FRU78DHR3N6/19114/index.m3u8
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="https://cdn.teleon.tv/logo/udinese-tv-it.png" tvg-id="UdineseTV.it" tvg-name="Udinese TV",Udinese TV FHD
-http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/19114/index.m3u8
+http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/19114/index.m3u8
 
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="RaiSport.it" tvg-name="Rai Sport",RAI Sport FHD
 #
@@ -492,6 +509,8 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159562
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport + HD
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/14668
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport + FHD
+http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/19106/index.m3u8
+#EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport + FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159562
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport + FHD
 http://cineapp.org:8000/Fernando/Fernando/1276
@@ -500,7 +519,7 @@ http://he11o.akadatel.com/iptv/PK5FRU78DHR3N6/19106/index.m3u8
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport + FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/43942
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="" tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD",RAI Sport + FHD
-http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/19106/index.m3u8
+http://iptvtree.net:8080/F17744/f01e18e2/295036
 
 #EXTINF:-1 group-title="Sports (Italy)" tvg-logo="https://image.emojisky.com/668/12236668-middle.png" tvg-name="RTV Sport",RTV Sport HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159564
@@ -579,11 +598,9 @@ http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/13918
 http://gbox.goldeniptv.com:25461/123321/123321/132157
 
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="" tvg-name="FC Bayern TV",FC Bayern TV FHD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/83716
+http://destiny4k.com:2086/live/6bM5ifOI96/qCwWd3TwXS/4587.ts
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="" tvg-name="FC Bayern TV",FC Bayern TV FHD
-http://he11o.akadatel.com/iptv/PK5FRU78DHR3N6/19024/index.m3u8
-#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="" tvg-name="FC Bayern TV",FC Bayern TV FHD
-http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/19024/index.m3u8
+http://destiny4k.com:2086/live/6bM5ifOI96/qCwWd3TwXS/81067.ts
 
 
 #EXTINF:-1 group-title="Sports (World)" tvg-shift="1" tvg-logo="" tvg-id="SuperSportBlitz.za" tvg-name="SuperSport Blitz",SuperSport Blitz
@@ -728,10 +745,14 @@ http://angeltv.biz:6969/jessica/jessica/33398
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/13900
 
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event",Sky Sports Main Event FHD
+http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/7337/index.m3u8
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event",Sky Sports Main Event FHD
 http://angeltv.biz:6969/jessica/jessica/33394
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event",Sky Sports Main Event FHD
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/13899
 
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix",Sky Sports Mix FHD
+http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/7339/index.m3u8
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix",Sky Sports Mix FHD
 http://angeltv.biz:6969/jessica/jessica/33395
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix",Sky Sports Mix FHD
@@ -742,11 +763,15 @@ http://angeltv.biz:6969/jessica/jessica/33396
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News",Sky Sports News FHD
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/13891
 
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action",Sky Sports Action HD
+http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/7345/index.m3u8
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action",Sky Sports Action FHD
 http://angeltv.biz:6969/jessica/jessica/33397
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action",Sky Sports Action FHD
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/13892
 
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena",Sky Sports Arena FHD
+http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/7338/index.m3u8
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena",Sky Sports Arena FHD
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/13897
 
@@ -796,6 +821,8 @@ http://clientportal.link:80/VB7sxJ1708/TCCc6b495/2210
 http://clientportal.link:80/VB7sxJ1708/TCCc6b495/13149
 
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="CanalPlusSport360.fr" tvg-name="Canal+ Sport 360",Canal+ Sport 360 (FR) HD
+http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/2502/index.m3u8
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="CanalPlusSport360.fr" tvg-name="Canal+ Sport 360",Canal+ Sport 360 (FR) HD
 http://395825980999328297.niceapy.xyz:80/play/1975/1975/328297.ts
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="" tvg-id="CanalPlusSport360.fr" tvg-name="Canal+ Sport 360",Canal+ Sport 360 (FR) FHD
 http://xtratexxx.dimapro.xyz:8080/unitetelegram/bcchff/90256
@@ -828,6 +855,8 @@ http://clientportal.link:80/VB7sxJ1708/TCCc6b495/13535
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/31/Canal%2B_Sport_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSportPoland.pl" tvg-name="Canal+ Sport PL",Canal+ Sport (PL) FHD
 http://395825980999318907.niceapy.xyz:80/play/1975/1975/318907.ts
 
+#EXTINF:-1 group-title="Sports (World)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal%2B_Sport_2_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport2Poland.pl" tvg-name="Canal+ Sport PL 2",Canal+ Sport (PL) 2 HD
+http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/6099/index.m3u8
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal%2B_Sport_2_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport2Poland.pl" tvg-name="Canal+ Sport PL 2",Canal+ Sport (PL) 2 FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/73664
 #EXTINF:-1 group-title="Sports (World)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal%2B_Sport_2_%282015-.n.v.%29.png/revision/latest/scale-to-width-down/350" tvg-id="CanalPlusSport2Poland.pl" tvg-name="Canal+ Sport PL 2",Canal+ Sport (PL) 2 FHD
@@ -895,13 +924,19 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/2110
 #EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="SuperTennis.it" tvg-name="Super Tennis",Super Tennis HD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/14757
 #EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="SuperTennis.it" tvg-name="Super Tennis",Super Tennis FHD
+http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/6079/index.m3u8
+#EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="SuperTennis.it" tvg-name="Super Tennis",Super Tennis FHD
+http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/19111/index.m3u8
+#EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="SuperTennis.it" tvg-name="Super Tennis",Super Tennis FHD
+http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/19136/index.m3u8
+#EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="SuperTennis.it" tvg-name="Super Tennis",Super Tennis FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159574
 #EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="SuperTennis.it" tvg-name="Super Tennis",Super Tennis FHD
 http://cineapp.org:8000/Fernando/Fernando/5058
 #EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="SuperTennis.it" tvg-name="Super Tennis",Super Tennis FHD
 http://he11o.akadatel.com/iptv/PK5FRU78DHR3N6/19111/index.m3u8
 #EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="SuperTennis.it" tvg-name="Super Tennis",Super Tennis FHD
-http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/19111/index.m3u8
+http://iptvtree.net:8080/F17744/f01e18e2/285535
 
 
 #EXTINF:-1 group-title="Sports (Tennis)" tvg-logo="" tvg-id="SkySportTennisHD.it" tvg-name="Sky Sport Tennis IT",Sky Sport Tennis (IT)

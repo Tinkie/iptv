@@ -1,157 +1,159 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pt.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz"
 
 # Desportivos_Portugal.m3u8
 
 # Sports (Portugal)
 
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 1",Sport TV 1
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV1.pt" tvg-name="Sport TV 1",Sport TV 1
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96879
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 1",Sport TV 1
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV1.pt" tvg-name="Sport TV 1",Sport TV 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87398.ts
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 1",Sport TV 1 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV1.pt" tvg-name="Sport TV 1",Sport TV 1 FHD
+http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/19161/index.m3u8
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV1.pt" tvg-name="Sport TV 1",Sport TV 1 FHD
 http://he11o.akadatel.com/iptv/PK5FRU78DHR3N6/19161/index.m3u8
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 1",Sport TV 1 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV1.pt" tvg-name="Sport TV 1",Sport TV 1 FHD
 http://he11o.akadatel.com/iptv/PK5FRU78DHR3N6/2525/index.m3u8
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 1",Sport TV 1 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV1.pt" tvg-name="Sport TV 1",Sport TV 1 FHD
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/14550
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 1",Sport TV 1 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV1.pt" tvg-name="Sport TV 1",Sport TV 1 FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/159980
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 1",Sport TV 1 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV1.pt" tvg-name="Sport TV 1",Sport TV 1 FHD
 http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/2525/index.m3u8
 
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 2",Sport TV 2
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV2.pt" tvg-name="Sport TV 2",Sport TV 2
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96880
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 2",Sport TV 2
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV2.pt" tvg-name="Sport TV 2",Sport TV 2
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87399.ts
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 2",Sport TV 2 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV2.pt" tvg-name="Sport TV 2",Sport TV 2 FHD
 http://he11o.akadatel.com/iptv/PK5FRU78DHR3N6/2526/index.m3u8
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 2",Sport TV 2 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV2.pt" tvg-name="Sport TV 2",Sport TV 2 FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/159982
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 2",Sport TV 2 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV2.pt" tvg-name="Sport TV 2",Sport TV 2 FHD
 http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/2526/index.m3u8
 
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 3",Sport TV 3
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV3.pt" tvg-name="Sport TV 3",Sport TV 3
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96881
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 3",Sport TV 3
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV3.pt" tvg-name="Sport TV 3",Sport TV 3
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87400.ts
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 3",Sport TV 3 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV3.pt" tvg-name="Sport TV 3",Sport TV 3 FHD
 http://he11o.akadatel.com/iptv/PK5FRU78DHR3N6/2527/index.m3u8
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 3",Sport TV 3 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV3.pt" tvg-name="Sport TV 3",Sport TV 3 FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/159984
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 3",Sport TV 3 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV3.pt" tvg-name="Sport TV 3",Sport TV 3 FHD
 http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/2527/index.m3u8
 
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 4",Sport TV 4
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV4.pt" tvg-name="Sport TV 4",Sport TV 4
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96882
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 4",Sport TV 4
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV4.pt" tvg-name="Sport TV 4",Sport TV 4
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87379.ts
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 4",Sport TV 4
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV4.pt" tvg-name="Sport TV 4",Sport TV 4
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87401.ts
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 4",Sport TV 4 HD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV4.pt" tvg-name="Sport TV 4",Sport TV 4 HD
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/14553
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 4",Sport TV 4 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV4.pt" tvg-name="Sport TV 4",Sport TV 4 FHD
 http://he11o.akadatel.com/iptv/PK5FRU78DHR3N6/2528/index.m3u8
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 4",Sport TV 4 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV4.pt" tvg-name="Sport TV 4",Sport TV 4 FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/130955
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 4",Sport TV 4 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV4.pt" tvg-name="Sport TV 4",Sport TV 4 FHD
 http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/2528/index.m3u8
 
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 5",Sport TV 5
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV5.pt" tvg-name="Sport TV 5",Sport TV 5
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96883
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 5",Sport TV 5
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV5.pt" tvg-name="Sport TV 5",Sport TV 5
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87402.ts
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 5",Sport TV 5 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV5.pt" tvg-name="Sport TV 5",Sport TV 5 FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/224088
 
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 6",Sport TV 6
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV6.pt" tvg-name="Sport TV 6",Sport TV 6
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87403.ts
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 6",Sport TV 6
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV6.pt" tvg-name="Sport TV 6",Sport TV 6
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/249069?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV 6",Sport TV 6 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTV6.pt" tvg-name="Sport TV 6",Sport TV 6 FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/159990
 
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV +",Sport TV +
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTVPlus.pt" tvg-name="Sport TV +",Sport TV +
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87395.ts
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sport TV +",Sport TV + FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportTVPlus.pt" tvg-name="Sport TV +",Sport TV + FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/159979
 
 
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports1Portugal.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87405.ts
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports1Portugal.pt.pt" tvg-name="Eleven Sports 1",Eleven Sports 1
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/224094
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports1Portugal.pt.pt" tvg-name="Eleven Sports 1",Eleven Sports 1 FHD
 http://he11o.akadatel.com/iptv/PK5FRU78DHR3N6/2531/index.m3u8
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports1Portugal.pt.pt" tvg-name="Eleven Sports 1",Eleven Sports 1 FHD
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/14548
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports1Portugal.pt.pt" tvg-name="Eleven Sports 1",Eleven Sports 1 FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/224093
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1",Eleven Sports 1 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports1Portugal.pt.pt" tvg-name="Eleven Sports 1",Eleven Sports 1 FHD
 http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/2531/index.m3u8
 
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports2.pt" tvg-name="Eleven Sports 2",Eleven Sports 2
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports2Portugal.pt" tvg-name="Eleven Sports 2",Eleven Sports 2
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87406.ts
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports2.pt" tvg-name="Eleven Sports 2",Eleven Sports 2 HD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports2Portugal.pt" tvg-name="Eleven Sports 2",Eleven Sports 2 HD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/224095
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports2.pt" tvg-name="Eleven Sports 2",Eleven Sports 2 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports2Portugal.pt" tvg-name="Eleven Sports 2",Eleven Sports 2 FHD
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/14544
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports2.pt" tvg-name="Eleven Sports 2",Eleven Sports 2 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports2Portugal.pt" tvg-name="Eleven Sports 2",Eleven Sports 2 FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/224095
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports2.pt" tvg-name="Eleven Sports 2",Eleven Sports 2 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports2Portugal.pt" tvg-name="Eleven Sports 2",Eleven Sports 2 FHD
 http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/2532/index.m3u8
 
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports3.pt" tvg-name="Eleven Sports 3",Eleven Sports 3
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports3Portugal.pt" tvg-name="Eleven Sports 3",Eleven Sports 3
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87407.ts
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports3.pt" tvg-name="Eleven Sports 3",Eleven Sports 3
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports3Portugal.pt" tvg-name="Eleven Sports 3",Eleven Sports 3
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/160022
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports3.pt" tvg-name="Eleven Sports 3",Eleven Sports 3
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports3Portugal.pt" tvg-name="Eleven Sports 3",Eleven Sports 3
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/14537
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports3.pt" tvg-name="Eleven Sports 3",Eleven Sports 3 HD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports3Portugal.pt" tvg-name="Eleven Sports 3",Eleven Sports 3 HD
 http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/2533/index.m3u8
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports3.pt" tvg-name="Eleven Sports 3",Eleven Sports 3 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports3Portugal.pt" tvg-name="Eleven Sports 3",Eleven Sports 3 FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/224097
 
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports4.pt" tvg-name="Eleven Sports 4",Eleven Sports 4
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports4Portugal.pt" tvg-name="Eleven Sports 4",Eleven Sports 4
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87408.ts
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports4.pt" tvg-name="Eleven Sports 4",Eleven Sports 4
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports4Portugal.pt" tvg-name="Eleven Sports 4",Eleven Sports 4
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159579
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports4.pt" tvg-name="Eleven Sports 4",Eleven Sports 4 HD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports4Portugal.pt" tvg-name="Eleven Sports 4",Eleven Sports 4 HD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/160023
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports4.pt" tvg-name="Eleven Sports 4",Eleven Sports 4 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports4Portugal.pt" tvg-name="Eleven Sports 4",Eleven Sports 4 FHD
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/14535
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports4.pt" tvg-name="Eleven Sports 4",Eleven Sports 4 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports4Portugal.pt" tvg-name="Eleven Sports 4",Eleven Sports 4 FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/224099
 
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports5.pt" tvg-name="Eleven Sports 5",Eleven Sports 5
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports5Portugal.pt" tvg-name="Eleven Sports 5",Eleven Sports 5
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87409.ts
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports5.pt" tvg-name="Eleven Sports 5",Eleven Sports 5 HD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports5Portugal.pt" tvg-name="Eleven Sports 5",Eleven Sports 5 HD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/224102
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports5.pt" tvg-name="Eleven Sports 5",Eleven Sports 5 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports5Portugal.pt" tvg-name="Eleven Sports 5",Eleven Sports 5 FHD
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/14532
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports5.pt" tvg-name="Eleven Sports 5",Eleven Sports 5 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports5Portugal.pt" tvg-name="Eleven Sports 5",Eleven Sports 5 FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/160024
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports5.pt" tvg-name="Eleven Sports 5",Eleven Sports 5 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports5Portugal.pt" tvg-name="Eleven Sports 5",Eleven Sports 5 FHD
 http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/2534/index.m3u8
 
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports6.pt" tvg-name="Eleven Sports 6",Eleven Sports 6
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports6Portugal.pt" tvg-name="Eleven Sports 6",Eleven Sports 6
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87410.ts
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports6.pt" tvg-name="Eleven Sports 6",Eleven Sports 6
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports6Portugal.pt" tvg-name="Eleven Sports 6",Eleven Sports 6
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/160025
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports6.pt" tvg-name="Eleven Sports 6",Eleven Sports 6 HD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports6Portugal.pt" tvg-name="Eleven Sports 6",Eleven Sports 6 HD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/224104
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports6.pt" tvg-name="Eleven Sports 6",Eleven Sports 6 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports6Portugal.pt" tvg-name="Eleven Sports 6",Eleven Sports 6 FHD
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/14530
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="elevensports6.pt" tvg-name="Eleven Sports 6",Eleven Sports 6 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ElevenSports6Portugal.pt" tvg-name="Eleven Sports 6",Eleven Sports 6 FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/224103
 
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 PT",Eurosport 1
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="eursphd.tv.vodafone.pt" tvg-name="Eurosport 1 PT",Eurosport 1
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87411.ts
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 PT",Eurosport 1
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="eursphd.tv.vodafone.pt" tvg-name="Eurosport 1 PT",Eurosport 1
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159591?checkedby:iptvcat.com
 
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 PT",Eurosport 2
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="eursp2hd.tv.vodafone.pt" tvg-name="Eurosport 2 PT",Eurosport 2
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87412.ts
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 PT",Eurosport 2
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="eursp2hd.tv.vodafone.pt" tvg-name="Eurosport 2 PT",Eurosport 2
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159590?checkedby:iptvcat.com
 
 
@@ -159,18 +161,18 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159590?checkedby:iptvcat.com
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="canal11.pt" tvg-name="Canal 11",Canal 11
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="Canal11.pt" tvg-name="Canal 11",Canal 11
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/96967
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="canal11.pt" tvg-name="Canal 11",Canal 11
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="Canal11.pt" tvg-name="Canal 11",Canal 11
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87394.ts
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="canal11.pt" tvg-name="Canal 11",Canal 11
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="Canal11.pt" tvg-name="Canal 11",Canal 11
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="canal11.pt" tvg-name="Canal 11",Canal 11 FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="Canal11.pt" tvg-name="Canal 11",Canal 11 FHD
 http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/14513
 
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="abolatv.pt" tvg-name="A Bola TV",A Bola TV
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ABolaTV.pt" tvg-name="A Bola TV",A Bola TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87393.ts
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="abolatv.pt" tvg-name="A Bola TV",A Bola TV
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="ABolaTV.pt" tvg-name="A Bola TV",A Bola TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87414.ts
 
 
@@ -187,15 +189,17 @@ http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/14420
 #EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="PortoCanal.pt" tvg-name="Porto Canal",Porto Canal FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/224042
 
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sporting TV",Sporting TV
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportingTV.pt" tvg-name="Sporting TV",Sporting TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87397.ts
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sporting TV",Sporting TV
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportingTV.pt" tvg-name="Sporting TV",Sporting TV
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/224092
-#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-name="Sporting TV",Sporting TV FHD
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="SportingTV.pt" tvg-name="Sporting TV",Sporting TV FHD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/224105
 
 #EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="BenficaTV.pt" tvg-name="Benfica TV",Benfica TV
 http://destiny4k.com:2086/live/ssliptv/tpXeOgcwReop0YpycvAA/87396.ts
+#EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="BenficaTV.pt" tvg-name="Benfica TV",Benfica TV HD
+http://af0ae7a6.edmonst.net/iptv/AZ28W6G3ZV23UB/19160/index.m3u8
 #EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="BenficaTV.pt" tvg-name="Benfica TV",Benfica TV HD
 http://dominoiptv.com:2082/akramcccam/alUOEkEiwv/224091
 #EXTINF:-1 group-title="Sports (Portugal)" tvg-logo="" tvg-id="BenficaTV.pt" tvg-name="Benfica TV",Benfica TV FHD

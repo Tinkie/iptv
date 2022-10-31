@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/it.xml.gz"
+#EXTM3U
 
 # Desportivos_Dazn.m3u8
 
@@ -15,14 +15,14 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/146382
 #EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="ZonaDAZN.it" tvg-name="Zona DAZN 1 (IT)",Zona DAZN 1 (IT)
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/146383
 
-#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="ZonaDAZN.it" tvg-name="Zona DAZN 2 (IT)",Zona DAZN 2 (IT) HD
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="ZonaDAZN2.it" tvg-name="Zona DAZN 2 (IT)",Zona DAZN 2 (IT) HD
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/160154
-#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="ZonaDAZN.it" tvg-name="Zona DAZN 2 (IT)",Zona DAZN 2 (IT) FHD
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="ZonaDAZN2.it" tvg-name="Zona DAZN 2 (IT)",Zona DAZN 2 (IT) FHD
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/160155
-#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="ZonaDAZN.it" tvg-name="Zona DAZN 2 (IT)",Zona DAZN 2 (IT)
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="ZonaDAZN2.it" tvg-name="Zona DAZN 2 (IT)",Zona DAZN 2 (IT)
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/160153
 
-#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="ZonaDAZN.it" tvg-name="Zona DAZN Web (IT)",Zona DAZN Web (IT)
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="Zona DAZN Web (IT)",Zona DAZN Web (IT)
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/160150
 
 #EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (IT) La Liga",DAZN (IT) La Liga
@@ -42,11 +42,11 @@ http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/160158
 #EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (IT) Gol Serie B",DAZN (IT) Gol Serie B
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/160156
 
-#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (IT) 1",DAZN (IT) 1 (IT) HD
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="DAZN1Italy.it" tvg-name="DAZN (IT) 1",DAZN (IT) 1 (IT) HD
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/146329
-#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (IT) 1",DAZN (IT) 1 (IT) FHD
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="DAZN1Italy.it" tvg-name="DAZN (IT) 1",DAZN (IT) 1 (IT) FHD
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/146328
-#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (IT) 1",DAZN (IT) 1 (IT)
+#EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="DAZN1Italy.it" tvg-name="DAZN (IT) 1",DAZN (IT) 1 (IT)
 http://cdn-w.stream:80/x7V6ENdbmt/cpjUBLrSSE/146330
 
 #EXTINF:-1 group-title="Sports (DAZN)" tvg-logo="" tvg-id="" tvg-name="DAZN (IT) 2",DAZN (IT) 2 HD
