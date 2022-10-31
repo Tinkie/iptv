@@ -25,23 +25,6 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/272829
 #EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="CanalOff.br" tvg-name="Canal Off",Canal Off FHD
 http://s.downboot.ga:80/104827593/108425arl/83404
 
-#EXTINF:-1 group-title="Brazil",Lifetime
-http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/237
-#EXTINF:-1 group-title="Brazil",Lifetime
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272592
-#EXTINF:-1 group-title="Brazil",Lifetime HD
-http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/240
-#EXTINF:-1 group-title="Brazil",Lifetime HD
-http://lishb.com:8080/3981413734/4936998505/856693
-#EXTINF:-1 group-title="Brazil",Lifetime HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272591
-#EXTINF:-1 group-title="Brazil",Lifetime FHD
-http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/239
-#EXTINF:-1 group-title="Brazil",Lifetime FHD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272590
-#EXTINF:-1 group-title="Brazil",Lifetime FHD
-http://s.downboot.ga:80/104827593/108425arl/83395
-
 #EXTINF:-1 group-title="Brazil",Modo Viagem
 http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/241
 #EXTINF:-1 group-title="Brazil",Modo Viagem
@@ -57,6 +40,23 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/272593
 #EXTINF:-1 group-title="Brazil",Modo Viagem FHD
 http://s.downboot.ga:80/104827593/108425arl/83396
 
+#EXTINF:-1 group-title="Brazil" tvg-id="LifetimeBrazil.br" tvg-name="Lifetime", Lifetime
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/237
+#EXTINF:-1 group-title="Brazil" tvg-id="LifetimeBrazil.br" tvg-name="Lifetime", Lifetime
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272592
+#EXTINF:-1 group-title="Brazil" tvg-id="LifetimeBrazil.br" tvg-name="Lifetime", Lifetime HD
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/240
+#EXTINF:-1 group-title="Brazil" tvg-id="LifetimeBrazil.br" tvg-name="Lifetime", Lifetime HD
+http://lishb.com:8080/3981413734/4936998505/856693
+#EXTINF:-1 group-title="Brazil" tvg-id="LifetimeBrazil.br" tvg-name="Lifetime", Lifetime HD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272591
+#EXTINF:-1 group-title="Brazil" tvg-id="LifetimeBrazil.br" tvg-name="Lifetime", Lifetime FHD
+http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/239
+#EXTINF:-1 group-title="Brazil" tvg-id="LifetimeBrazil.br" tvg-name="Lifetime", Lifetime FHD
+http://tugapt.top:8080/LierT2022/psM7nbqpUq/272590
+#EXTINF:-1 group-title="Brazil" tvg-id="LifetimeBrazil.br" tvg-name="Lifetime", Lifetime FHD
+http://s.downboot.ga:80/104827593/108425arl/83395
+
 #EXTINF:-1 group-title="Brazil",Nova Era TV HD
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 
@@ -69,7 +69,7 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/272423
 #EXTINF:-1 group-title="Brazil",TV das Artes
 http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8
 
-#EXTINF:-1 group-title="Brazil",TV Paraná Turismo
+#EXTINF:-1 group-title="Brazil" tvg-id="TVParanaTurismo.br" tvg-name="TV Paraná Turismo",TV Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="RedeGlobo.br" tvg-name="Globo",Globo
@@ -197,17 +197,17 @@ http://ssvrv.xyz:80/87165110/39413705/180133
 #EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids",Discovery Kids FHD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272437
 
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Gloob",Gloob
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Gloob.br" tvg-name="Gloob",Gloob
 http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/186
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Gloob",Gloob HD
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Gloob.br" tvg-name="Gloob",Gloob HD
 http://s.downboot.ga:80/104827593/108425arl/83221
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Gloob",Gloob HD
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Gloob.br" tvg-name="Gloob",Gloob HD
 http://lishb.com:8080/3981413734/4936998505/983254
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Gloob",Gloob HD
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Gloob.br" tvg-name="Gloob",Gloob HD
 http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/188
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Gloob",Gloob FHD
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Gloob.br" tvg-name="Gloob",Gloob FHD
 http://s.downboot.ga:80/104827593/108425arl/83392
-#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="" tvg-name="Gloob",Gloob FHD
+#EXTINF:-1 group-title="Brazil" tvg-logo="" tvg-id="Gloob.br" tvg-name="Gloob",Gloob FHD
 http://op.cdloop.eu:80/6696641212mariana/349dvjkdf4r/698
 
 #EXTINF:-1 group-title="Brazil" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Nick-Clássico.jpg" tvg-id="" tvg-name="Nick Clássico",Nick Clássico
